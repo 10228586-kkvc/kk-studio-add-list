@@ -1,0 +1,786 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0.0,28,14,「おっ、目が覚めたか。おはようなのじゃ」,sound/data/pcm/c28/adm/00.unity3d,adm_00_28_010
+1.0,28,14,「ほれほれ～、ここがいいんじゃろ？　お主のおちんちんは正直に反応しとるぞ～」,sound/data/pcm/c28/adm/00.unity3d,adm_02_28_004
+2.0,28,14,「ふふ……わしに隙を見せるとは、お主もまだまだじゃな」,sound/data/pcm/c28/adm/00.unity3d,adm_02_28_007
+3.0,28,14,「おぉっ！　お主が噂の男子じゃな！　わしも話したいと思っていたのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_000
+4.0,28,14,「うむ。こちらこそ、よろしく頼むぞ！　困ったことがあれば何でも聞くがよい」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_001
+5.0,28,14,「うむうむ。……では、談笑の方をはじめるのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_002
+6.0,28,14,「ん？　かまわんが急に改まってどうしたのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_003
+7.0,28,14,「ほほう。それでわしと何を話したいのじゃ？　将棋か？　演歌か？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_004
+8.0,28,14,「お主とはなかなか話が合うのう。わしとこうまで語れる者がおるとは」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_005
+9.0,28,14,「また時間があったらこれからもわしのところへ来るがよい」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_006
+10.0,28,14,「お主との談笑も悪くない。わしがそう言っているのだから来るのじゃぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_007
+11.0,28,14,「うむ、待っておるぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_008
+12.0,28,14,「……おぉ、もうこんな時間か。それではさらばじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_009
+13.0,28,14,「うむ、よいぞ。男子と下校するのは滅多にないことじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_010
+14.0,28,14,「そうじゃな。少し……ほんの少しだけどきどきするのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_011
+15.0,28,14,「おお、よいな。ちょうど授業の復習をしようと思ってたのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_012
+16.0,28,14,「そうじゃな。さて、どこで勉強するかのう……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_013
+17.0,28,14,「うむ、かまわないのじゃ。それで二人で何をするのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_014
+18.0,28,14,「わしはなるべく無理せず運動したいのじゃが、何がいいかのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_015
+19.0,28,14,「ん？　わしはよいが、どこに行くのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_016
+20.0,28,14,「お主にわしを楽しませることができるか見ものじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_017
+21.0,28,14,「なっ！？　きゅ、急に何を言い出すのじゃ！　驚くではないか！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_018
+22.0,28,14,「わ、わしのことをそんな……ほ、本当に本当か？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_019
+23.0,28,14,「……わしも、お主のことが好きなのじゃ。わしでいいなら、付き合ってやってもよいぞ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_020
+24.0,28,14,「……わしとか？　じゃがわし達はそういう関係では……？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_021
+25.0,28,14,「うむむ。……わしも嫌だというわけではないが……その、何じゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_022
+26.0,28,14,「……お主がそこまで言うなら……よいぞ。その代わり……痛くしたら許さないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_023
+27.0,28,14,「デ、デートじゃとっ！？　わしとお主の二人きりでかっ！？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_024
+28.0,28,14,「……まあ、お主が行きたいというのなら、行ってやらんでもないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_025
+29.0,28,14,「お主がやっている珍妙な部活じゃな。わしも、ちと興味があってな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_026
+30.0,28,14,「ほう……して、どのような部活なのじゃ？　お主と話せばよいだけなのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_027
+31.0,28,14,「スキンシップじゃと？　それは……お主と、ということか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_028
+32.0,28,14,「……まぁ、わしもやぶさかではないが。お主がそう言うのであれば……喜んで入るのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_029
+33.0,28,14,「のう、お主とわしは恋人じゃよな？　付き合うとはこういうものなのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_030
+34.0,28,14,「……もう前からなのじゃ。お主が好きなのかわからぬ。話していても楽しくないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_031
+35.0,28,14,「わしのことはもう放っておいてくれんか？　お主とも話とうない。さらばなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_032
+36.0,28,14,「……わしもお主としたいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_033
+37.0,28,14,「……あのな、何じゃ。……わしは、……は、初めてなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_034
+38.0,28,14,「じゃから、……優しくしてくれないと、嫌なのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_035
+39.0,28,14,「う、うむ……よいぞ。そういう関係なのじゃからな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_036
+40.0,28,14,「……わしも、楽しみなのじゃ。それで、わしをどこに連れていってくれるのかのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_037
+41.0,28,14,「やっと起きたのじゃ。……よく寝ておったな。……それで、わしとの、その……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_038
+42.0,28,14,「何でもないのじゃ！　ええい、もう一度寝てしまえ！　わしは支度するのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_039
+43.0,28,14,「……おはようなのじゃ。シャワー借りたのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_040
+44.0,28,14,「お主も浴びて……何じゃ？　そんなに見るでない。恥ずかしいではないかっ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_041
+45.0,28,14,「ようやくお目覚めか。フェラの練習もここまでじゃな……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_042
+46.0,28,14,『おはようなのじゃ。今日は朝から用事があってな』,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_043
+47.0,28,14,『よく寝ておったので起こさず先に行くことにしたのじゃ』,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_044
+48.0,28,14,『朝ご飯を抜かずにちゃんと登校するのじゃぞ。[H]』,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_045
+49.0,28,14,「おお、お主か。おはようなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_046
+50.0,28,14,「おはようなのじゃ！　今日も元気そうじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_047
+51.0,28,14,「あ、おはようなのじゃ。お主の顔が見れて機嫌がいいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_048
+52.0,28,14,「おはようなのじゃ。ちょっと寝癖がついておるぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_049
+53.0,28,14,「教室に行ったらわしが直してやろう。感謝するのじゃぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_050
+54.0,28,14,「これを受け取るのじゃ。家庭科で作ったのが余ってしまったのでな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_051
+55.0,28,14,「わしからのプレゼントじゃからうれしかろう？　遠慮はいらないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_052
+56.0,28,14,「あ、……ちょっと待つのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_053
+57.0,28,14,「今日の家庭科の授業でな、これを作ったのじゃ。お主に食べてほしくてな……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_054
+58.0,28,14,「そ、それだけじゃ。……ではさらばじゃっ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_055
+59.0,28,14,「ここにおったのか。家庭科の授業でお主のためにこれを作ったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_056
+60.0,28,14,「わしに感謝して食べるのじゃぞ。気に入ったらまた作ってやろう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_057
+61.0,28,14,「お主からわしに、か？　中は何なのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_058
+62.0,28,14,「プレゼントじゃと？　どれ、お主がわしの好みを理解しておるか確認してやろう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_059
+63.0,28,14,「本当にか？　お主がわしのために……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_060
+64.0,28,14,「お主にしてはなかなかいい物を選ぶではないか」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_061
+65.0,28,14,「これはっ。お主、わしの趣味が理解できておるな。ありがとうなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_062
+66.0,28,14,「うむうむ、さすがわしの彼氏なのじゃ。好みまで熟知しておるとは……恐れ入った！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_063
+67.0,28,14,「……なるほど。とりあえず受け取っておくのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_064
+68.0,28,14,「お主ならわしの好みをわかってくれると思っておったが。違うようじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_065
+69.0,28,14,「ちょっと期待外れなのじゃ。次はちゃんと選ぶのじゃぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_066
+70.0,28,14,「ありがとうなのじゃ。お主の気持ちに感謝するぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_067
+71.0,28,14,「な、何をやっておるのじゃ！？　ここはお主がいていい場所ではないのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_081
+72.0,28,14,「このたわけ者っ！　見るでないっ！　出ていくのじゃっ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_082
+73.0,28,14,「のじゃ！？　お、お主だったか。そんなにわしが見たいのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_083
+74.0,28,14,「今はこういう物が流行っておるのか。この店に入ってもよいか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_084
+75.0,28,14,「おごってくれてありがとうなのじゃ。感謝しておるぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_085
+76.0,28,14,「……は、初めてがお主とで……よかったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_086
+77.0,28,14,「……気持ちよかったか？　……まだ不慣れでどうすればよいかわからないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_087
+78.0,28,14,「そうか。ならばよいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_088
+79.0,28,14,「段々と気持ちよくなるものなんじゃな。お主とだから、かもしれんな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_089
+80.0,28,14,「すごくよかったのじゃ。お主もそうであろう？　ならば、またしたいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_090
+81.0,28,14,「……は、激しすぎるのじゃ。こんなにイかされたらおかしくなりそうじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_091
+82.0,28,14,「お主とこうしていられるだけで、わしの心はすごく満たされるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_092
+83.0,28,14,「お主の手も足も体も、全てがわしにとって必要で、安らぎを与えてくれるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_093
+84.0,28,14,「……えっ？　お、終わってしまったのか？　わしはもう少ししてほしいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_094
+85.0,28,14,「も、もう終わりなのか？　わしはまだまだし足りないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_095
+86.0,28,14,「ん？　……もうよいのか？　お主がよいならかまわんが、もしや本調子ではないのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_096
+87.0,28,14,「だ、誰にも見られてないじゃろうな。……もうわしは気が気ではなかったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_097
+88.0,28,14,「まさかここでと思ったのじゃが……これはこれで恥ずかしいが……興奮するんじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_098
+89.0,28,14,「何じゃと？　まさか……本気でそんなことを言っておるのか？　わしが何かしたのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_099
+90.0,28,14,「なぜじゃ？　なぜ、わし達が別れなければならんのだ？　わしはお主のことが……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_100
+91.0,28,14,「……わしのことが嫌いになった……んじゃな。……じゃが、わしはまだ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_101
+92.0,28,14,「……は、初めてのデート……なのじゃ。……なんだか緊張するのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_102
+93.0,28,14,「それは、お主の腕次第じゃ。さ、今日はわしをどこに連れていってくれるのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_103
+94.0,28,14,「なるほど。これがデートというものなんじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_104
+95.0,28,14,「もちろんじゃ。こんなにも楽しいのは久しぶりなのじゃっ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_105
+96.0,28,14,「今日は誘ってくれてありがとうなのじゃ。それではまたな。さらばじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_106
+97.0,28,14,「それで、今日はどこへ行くのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_107
+98.0,28,14,「ふふっ、緑茶も悪くないが、こうしてお主と飲む紅茶やコーヒーも悪くないのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_108
+99.0,28,14,「今日はすごく楽しかったのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_109
+100.0,28,14,「次はどこに行くか考えておくのじゃぞ。そのときは、かの……いや、何でもないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_110
+101.0,28,14,「今日はありがとうなのじゃ。また付き合ってあげてもいいのじゃ。では、またな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_111
+102.0,28,14,「待っておったぞ。今日はどこへ連れていってくれるのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_112
+103.0,28,14,「お主とこうしていられる時間が、わしにはすごく大切な時間なのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_113
+104.0,28,14,「……す、好きなのじゃ。お主のこと。これからも一緒にいてほしい、のじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_114
+105.0,28,14,「……そうか。そうじゃな！　わし達はらぶらぶなのじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_115
+106.0,28,14,「今日もありがとうなのじゃ。お主といられて楽しかったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_116
+107.0,28,14,「わしも、……そう思っておったところじゃ。奇遇じゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_117
+108.0,28,14,「今度はもっともっと楽しくなるのじゃ。それでは、さらばじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_118
+109.0,28,14,「……そろそろ、時間じゃな。名残惜しいが……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_119
+110.0,28,14,「……家に……よいのか？　ふふっ、ではお言葉に甘えるとするかのう」」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_120
+111.0,28,14,「うむ、そうじゃな……また一緒に出掛けようぞ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_121
+112.0,28,14,「……おじゃましますなのじゃ。……なかなか片付いておるな……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_122
+113.0,28,14,「……この状況は……緊張してしまうのじゃ。こんな気持ちなのは、わしだけか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_123
+114.0,28,14,「……そ、そうじゃな、付き合っておるのじゃし。……家でするのは、初めて……じゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_124
+115.0,28,14,「遠慮なくおじゃまするぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_125
+116.0,28,14,「お主は気が早いな。もう少しムードをじゃな、……そんなにわしとしたいなら……よいぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_126
+117.0,28,14,「お主はほかの女子とも、２人きりで帰ったりするのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_127
+118.0,28,14,「ほう、わしだけではないのじゃな。まあ、そういう部活じゃからな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_128
+119.0,28,14,「甘いものか。よいのう。そこに寄っていくのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_129
+120.0,28,14,「そんなことを言ったら毎日食べたくなるのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_130
+121.0,28,14,「不思議じゃな……好きな人が隣にいる……ただそれだけで、こんなにも幸せなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_131
+122.0,28,14,「……もう少し引っ付くぞ。少しでもお主のぬくもりを感じたいからな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_132
+123.0,28,14,「そうじゃな。ではさらばなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_133
+124.0,28,14,「……ん？　あ、それはここの問題の応用じゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_134
+125.0,28,14,「いや、お主と勉強するとはかどるのう、と思ってな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_135
+126.0,28,14,「のう、ここなんじゃが……お主はわかったか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_136
+127.0,28,14,「なるほどなのじゃ～。お主がおれば教科書などいらぬな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_137
+128.0,28,14,「……教室だと勉強ははかどるのじゃが……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_138
+129.0,28,14,「……一緒にいるのじゃから少しくらい、イチャイチャしたいのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_139
+130.0,28,14,「今日もがんばったのう！　それもお主のおかげじゃ。感謝しておるぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_140
+131.0,28,14,「これで学園の勉強は問題なさそうじゃな……次は、恋人の勉強をしたいのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_141
+132.0,28,14,「準備運動はっ、大事じゃと聞くがっ、いつまでっ、続けるのじゃっ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_142
+133.0,28,14,「さてはお主、わしの手が握りたいだけなのではないじゃろうな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_143
+134.0,28,14,「怪しいのう。まあ、今日のところはお主に従おう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_144
+135.0,28,14,「……ま、まだ走り込むつもりでおるのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_145
+136.0,28,14,「……わしはその前に休憩したいのじゃ～」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_146
+137.0,28,14,「……あ、そうじゃな。……汗も拭かねばな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_147
+138.0,28,14,「でも汗をかいておるお主は、かっこよいぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_148
+139.0,28,14,「いっぱい運動したのう。２人じゃとお互いにいい緊張感があるのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_149
+140.0,28,14,「お疲れ様、じゃな。この後はどうするのじゃ？　……もう少し、汗を……な、なんでもないのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_150
+141.0,28,14,「男子はよく食べるんじゃな。見てて清々しいくらいじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_151
+142.0,28,14,「食べるのもよいが、居眠りには気をつけるのじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_152
+143.0,28,14,「お主は苦手なものはあるのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_153
+144.0,28,14,「だったらわしが苦手なもの食べてくれぬか？　あとでこっそり」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_154
+145.0,28,14,「こうやって恋人同士で食べるの、……実は、憧れておったんじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_155
+146.0,28,14,「これからは、何度でもできるのじゃぞ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_156
+147.0,28,14,「うん。わしはお主と……ずっとこうしていたいのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_157
+148.0,28,14,「ごちそうさまなのじゃ～。２人だとご飯も倍においしいのう」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_158
+149.0,28,14,「ごちそうさま、なのじゃっ。恋人と食べるご飯はいつもよりうまいな！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_159
+150.0,28,14,「この珍妙な部活は基本的にどんなことをするのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_160
+151.0,28,14,「恋人たち、のう……それならば、お主がわしと、手をつなぐ……とかかのう？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_161
+152.0,28,14,「うむ……。しかし、なんじゃ……こう改まってすると、必要以上に照れるのう……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_162
+153.0,28,14,「屋上に来ると青春じゃと思うのは、わしだけなのかのう？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_163
+154.0,28,14,「……な、何を突然。……でも、話してるだけでもいいムードじゃな……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_164
+155.0,28,14,「……のう、急に黙ったままは緊張するのじゃ。ほかに誰もいないし……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_165
+156.0,28,14,「……恋をすると女子は綺麗になると聞いたんじゃが……わしは、どうじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_166
+157.0,28,14,「本当か！？　……それも全部、おぬしのおかげじゃな……感謝の印に……キス、したいのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_167
+158.0,28,14,「……んっ……んんっ……はぁ……もっと、してもよいか……？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_168
+159.0,28,14,「……してもしても足りないくらいなのじゃ。お主のことが好きすぎて……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_169
+160.0,28,14,「お疲れさまなのじゃ……ドキドキするのも、なかなかよいものじゃな……」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_170
+161.0,28,14,「今日もお疲れさまなのじゃ～ところで……部活じゃない恋人の続きは、いつ……するのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_171
+162.0,28,14,「唐突じゃな……何かあったのか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_172
+163.0,28,14,「なるほど、そういうわけか。確かにわしらにはなかったのう。うむ、物は試しじゃ、やってみるか」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_173
+164.0,28,14,「……なんかわしの知ってるのと違う気がするが……まぁいいじゃろ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_174
+165.0,28,14,「ちゃんとわしの愛称も考えておるんじゃろな？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_175
+166.0,28,14,「用意周到じゃのう……。ごほん……では、参るぞ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_176
+167.0,28,14,「お、思ったより恥ずかしいのぅ……これ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_177
+168.0,28,14,「そ、そういう意地悪な理由ならやらんぞ！　そんな顔をしてもダメじゃ！　ダメ、じゃぞ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_178
+169.0,28,14,「のう、お主。わしらってどうして愛称で呼び合わんのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_179
+170.0,28,14,「タイミングか。なら、なければ作るまでよ！　そういうわけで、お主のことを愛称で呼んでみようと思う。拒否権はない！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_180
+171.0,28,14,「なら問題ない、自信作じゃからの！　では、呼びかけるぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_181
+172.0,28,14,「そうじゃろそうじゃろ……って、お主、それはわしの愛称か？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_182
+173.0,28,14,「……良いのじゃ！　ふふっ、感謝するぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_183
+174.0,28,14,「うむ。意外とよいものだな。また呼んでみてもよいか？」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_184
+175.0,28,14,「[Pあだ名]、おはようなのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_185
+176.0,28,14,「普通の挨拶より、妙に照れくさいのぅ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_186
+177.0,28,14,「エッチしてくれて、ありがとうなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_ev_28_187
+178.0,28,14,「人に見られたら少し恥ずかしいのじゃが……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_000
+179.0,28,14,「……わかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_001
+180.0,28,14,「花壇も綺麗じゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_002
+181.0,28,14,「おぉ、あそこにあるのはなんじゃっ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_003
+182.0,28,14,「おわっ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_004
+183.0,28,14,「うぅ……すまんのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_005
+184.0,28,14,「そうじゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_006
+185.0,28,14,「ふう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_007
+186.0,28,14,「こうして目をつぶって自然の音を聞くと落ち着くのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_008
+187.0,28,14,「それに……お主が隣にいてくれると、わしはもっと落ち着くのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_009
+188.0,28,14,「……っもちろん、ドキドキもするが……お主がそばにいてくれると思うと、わしは安心するのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_010
+189.0,28,14,「今日は本当にいい天気じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_011
+190.0,28,14,「何か飲み物でも買うかのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_012
+191.0,28,14,「飲み物だけじゃなくて何か食べたい気もするのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_013
+192.0,28,14,「アイスクリーム！？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_014
+193.0,28,14,「大好きじゃ！　わしは甘いものには目がないのじゃ。どれにしようかのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_015
+194.0,28,14,「わしは抹茶にするのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_016
+195.0,28,14,「良い提案じゃ！　……はむっ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_017
+196.0,28,14,「うむ！　いつも抹茶などの和風のアイスを選んでしまうが、バニラも美味しいのう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_018
+197.0,28,14,「すまんのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_019
+198.0,28,14,「アイスクリーム……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_020
+199.0,28,14,「嫌いというか……わしはお煎餅とお茶が気になっておる」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_021
+200.0,28,14,「美味しいのじゃ！　やはりお煎餅とお茶は抜群の相性じゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_022
+201.0,28,14,「むぅ……なぜ笑うのじゃ！　日本人は縁側でお煎餅とお茶と決まっておろう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_023
+202.0,28,14,「夕日が綺麗じゃのう。時間が経つのはあっというまじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_024
+203.0,28,14,「時間なら問題ない。わしもまだお主といたいと思っておったのじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_025
+204.0,28,14,「見せたいもの？　なんじゃ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_026
+205.0,28,14,「そうじゃな……なんだか名残惜しい気もするがのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_027
+206.0,28,14,「……絶対に約束じゃぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_028
+207.0,28,14,「わぁ、綺麗じゃのう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_029
+208.0,28,14,「すごいのう……こんなに綺麗な夜景が見れるところがあるなんて、知らなかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_030
+209.0,28,14,「そんな風に思ってくれておったのか……ありがとうなのじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_031
+210.0,28,14,「お主はロマンチストじゃな……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_032
+211.0,28,14,「わしはお主のそんなところも好きなのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_033
+212.0,28,14,「他には……優しいところも、面白いところも…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_034
+213.0,28,14,「…………もうとにかく全部が好きなのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_035
+214.0,28,14,「ん？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_036
+215.0,28,14,「なっ、何を言っておるのじゃ！？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_037
+216.0,28,14,「あぁっ、キスか……いやでも、ここは外じゃぞ……？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_038
+217.0,28,14,「そんな風に言われたら……断れないのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_039
+218.0,28,14,「お主はずるいやつじゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_040
+219.0,28,14,「……あっ…………んんっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_041
+220.0,28,14,「こんな外でキスして……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_042
+221.0,28,14,「嬉しくてドキドキしているわしは、恥ずかしい女ではないか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_043
+222.0,28,14,「そっ、そうか……お主はいつもそう言ってくれるがのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_044
+223.0,28,14,「ありがとうなのじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_045
+224.0,28,14,「我慢？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_046
+225.0,28,14,「お主っ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_047
+226.0,28,14,「しかし……こんなところでするのか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_048
+227.0,28,14,「……うぅ……分かったのじゃ。お主が望むなら……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_049
+228.0,28,14,「確認じゃが……お主が言っておるのは…………エッチのことなのか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_050
+229.0,28,14,「むむぅ……何度も言うが、ここは外じゃぞ……？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_051
+230.0,28,14,「無理……というか……わしも興味がないわけでないのじゃが……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_052
+231.0,28,14,「ふぅ……こんなところでエッチしてもいいと思えるのは、お主だからじゃぞ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_053
+232.0,28,14,「やっぱりここの夜景は綺麗じゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_054
+233.0,28,14,「そうじゃな。以前ここで……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_055
+234.0,28,14,「いっ、いや……なんでもないのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_056
+235.0,28,14,「……っまさか！　そんなわけなかろう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_057
+236.0,28,14,「……っだから違うと言っておるじゃろ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_058
+237.0,28,14,「うぅ……お主は意地悪じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_059
+238.0,28,14,「だからそうだと言っておろう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_060
+239.0,28,14,「のぉっ！？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_061
+240.0,28,14,「なっ……、お主は変態じゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_062
+241.0,28,14,「それは…………シタくない……というわけじゃないが……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_063
+242.0,28,14,「んんっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_064
+243.0,28,14,「わかったのじゃ……仕方ないから、シテもよいぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_065
+244.0,28,14,「まったくじゃぞ……ん、なんじゃ、手なんぞ差し出して？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_066
+245.0,28,14,「……ありがとなのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_067
+246.0,28,14,「まっ、待つのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_068
+247.0,28,14,「そんなすぐには……脚に力が入らぬ。ゆっくり歩いて欲しいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_069
+248.0,28,14,「……ありがとうなのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_070
+249.0,28,14,「おぉ、色々な乗り物があるのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_071
+250.0,28,14,「お化け屋敷？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_072
+251.0,28,14,「そっ……そうじゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_073
+252.0,28,14,「……中から叫び声が聞こえてくるが、そんなに怖いのかのう？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_074
+253.0,28,14,「そうか……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_075
+254.0,28,14,「こ、怖くなんてないのじゃ！　わしを甘く見るでない！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_076
+255.0,28,14,「これはっ……武者震いじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_077
+256.0,28,14,「ほ、本当か！　それは心強いのじゃ♪」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_078
+257.0,28,14,「わ、わしは子供じゃないから、お化けなんて怖くなんてないのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_079
+258.0,28,14,「定番じゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_080
+259.0,28,14,「わしがか？　そんなわけなかろう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_081
+260.0,28,14,「なぜ疑うのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_082
+261.0,28,14,「そのイメージをすぐに払拭してやる！　ほら、列に並ぶぞ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_083
+262.0,28,14,「……この瞬間はドキドキするのぅ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_084
+263.0,28,14,「うむ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_085
+264.0,28,14,「ぎゃぁぁーーーーー！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_086
+265.0,28,14,「ほら、全然怖がっておらんかったじゃろ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_087
+266.0,28,14,「わしに怖いものなぞ、あるわけがなかろう？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_088
+267.0,28,14,「なんじゃとっ！？　は、早くとっておくれ～！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_089
+268.0,28,14,「あー、楽しかったのじゃ！　遊園地を堪能したのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_090
+269.0,28,14,「おお、それはよい提案じゃな！　最後の締めに乗っていくとするか！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_091
+270.0,28,14,「そうじゃな。遊園地は本当に楽しいのう！　また来たいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_092
+271.0,28,14,「最後に今日の思い出として、お互いに何かお土産を買うなんてどうじゃ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_093
+272.0,28,14,「わぁ……すごく綺麗じゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_094
+273.0,28,14,「お主は遊園地が好きか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_095
+274.0,28,14,「わしもじゃ。小さい頃にも何度か来たことがあってのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_096
+275.0,28,14,「観覧車に乗せてもらった時は感動したのを覚えておる」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_097
+276.0,28,14,「うむ、ありがとうなのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_098
+277.0,28,14,「……小さい頃は、お昼にしか乗ったことがなかったからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_099
+278.0,28,14,「観覧車で見る夜景がこんなに綺麗だとは思わなかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_100
+279.0,28,14,「うむっ。おっ！　あっちの方が特に明るいのう！　きっと繁華街の方じゃな！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_101
+280.0,28,14,「……そうすると、あの辺が学園かのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_102
+281.0,28,14,「はっきりとはわからんが、きっとあの辺じゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_103
+282.0,28,14,「なっ、何を笑っておるのじゃ！？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_104
+283.0,28,14,「うっ……面と向かって、そのようなこと……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_105
+284.0,28,14,「と、というか……見つめすぎじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_106
+285.0,28,14,「……駄目では……ない……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_107
+286.0,28,14,「……今、お主が考えてること……わかっておるぞ……その、わしは構わない」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_108
+287.0,28,14,「んんっ……………あっ……ん…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_109
+288.0,28,14,「あぅ……言わなくていいのじゃ……恥ずかしいじゃろ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_110
+289.0,28,14,「そんなこと言われても、恥ずかしいものは恥ずかしいのじゃ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_111
+290.0,28,14,「んっ……ふっ………………んん……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_112
+291.0,28,14,「わしも……お主が大好きじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_113
+292.0,28,14,「あぁっ、本当じゃ！　頂上の景色をほとんど見れなかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_114
+293.0,28,14,「頂上の景色も見たかったのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_115
+294.0,28,14,「なっ……それでは意味がないではないか！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_116
+295.0,28,14,「だったら……下に着くまでに満足するまでキスをしておくのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_117
+296.0,28,14,「おぉ！　ここの景色はやっぱり綺麗じゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_118
+297.0,28,14,「この観覧車で見る夜景がわしは大好きじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_119
+298.0,28,14,「まるで二人だけで夜景を独占してる気分になるからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_120
+299.0,28,14,「それに……わしはこの時間が好きじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_121
+300.0,28,14,「こうしてお主の隣りに座って夜景を見ていると、幸せな気分になるのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_122
+301.0,28,14,「手？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_123
+302.0,28,14,「わっ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_124
+303.0,28,14,「うっうぬ…………そうじゃな…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_125
+304.0,28,14,「そうかもしれん…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_126
+305.0,28,14,「……本当はわしもこうしてくっつきたいと思っておったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_127
+306.0,28,14,「人前じゃ難しいが、ここなら二人きりだからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_128
+307.0,28,14,「……こんなに近いと、お主の心臓のドキドキまで聞こえてくるぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_129
+308.0,28,14,「爆発！？　それは大袈裟じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_130
+309.0,28,14,「うぅ……お主が急にくっつくから…………お主のせいじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_131
+310.0,28,14,「お主は時々意地悪じゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_132
+311.0,28,14,「わしは……ますますドキドキしてきてしまったのじゃ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_133
+312.0,28,14,「ん？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_134
+313.0,28,14,「んんっ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_135
+314.0,28,14,「うむ……わしは本当に幸せなのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_136
+315.0,28,14,「うむ……そうじゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_137
+316.0,28,14,「遊園地にいると、魔法にかけられたみたいな気分になるんじゃな」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_138
+317.0,28,14,「魔法が解けそうになったら、その前にふたりでまたここに来るのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_139
+318.0,28,14,「ふぅ……遊んだ分だけ、疲れたのじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_140
+319.0,28,14,「あの遊具の数々を見ていると、童心に返ってしまうからのう。はしゃぐのは仕方ないことじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_141
+320.0,28,14,「う、うむ……こうも距離が近いと、落ち着かんの……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_142
+321.0,28,14,「ちょ、お主……どうして大きくしておるのじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_143
+322.0,28,14,「のじゃっ……！？　お主、本気で言っておるのか……？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_144
+323.0,28,14,「うぅ……仕方のないやつじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_145
+324.0,28,14,「お主のが……当たっておるぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_146
+325.0,28,14,「仕方ないのう……わしが落ち着かせてあげるのじゃ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_147
+326.0,28,14,「……射精すればよかろう。わしに任せるのじゃ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_148
+327.0,28,14,「お主は本当に変態じゃ……誰かに見られていたらどうする」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_149
+328.0,28,14,「うぅ……そんなこと…………なくもないのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_150
+329.0,28,14,「あんな状態のお主を放っておけなかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_151
+330.0,28,14,「気持ち……よかったかのう？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_152
+331.0,28,14,「お主はカラオケにはよく来るのか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_153
+332.0,28,14,「そうなのか……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_154
+333.0,28,14,「こういう時、どんな歌を歌えばお主が喜ぶのかわからんのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_155
+334.0,28,14,「わしはあまり最近の歌がわからんのじゃ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_156
+335.0,28,14,「なんという曲じゃ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_157
+336.0,28,14,「おぉ！　わしもその曲なら知っておる！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_158
+337.0,28,14,「うむ……お主がそう言うなら、緊張するけど歌ってみるのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_159
+338.0,28,14,「……どうじゃった？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_160
+339.0,28,14,「そうかのう……そう言ってもらえると嬉しいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_161
+340.0,28,14,「よーし、今日は何を歌うかのう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_162
+341.0,28,14,「得意な歌……そうじゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_163
+342.0,28,14,「あっ……でものう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_164
+343.0,28,14,「その……得意な歌があるにはあるのじゃが、お主は知らぬ曲かもしれん」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_165
+344.0,28,14,「どうしてわかったのじゃ！？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_166
+345.0,28,14,「そっ、そうなのか！　なんだか恥ずかしいけど嬉しいのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_167
+346.0,28,14,「分かったのじゃ。だったらこの曲を歌うのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_168
+347.0,28,14,「この演歌は日本で最高のラブソングだと思っておるのじゃ！　お主に捧げるぞ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_169
+348.0,28,14,「たくさん歌ったのう！　そろそろ時間みたいじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_170
+349.0,28,14,「そうじゃのう。わしもまだ少し歌い足りないと思ってたのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_171
+350.0,28,14,「うむ。カラオケというのはすっきりするもんじゃな！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_172
+351.0,28,14,「そうか？　じゃあ……これを歌うのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_173
+352.0,28,14,「お主の今の歌、すっごくよかったぞ！　カッコよかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_174
+353.0,28,14,「もう一度歌って欲しいのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_175
+354.0,28,14,「……っあ！　コップが！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_176
+355.0,28,14,「あぁっ……すまないのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_177
+356.0,28,14,「わしは平気じゃ。それより急いでお主を拭かねば！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_178
+357.0,28,14,「そうは言うが風邪を引いたら大変じゃ！　拭くから動くでないぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_179
+358.0,28,14,「広い範囲にかかってしまっておる……すまぬ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_180
+359.0,28,14,「ん……お主、あそこがっ……！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_181
+360.0,28,14,「勃って、おるぞ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_182
+361.0,28,14,「わっ、わしはただ、お主のためを思って……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_183
+362.0,28,14,「うぅ……責任を取ってと言われてもじゃな……人が入ってきたら大変じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_184
+363.0,28,14,「えっ、こんなとこで……もし人が入ってきたらどうするのじゃ！？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_185
+364.0,28,14,「しかし……誰も来ないとは限らんじゃろう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_186
+365.0,28,14,「そんな顔で言われたら嫌とは言えぬ……お主は卑怯じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_187
+366.0,28,14,「すっかり歌い尽くしたのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_188
+367.0,28,14,「そうじゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_189
+368.0,28,14,「歌ってばかりであまりお主の側にいれなかったからのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_190
+369.0,28,14,「……ちょっとくっついておってもよいか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_191
+370.0,28,14,「へ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_192
+371.0,28,14,「……わしは、そんなつもりじゃ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_193
+372.0,28,14,「うぅ…………少しだけ……シテもいいかなと思っておった」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_194
+373.0,28,14,「カラオケも楽しいが、こうしてお主とくっついてる時間も楽しいのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_195
+374.0,28,14,「そうじゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_196
+375.0,28,14,「うぅっん……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_197
+376.0,28,14,「歌った後にしたからか、少し疲れてしまったかのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_198
+377.0,28,14,「そうじゃな」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_199
+378.0,28,14,「メニューが多くて悩んでしまったのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_200
+379.0,28,14,「あまりこういうところに来ないから目移りしてしまったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_201
+380.0,28,14,「そんなことはない。たまにはこのような洋風な喫茶店に来るのも楽しいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_202
+381.0,28,14,「それに……お主と一緒にいれることが何より嬉しいしのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_203
+382.0,28,14,「いつもお主には感謝しておる」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_204
+383.0,28,14,「お主といると、今まで経験できなかったこともたくさん経験できるから楽しいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_205
+384.0,28,14,「本当か？　それは何よりなのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_206
+385.0,28,14,「そっ、そうじゃな……こんなに人のいるところで少し恥ずかしいのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_207
+386.0,28,14,「そうじゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_208
+387.0,28,14,「お主は、食べることが好きか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_209
+388.0,28,14,「うむ、その気持ちはわかるのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_210
+389.0,28,14,「ちなみに……手料理はどうかのう？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_211
+390.0,28,14,「……料理を作ってもらうのは、好きなのかと思ってのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_212
+391.0,28,14,「そうか……では、今度お主にお弁当を作ってきてもよいか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_213
+392.0,28,14,「お主が食べてくれるなら、作ってくるのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_214
+393.0,28,14,「わかったのじゃ。そんなに嬉しそうにしてくれると作り甲斐があるのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_215
+394.0,28,14,「得意というか、料理が好きなのじゃ。ただ、得意料理は和食だから和食になるがよいか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_216
+395.0,28,14,「やっぱり男は手料理が大好きなのじゃな……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_217
+396.0,28,14,「何度か挑戦したことはあるんじゃが……いつもうまくいかなくてのう。どうしても好きになれんのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_218
+397.0,28,14,「じゃが、お主のためならもう一度挑戦してみるのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_219
+398.0,28,14,「わかったのじゃ……あまり期待するでないぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_220
+399.0,28,14,「わぁ、すっごく美味しそうじゃのう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_221
+400.0,28,14,「いただきますなのじゃ！……はむっ……ぅんっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_222
+401.0,28,14,「すっごく美味しいのじゃ！　止まらんのう……はむっ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_223
+402.0,28,14,「……んぅ～！　ここのパンケーキは本当に絶品じゃのう！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_224
+403.0,28,14,「お主も一口味見するか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_225
+404.0,28,14,「何を照れておる。遠慮するでない」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_226
+405.0,28,14,「なっ、お主はぁ…………わかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_227
+406.0,28,14,「ほれ……あーん」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_228
+407.0,28,14,「……お主のもわしに一口食べさせてくれんかのう？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_229
+408.0,28,14,「うぅ……人にはやらせたのに…………お主はずるいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_230
+409.0,28,14,「この抹茶のプリンは甘さも控えめで本当に美味しいのう。抹茶が濃厚だから、香りもいいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_231
+410.0,28,14,「お主にも是非食べて欲しいのじゃ！　……ほれ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_232
+411.0,28,14,「あーんするのじゃ……あーん」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_233
+412.0,28,14,「美味しかろう？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_234
+413.0,28,14,「何を照れておる？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_235
+414.0,28,14,「たっ、確かにそうじゃな！　自然にやってしまったが……人様の前でちと恥ずかしかったかのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_236
+415.0,28,14,「はぅ……お主が照れるから、わしにもうつってしまったではないか」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_237
+416.0,28,14,「ハンバーグを食べるのは久々じゃ！　美味しそうじゃのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_238
+417.0,28,14,「わしは普段は和食が多いからのう。洋食を食べる機会が少ないのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_239
+418.0,28,14,「いただきますなのじゃ！…………はふっ……ぅんっ……んくっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_240
+419.0,28,14,「うむ、そうじゃな……美味しいが、火傷したら大変だからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_241
+420.0,28,14,「ふーふー……あむっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_242
+421.0,28,14,「ん？　お主も同じものを食べておろう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_243
+422.0,28,14,「なっ、何を言っておる……まったくお主は仕方のないやつじゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_244
+423.0,28,14,「ふーふー……あーん」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_245
+424.0,28,14,「……どうじゃ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_246
+425.0,28,14,「そっ、そうか？　……お主が喜んでくれるなら、ほれっ、どんどん食べるのじゃ♪」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_247
+426.0,28,14,「そうじゃのう。たくさん食べたのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_248
+427.0,28,14,「うむ、そうしようかのう。もうこんな時間になっておったとは、気付かなかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_249
+428.0,28,14,「こうしてご飯を食べて話をしただけなのに、好きな人と一緒だと楽しいものじゃな」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_250
+429.0,28,14,「そうじゃな……今日は楽しかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_251
+430.0,28,14,「良かったのじゃ！　わし、ばかり楽しんでしまってるのではないかと少し気になっておったからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_252
+431.0,28,14,「わしか！？　わしは……そうじゃな……お主ともう少し一緒にいることが出来たら、嬉しいと思っておる……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_253
+432.0,28,14,「お主がどうしてもと言うなら……行ってもよいぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_254
+433.0,28,14,「……そんな顔して！　お主……今何を考えておるのじゃ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_255
+434.0,28,14,「お主は仕方のないやつじゃのう……でも、わしも同じ気持ちかもしれん」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_256
+435.0,28,14,「ラブホ……！　……お、お主が行きたいのなら……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_257
+436.0,28,14,「と、突然なんじゃ……。わしも……お主のこと大好きじゃが……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_258
+437.0,28,14,「……お主に大切にされていることが、わしは今とても嬉しいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_259
+438.0,28,14,「……チュッ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_260
+439.0,28,14,「……さらばじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_261
+440.0,28,14,「こんなの当り前じゃ。いつでも早め早めの行動を心がけておるからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_262
+441.0,28,14,「どうしたのじゃ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_263
+442.0,28,14,「なっ……何を言っておる！　そんなことより、早く行くのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_264
+443.0,28,14,「何を言っておる。お主も待ち合わせ時間に間に合っておるじゃろ、気にするでない」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_265
+444.0,28,14,「初めて来たが、なんだかすごいところじゃのう……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_266
+445.0,28,14,「……少しだけ緊張しておる」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_267
+446.0,28,14,「……むぅ、からかいおって……優しくするんじゃぞ？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_268
+447.0,28,14,「ここに来ると、やっぱりドキドキするのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_269
+448.0,28,14,「んぅ……ん……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_270
+449.0,28,14,「よいぞ。わしも……我慢出来んから」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_271
+450.0,28,14,「モデル？　……わしらにモデルをやって欲しいということか？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_272
+451.0,28,14,「モデルということは、ウェディングドレスを着るということじゃろ……わしには無理じゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_273
+452.0,28,14,「うぅ……お主がそういうなら…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_274
+453.0,28,14,「そうじゃな……こういう風になっておるのか」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_275
+454.0,28,14,「あうぅ……緊張してきたのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_276
+455.0,28,14,「のじゃ！？　お主、今なんと言った？」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_277
+456.0,28,14,「うっ、うむ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_278
+457.0,28,14,「どうしたのじゃ？　何か言ってくれないと恥ずかしいのじゃが……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_279
+458.0,28,14,「あっ、ありがとうなのじゃ…………」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_280
+459.0,28,14,「…………はい、誓います……なのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_281
+460.0,28,14,「…………わしに緊張しなくていいと言ったくせに」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_282
+461.0,28,14,「……わしもじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_283
+462.0,28,14,「わしも……お主がカッコよくて、ドキドキが止まらないのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_284
+463.0,28,14,「今、お主とこうしていることがわしにはまだ実感がないのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_285
+464.0,28,14,「こんなにもお主を好きになるなんて、最初は思いもしなかったからのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_286
+465.0,28,14,「最初はただ話の合う男子だとしか思ってなかったのじゃ。でも、いつの間にか自分にとって大切な人に変わっておった」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_287
+466.0,28,14,「わしみたいな女を好きだと言って、大切にしてくていることに感謝をしておる」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_288
+467.0,28,14,「これからも、ずっとわしのそばにいて欲しいのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_289
+468.0,28,14,「んっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_290
+469.0,28,14,「……っんぅ…………わしも、大好きじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_291
+470.0,28,14,「すごく緊張したが、こんな経験はそう簡単にできるものじゃないからのう。楽しかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_292
+471.0,28,14,「これでいつ本番が来ても安心なのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_293
+472.0,28,14,「なっ……お主はまた！　……それにまだわしらは学生じゃぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_294
+473.0,28,14,「お主の冗談は時々タチが悪いのじゃ！」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_295
+474.0,28,14,「うむ……そうじゃな…………今日は本当に最高の思い出ができたのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_296
+475.0,28,14,「はい、誓います」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_297
+476.0,28,14,「あの時も嬉しかったが、今日はそれ以上に最高の気分じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_298
+477.0,28,14,「お主が大好きという気持ちも、あの時とは比べものにならないくらいじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_299
+478.0,28,14,「わしらはずっと同じ気持ちで歩んでいた気がするのう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_300
+479.0,28,14,「お主に伝えたい事があるのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_301
+480.0,28,14,「わしはお主のおかげでおなごとしての自信を持つことができた」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_302
+481.0,28,14,「そして、お主からもらったたくさんの愛で今の自分があるのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_303
+482.0,28,14,「こうしてお主と結婚することができて、わしの未来は希望に満ちあふれておるぞ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_304
+483.0,28,14,「お主に心から感謝しておる。ありがとう」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_305
+484.0,28,14,「んぅ…………んっ……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_306
+485.0,28,14,「わしは、お主を愛しておる」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_307
+486.0,28,14,「本当にこの日がきたんじゃな……」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_308
+487.0,28,14,「これは……嬉しすぎて流れる涙じゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_309
+488.0,28,14,「わしは……お主がそばにいるだけで、本当に幸せなのじゃ」,sound/data/pcm/c28/adv/20.unity3d,adv_luv_28_310
+489.0,28,14,「おっ、目が覚めたか。おはようなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_000
+490.0,28,14,「うーむ、まだ夢心地のようじゃな。わしがしっかり目覚めさせるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_001
+491.0,28,14,「ふふっ、ここで熟睡するとは無用心じゃぞ」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_002
+492.0,28,14,「ふむ、大正解なのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_003
+493.0,28,14,「ふふ……わしに隙を見せるとは、お主もまだまだじゃな」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_004
+494.0,28,14,「ほれほれ～、ここがいいんじゃろ？　お主のおちんちんは正直に反応しておるぞ～」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_005
+495.0,28,14,「ふふっ、わしのおっぱい……気持ちよかろう？　心地良い夢を見れたのではないか？」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_006
+496.0,28,14,「なぬっ！　わしの努力は無駄じゃったのか……」,sound/data/pcm/c28/adv/00.unity3d,adv_spev_28_007
+497.0,28,14,song_28_00,sound/data/bgm/bgm_28.unity3d,bgm_28
+498.0,28,14,「そんなに素直に言うものなのか……嫌ではない。わしもしたいのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,com_ev_28_423
+499.0,28,14,「ふむ、大正解なのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,com_ev_28_457_04
+500.0,28,14,「うーむ、まだ夢心地のようじゃな。わしがしっかり目覚めさせるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,com_ev_28_458_01
+501.0,28,14,「なぬっ！　わしの努力は無駄じゃったのか……」,sound/data/pcm/c28/adv/00.unity3d,com_ev_28_460_03
+502.0,28,14,「ふふっ、ここで熟睡するとは無用心じゃぞ」,sound/data/pcm/c28/adv/00.unity3d,com_ev_28_464_00
+503.0,28,14,「ふふっ、わしのおっぱい……気持ちよかろう？　心地良い夢を見れたのではないか？」,sound/data/pcm/c28/h/00_00.unity3d,h_hh_28_03_041
+504.0,28,14,「３人で？　……そうじゃのう、わしは別に構わぬぞ……？」,sound/data/pcm/c28/adv/20.unity3d,h_rn_nor_main_28_000
+505.0,28,14,「ほほう、わし達を相手にしたいとは、随分と殊勝な心がけじゃな。これで断るのも粋ではなかろうて♪」,sound/data/pcm/c28/adv/20.unity3d,h_rn_nor_main_28_001
+506.0,28,14,「こんなに気持ちいいとは思わなかったのじゃ。……また３人でというのも悪くないかもしれん」,sound/data/pcm/c28/adv/20.unity3d,h_rn_nor_main_28_002
+507.0,28,14,「その……二人を見てしまったからか、わしも気分が……仲間に入れてくれんかのう？」,sound/data/pcm/c28/adv/20.unity3d,h_rn_nor_sub_28_000
+508.0,28,14,「おぉ、感謝するのじゃ♪　ささ、はよぉさんぴぃと洒落込むのじゃ～♪」,sound/data/pcm/c28/adv/20.unity3d,h_rn_nor_sub_28_001
+509.0,28,14,「今日は仲間に入れてくれてありがとう……なのじゃ。……楽しかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,h_rn_nor_sub_28_002
+510.0,28,14,「わぁっ！　お主、見ておったのか……！？」,sound/data/pcm/c28/adv/20.unity3d,h_rn_ona_28_000
+511.0,28,14,「エッチって、そんな……わしは恥ずかしくてそれどころではないのじゃが……」,sound/data/pcm/c28/adv/20.unity3d,h_rn_ona_28_001
+512.0,28,14,「じゃ、じゃが、お主が望むなら……エッチしてもいいと思っておるぞ……？」,sound/data/pcm/c28/adv/20.unity3d,h_rn_ona_28_002
+513.0,28,14,「エッチしたい？　ふふっ、お主ならそう言い出すのではないかと思っておったぞ……♪」,sound/data/pcm/c28/adv/20.unity3d,h_rn_ona_28_003
+514.0,28,14,「そうと決まれば早速しようぞ。わしもまだまだ気持ちよくなりたいのじゃ……♪」,sound/data/pcm/c28/adv/20.unity3d,h_rn_ona_28_004
+515.0,28,14,「なぁ、お主、このまま指を咥えて見てるだけなのか……？」,sound/data/pcm/c28/adv/20.unity3d,h_rn_ona_28_005
+516.0,28,14,「はわっ！？　お主、いつからそこにっ！！」,sound/data/pcm/c28/adv/20.unity3d,h_rn_res_main_28_000
+517.0,28,14,「最初は恥かしかったがのう……いつの間にか夢中になってしまったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,h_rn_res_main_28_001
+518.0,28,14,「まさか見ておったのか……？　……その……わしらのを……」,sound/data/pcm/c28/adv/20.unity3d,h_rn_res_sub_28_000
+519.0,28,14,「お主がそういうなら……わしもよいぞ？」,sound/data/pcm/c28/adv/20.unity3d,h_rn_res_sub_28_001
+520.0,28,14,「お主は、二人も相手してすごいのう……こういうのもなかなか楽しかったのじゃ」,sound/data/pcm/c28/adv/20.unity3d,h_rn_res_sub_28_002
+521.0,28,14,「む、ここで何をするのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_000
+522.0,28,14,「ふむ、スタッフがおらんという事は……」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_001
+523.0,28,14,「まぁ折角じゃし、お主に頼もうとするかの。じゃが、おかしなとこを触ったら承知せんからな……？」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_002
+524.0,28,14,「ふむ、またエステ、か……」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_003
+525.0,28,14,「そうじゃの……今回はその、前も塗ってほしいのじゃが……」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_004
+526.0,28,14,「も、もちろんお主だからじゃぞ？　ほ、ほれ、はよ準備せぬかっ」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_005
+527.0,28,14,「どうじゃ？　わし、すべすべぴかぴかじゃろ？　んふふ♪」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_006
+528.0,28,14,「んむ、苦しゅうないぞ、お疲れ様じゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_007
+529.0,28,14,「ふー、この調子で次も頼んだぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_008
+530.0,28,14,「なんじゃ、気が向かなかったのか……？」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_009
+531.0,28,14,「はぁ、もう終わりか……もっとお主に、触ってほしかったのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_010
+532.0,28,14,「ふぅ……やはりお主の手つきは気持ちいいのう……また頼むぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_011
+533.0,28,14,「また塗ってほしいのじゃ。もちろん、お主の手での……？」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_012
+534.0,28,14,「ま、まぁそういう時もあるよの……次の機会に取っておくのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_es_28_013
+535.0,28,14,「そ、その言葉、本気なんじゃな……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_000
+536.0,28,14,「そう、か……ならばわしも、お主の本気に応えてやらねばな」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_001
+537.0,28,14,「あぁ、わしもお主の事は好いておるからの……これからもよろしく頼むぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_002
+538.0,28,14,「ぬっ！？　お、お主、なんじゃその切り込むような眼差しは……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_003
+539.0,28,14,「まさか、わしの命を狙っておるのか」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_004
+540.0,28,14,「それを言いたいのはこちらなのじゃ。せっかく……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_005
+541.0,28,14,「い、いい、雰囲気かもしれぬと……そんな風に思っておったのに。台無しなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_006
+542.0,28,14,「うむ、わしにとってお主との時間は心地のよいもので……時々、その……時間を忘れてしまうこともあったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_007
+543.0,28,14,「本当か？　なんじゃ脅かすな。急に真面目な顔をするから、機嫌を損ねることでもしたのかとヒヤヒヤしたのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_008
+544.0,28,14,「あり得ないとまで言い切ってくれるとはのう。それ程わしのことが好きと――」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_009
+545.0,28,14,「……今、わしのことを好きと言ったのか？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_010
+546.0,28,14,「なんじゃとぉ！？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_011
+547.0,28,14,「お、お主っ、そのようなことは……軽々に口走ってよいようなものではないのじゃぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_012
+548.0,28,14,「わかっていて言ったのじゃな？　好き、と」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_013
+549.0,28,14,「それは……す、少なくともわしにとっては『あなたに心を捧げます』というのと同じ意味じゃぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_014
+550.0,28,14,「そ、そうか……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_015
+551.0,28,14,「なんと力強い言葉か。さすがは、わしの心を射止めた男なのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_016
+552.0,28,14,「わ、わしも同じ気持ちで……お主の告白を嬉しく思うのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_017
+553.0,28,14,「……ＯＫなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_018
+554.0,28,14,「な、なんじゃ、お主……断られるかもしれないと思いながら、あのような思いを口にしたのか」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_019
+555.0,28,14,「それで最初、怖い顔をしておったのじゃな」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_020
+556.0,28,14,「ふふ、お主……意外と可愛らしいところもあるのじゃな？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_021
+557.0,28,14,「からかってなどおらぬ。またひとつ、お主のいいところを見つけたと思っただけのことじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_022
+558.0,28,14,「これからもそうであることに期待しておるぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_023
+559.0,28,14,「格好よくなどなくてもよい。大切なのは、わしがお主を思うのと同じくらい、お主がわしを思ってくれることなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_024
+560.0,28,14,「……わしはその、意外と欲張りだから」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_025
+561.0,28,14,「軽々に口にしていい言葉ではないと言ったぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_026
+562.0,28,14,「ならばその思いを全て、ありのままに受け止めるからのう。だから……末永くよろしく頼むのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_027
+563.0,28,14,「そ、それ以外に何があるというのじゃ！　いいからはよ返事を聞かせぬか！」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_028
+564.0,28,14,「っ！　ほ、本当なんじゃな！　わしとお主はこ、恋人同士……でよいのじゃな！？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_029
+565.0,28,14,「お、おぉぉ……で、では、これからは好き合う者同士、ということで……よろしく頼む、ぞ……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_030
+566.0,28,14,「なっ、わ、わしとまぐわいたいとな……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_031
+567.0,28,14,「う、ぬぅ……ダメ、ではないのじゃが……まだ付き合うてもない男としてよいものなのか、と……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_032
+568.0,28,14,「ええぃそんな顔をするでない！　わしだってお主のに興味はあるのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_033
+569.0,28,14,「よいじゃろう……わしの初めて、ありがたく受け取るのじゃ……！」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_034
+570.0,28,14,「そうか、ついにこの時が来たのじゃな……もとより覚悟の上じゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_035
+571.0,28,14,「うむ、わしとお主は恋人同士。肌を重ね合うこともあろうて」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_036
+572.0,28,14,「じゃが、何分わしは初心じゃから……わかっておる、よな……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_037
+573.0,28,14,「それでは、わしは先に出ておるからの？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_038
+574.0,28,14,「……い、一緒に部屋を出るところを見られたくはないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_039
+575.0,28,14,「……お、お邪魔するぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_040
+576.0,28,14,「……わ、わかっておる。はよ、わしの事……抱いておくれ……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_041
+577.0,28,14,「さて、夜も更けてきた事だし、わしはそろそろお暇するかの？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_042
+578.0,28,14,「……じょ、冗談じゃ、冗談……ほれ、わしの事、抱きたいのじゃろ……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_043
+579.0,28,14,「おー、さすがに涼しいのう～」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_044
+580.0,28,14,「なるほどなるほど、これはパワースポットと呼ばれているのは納得じゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_045
+581.0,28,14,「じゃが、他にも見るところはあるのじゃ、あまり長居しすぎるのはいかんぞ……？」　,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_046
+582.0,28,14,「灯台とは、これまた趣のある建物じゃのう」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_047
+583.0,28,14,「うむ、遠い海原から見える大事な標じゃの」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_048
+584.0,28,14,「そうじゃの、いつかまた来た時に、変わらぬ姿を拝みたいものじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_049
+585.0,28,14,「ふーむ、何かこの旅路の思い出になるような土産はないかのう……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_050
+586.0,28,14,「んや、お主との思い出になりそうなものであれば何でもよいかの？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_051
+587.0,28,14,「そういうわけではないが……お主と買った土産を見て、今日この日を思い出すことが出来るのであれば、とな」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_052
+588.0,28,14,「うむ、二人で一緒に探すのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_053
+589.0,28,14,「そろそろ解散かの……また機会があれば来たいものじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_054
+590.0,28,14,「うむ、お主と見れてよかったぞ、また来よう」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_055
+591.0,28,14,「良い買い物をしたの。これでまた、二人の思い出が作れたというものじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_056
+592.0,28,14,「ふむ、ここで遊具を借りて遊ぶ、という事なのじゃな？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_057
+593.0,28,14,「うーむそうじゃなぁ……これなんかどうじゃ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_058
+594.0,28,14,「うむ。何事も試す事は大事なのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_059
+595.0,28,14,「うむ、お互いの息を合わせねばうまく進まなそうじゃの」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_060
+596.0,28,14,「もちろんじゃ。わしらの力、今ここで示してやるのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_061
+597.0,28,14,「さて、海に来てみたはいいが、いざ遊ぶとしたら何をするか考えておらんかったのう……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_062
+598.0,28,14,「なっ、そんな恥ずかしい事を……じゃが、お主がしたいと言うのなら……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_063
+599.0,28,14,「そ、そうじゃの…………なぁ、本当に追いかけっこ、しないのか……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_064
+600.0,28,14,「ふぅ、ちと疲れたが中々楽しめたのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_065
+601.0,28,14,「ふふん、やはりわしらにかかれば雑作もなかったの」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_066
+602.0,28,14,「少々いちゃつきすぎたかの……お主といると、どうしてもはしゃいでしまうのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_067
+603.0,28,14,「――むぅ、弦が少ない分簡単だと思うたが、これは中々に……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_068
+604.0,28,14,「このような実体験をすると、本職の人たちのすごさが身に染みるのう」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_069
+605.0,28,14,「どうじゃ？　中々上手くできたであろう？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_070
+606.0,28,14,「うむ、目の前によい参考対象がおったからの。どうじゃ？　この辺りとかお主そっくりじゃろ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_071
+607.0,28,14,「ん－、じゃがまだまだ改良の余地はありそうじゃな……ここをもっと、こう――」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_072
+608.0,28,14,「ん、ほれ、この色を使いたいのじゃろ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_073
+609.0,28,14,「当り前じゃ、わしがどれだけお主を見てると思っとるのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_074
+610.0,28,14,「ほ、ほれ、さっさと仕上げて次の工程に移るのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_075
+611.0,28,14,「中々良い体験が出来たの、また来たいものじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_076
+612.0,28,14,「ふー、良い具合に仕上がってきたの。完成が楽しみじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_077
+613.0,28,14,「ふふっ、お主との二人の共同作業、必ず作り上げてみせようぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_078
+614.0,28,14,「ふぅ……どんな旅先でも、こういったホテルでの食事は安心できるのが良いの」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_079
+615.0,28,14,「まぁそういったものを求めるなら地元らしい店に行けばよいだけだからの。機会があれば今度行ってみるかの？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_080
+616.0,28,14,「んむ、今は目の前の食事をありがたく頂くのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_081
+617.0,28,14,「じゃがわしは好きじゃのこれ。食べぬなら頂こうかの？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_082
+618.0,28,14,「あーん……ってば、馬鹿者！　なな何をさせる気じゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_083
+619.0,28,14,「まったく……そういった事は恋仲になってからで……むうぅ……っ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_084
+620.0,28,14,「さてと、お主は何にするかの？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_085
+621.0,28,14,「ふむ、ならわしも同じものを頼もう」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_086
+622.0,28,14,「うむ、恋人として、お主の見るもの聞くもの食べるもの……いろんな感覚を共有したいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_087
+623.0,28,14,「まぁ外れたら外れたで、お主と同じ苦しみを味わうというのも一興じゃと思うぞ……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_088
+624.0,28,14,「ふいー満腹満腹。ごちそうさまじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_089
+625.0,28,14,「よい味じゃったな。次来たときはどんなメニューにチャレンジしてみるかのう……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_090
+626.0,28,14,「やはりお主と一緒の食事は格別じゃのう。また二人で来ようぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_091
+627.0,28,14,「のう、居るか……？」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_092
+628.0,28,14,「では、お邪魔するぞ……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_093
+629.0,28,14,「その、どうしてもお主が欲しくなってしもうての……わしの我儘、許してほしいのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_094
+630.0,28,14,「……返事なし、か……どこに行ったんじゃろう……」,sound/data/pcm/c28/adv/00.unity3d,sun_ev_28_095
+631.0,28,14,「ふぅむ、お主がカップルドリンクとか言い出した時は、酔狂なものよと思ったのじゃが……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_000
+632.0,28,14,「思っておったが口にはせんかった。わしは彼氏を立てる奥ゆかしいタイプじゃからな」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_001
+633.0,28,14,「自らに我慢を強いながらこの時間を乗り切るつもりでおったが、気が変わったので白状したのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_002
+634.0,28,14,「うむ、これはよい」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_003
+635.0,28,14,「気に入ったというよりは、突き抜けた……のかのう？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_004
+636.0,28,14,「清々しいまでにバカバカしい。これはあれじゃ、同じ阿呆なら踊らにゃ……の類じゃな」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_005
+637.0,28,14,「バカップル、か……ふふ、くすぐった響きなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_006
+638.0,28,14,「面白い。それなら馬鹿を究めてやるのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_007
+639.0,28,14,「当然、お主にも付き合ってもらうからの？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_008
+640.0,28,14,「アイスは冷たいのう。ふふっ。最高の気分じゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_009
+641.0,28,14,「うむ。よいところを見つけたのう」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_010
+642.0,28,14,「見慣れた風景とはちょいと違うが、そんな感じじゃな」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_011
+643.0,28,14,「子供の頃、お主はどんな風に夏休みを過ごしておったのじゃ？　思い出深いものがあれば聞かせてくれぬか？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_012
+644.0,28,14,「それはそれで定番の夏の過ごし方ではあろうが、もう少し何か出てこんか？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_013
+645.0,28,14,「例えば、カブトムシを捕まえたとかそういうのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_014
+646.0,28,14,「わんぱくな子供時代を過ごしていたものと勝手に想像していたが……ちょっぴり裏切られた気分じゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_015
+647.0,28,14,「わしか？　近所のおじいさんとよく将棋をしておったぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_016
+648.0,28,14,「朝から晩まで……は言い過ぎじゃが、いっぱい付き合ってもらってたのう」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_017
+649.0,28,14,「対局のあとは、おばあさんがスイカを切り分けてくれてな……あれは美味しかったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_018
+650.0,28,14,「いざ、尋常に勝負なのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_019
+651.0,28,14,「なぜ、そんなことを聞くのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_020
+652.0,28,14,「お、お主も似たようなものじゃろう。どうせ腕前も似たりよったりに決まっておる」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_021
+653.0,28,14,「よ、よいぞ？　負けたらなんでも言うことを聞いてやるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_022
+654.0,28,14,「ぐぬぬ、ま、まだじゃ！　わしはまだ負けておらん！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_023
+655.0,28,14,「ようやくコツがつかめてきたところなのじゃ！　流れが変わる、そういう予感がわしにはある！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_024
+656.0,28,14,「さあ！　もう一本」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_025
+657.0,28,14,「む？　うむ、夏らしいといえばそうかもしれないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_026
+658.0,28,14,「気に入ったというか……まぁ、目についたと言えなくもないのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_027
+659.0,28,14,「お主のようにそうパッパッと判断できればよいのかもしれぬが……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_028
+660.0,28,14,「そういわけでなくてな……その、なんじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_029
+661.0,28,14,「……わしにこういうハイカラなものは似合わないかもしれぬ、と思っての」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_030
+662.0,28,14,「かわっ、お、お主……！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_031
+663.0,28,14,「そうかもしれぬが……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_032
+664.0,28,14,「よ、よい！　自分で買うのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_033
+665.0,28,14,「嬉しい申し出じゃな。勿論、付き合うのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_034
+666.0,28,14,「…………ほふぅ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_035
+667.0,28,14,「む？　嫌いではないが、お主からもそう見えたのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_036
+668.0,28,14,「ほふーはさすがに気を抜きすぎじゃろう？　それは言ってなかったはずじゃが……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_037
+669.0,28,14,「こうして波の音を聞きながら、愛するお主とゆったりと浜辺を歩いているのじゃぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_038
+670.0,28,14,「心満たされ、思わず笑みがこぼれてしまうのも不思議ではないはずじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_039
+671.0,28,14,「むふーもほふーも言っておらんぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_040
+672.0,28,14,「茶化すでない。今は……そう、こうしてお主も耳を澄ましてみるのじゃ……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_041
+673.0,28,14,「騒がしいくらいじゃろう？　この海は命で溢れているのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_042
+674.0,28,14,「こうしていると、身も心もこの雄大な海とひとつになるかのようじゃ……お主もそう思わぬか？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_043
+675.0,28,14,「……むふー」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_044
+676.0,28,14,「……う、うむ、心得たのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_045
+677.0,28,14,「キャンプファイヤーとは……う、うむ、確かにこのようなものじゃったな」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_046
+678.0,28,14,「……ちょっとしたダンスパーティのような」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_047
+679.0,28,14,「紛れもなくそうであろう！　舞踏会じゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_048
+680.0,28,14,「お、お主の顔も、こんなに近くて……その、少しだけ照れちゃうのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_049
+681.0,28,14,「ぅ……随分と、グイグイくるではないか」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_050
+682.0,28,14,「それは……うむ、納得のいく理屈ではあるのう」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_051
+683.0,28,14,「よ、よかろうっ！　頑張ってみるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_052
+684.0,28,14,「……や、やっぱり、ちょっと恥ずかしいのじゃ。それに踊りは得意でもないし……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_053
+685.0,28,14,「わかっておるっ！　ずっと……み、見つめてるのじゃ、お主のことだけを……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_054
+686.0,28,14,「だから、お、お主も……その」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_055
+687.0,28,14,「……うむっ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_056
+688.0,28,14,「無論じゃ。……鳴らすのじゃな、その鐘を」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_057
+689.0,28,14,「数多の恋人達が愛を誓ってきたこの鐘を、わしら二人でっ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_058
+690.0,28,14,「あれとはなんじゃ！　お主はわしとの未来を願掛けしたいのではないのか」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_059
+691.0,28,14,「そ、そんなの、もはや……プロポーズじゃぞ！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_060
+692.0,28,14,「も、もっと気軽なお誘いだったのか？　わしのこの緊張って一体……？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_061
+693.0,28,14,「な、なら、よい……安心したのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_062
+694.0,28,14,「ならば、わしも想いを込めてこの鐘を鳴らそうぞ！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_063
+695.0,28,14,「孝心ある、強く逞しい子をどうか産ませて欲しい……と」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_064
+696.0,28,14,「ま、まだ何かあるのか？　わしとしては早く鳴らして楽になりたいのじゃが……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_065
+697.0,28,14,「自分で言ったんじゃろ？　ずっと一緒に仲良く幸せにしてるに決まってるのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_066
+698.0,28,14,「もっと強く想いを込めるのじゃ！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_067
+699.0,28,14,「……魚がいっぱいなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_068
+700.0,28,14,「もっとぬくもりのある返しが欲しいのじゃ！　み、見てわからぬのか……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_069
+701.0,28,14,「わしちょっと圧倒されてるかもなのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_070
+702.0,28,14,「あまり、こういう場所には来ないからのう……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_071
+703.0,28,14,「例えばなんじゃが、この水槽がパリンって割れたらどこに逃げればよいのじゃ？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_072
+704.0,28,14,「ふと気になったのだから仕方なかろう！」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_073
+705.0,28,14,「……相手は怒涛の水じゃぞ？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_074
+706.0,28,14,「いまいち守られ方がピンとこないんじゃが……まあよい、守るという意気込みだけは買おう」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_075
+707.0,28,14,「な、何もわからんと言っとるじゃろ！　お主が……え、エスコートするのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_076
+708.0,28,14,「手も繋いで欲しいのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_077
+709.0,28,14,「夢を見ているかと錯覚してしまいそうな光景じゃのう……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_078
+710.0,28,14,「そうか……話には聞いておったが、これが海ほたるなのじゃな」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_079
+711.0,28,14,「チラチラと波間にきらめく、この淡く儚い光……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_080
+712.0,28,14,「まさしく、海のほたるじゃな」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_081
+713.0,28,14,「うむ、かもしれぬ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_082
+714.0,28,14,「この光の粒、ひとつひとつが命なのじゃな……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_083
+715.0,28,14,「見よ、懸命に瞬いておる。このほの暗い世界で己の存在を主張しようとするかのようじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_084
+716.0,28,14,「ふふ、私かもしれぬぞ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_085
+717.0,28,14,「しかし、実際、あやつらは何を思ってあのように光るのかのう？」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_086
+718.0,28,14,「声が届くのであれば問いかけてみたいものじゃが」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_087
+719.0,28,14,「己が存在することと、あのように光を放つのは、イコールである……ということかの」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_088
+720.0,28,14,「ふむ、それは人に『なぜ生きるのか』と問うに等しい。つまらぬ問いかけをするところだったのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_089
+721.0,28,14,「……美しい」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_090
+722.0,28,14,「海ほたる達の輝きに向ける言葉など、きっと……それくらいで充分なのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_091
+723.0,28,14,「わしはいつも大人なのじゃぞ？　まぁ、この場の雰囲気には合ってなかったかもしれぬが……」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_092
+724.0,28,14,「……うむ、海ほたる達が彩ってくれたこの夜にしばし浸るとするのじゃ」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_093
+725.0,28,14,「…………そうじゃな、本当に」,sound/data/pcm/c28/adv/00.unity3d,sun_lv_28_094
+,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_000,,[H名],「え？　いや、何って……こっちのセリフやし。そもそもなんでこんなことになっとんよ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_001,,[H名],「こんなん見せられたら、触るしかないやん……。うわぁ、硬ぁ……エゲツナイなぁ……マジでヤバいことになってるやん……うわぁぁ～～……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_002,,[H名],「お？　起きてもうたぁ？　いやぁ、目ぇ醒めるまでにイカせたら、ウチの勝ちやってんけどなぁ……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_003,,[H名],「ちゃんと説明してんけどなぁ。寝てて聞いてなかったんやろうけど……まあ、ともかく、このまま続きさせてもらうで～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_004,,[H名],「あ、起きてもうた……。いや、どこまでやったら目ぇ覚ますかなーって……でも、ここまでやらな起きひんもんやねんなぁ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_005,,[H名],「まあまあええやん。こんなに膨らませたままやと不便やろ？　ウチが気持ちよぉさせたげるから、大人しゅうしとき」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_006,,[H名],「いや、なんかビンビンやったし……。おっぱいでしてあげたら喜んでくれるかなーって……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,adv_spev_43_007,,[H名],「あはは、そらよかった！　ほんならこのまま続けさせてもらうで～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_nor_main_43_000,,[H名],「……まあ、ええか。楽しそうやん」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_nor_main_43_001,,[H名],「全然ええで！　ちょうど、人手が欲しいな思ててん」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_nor_main_43_002,,[H名],「う～ん、これ、けっこうお得やね。ほら、一粒で二度美味しい的な……うん、なんか気に入ってもうたわ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_nor_sub_43_000,,[H名],「なー、ちょっとええ？　さっきからず～～っと見ててんけどさぁ……ウチが混ざった方が盛り上がるんちゃうかなー思て。知らんけど」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_nor_sub_43_001,,[H名],「おおきにやでー。へっへっへ、めっちゃ楽しみや！」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_nor_sub_43_002,,[H名],「うわぁぁ、ヤバかったー……めっちゃええやん、これ……クセになってまいそう……ともかく、仲間に入れてくれておおきにやで」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_ona_43_000,,[H名],「おわっ！　な、なんやねんな……こっそり見とったん？　悪趣味やわ～～……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_ona_43_001,,[H名],「ほえ？　ウチとしたいん？　んー……まあ、今モヤモヤしとるけど……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_ona_43_002,,[H名],「んー……どないしよっかなぁ……うーん、しゃあないなぁ……ほな、ちょっとだけやで？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_ona_43_003,,[H名],「覗き見して興奮するとか……自分、結構アレやなぁ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_ona_43_004,,[H名],「ま、全然ええで！　一人でするより、二人でする方がエエに決まっとるもんな～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_ona_43_005,,[H名],「うっわっ、見てる見てる……めっちゃ見とるやん……！　自分、めっちゃドエロい顔しとるで」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_res_main_43_000,,[H名],「うわ～～、なんか普通に入ってきた！　ハート強いなぁ、自分……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_res_main_43_001,,[H名],「あー……なんや、これー……思ってた百倍ぐらい、おもろかったやん……でも、ちょっとしんどいわ……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_res_sub_43_000,,[H名],「ウチらの秘密の楽しみやったのに……いつから見てたん？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_res_sub_43_001,,[H名],「はぁ……ここで断るんもなんか悪いしな……ほな、ちょっとやってみる？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,h_rn_res_sub_43_002,,[H名],「自分、エグいなぁ……いっぺんに二人も……いやぁ、普通に感心するわ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_000,,[H名],「ええ香りやなぁ。たこ焼きかな？　それともオムそばかも……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_001,,[H名],「冗談や～ん。ほな、お願いしよっかな」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_002,,[H名],「さすがはハニーやで。タップリ塗ったってや」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_003,,[H名],「あはは、今更照れたりせーへんって。ほんなら頼んだで～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_004,,[H名],「ええ感じやん。自分、めっちゃ上手いな～……さては、ベテランさんやな？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_005,,[H名],「ふぅ……ええ気持ちやった。おおきにやで～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_006,,[H名],「んー……まあこんなもんか。おおきにな」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_007,,[H名],「って、ほんまに終わるんかい！　手ぇこんだボケするやん……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_008,,[H名],「は～～……変な気分になりそうなぐらい、エエ気持ちやったわ～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_009,,[H名],「うん、なんかめっちゃよかった……またお願いしよかな」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_010,,[H名],「ふー……ちゃんと塗れた？　それやったらエエか」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_es_43_011,,[H名],「……ああ、塗らへんパターンね。まあ、そういうボケもありっちゃありやな」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_000,,[H名],「あー……なんか自分、めっちゃエエなぁ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_001,,[H名],「ホンマ？　そない言われたら、ホンキ出さんとしゃーないな」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_002,,[H名],「もっと、こう……ガーッと行くっちゅうこっちゃ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_003,,[H名],「気にせんでエエよ。ほな今後とも仲良ぉしたってな」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_004,,[H名],「え！？　急に切り込んできたやん……ちょ、や、その……あー、ど、どない言うてええんかわからへんねんけど……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_005,,[H名],「いや、断ったりせんて。付き合ったりするんは全然オッケーやねん……けど……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_006,,[H名],「あー、その……コンビ名、どないしよっかなーって……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_007,,[H名],「ツッコミ、下手くそやなぁ。まあええわ……これからキッチリ仕込んだるで……へへへ」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_008,,[H名],「ん～～、なんかめっちゃええムードやん！　ごっつぅ綺麗……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_009,,[H名],「ふふふ、自分……エエところ知ってるやん。こんなん、なんぼでも景色見れるわ～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_010,,[H名],「……なんや？　突然……まあええけど…………」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_011,,[H名],「あー、せやね～、ほんま蒸し暑いねぇ～～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_012,,[H名],「それ、どこの角度やねーん！！」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_013,,[H名],「そうなん？　正解は何やったん？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_014,,[H名],「気温？　ああ～～、そういうこと？　はいはい、オッケー、ほんならもう一回やり直そか～」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_015,,[H名],「ん～～、なんかめっちゃええムードやん！　ごっつぅ綺麗……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_016,,[H名],「…………なあ、なんか話あるんやろ？　ええから言うてみ？　正直に」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_017,,[H名],「うんうん、ほんま蒸し暑いわ～。このままやったら冬頃には気温６０度ぐらいになってんちゃう？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_018,,[H名],「ちゅうことで、そろそろ本ネタに入らんと……で、なんか言いたいことあるんちゃうのん？」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_019,,[H名],「……なあ、見てみ？　周りの景色……最高のシチュエーションやで～……」
+2147483647.0,sound/data/pcm/c43/adv/70.unity3d,sun_ev_43_020,,[H名],「なんか、こう……バシーッと決めるんやったら、今なんちゃうかな～～……？」
+21474.0,,,,,

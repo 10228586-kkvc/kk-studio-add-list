@@ -1,0 +1,582 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0,10,13,「はうっ！　……ここ、女子トイレ……であるぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_000
+1,10,13,「ふぁっ！　見、見ないで……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_001
+2,10,13,「ぶつぶつぶつ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_002
+3,10,13,「何か用……です……か？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_003
+4,10,13,「もう、魔界に帰るっ！！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_004
+5,10,13,「んふっ……クックっクッ」,,com_ev_10_005
+6,10,13,「ふぇっ！　は、恥ずかしい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_006
+7,10,13,「あ、あまり凝視しするでない！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_007
+8,10,13,「ここは……ひと休みできる場所……なのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_008
+9,10,13,「あ、あぅ……ど、どうも……なのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_009
+10,10,13,「ぶつぶつ……こ……これは、運命なの…か！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_010
+11,10,13,「わ、我に何かよう……なのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_011
+12,10,13,「ひゃっ！？　な、なんです……か！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_012
+13,10,13,「同胞よ。我はここにいるぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_013
+14,10,13,「筋肉……おいしそ……はっ！　な、なんでもない……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_014
+15,10,13,「ど、どうも……です」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_015
+16,10,13,「今日は……ここで活動ですか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_016
+17,10,13,「ぶつぶつぶつ……我の同胞にしたい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_017
+18,10,13,「我……腹が空いて……死にそうである」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_018
+19,10,13,「さて、魔界に帰るとするか！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_019
+20,10,13,「ふがっ！　お、驚かさないでくだ……さい」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_020
+21,10,13,「な、なん……ですか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_021
+22,10,13,「わ、我に興味をっ！？　……そうかわかったぞ！　汝と我は前世で巡り合っていたにちがいない」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_022
+23,10,13,「えっ！？　きょ、興味……は、恥ずかしい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_023
+24,10,13,「た、たこ焼き……たこ……クラーケン……好物」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_024
+25,10,13,「たこ……海の悪魔……我の……仲間！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_025
+26,10,13,「え！？　世界観っていうほど大それたものじゃ……は、恥ずかしくなるだろ、まったく」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_026
+27,10,13,「私……我は、悪魔の落とし子……なの」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_027
+28,10,13,「我の……私のことはしっかり理解してくれなくていいよ……いつものことで慣れてるから……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_028
+29,10,13,「そ、それはひょっとして、あ、悪魔に記憶を……盗まれたのでは？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_029
+30,10,13,「それ……わ、我も……観たぞ。おもしろいものであったな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_030
+31,10,13,「け、見聞を広げることはいいこと……だな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_031
+32,10,13,「男……同胞なら……な、汝が初めて……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_032
+33,10,13,「お、男は魔界の秩序を乱す存在である……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_033
+34,10,13,「デート！？　ま、魔界の散策なら……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_034
+35,10,13,「デートだと！？　わ、我の魂を言霊で揺さぶるでない！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_035
+36,10,13,「我と……悪魔の契約を結んでくれるような……心優しき人間」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_036
+37,10,13,「男……謎多き生命体である……我は今だ答えられぬ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_037
+38,10,13,「汝、この話題は、我々にはまだ早いぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_038
+39,10,13,「コイバナ……ふがぁ！　呪いで頭がぁ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_039
+40,10,13,「な、汝はよくやってると思うぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_040
+41,10,13,「なぬ！　そ、それはまことの禁断の恋ではないか！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_041
+42,10,13,「が、ガツガツ来られるのも好きかもしれない……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_042
+43,10,13,「せ、積極的な男は苦手……だ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_043
+44,10,13,「冷静沈着な側近が欲しいと思っておったところだ。クックック」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_044
+45,10,13,「我をイライラさせそうでダメだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_045
+46,10,13,「それは……どんなことにもか？　クックック」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_046
+47,10,13,「果たして我の欲求に、そのようなまじめな者が答えられるかどうか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_047
+48,10,13,「燃えるかもしれんな……しごける……クックックッ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_048
+49,10,13,「そういう輩は、そのうち我の怒りを買うはずである」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_049
+50,10,13,「優しい……ぬはっ！　変なことを想像してしまった……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_050
+51,10,13,「我のシモベは優しいだけじゃだめだ！　強くなくては！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_051
+52,10,13,「たまに……めちゃくちゃにされた……い、いやなんでもないぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_052
+53,10,13,「我の地獄の業火で体温を上げてやろうか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_053
+54,10,13,「え、エッチ！？　あわあわっ……ごくまれに……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_054
+55,10,13,「わ、我の耳には何も聞こえぬ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_055
+56,10,13,「ぬはっ！　どんなことって……ふぇぇぇ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_056
+57,10,13,「わ、我に邪念を吹き込むでない！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_057
+58,10,13,「お、親！？　む、昔はごくまれに……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_058
+59,10,13,「こら！　ふらちだ……ふらちであるぞ！　目にしたことはあるが……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_059
+60,10,13,「も、もうこの話題はよさないか？　我は恥ずかしいぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_060
+61,10,13,「こ、こらぁ、なんだ？　さっきから我の胸元ばかり見て……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_061
+62,10,13,「なぬ！？　我にそんなことを聞いてどうするのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_062
+63,10,13,「汝、ちょ、ちょっとその話は、我には過激すぎるぞ。まあ、いいけど……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_063
+64,10,13,「我は、汝から見て変……ではないか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_064
+65,10,13,「ほっ！　そうか、汝のその一言で安心したぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_065
+66,10,13,「そ、そのうち我のよさが分かるはずだぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_066
+67,10,13,「ふぬぬ……おぬし、我に本心を隠さないでくれ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_067
+68,10,13,「汝は動物は好きか？　犬とか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_068
+69,10,13,「そうか、我も犬は好きだ。忠実だからな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_069
+70,10,13,「嫌いか、それは我と趣味が同じだ。我も苦手である」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_070
+71,10,13,「汝は、普段、たくさん食べるタイプであるか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_071
+72,10,13,「食欲は性欲に比例するからの……はっ！　い、いやなんでもない」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_072
+73,10,13,「同胞よ！　だが、たくさん食べないと我の側近は務まらんぞ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_073
+74,10,13,「家で料理はするのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_074
+75,10,13,「そうか！　た、食べてみたいぞ！　汝の料理を」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_075
+76,10,13,「同胞よ！　だが、汝は我のために料理を覚えるのだ！　クックックッ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_076
+77,10,13,「汝、運動は好きか？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_077
+78,10,13,「うむ、汗をかくことはよいことだ、精進しろ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_078
+79,10,13,「奇遇だな、我もだ。しかし我は、この身体を操作するために、もっと運動をしなければ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_079
+80,10,13,「汝は勉強はどうなのだ？　普段からやってるのか？　得意なのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_080
+81,10,13,「こ、今度、どちらかの家で、と、共に学ぼうではないか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_081
+82,10,13,「あっ、なかま……ごほん、人間界には、赤点というものが存在するからのぅ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_082
+83,10,13,「普段、制服以外ではどんな格好をしているのだ？　おしゃれはするのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_083
+84,10,13,「ふむ、一度汝の普段着を見てみたいものだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_084
+85,10,13,「服に無頓着なのも、汝の個性だな。悪くないぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_085
+86,10,13,「汝の違った一面が見えたな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_086
+87,10,13,「汝、我が怒ると容赦はせぬぞ。クックックッ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_087
+88,10,13,「す、すまぬ……魔力が暴走したのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_088
+89,10,13,「クックックッ、我の悪魔の力、拝んでみるか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_089
+90,10,13,「んっ？　我の顔に何かついておるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_090
+91,10,13,「な、汝よ、見過ぎだ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_091
+92,10,13,「わ、我から目を離さないとは……なかなかいい度胸であるぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_092
+93,10,13,「わ、我の胸が気になるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_093
+94,10,13,「汝よ……胸をそんなに凝視するでない……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_094
+95,10,13,「なぜ女にだけ、胸に膨らみがあるのだろうか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_095
+96,10,13,「汝は、一体どこをさっきから見ておるのだ！」,,com_ev_10_096
+97,10,13,「汝……もしかして、わ、我と契約したいのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_097
+98,10,13,「な、汝……何を考えておるのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_098
+99,10,13,「わ、我は、は、恥ずかしいではないか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_099
+100,10,13,「ふぇぇぇ！　こ、ここから先は、あ、悪魔の契約が必要だぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_100
+101,10,13,「これ以上は、ダメである！　我らにはまだ早い！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_101
+102,10,13,「な、何を欲情しておるのだ！？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_102
+103,10,13,「ふぁぁっ……な、何をする！　一瞬うっとりしたではないか！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_103
+104,10,13,「こ、こら！　何回もなでるない……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_104
+105,10,13,「ふむぅぅ……我のツボを知っておるな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_105
+106,10,13,「ふぇぇっ！　そ、そこはダメだぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_106
+107,10,13,「汝は一体何がしたいのだ？　こそばゆいぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_107
+108,10,13,「さては、我を子供扱いして遊んでおるな？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_108
+109,10,13,「汝、地獄に落ちたいのか？　クククッ」,,com_ev_10_109
+110,10,13,「汝の本質が、我の第三の瞳を通して伝わってくる」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_110
+111,10,13,「もっと、汝の事が知りたいぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_111
+112,10,13,「さて、何を話そうか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_112
+113,10,13,「我を放置するとは、いい度胸である……」,,com_ev_10_113
+114,10,13,「はぁ……そろそろ魔界に帰還するか」,,com_ev_10_114
+115,10,13,「我をあまり怒らせるなよ」,,com_ev_10_115
+116,10,13,「な、なかなか楽しかったぞ！　では、またな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_116
+117,10,13,「な、汝！　……いや、なんでもない……またな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_117
+118,10,13,「さて、我は闇の世界に帰るとするか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_118
+119,10,13,「うむ、また今度、語り合おうではないか！　同胞よ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_119
+120,10,13,「では、さらばである！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_120
+121,10,13,「いいぞ！　同胞よ。共に帰路につこうではないか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_121
+122,10,13,「無念である。今日は魔王に呼ばれておるのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_122
+123,10,13,「呪文の勉強なら……我が教えてやるぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_123
+124,10,13,「すまぬ、同胞よ。今はダメなのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_124
+125,10,13,「ちょうどよい。我も……その気分であった」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_125
+126,10,13,「我は、まだ……魔力が溜まっておらん……のだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_126
+127,10,13,「い、いいぞ……な、何事なのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_127
+128,10,13,「ま、魔界で用事が……すまぬ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_128
+129,10,13,「ふが！　はぅぅ……わ、我は恥ずかしいぞぉ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_129
+130,10,13,「こ、こら！　ここは我の許可無しでは入ってはダメだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_130
+131,10,13,「ふぇぇぇ！　なぜここに！？　もう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_131
+132,10,13,「こ、ここは立ち入り禁止だぞ！　だ、誰かに見られたら……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_132
+133,10,13,「むむぅ……ぶつぶつぶつ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_133
+134,10,13,「なんだ？　我に言いたいことがあるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_134
+135,10,13,「時間が過ぎてしまった……帰還するとしよう」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_135
+136,10,13,「ふがっ！　み、見たな？……このエッチ……め」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_136
+137,10,13,「まさか、な、汝に透視能力はないよ……な？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_137
+138,10,13,「水着の中を、そ、想像するだけなら許す……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_138
+139,10,13,「そのような真剣なまなざしで見つめるな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_139
+140,10,13,「ここは、なかなかいい風が吹くのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_140
+141,10,13,「お、噂をすれば……皆で汝のことを話しておったのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_141
+142,10,13,「お、こんなところで偶然出会うとはこれは運命かもな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_142
+143,10,13,「うむ！？　どうしたのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_143
+144,10,13,「こ、ここからは男子禁制なのだぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_144
+145,10,13,「で、デート……ククッ、二人で魔界を散策するのだぁ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_145
+146,10,13,「ん？　どうしたのだ？　何か言いたげだぞ」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_146
+147,10,13,「わ、我でいいのか？　何か手伝えることはあるか？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_147
+148,10,13,「はぁはぁ、あ！　ちょうど喉が渇いていたところであった、うれしいぞ」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_148
+149,10,13,「少しだけ覗いていくのだ！　なかなか楽しいぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_149
+150,10,13,「息抜きである。一緒にくつろごうではないか！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_150
+151,10,13,「うう……我、空腹なり……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_151
+152,10,13,「ふぁっ！　ようやく人間界のしがらみから解放されたぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_152
+153,10,13,「ぬがっ！　び、びっくりするではないか！？　もう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_153
+154,10,13,「んっ？　我か？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_154
+155,10,13,「ふふっ、そうであろう、我は意外に世話を焼くタイプなのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_155
+156,10,13,「そうであろうか？　汝から見るとそう見えるのか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_156
+157,10,13,「聞くが、我の音楽の趣味は、あまり理解されぬかも……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_157
+158,10,13,「悪魔の音色は、常に頭の中で流れておる……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_158
+159,10,13,「ふむ、習い事……呪文である！　独学なのだが」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_159
+160,10,13,「習わなくとも、我には不可能はないのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_160
+161,10,13,「悪魔のサバイバル術がおもしろかったな、人間にもなかなかおすすめだぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_161
+162,10,13,「人間の浅い知識では、なかなか満足できないのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_162
+163,10,13,「ふむ、何か他の話題はないのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_163
+164,10,13,「なぬ！？　そんな輩、我の力で骨と皮にしてやったのにぃ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_164
+165,10,13,「ふぇっ！？　お、男……まあ、興味が無いこともない……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_165
+166,10,13,「い、いきなり何を聞いてくるのだ！？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_166
+167,10,13,「彼氏……ふむ、そうだなぁ、やはり魔界を二人で練り歩くことだな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_167
+168,10,13,「我は緊張しやすいから……何もできないかも……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_168
+169,10,13,「ふぁっ！？　え、えーと、そ、それならばまずは、悪魔との契約を交わさねばな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_169
+170,10,13,「な、なにを突然言うのだ！？　たとえ話でも驚くではないか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_170
+171,10,13,「も、もちろん。我もいつかは……はっ！　な、何でもないぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_171
+172,10,13,「あ、相手がいればするのではないか？　我にはまだその辺り、よく分からんのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_172
+173,10,13,「こういう話は、少し恥ずかしいぞ……よし！　話題を変えよう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_173
+174,10,13,「なぬ！？　奴らいつの間にそのような関係に……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_174
+175,10,13,「そ、そんなこと聞かなくても、もう分かっているだろう？　……エッチ」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_175
+176,10,13,「ふぇっ！？　そ、それはな……まだ、我々には早い気がするのだが……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_176
+177,10,13,「……あ、あるぞ。もしかして、気になるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_177
+178,10,13,「い、いかん！　こんな話題！　身体からなんか汗が出て来たぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_178
+179,10,13,「い、意地悪な質問だな。す、少しは我もそういう話に興味があるから……な」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_179
+180,10,13,「そ、そんなことはないぞ！　一応聞くことは聞くが……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_180
+181,10,13,「な、汝ひょっとして、我にムラムラしてるのか！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_181
+182,10,13,「わ、我にそれを聞いても……我も知りたい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_182
+183,10,13,「な、汝今日はやけに淫らな話ばかりを振ってくるではないか……話題を変えるぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_183
+184,10,13,「なぬっ！？　そうなのか？　もっとその情報を教えてくれ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_184
+185,10,13,「同胞よ、我は、お互いのことをもっと知り合いたいぞ。汝はどう思う？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_185
+186,10,13,「お互い同じ気持ちだ、以心伝心であるな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_186
+187,10,13,「汝が照れると、我もなんか恥ずかしい……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_187
+188,10,13,「たわいのない質問であるが、ぶ、ブラックコーヒーはどう思う？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_188
+189,10,13,「クックック、我もあの苦みが大好きなのだ。我々は同じであるな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_189
+190,10,13,「何！？　砂糖とミルクだと！　汝はまだお子様……我か？　の、飲めるに決まってるであろう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_190
+191,10,13,「辛い物は食べられるのか？　好きか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_191
+192,10,13,「よし！　今度、地獄のような辛さの料理を出す店に、一緒に食べに行こうではないか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_192
+193,10,13,「我も地獄のように辛いのは苦手じゃ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_193
+194,10,13,「甘い物はどうなのだ？　食べるの好きか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_194
+195,10,13,「糖分は、魔力の源になるのである。今度一緒に、パンケーキを食べに行きたいぞ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_195
+196,10,13,「苦手なのか？　まあ、食べ過ぎると眠くなるしな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_196
+197,10,13,「つ、つかぬ事を聞くが……な、汝よ、胸は大きい方が好きか？　理想はあるか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_197
+198,10,13,「そ、そんなに我の胸をマジマジと見るな！　誘っているわけではないから……な」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_198
+199,10,13,「普通の胸の大きさが好きか……こ、こら！　我の胸に何を期待しておるのだ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_199
+200,10,13,「わ、我くらいボリュームが少ないのがいい？……そ、そうか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_200
+201,10,13,「汝は、女子の身長に好みはあるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_201
+202,10,13,「そ、そうか、身長高いのが好きとは珍しいな。でも、あ、安心した……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_202
+203,10,13,「ふ、普通の身長が一番だな！　わ、我のように……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_203
+204,10,13,「わ、我も小さいけど……あ、頭ナデナデしやすいぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_204
+205,10,13,「女子の体型はどんなのが好みなのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_205
+206,10,13,「な、なるほど……わ、我の身体もプニプニして、触ると気持ちいい……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_206
+207,10,13,「ウリウリ、どうだ？　我の身体は？　セクシーであるか？　ちょっと自信があるぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_207
+208,10,13,「わ、我もきゃしゃだからな……守ってくれる守護人を探しておるところだ。どっかにおらぬかなあ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_208
+209,10,13,「まだまだだな。我のそばで鍛えねばならんな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_209
+210,10,13,「我を怒らせた汝には、お仕置きが必要であるな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_210
+211,10,13,「ふむぅ……今回だけであるぞ！　許してやろう」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_211
+212,10,13,「わ、我の怒りがおさまらぬではないか……仕方ない、お仕置きだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_212
+213,10,13,「わ、我の第三の瞳がそんなに気になるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_213
+214,10,13,「そんなにジッと見て……わ、我に見とれているのか？　なんだか落ち着かぬぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_214
+215,10,13,「わ、我と見つめ合いたいのか？　で、でも、ここまでだ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_215
+216,10,13,「汝は気が付くと……いつも我の胸を見ておらぬか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_216
+217,10,13,「こらぁ！　またそうやってジロジロと胸元を……まったく……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_217
+218,10,13,「ククッ！　胸元に肉を置いたら、むしゃぶりつきそうだな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_218
+219,10,13,「わ、我の目をちゃんと見るのだ！」,,com_ev_10_219
+220,10,13,「わ、我の手は冷たいであろう？　あ、悪魔だからな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_220
+221,10,13,「手に汗をかいておるぞ？　ククッ、汝から握っておいて緊張してるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_221
+222,10,13,「汝の手は暖かいのだな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_222
+223,10,13,「そ、それはまだダメだぞ……こ、こらぁ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_223
+224,10,13,「ふぁぁっ！　こ、これ以上はだ、ダメだ……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_224
+225,10,13,「わ、我の魔力が暴走しそうなのだ……だ、だからここまで！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_225
+226,10,13,「ひゃっ！　て、照れるではないか……そんなことされたら」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_226
+227,10,13,「汝は、よしよしするのが好きなのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_227
+228,10,13,「ふぬぅ……もしや、我を子供扱いしておるのではないよな？　ふんふん！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_228
+229,10,13,「むっ！　こ、これは我はどう捉えたらいいのだ？　なんか照れくさいではないか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_229
+230,10,13,「も、もしや、不意をついてビンタをしようと企んでいるのではないよな？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_230
+231,10,13,「ほ、他の女子にも同じようなことしてたら……怒るぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_231
+232,10,13,「い、今はまだ契約の時ではないぞ……」,,com_ev_10_232
+233,10,13,「もう一度、汝の話が聞きたいぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_233
+234,10,13,「わ、我々、なんか最近仲良しであるな……クックック」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_234
+235,10,13,「わ、我は、汝とだいぶ自然に話せるようになった……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_235
+236,10,13,「今は、汝も魔力を貯めておる時なのだな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_236
+237,10,13,「な、何か言わぬか……今何を考えておるのだ？」,,com_ev_10_237
+238,10,13,「我の逆鱗に触れるとは……」,,com_ev_10_238
+239,10,13,「汝、まだ反省してないとみた」,,com_ev_10_239
+240,10,13,「今日は楽しかったぞ！　人間界に降りてきてよかった」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_240
+241,10,13,「つ、次はもっと我のこと、聞いてきていいぞ……エッチなこともいいかって？　ゆ、許す……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_241
+242,10,13,「では、そろそろ我は魔界に帰らねばならんのだ……また会おう」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_242
+243,10,13,「はっ！　たくさん話し込んでしまったな。同胞よ……また会おう！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_243
+244,10,13,「汝よ、さらばだ…ままた会おう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_244
+245,10,13,「こ、こら！　何を先走っておるのだ？　もうちょっとお互いを知ってからだぞ。契約は」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_245
+246,10,13,「わ、我でよければ……よろしく……です」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_246
+247,10,13,「す、すまぬ！　我にはまだ決められない……もう少し待ってはくれないか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_247
+248,10,13,「わ、我と同胞以上の関係にならぬか？　汝と契約したい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_248
+249,10,13,「ふぇぇぇっ！　わ、我で本当にいいのか？　う、うれしいぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_249
+250,10,13,「そ、そうか……でも、我々はこれからも同胞だぞ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_250
+251,10,13,「そ、そろそろ我と契約しても……いいのではない……か？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_251
+252,10,13,「わ、我に彼氏ができた……なんという奇跡……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_252
+253,10,13,「う、うむ、気にするな。しょうがないことである……グスン」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_253
+254,10,13,「な！？　と、突然何を言うのだ！　わ、我に欲情しおって……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_254
+255,10,13,「ま、まだ汝と契約を交わしておらんのに……もう、抗えないみたいだな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_255
+256,10,13,「同胞よ……はやる気持ちを抑えて、もう少し我と関係を築こうぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_256
+257,10,13,「こ、ここで！？　ちょ、汝なんという変態……うぅ、人がいるのに……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_257
+258,10,13,「こ、こら！　こんな人のいるところで……なんてことを言うのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_258
+259,10,13,「ふぁっ！　こ、ここで！？　だ、誰か来たらどうするのだ……こ、こらぁ」　　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_259
+260,10,13,「なっ！？　こ、ここではちょっと……さすがに危険というか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_260
+261,10,13,「け、契約の前の、お、お試しエッチ、我としないか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_261
+262,10,13,「な、なぜか今日は、朝から変な気持ちなのだ……はぅぅぅ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_262
+263,10,13,「なんなのだ？　我のこの気持ちは……我に耐えろというのか？　くぅぅ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_263
+264,10,13,「うむ、もう空腹で我のお腹と背中がくっ付きそうであるぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_264
+265,10,13,「すまぬ……一緒に喰らいたいところなのだが、今日は友達と先約があるのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_265
+266,10,13,「汝、我と一緒に昼飯はどうだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_266
+267,10,13,「よし！　楽しみであるな！　ふんふん！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_267
+268,10,13,「そうか……それは仕方がない。では、またの機会にな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_268
+269,10,13,「おっ！　よいぞ……何をするのだ？　楽しみだぞ……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_269
+270,10,13,「うむぅ……ちょっと友達に誘われておるのだ。すまぬ。また誘ってくれ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_270
+271,10,13,「コイカツしないのか？　一緒にやろうぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_271
+272,10,13,「ふむ……どんな活動をしようかのう？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_272
+273,10,13,「そ、そうか……まあ、そのような時もあるし仕方ないな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_273
+274,10,13,「おっ……我も一緒に帰ろうと汝を探しておったのだ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_274
+275,10,13,「今日は、居残りなのだ……我を居残らすとは……屈辱である」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_275
+276,10,13,「汝、今日は我と共に帰れるのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_276
+277,10,13,「ふむ……では帰る時に声を掛けてくれ……！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_277
+278,10,13,「そうか、ではまた今度だな。承知したぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_278
+279,10,13,「うう、すまぬぅ！　その日は友達と予定が入ってしまっておるのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_279
+280,10,13,「ふむ……いいぞ！　実は我も誘いを待っておったのだー！　ククッ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_280
+281,10,13,「……すまぬ、少し予定が詰まっているのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_281
+282,10,13,「わ、我と、魔界の散策をしたいとは思わないか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_282
+283,10,13,「魔界デート、魔界デートー……楽しみであるな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_283
+284,10,13,「そ、そうか……残念だが、またの機会に誘うとするか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_284
+285,10,13,「おっ！　そうであるなあ。その方が効率が良いな……名案であるぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_285
+286,10,13,「すまぬ！　先約があるのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_286
+287,10,13,「汝、テストに備えて、一緒に勉強するというアイデアはどうだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_287
+288,10,13,「ふふ……なかなか良いアイデアであろう？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_288
+289,10,13,「わ、我に勉強との孤独な闘いを繰り広げろと？　うう、仕方ない……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_289
+290,10,13,「おっ……我もやるぞー！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_290
+291,10,13,「あぅ！　タイミング悪いぞ……奴らと先約があるのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_291
+292,10,13,「なあなあ……我と一緒に汗をかかないか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_292
+293,10,13,「よし！　一緒に汗にまみれようぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_293
+294,10,13,「そうか……よし！　また今度誘うぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_294
+295,10,13,「ふむ、我は、もうしばらく様子を見ようと思う……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_295
+296,10,13,「なあなあ……我も、コイカツ部に入ってもいいか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_296
+297,10,13,「むう？　なんなのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_297
+298,10,13,「ちょ、ちょっと待つのだ！　この後、職員室に行かねばならないのだ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_298
+299,10,13,「汝！　こ、こんなとこ……恥ずかしい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_299
+300,10,13,「こ、こら！　今はダメだぞ！　もうしょうがないな……後でなら……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_300
+301,10,13,「こ、こんなとこ誰かに見られたら……でも、我の方がなんか密着したくなった……ぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_301
+302,10,13,「は、入っちゃだめだぞ！　みんないるから……後で……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_302
+303,10,13,「ふむ……汝にはちと罰を与えねばな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_303
+304,10,13,「我の逆鱗に触れるでないぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_304
+305,10,13,「おい！　汝、後で話せるか？　うむ、ではまたな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_305
+306,10,13,「わ、我の裸が、そ、そんなに気になるのか？　お、おあずけだぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_306
+307,10,13,「むうう！　な、汝！　他の女子の身体に見とれてはおらぬか！？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_307
+308,10,13,「水着という物は、なぜこうもピッチリと窮屈なのだ？　ほらこんなに……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_308
+309,10,13,「わ、我の身体……他の女子になんか負けてはおらぬ……であろう？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_309
+310,10,13,「こうして一緒に座っておると、なんか落ち着くのである……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_310
+311,10,13,「食堂のメニューも美味そうだが、汝の手料理も食べてみたいぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_311
+312,10,13,「たまにはグラウンドで……健康的な汗をかくのもよいかもな……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_312
+313,10,13,「ん？　なんだなんだ……我と一緒に居たいのか？　なんて……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_313
+314,10,13,「こら！　ん？　なにを興奮してるのだ？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_314
+315,10,13,「デート、デート……ふふっ、当日は魔界を隅々まで散策するのだ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_315
+316,10,13,「同胞から彼女へ……クククッ……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_316
+317,10,13,「はっ！　た、たまに汝のことを考えると変な気持ちに……いい意味で……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_317
+318,10,13,「汝の彼女が活躍する姿を目に焼き付けろ……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_318
+319,10,13,「今日は、のんびり活動するのだ……汝も一緒にのんびり部活しようぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_319
+320,10,13,「コイカツか？　我も一緒に……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_320
+321,10,13,「昼飯だ……我に供物を！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_321
+322,10,13,「今、我の楔が解き放たれた！　もう邪魔するものはない、存分に……いちゃいちゃしようぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_322
+323,10,13,「我の瞳が汝を捕らえておる……クククッ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_323
+324,10,13,「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_324
+325,10,13,「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_325
+326,10,13,「そ、それはふ、ふたりで添い寝したら……分かるかも？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_326
+327,10,13,「ふむ、流行りかぁ。人間と仲良くすること……であるかな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_327
+328,10,13,「うっ！　そ、そこまでの設定は考えてなかっ……いや、なんでもないぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_328
+329,10,13,「むふふ……は・だ・か……どうだ？　ムラムラしたか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_329
+330,10,13,「な！？　その質問、なんかエッチだぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_330
+331,10,13,「ふ～む……いいところであるぞ。そこら中に骸骨が転がっておる。汝も来るか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_331
+332,10,13,「人間には想像を絶する世界なのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_332
+333,10,13,「ちょっといいか？　別の話題になるのだが……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_333
+334,10,13,「我といつも一緒にいれば、汝も悪魔になれるぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_334
+335,10,13,「そ、それは……は、恥ずかしいことをするのだ……男女で」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_335
+336,10,13,「わ、我なんかでよければ……もちろんであるぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_336
+337,10,13,「我は悪魔だからな……汝を振り回すけどいいのか？　ククッ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_337
+338,10,13,「何分でも待つぞ……ただし、10分超えたらお仕置きだな！　クククッ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_338
+339,10,13,「我を待たせるとは言語道断！　ククッ、冗談だぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_339
+340,10,13,「ふむ……汝と会えなくなること……だ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_340
+341,10,13,「浮気……だな。もしやったら……汝の顔面にパンチをお見舞いするぞ」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_341
+342,10,13,「ククッ……お部屋でイチャイチャ……楽しいのだ……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_342
+343,10,13,「ふむ、そうだな……でも、たまには外に連れて行かないと……我はふてくされるぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_343
+344,10,13,「ラブラブな会話ばかりしてると……なんか恥ずかしいぞ！　話題を変えよう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_344
+345,10,13,「ふぁっ！？　な、汝はもう……我にぞっこんだな……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_345
+346,10,13,「ふぇっ！？　そ、そうか……我の呪文が効いたみたいだな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_346
+347,10,13,「そ、それは……あるぞ……我も……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_347
+348,10,13,「そ、それは……秘密である！　恥ずかしい質問するでない！　ふむぅ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_348
+349,10,13,「ぬはっ！　な、なんちゅう質問だ！？　あ、あるのはあるのだが……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_349
+350,10,13,「あ、悪魔はもっとこう……ストイックで純粋なのだ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_350
+351,10,13,「ふえっ！？　じ、自分で！？　……ごく……まれに……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_351
+352,10,13,「あ、悪魔は自慰はしないのだ！　ほ、本当だぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_352
+353,10,13,「た、たくさんありすぎて……汝が試せ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_353
+354,10,13,「敏感？　感受性のことか？　うへ？　せ、性感帯！？　そ、それは秘密だぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_354
+355,10,13,「こら！　エロい話はここで終了するぞ！　もう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_355
+356,10,13,「わ、我は別に多くてもかまわんぞ？　汝に合わせる……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_356
+357,10,13,「わ、我もだ……なんか熱いものがこみ上げてくるのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_357
+358,10,13,「わ、我は汝から見て……こ、興奮する存在か？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_358
+359,10,13,「そ、そうか！　そんなに興奮してるのか？　気付かなくてすまぬ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_359
+360,10,13,「わ、我を子供扱いしておるな！　ふむむむぅ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_360
+361,10,13,「わ、我と……どんなデートをしてみたい？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_361
+362,10,13,「そ、外で……そんなこと……想像を超えたぞ！　でも、きょ、興味はある」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_362
+363,10,13,「一緒にいられるだけで……て、照れくさいぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_363
+364,10,13,「汝はその……一人でするのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_364
+365,10,13,「そうなのか……えっ、私の裸を想像しながら！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_365
+366,10,13,「そ、そうか……そうだな。いつも我が傍にいるから必要ない！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_366
+367,10,13,「我を言葉でムラムラさせてみろ。できたらご褒美をやるぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_367
+368,10,13,「ふぇぇっ！　エロいぞ……興奮する……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_368
+369,10,13,「な、汝の性感帯はどこなのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_369
+370,10,13,「そ、そこを攻めればいいのだな？　儀式の時は……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_370
+371,10,13,「わ、我、最近エロくないか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_371
+372,10,13,「今が攻め時！　なんて……冗談であるぞ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_372
+373,10,13,「な、汝は我の胸……好きか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_373
+374,10,13,「我の胸、大きいであろう？　汝なら……いっぱい触っていいぞ……？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_374
+375,10,13,「我は意外に胸があるのだぞ……どうだ？　触りたいであろう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_375
+376,10,13,「小さい胸が昔はコンプレックスであったが……汝の好みでよかった……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_376
+377,10,13,「私の身長……どう思う？　好きか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_377
+378,10,13,「そうか、高いのが好きなのか……よかったぞ……」　　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_378
+379,10,13,「そうか、ちょうどよいか……うれしいぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_379
+380,10,13,「腕を組んだら、しがみつくような感じになるのだ。なに？　それが可愛い……むふ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_380
+381,10,13,「汝、我の体型はタイプか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_381
+382,10,13,「触ると柔らかいぞ……ほれほれ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_382
+383,10,13,「抱き心地は良いかも……な、何でもないぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_383
+384,10,13,「むふふ……どうだ？　モデルのような体型であろう？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_384
+385,10,13,「何を照れておるのだ！　聞いてるこっちも恥ずかしいのだぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_385
+386,10,13,「ぬううう……もっと心を込めて謝るのだ！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_386
+387,10,13,「うむ……それでよい。ほれ、我の頭をなでなでするのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_387
+388,10,13,「我の怒りがまだくすぶっておるぞ！　うむ！　お仕置きである！」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_388
+389,10,13,「何をそんなに欲しそうにしておるのだ？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_389
+390,10,13,「あ、あまり見られると……人間に変身した術が解けてしまうぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_390
+391,10,13,「わ、我の目力で押し返すぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_391
+392,10,13,「ククッ……汝いつも我の胸を見ておるな。そんなにこれが好きなのか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_392
+393,10,13,「もう！　一度触らせてやったら、落ち着くかのぅ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_393
+394,10,13,「ふぅ……もう仕方がないな。好きなだけ眺めるがよいぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_394
+395,10,13,「汝が謝れば……許してやらんこともないぞ」,,com_ev_10_395
+396,10,13,「手に汗が……お互いので……ぬるぬるするのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_396
+397,10,13,「手だけでいいのか？　汝……緊張しておるな……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_397
+398,10,13,「手汗すごい！　ククッ……ビショビショすぎるな」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_398
+399,10,13,「な、汝は胸だけでは止まらんからなぁ……あっあぅ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_399
+400,10,13,「こ、こらぁ！　いつまで揉んでおるのだぁ？　もう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_400
+401,10,13,「きょ、今日は揉まれすぎた……巨大化したらどうするのだ？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_401
+402,10,13,「ふあぁ……これは落ち着くな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_402
+403,10,13,「そ、それは、いくらなんでも、なですぎではないか？　さては我で遊んでおるな？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_403
+404,10,13,「な、なんかやっぱり、我のことを子供扱いしてはおらぬか？　もう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_404
+405,10,13,「そ、そこはちょっと敏感になっておるのだ……んっ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_405
+406,10,13,「き、キスするのではないのか？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_406
+407,10,13,「なんだ！　期待だけさせおって……もう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_407
+408,10,13,「ぼ、ボディタッチで誤魔化すでない！　我は怒っておるのだ！」,,com_ev_10_408
+409,10,13,「ふぅぅ……我はどんどん汝に惹かれておる……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_409
+410,10,13,「我の今日の下着……気になるか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_410
+411,10,13,「もっと絡もうぞ～……我は退屈しておるぞ！　ほれほれ楽しませるのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_411
+412,10,13,「んっ？　汝何をぼーっとしておるのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_412
+413,10,13,「こら！　我を放っておくな！」,,com_ev_10_413
+414,10,13,「もうよい！　我は魔界に帰る！」,,com_ev_10_414
+415,10,13,「なぜ追いかけてこないのだ！？　もうよい！　本当に帰るぞ！」,,com_ev_10_415
+416,10,13,「ううぅ～……最近、汝と居ると時が経つのが早いぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_416
+417,10,13,「続きはまた今度な……興奮が高まるであろう？　ククッ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_417
+418,10,13,「んっ？　もうこんな時間か……我は寂しい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_418
+419,10,13,「そうか……名残惜しいが、またな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_419
+420,10,13,「えっ、もう……い、いや引き止めるのは良くないな……それでは、またな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_420
+421,10,13,「わ、我の怒りっぽいところが嫌になったのか？　な、なぜ？」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_421
+422,10,13,「わ、我らの契約はもう、終わりだ……すまぬ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_422
+423,10,13,「わ、分かりやすい興奮の仕方であるな。ククッ……いいぞ、しても……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_423
+424,10,13,「わ、我の方から誘うのって、なんか我がエロいみたいではないか……でも、したいのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_424
+425,10,13,「感謝する……恥ずかしいけど……ムラムラしてるのだぁ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_425
+426,10,13,「こ、これはお預けという行為か？　ふぇぇっ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_426
+427,10,13,「ふぇっ！？　ここで！？　ひ、人がいるのに……あっ、あぅ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_427
+428,10,13,「さ、さすがにここではまずいぞ……あっちなら人もいないようであるし……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_428
+429,10,13,「ふぁっ！？　こ、興奮する……けど、もう……早く済ませるのだぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_429
+430,10,13,「ひ、人に見つかるではないかぁ……こらぁ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_430
+431,10,13,「昼飯～……行こう！　行こう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_431
+432,10,13,「昼飯タイムなのだ……一緒に食べようぞー……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_432
+433,10,13,「彼氏と食べる昼飯はうまいのだぁ～……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_433
+434,10,13,「残念だが……次は一緒に食べようではないか……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_434
+435,10,13,「我もコイカツするぞー……汝と一緒に……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_435
+436,10,13,「汝！　コイカツをするぞ……さあさあ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_436
+437,10,13,「部活でも一緒だな……これはラブラブというやつかのう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_437
+438,10,13,「友達との時間も、大切にせねばならんからな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_438
+439,10,13,「いいぞ！　さあ、魔界へ帰ろうではないか……手を繋いで……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_439
+440,10,13,「クククッ……さあ、手を繋いで帰るぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_440
+441,10,13,「帰宅デートとやらも、なかなか風流であるな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_441
+442,10,13,「ざ、残念だが……仕方あるまい」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_442
+443,10,13,「ふむ、いいぞ……汝と一緒に魔界へ行くのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_443
+444,10,13,「今度、我と魔界に行かぬか？　な、汝と一緒にいたいのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_444
+445,10,13,「そうか！　それでは、楽しみに待ってるぞ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_445
+446,10,13,「残念だが……また次回もあるしな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_446
+447,10,13,「ふむ、やろうぞ！　今回は魔界の……え？　やらない？……そうか」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_447
+448,10,13,「授業で分からないとこがあったのだ。教えてくれ！　後でご褒美あげるぞ……どうだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_448
+449,10,13,「うむ……一人より二人の方が勉強は、はかどるのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_449
+450,10,13,「そうだな……また時間がある時にな……」　,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_450
+451,10,13,「ククッ……よいだろう……力を高めるとしよう！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_451
+452,10,13,「運動をして二人でハッスルするぞ……どうだ？　やるか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_452
+453,10,13,「何事も体力が肝心だからな……あっちの方も……。い、いや、何も言ってはおらぬぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_453
+454,10,13,「そうだな、また今度やろう！　運動不足にならないようにお互い気をつけねばな……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_454
+455,10,13,「んっ？　なんなのだ？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_455
+456,10,13,「我は……歩きたくないのだ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_456
+457,10,13,「うむ」「ふむ……分かったぞ……」「分かったぞ……」「うむ……いいぞ……」「おっ！　ＯＫであるぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_457
+458,10,13,「否っ！」「嫌なのだ……」「それは無理であるぞ……」「それは困る……」「それは我の考えとは違うな」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_458
+459,10,13,「ふむふむ」「うむうむ、そうであるなぁ」「ほう、ほう」「ふむ、なるほど」「ほう……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_459
+460,10,13,「ふがっ！」「な、なんと！」「なぬっ！？」「ふぁっ！？」「ほげっ！？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_460
+461,10,13,「むふ……うれしいぞ……」「ふふっ……」　「よしよし……」　「クククッ……うれしいのだー……」「ふふっ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_461
+462,10,13,「むふ、うれしいぞ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_461_00
+463,10,13,「わ、我は怒っておるぞ！」「な、なんだと！」「ふむぅ！」「我の怒りの炎が……」「むむむっ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_462
+464,10,13,「グスン……悲しいぞ……」「わ、我は悲しくて泣きそうだ……」「我は泣きそうだぞ……」「グスッ……な、慰めてくれ」「あ、悪魔も悲しむのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_463
+465,10,13,「むふふ……我は楽しいぞ……」「楽しいぞ……楽しいぞ……」「た、楽しすぎるぞ！」「ふんふん……」「我は楽しくてハッピーなのだ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_464
+466,10,13,「は、恥ずかしいではないか……」「て、照れるぞ……」「こ、こらぁ…恥ずかしいのだ…」「こ、これは照れるのだ……」「ふぇぇっ！　は、ハレンチな！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_465
+467,10,13,「なあなあ……汝……」「汝、ちょっといいか？」「我の話を聞いてくれ……」「そういえばのう……」「汝にひとつ聞いていいか？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_466
+468,10,13,「……今はそんな気分ではない」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_468
+469,10,13,「なあ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_469
+470,10,13,「……な、なに、新たな名が馴染んだか確かめただけよ！」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_470
+471,10,13,「……うん、いいよ……じゃなくて、よいぞ。」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_471_00
+472,10,13,「よ……我と契りを交わそう」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_471_01
+473,10,13,「その」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_472_00
+474,10,13,「よ……今宵の我は飢えている……だから、しよ……？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_472_01
+475,10,13,「ふぇっ！？　な、汝よ……何故ここにいるのだぁ……？」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_473
+476,10,13,「ふぁ……は、入ってはダメだぞ！　早く出るのだ」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_474
+477,10,13,「ひゃっ！　汝……禁忌を犯してはならんぞ。我は恥ずかしい……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_475
+478,10,13,「汝！？　今は入ってはダメだ……入るなら、我しかいないときに……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_476
+479,10,13,「ククッ、我と語り合おうぞ……」,sound/data/pcm/c10/adm/00.unity3d,map_yobikake_10_00
+480,10,13,「な、なんだ？　付いて来ているぞ？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_000
+481,10,13,「な、汝がそこに入ることは許されていないぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_001
+482,10,13,「わ、我に用があるのか……？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_002
+483,10,13,「ふえ？　我……なのか？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_003
+484,10,13,「な、なにを言ってるのだ？　生まれつきに決まっているではないか！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_004
+485,10,13,「小さい時に読んだ……いや、なんでもない！　我はずっとこの喋り方だ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_005
+486,10,13,「クク……汝の友は、才能があるのかもしれないな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_006
+487,10,13,「そ、それは本当なのか？　我も、調べてみるとするか……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_007
+488,10,13,「えぇと……一緒に、魔界を歩くとか……？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_008
+489,10,13,「わ、我はそんなことを考えたりしないぞ……闇の研究で忙しいからな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_009
+490,10,13,「ま、魔界には百戦錬磨の恋愛マスターがいるのだ。奴がいる以上、我の出番はない……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_010
+491,10,13,「わ、我に相談事をしようとする勇気のある者は……今までいなかったな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_011
+492,10,13,「そんな軟派な歌を我は聞いたりせん。ほ、本当だぞ？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_012
+493,10,13,「そ、その様なことを尋ねられても……我には分からぬ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_013
+494,10,13,「終焉の時が来たようだ……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_014
+495,10,13,「じゃ、じゃあ……我はもう行くから……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_015
+496,10,13,「う、うむ……たまには、魔界以外の場所を散歩するとしよう」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_016
+497,10,13,「我は……その……魔界を巡回せねばならんのだ。すまぬ……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_017
+498,10,13,「誘う相手は、我で良いのか……？　間違いじゃないなら、我も行くぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_018
+499,10,13,「ぬぁぁ、急に妨害が……奴らが迫っているのか？　すまぬ……我は行けそうにない」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_019
+500,10,13,「ククク……我の実力を汝に見せる時が来たようだな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_020
+501,10,13,「えぇと……今はその、タイミングが……それは次の機会にしてくれ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_021
+502,10,13,「クク……我も魔力を補充しようと思っていたのだ。同行しよう」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_022
+503,10,13,「我の魔力はまだ余裕がある。食事の必要はない」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_023
+504,10,13,「我に声を掛けるとは……クク、命知らずめ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_024
+505,10,13,「汝よ、どうかしたのか？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_025
+506,10,13,「うむ。魔界初の動画サイトに入会しておってな、よく見ているぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_026
+507,10,13,「我は見るが、汝は止めておいた方が良い。悪魔の映画は恐ろしいからな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_027
+508,10,13,「ふふん、魔王降臨！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_028
+509,10,13,「剛毅果断！　なんか、響きが必殺技みたいでカッコいい……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_029
+510,10,13,「やはり……汝は適合者なのだな。今は資格を失っているようだが、汝ならすぐ取り戻せるぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_030
+511,10,13,「考えていた時期とはなんだ！　我は本当のことしか言ってないぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_031
+512,10,13,「その特徴は魔物に違いない。生きて帰るとは、汝は幸運だな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_032
+513,10,13,「その……我が読んでいる書物の中に、好きな台詞があって……似た様なことを言われたら、契約を結んでしまうかもしれぬ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_033
+514,10,13,「わ、我は……ストレートに気持ちを伝えてくれたら、それで……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_034
+515,10,13,「少しは、その……考えたりする……かもしれないな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_035
+516,10,13,「わ、我は魔界のことで忙しいからな。恋愛事に現を抜かしている暇はないのだ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_036
+517,10,13,「ない！　そ、そこはきっと……魔界より恐ろしい場所だから……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_037
+518,10,13,「ゴウコン？　それはどの辺りにあるのだ？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_038
+519,10,13,「我は闇に消えるとしよう」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_039
+520,10,13,「刻が来たら、また会おうぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_040
+521,10,13,「わ、私は……その……もっと関係を深めてからの方が……いいと思う……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_041
+522,10,13,「な、汝と……契約を結び……恋仲に、なりたいのだ……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_042
+523,10,13,「そうか……べ、別に悲しくなんてないぞ。我に気を使う必要は……ないから」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_043
+524,10,13,「うむ。視察に赴くとしよう」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_044
+525,10,13,「すまぬ、魔界の散歩を済ませたばかりでな。また今度誘ってくれないか」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_045
+526,10,13,「汝よ、この島を案内してくれないか？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_046
+527,10,13,「助かるぞ！　この大役は、汝にしか頼めなかったのだ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_047
+528,10,13,「そうか……では、別の機会に頼むとしよう」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_048
+529,10,13,「ククッ、では汝を魔界まで……あ、島で遊ぶのだな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_049
+530,10,13,「すまぬ……今は魔力を練っている途中なのだ。また今度よろしく頼む」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_050
+531,10,13,「汝よ、饗宴の宴を我と開こうぞ！　……だから、その……遊びに行こう？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_051
+532,10,13,「良いのだな！　え？　饗宴と宴で意味が被っている……？　さ、些事なことよ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_052
+533,10,13,「そうか……宴はまた今度だな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_053
+534,10,13,「我を勧誘しようとするとはな……ククッ、良いぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_054
+535,10,13,「今の我では汝足を引っ張ってしまう……すまぬな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_055
+536,10,13,「工房へと汝を誘うとしよう。……えっと、一緒に体験を申し込みたいのだ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_056
+537,10,13,「クク、確かに返事を聞き届けたぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_057
+538,10,13,「汝と一緒にしたかったのだが……仕方ないか」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_058
+539,10,13,「ちょうど贄が欲しかったところだ。ククッ、血が騒ぐな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_059
+540,10,13,「……我は遠慮しておく。べ、別にダイエットをしているわけではないぞ？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_060
+541,10,13,「汝をパーティーに招待するぞ！　充分に腹を満たしていくと良い」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_061
+542,10,13,「では、行こう！　へ？　我の奢りではないぞ？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_062
+543,10,13,「汝の腹は既に満たされていたのだな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_063
+544,10,13,「い、今すぐというのは……心の準備が……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_064
+545,10,13,「クク……存分に語り合おうぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_065
+546,10,13,「汝、待っていたぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_066
+547,10,13,「魔界では電子マネーが一般的だな。現金は何年も見ていないかもしれん」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_067
+548,10,13,「か、貨幣だと！？　それは、その……汝が知るにはまだ早い！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_068
+549,10,13,「我の様なヒューマンタイプ以外にも、色々いるぞ。我も全部は把握できていないな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_069
+550,10,13,「死神にウェアウルフ、サキュバスなど様々な……こら、ゲームの話ではないぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_070
+551,10,13,「やっぱりとはなんだ！　いや、嫌いというわけではないが……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_071
+552,10,13,「う、うむ、好きだ。魔界でも放映されているから、我はよく布教しているのだ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_072
+553,10,13,「汝……！　天賦の才があるのではないか！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_073
+554,10,13,「け、結婚する前提なのか！？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_074
+555,10,13,「わ、我は別に……こだわらないぞ？　汝と結ばれるのなら、我はそれで……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_075
+556,10,13,「触ったことはあるが、なんというか気恥ずかしくて……最後までプレイはできなかったぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_076
+557,10,13,「ないな。我はカッコイイ話を求めているからな、範囲外なのだ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_077
+558,10,13,「うむ。だが白色ではなく、赤か黒が一般的だな」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_078
+559,10,13,「悪魔の趣味嗜好にもよるな。着る派の方が多数ではあるぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_079
+560,10,13,「ふわぁっ！？　急に歯の浮くようなセリフを言うなぁ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_080
+561,10,13,「寂しいが……とこしえの別れではないからな。我は平気だ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_081
+562,10,13,「また会える時まで、しばし別れの時間だな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_082
+563,10,13,「どこまでも汝と共に行くぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_083
+564,10,13,「どうだ？　我と旅をしたくはないか？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_084
+565,10,13,「うむ。では島を巡るとしよう」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_085
+566,10,13,「そうか……汝がいなければ、意味はないのだがな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_086
+567,10,13,「クク、我と汝が揃えば無敵だぞ！　とことん遊び倒すとしよう！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_087
+568,10,13,「汝と一緒に遊びたい……ダメか？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_088
+569,10,13,「良いのだな！　クククッ、力が漲ってくるぞ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_089
+570,10,13,「残念だ……しっかり魔力を蓄えるのだぞ？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_090
+571,10,13,「うむ！　こちらの技術を盗んでくるとしよう！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_091
+572,10,13,「我は気になる体験があるのだが……付き合ってくれないか？」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_092
+573,10,13,「汝が付いて来てくれるなら、マスターしたも同然だな！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_093
+574,10,13,「残念だが、致し方ないな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_094
+575,10,13,「クク……我も血を求めていたのだ。汝に付き合うぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_095
+576,10,13,「汝よ、腹を空かせていては来るべき時に力を発揮できないぞ！　今すぐ腹を満たしに行こう！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_096
+577,10,13,「クク、良い判断だ。さぁ、血湧き肉躍る戦場へ！」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_097
+578,10,13,「まだ力を温存していたのだな……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_098
+579,10,13,「汝の部屋か？　う、うむ……問題ないぞ」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_099
+580,10,13,「私はまだ……心の準備が……」,sound/data/pcm/c10/adv/00.unity3d,sun_com_10_100

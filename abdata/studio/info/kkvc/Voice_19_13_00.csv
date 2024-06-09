@@ -1,0 +1,581 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0,19,13,「ひゃっ！？　こ、ここは女子トイレですよ～っ！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_000
+1,19,13,「ひゃぁぁっ！？　み、見ないでください～っ！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_001
+2,19,13,「……今急いでるから、また今度……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_002
+3,19,13,「……なんでしょうか……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_003
+4,19,13,「ご、ごめんなさい。今急いでるから……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_004
+5,19,13,「すぅ……すぅ……」,,com_ev_19_005
+6,19,13,「ひゃっ……あ、あっちをを向いて……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_006
+7,19,13,「そ、その……あまり見ないで欲しい……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_007
+8,19,13,「あっ……あなたも、ここが気に入ったの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_008
+9,19,13,「あっ……、こ、これからお出かけ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_009
+10,19,13,「あっ……あなたも、本に興味があるの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_010
+11,19,13,「え、えっと……何が待ってるんだろう？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_011
+12,19,13,「えっ！？　そ、そこは駄目だよ。立ち入り禁止……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_012
+13,19,13,「あっ、来てくれた、の……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_013
+14,19,13,「昨日読んだ本には……っ！　な、なんでもないよ！？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_014
+15,19,13,「こ、こんにちは。えっと……見学に来たの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_015
+16,19,13,「い、いらっしゃい……ちょっと、緊張するかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_016
+17,19,13,「えっと……コイカツ部、だっけ？　……が、頑張ってね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_017
+18,19,13,「あ……これからお昼？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_018
+19,19,13,「えっと……き、今日も一日、お疲れ様……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_019
+20,19,13,「……っ！？　ご、ごめんなさい！　何か、ご用……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_020
+21,19,13,「……？　あっ、ど、どうしたの……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_021
+22,19,13,「えっと……最近多いのは、恋愛ものとか、かな……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_022
+23,19,13,「ええっと……特に決まったジャンルはない、かな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_023
+24,19,13,「あ、ありがとう。古典とか英語は、得意な方だよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_024
+25,19,13,「そ、そんなことないよ。理数系とかは、全然ダメだし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_025
+26,19,13,「と、図書室とか屋上とか……静かに読書できそうな、ところかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_026
+27,19,13,「えっと……どこか静かなところが好き……かな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_027
+28,19,13,「えっと……ちょっと、ついていけないかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_028
+29,19,13,「えっと……図書館から借りた本、なの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_029
+30,19,13,「えっと……普段は図書館か、書店、かな……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_030
+31,19,13,「そ、そうなの……？　小説の中に出てきそう、だね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_031
+32,19,13,「ない、かな……フィクションと現実の区別はつくよ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_032
+33,19,13,「えっと……本との出会いなら、それなりには……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_033
+34,19,13,「あっ……確かに、そういう節はあるかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_034
+35,19,13,「うん……でもそれって結局、一方通行の想いだよね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_035
+36,19,13,「……ゆったり本を読むのが好きだから……同じようにゆったりするのが好きな人……とか」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_036
+37,19,13,「あぅ……あ、あまりわからない、かも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_037
+38,19,13,「……そ、その、できれば他の話題に、してもらえる……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_038
+39,19,13,「そ、そうだね。みんな、恋に恋しているってところなのかな……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_039
+40,19,13,「あ、焦る事はないと思うよ？　千里の道も一歩からだし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_040
+41,19,13,「えっ……！？　ひ、人の恋路って、すごいんだね……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_041
+42,19,13,「わ、悪くはない、かな……リードしてくれる人って、頼れそうだし」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_042
+43,19,13,「う、うう……人の聖域にも平気で踏みこんできそうで、怖いかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_043
+44,19,13,「お、落ちつきがあるのは……良い事だと、思うよ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_044
+45,19,13,「うーん......あんまり頼りにはならなさそう、かも？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_045
+46,19,13,「う、うん。努力って大切だと思うし、気は合いそうかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_046
+47,19,13,「えっと……歩調とか合わせられなさそう、かも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_047
+48,19,13,「き、嫌いではないと思う。お互い自然体で接していけそうだし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_048
+49,19,13,「あ、あんまり振り回されるのは……苦手、かな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_049
+50,19,13,「私は、良いと思う……紳士な人だと、あまり怖くはならないから」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_050
+51,19,13,「うーん、裏があるかもって思えて……信用はできないかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_051
+52,19,13,「う、うん。周りに流されない人って、頼りになりそうかな……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_052
+53,19,13,「え、えっと……やっぱり怖いかも。冷酷な部分とかありそうで……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_053
+54,19,13,「え、えっと……体調とか、そういう方面……とか？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_054
+55,19,13,「ええっと、その……お、男の子には、禁則事項ですっ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_055
+56,19,13,「そ、その……小説とかで、多少は……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_056
+57,19,13,「え、えっと……は、恥ずかしくて言えないよぉ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_057
+58,19,13,「えっと、どう言えばいいかな……文字だけで伝えるものだから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_058
+59,19,13,「そ、それは……ジャンルによってさまざまだから、何とも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_059
+60,19,13,「も、もうやめて……は、恥ずかしいよぉ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_060
+61,19,13,「あの、何だか目つきが……ちょっと怖い……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_061
+62,19,13,「……っ！　だ、駄目、その……不健全だから……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_062
+63,19,13,「……あうぅ、そんな事、わざわざ言わなくても……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_063
+64,19,13,「え、えっと……私、愛想悪いとか思われてたり、する……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_064
+65,19,13,「う、うん。自覚はあるんだけど、つい……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_065
+66,19,13,「そ、そうかな……たまに呼ばれても気づかなかったりするから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_066
+67,19,13,「……えっと、やっぱり言いづらいの……？　その、ごめんなさい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_067
+68,19,13,「えっと、動物とかは……好き？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_068
+69,19,13,「そうなんだ。私も、小説とかの物語でもよく見るから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_069
+70,19,13,「うん、実物を見ると、ニオイとかが思ったよりね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_070
+71,19,13,「お、男の子って、やっぱり食事の量も多いの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_071
+72,19,13,「そ、そうなの？　確かに体格から変わってくるし、納得かも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_072
+73,19,13,「そ、そうなんだ。草食系……とはちょっと違う、よね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_073
+74,19,13,「あ、あの……料理とかは、毎日どうしてるの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_074
+75,19,13,「そうなの……私も興味あるかな。本の題材にもよく出てくるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_075
+76,19,13,「あー、私もそうかな。意外と不器用だったりするし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_076
+77,19,13,「う、運動とかスポーツって……好き？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_077
+78,19,13,「そうなんだ。小説にもよく取り上げられるものね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_078
+79,19,13,「あっ、私と一緒ね。見る分にはいいなぁって思うんだけど……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_079
+80,19,13,「えっと……、普段の勉強は、ちゃんとやってる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_080
+81,19,13,「あっ、分かるかも……気付いたら、教科書を読み込んでたりするし」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_081
+82,19,13,「ふぅん……私も、理数系とかはちょっと苦手意識があるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_082
+83,19,13,「お、おしゃれとか身だしなみって、気にする方？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_083
+84,19,13,「そうなんだ。私も気になってはいるけど、合うかどうかは……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_084
+85,19,13,「あ、お仲間だね……うん、野暮ったいとかよく言われるの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_085
+86,19,13,「そうなの……えっと、みんな違って、みんな良い、だから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_086
+87,19,13,「……それより、本の続きを読んでいたいのだけど……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_087
+88,19,13,「す、少し意地張っちゃったかな……また、仲良くしてくれる……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_088
+89,19,13,「……ごめんなさい。やっぱりまだ気が収まらないの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_089
+90,19,13,「……っ？　何か、ついてる……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_090
+91,19,13,「……ご、ごめんなさい。本に集中できないから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_091
+92,19,13,「……えっと、そんなにじろじろ、見ないで……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_092
+93,19,13,「えっと、この本に興味が……え、違う？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_093
+94,19,13,「あの……視線が、いやらしいよ……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_094
+95,19,13,「その……そんなに見ないで？　恥ずかしいよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_095
+96,19,13,「……何かの、いらがらせ……？」,,com_ev_19_096
+97,19,13,「えっ？……私の手に、何か……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_097
+98,19,13,「えっと……このままじゃ、読書ができないから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_098
+99,19,13,「うぅぅ……そろそろ、離してほしい……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_099
+100,19,13,「ひゃっ！？　な、なにっ……！？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_100
+101,19,13,「ひぅぅ……お願いだから、やめてぇ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_101
+102,19,13,「や、やめて……セクハラ、だよ……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_102
+103,19,13,「……？　私の髪に、何かついてた……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_103
+104,19,13,「あぅぅ……そんなに堂々とされたら、恥ずかしいよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_104
+105,19,13,「その……そろそろ、離してくれる……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_105
+106,19,13,「んっ……！？　き、急に何を……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_106
+107,19,13,「駄目……スキンシップでも、激しすぎるよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_107
+108,19,13,「はぅぅ……これ以上は、刺激が強すぎるよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_108
+109,19,13,「……読書の邪魔になるの。やめてくれる……？」,,com_ev_19_109
+110,19,13,「こんな青春の1ページも、悪くないかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_110
+111,19,13,「次の1ページは、どんな物語になるのかな……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_111
+112,19,13,「えっと……読書の続き、しててもいい……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_112
+113,19,13,「……用がないのなら、読書に戻るよ？」,,com_ev_19_113
+114,19,13,「……今はここまでにして。本の続きを読むから……」,,com_ev_19_114
+115,19,13,「……ごめんなさい。今は本に集中していたいから……」,,com_ev_19_115
+116,19,13,「あっ、もうこんな時間……ええ、また今度ね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_116
+117,19,13,「その、本で見た事なんだけど……いえ、なんでもない！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_117
+118,19,13,「そ、そろそろ読書に戻るわね。それじゃまた……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_118
+119,19,13,「え、ええ。また用があったら、声をかけてね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_119
+120,19,13,「えっ？　う、うん、またね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_120
+121,19,13,「うん。今日もよろしくね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_121
+122,19,13,「えっと、今日は他の用事が残ってるから……ごめんなさい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_122
+123,19,13,「うん、いいよ。どの範囲、勉強する？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_123
+124,19,13,「ご、ごめんなさい。今は都合が……また今度お願いね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_124
+125,19,13,「うん……たまには、体をほぐさないと」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_125
+126,19,13,「ええっと……私は、読書の方がいいかな……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_126
+127,19,13,「……今度もよろしくね、白ウサギさん」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_127
+128,19,13,「えっと、今は外せないから……また今度ね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_128
+129,19,13,「ひゃ……こ、ここは入っちゃダメだよ。今のうちに、ね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_129
+130,19,13,「ひゃっ！？　ここは男子禁制だよっ！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_130
+131,19,13,「ひゃ……の、覗きはダメだよ。今なら他に居ないから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_131
+132,19,13,「ひゃっ……み、見ちゃだめだよ……っ！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_132
+133,19,13,「……何？　話なら後にしてもらえる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_133
+134,19,13,「……何の用事？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_134
+135,19,13,「ごめんなさい、今立て込んでて……また今度お願いね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_135
+136,19,13,「あぁ……小説とかと違って、やっぱり恥ずかしいよ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_136
+137,19,13,「ひゃっ、み、見ないで！　恥ずかしいよ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_137
+138,19,13,「私の水着、変じゃないかな……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_138
+139,19,13,「やっぱり男の人に見られるの、まだ慣れないかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_139
+140,19,13,「こんにちは。気持ちのいい風ね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_140
+141,19,13,「こんにちは。ここって、小鳥のさえずりが心地良いの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_141
+142,19,13,「あっ、いらっしゃい。今日はどんな本を読みに来たの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_142
+143,19,13,「ふふっ、まるで不思議の国のアリスみたい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_143
+144,19,13,「待って！　そこは男子禁制よ？　入っちゃダメっ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_144
+145,19,13,「えっと……今度のデート、楽しみだね……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_145
+146,19,13,「あっ、来てくれた……嬉しい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_146
+147,19,13,「男の子一人だけって、やっぱり辛い？　その……色々と」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_147
+148,19,13,「あっ、タオル……わざわざ持ってきてくれたのね、ありがとう」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_148
+149,19,13,「あっ、今日は部活お休み？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_149
+150,19,13,「部活中？　えっと……頑張ってね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_150
+151,19,13,「お昼になったね。食事はどうする予定？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_151
+152,19,13,「今日もお疲れ様」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_152
+153,19,13,「ひゃっ！？　……って、あなただったのね。驚いちゃった」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_153
+154,19,13,「あっ、私になにか用事？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_154
+155,19,13,「うん。書店で目についたり、友達に推薦されたものとかなら」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_155
+156,19,13,「漫画はあまり読まないかな。ライトノベルあたりなら読むけれど」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_156
+157,19,13,「そうだね、本に囲まれてると落ち着くんだ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_157
+158,19,13,「図書館だけじゃないよ。屋上とか中庭にも、たまに足を運ぶの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_158
+159,19,13,「そうね……クラシックとか、落ち着きのある曲が好みかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_159
+160,19,13,「うーん……音楽とは違うけど、自然の音とかは好きかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_160
+161,19,13,「うん。といっても、本格的なものとは程遠いんだけどね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_161
+162,19,13,「うーん……ちょっとした詩集くらいなら経験したかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_162
+163,19,13,「えっと、ごめんなさい。ちょっとついてけないかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_163
+164,19,13,「それって本当？　まるで小説のワンシーンみたいね！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_164
+165,19,13,「よくあるかな……恋に恋するって感じ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_165
+166,19,13,「あ、あるにはあるんだけど……恥ずかしさの方が強いかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_166
+167,19,13,「そうね。小さい頃からずっと、シンデレラには憧れがあるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_167
+168,19,13,「今はそれほどでもないかな……王子様にも色々な面があるし」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_168
+169,19,13,「そうね……月が綺麗ですね、ってセリフかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_169
+170,19,13,「うーん、その人その人で魅力って違うと思うから、何とも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_170
+171,19,13,「……交換日記とか、やってみたいな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_171
+172,19,13,「ええっと……あまり意識してなかったかも……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_172
+173,19,13,「な、なんだか恥ずかしいね。話題、変えようか？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_173
+174,19,13,「わぁ……校内でも、そんなことが……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_174
+175,19,13,「えっと、中学に上がる前かな。そういう内容の本を見つけて……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_175
+176,19,13,「そ、それは……は、恥ずかしすぎるよぉ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_176
+177,19,13,「えっと……その、一人でできることなら、少しは……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_177
+178,19,13,「そんな事……は、恥ずかしいしできないよぉ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_178
+179,19,13,「えっ？　どうなんだろう……でも、何となくわかるかも……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_179
+180,19,13,「……だっだめっ！　そんなの考えるだけで恥ずかしいよぉ！」　,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_180
+181,19,13,「え、えっと……小説の内容を自分に置き換えたらって事は……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_181
+182,19,13,「あうぅ……き、禁則事項で……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_182
+183,19,13,「その、別の話題にしよ？　他の人の目もあると思うし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_183
+184,19,13,「えっと、それは……二人だけの秘密にしておきましょう？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_184
+185,19,13,「そういえば、この前勧めた本、どうだった？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_185
+186,19,13,「本当？　私もあの本大好きで……！　また詳しく感想を聞かせて欲しいな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_186
+187,19,13,「そっか……今度、詳しい感想を聞いてもいい？　自分と違う意見を知りたいの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_187
+188,19,13,「そうだ。珈琲はブラックで飲む方？　それとも、何か入れる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_188
+189,19,13,「そうよね。豆本来の風味とか、淹れ方の違いが楽しめるし」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_189
+190,19,13,「わかるわ。ミルクや砂糖もその日の気分で調節できるしね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_190
+191,19,13,「辛いものって平気？　最近読んだ本に辛い料理のお話が出てきて、ちょっと気になって」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_191
+192,19,13,「へえ、私はわさび派かな。鼻を通るあの感覚、癖になるよね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_192
+193,19,13,「そうなの。私も刺激が強すぎて、なかなか手が出せないんだ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_193
+194,19,13,「甘いものは好き？　和菓子とか、洋菓子とか」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_194
+195,19,13,「わかるわ。私もティータイムのお菓子には目がないの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_195
+196,19,13,「あ、やっぱり？　男性って、甘いものが苦手な人が多いよね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_196
+197,19,13,「大雑把でいいんだけど……理想のバストサイズって、どのくらい？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_197
+198,19,13,「そう、よね。確かに胸は母性の象徴とも言うし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_198
+199,19,13,「ふふっ、大きさより形にこだわるのね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_199
+200,19,13,「そ、そうよね。着物とかは慎ましい方が似合うしね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_200
+201,19,13,「えっとね……女性の背丈に好みとかはあったりする？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_201
+202,19,13,「本当？　小さい頃からこの身長がコンプレックスだったから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_202
+203,19,13,「あはは、どうしても周りと比べて不安になることがあってね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_203
+204,19,13,「そうなんだ……私、初めてこの身長に自信が持てたかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_204
+205,19,13,「女の子の体型って、やっぱり気になるよね……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_205
+206,19,13,「そうなんだ……小説とかではあまり見ないから、正直意外かも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_206
+207,19,13,「そうよね。やっぱり健康的な体型が一番の理想だよね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_207
+208,19,13,「本当？　不健康じゃないか気にしてたけど、ちょっと嬉しいかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_208
+209,19,13,「へえ、それがあなたの好みなんだ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_209
+210,19,13,「……その前に、あなたにはやるべき事があると思うな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_210
+211,19,13,「……それなら私も、水に流します」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_211
+212,19,13,「むぅ……察しが悪いにも程があるよ……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_212
+213,19,13,「あら？　私、変な顔してた？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_213
+214,19,13,「流石に、そこまで見つめられると……恥ずかしいよ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_214
+215,19,13,「……えっと、言いたい事があるなら、言っていいよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_215
+216,19,13,「その目線……本よりも私に興味があるって感じ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_216
+217,19,13,「もう……そんなにじろじろ見るなら、本で遮っちゃうよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_217
+218,19,13,「……それとも、女の子の胸に興味があるの……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_218
+219,19,13,「……そんな不埒な視線はいらないわよ？」,,com_ev_19_219
+220,19,13,「あっ……もう、大胆不敵なんだから」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_220
+221,19,13,「そろそろ離してくれる？　このままじゃ次のページに進めないの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_221
+222,19,13,「もう……本が読みづらいのだけど？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_222
+223,19,13,「ひゃっ！？　いきなり触らないでよぉ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_223
+224,19,13,「これ以上はダメ！　小説でもこんなに露骨じゃないよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_224
+225,19,13,「もう……破廉恥なのは嫌いよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_225
+226,19,13,「あっ……私、妹っぽかったりする？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_226
+227,19,13,「そろそろいいでしょ？　さすがに恥ずかしいんだから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_227
+228,19,13,「も、もうダメ！　顔から火が出ちゃうよぉ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_228
+229,19,13,「んっ！？　もう、頬は敏感なんだよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_229
+230,19,13,「も、もう駄目！　本に集中できなくなっちゃうから……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_230
+231,19,13,「もうっ、駄目って言ってるのに……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_231
+232,19,13,「お触りは禁止。読書の邪魔になるの」,,com_ev_19_232
+233,19,13,「あなたと一緒にいると、どこか楽しい気分になるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_233
+234,19,13,「さっきのお話……その、私、気になっちゃって……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_234
+235,19,13,「次は、どの本の話をしようかなぁ……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_235
+236,19,13,「……えっと、今読んでる本だけど……あ、ううん。何でもない」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_236
+237,19,13,「……今、変な事考えてないよね？」,,com_ev_19_237
+238,19,13,「……私だって、いう時はちゃんと言うんだからね？」,,com_ev_19_238
+239,19,13,「……少し、距離を置きましょう。次はお互い冷静になってからね」,,com_ev_19_239
+240,19,13,「不思議ね。あなたのお話が、本の事よりも頭に残っていくの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_240
+241,19,13,「その、ね……今度内緒で、エッチな小説を持ってきてあげる」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_241
+242,19,13,「それじゃ、私はそろそろ読書に戻るね。また呼んでね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_242
+243,19,13,「あ、話し込んじゃったね。また時間のあるときにお話しましょう」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_243
+244,19,13,「さようなら、またお話しましょうね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_244
+245,19,13,「えっと……ごめんなさい。もう少し仲を深めてから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_245
+246,19,13,「……うん、待たせてごめんなさい。私も……好き」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_246
+247,19,13,「その……ごめんなさい。まだ気持ちの整理ができないの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_247
+248,19,13,「その、もし良かったら……私と、お付き合いしてくれますか？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_248
+249,19,13,「あぁ……！　ありがとう。私、死んでもいいわ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_249
+250,19,13,「そう……でもいいの。この気持ちだけでも、伝えられたから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_250
+251,19,13,「その、未練がましいのは承知してるけれど……やっぱり、好き」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_251
+252,19,13,「ほ、本当に……？　ああ、嬉しくて、言葉にできない……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_252
+253,19,13,「うん、分かってる。でも、振り向いてくれるの、待ってるから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_253
+254,19,13,「えっ……だ、ダメ！　そういう事は、恋人同士でないと……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_254
+255,19,13,「……分かった。……責任は、とってよね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_255
+256,19,13,「私たち、健全な関係でいましょう……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_256
+257,19,13,「えっ、こんな人前で……う、うん……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_257
+258,19,13,「えっ……だ、ダメだよ。そんな恥ずかしい事、できない……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_258
+259,19,13,「こ、ここで……うん。でも周りには、気を使ってよ……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_259
+260,19,13,「うぅ……だ、ダメ！　誰かに見られたら恥ずかしすぎるよぉ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_260
+261,19,13,「その、あなたさえ良ければだけど……私を、抱いてくれる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_261
+262,19,13,「ごめんなさい、ふしだらな女で。その分、満足させてあげるから」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_262
+263,19,13,「あっ……そ、そうだよね。今のは忘れて……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_263
+264,19,13,「うん、いいよ。えっと、どこで食べる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_264
+265,19,13,「ごめんなさい、今日は先約がいるから……また今度ね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_265
+266,19,13,「良かったら、お昼をご一緒していいかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_266
+267,19,13,「ありがとう。あなたと一緒だと、いつもより食事が楽しいの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_267
+268,19,13,「あっ、都合が悪かった？　それなら、また今度誘うね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_268
+269,19,13,「……うん。よろしくね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_269
+270,19,13,「ごめんなさい、今は外せなくて……また今度ね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_270
+271,19,13,「その、コイカツって……女の子の方から誘ってもいいんだよね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_271
+272,19,13,「ありがとう。それじゃあ、何をしようか？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_272
+273,19,13,「あっ、もしかして先約が？　それなら、邪魔になる前に退くね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_273
+274,19,13,「うん、いいよ。えっと、それじゃ帰る準備してくるね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_274
+275,19,13,「ごめんなさい、この後図書委員の仕事があるの。また今度ね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_275
+276,19,13,「もし良かったらだけど、一緒に帰ってもいい？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_276
+277,19,13,「ありがとう。準備して、待ってるね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_277
+278,19,13,「そうなんだ。ごめんなさい、時間取らせちゃって……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_278
+279,19,13,「えっと……二人きりで出掛けるのは……まだ、ちょっと……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_279
+280,19,13,「……うん、いいよ。その、よろしくね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_280
+281,19,13,「ごめんなさい……ここ最近、都合が悪くて……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_281
+282,19,13,「その、よかったら……デート、してくれますか？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_282
+283,19,13,「あ、ありがとう。自分から誘うのって、勇気がいるね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_283
+284,19,13,「そう……そ、それならまた今度、都合のいい時に誘うから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_284
+285,19,13,「いいよ。私も予習しようと思っていたところなの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_285
+286,19,13,「ごめんなさい、今は他の用事が……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_286
+287,19,13,「急な話だけど、一緒に勉強しない？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_287
+288,19,13,「ありがとう。きちんと復習をしておきたかったの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_288
+289,19,13,「そう、……分かった。勉強は一人でやるね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_289
+290,19,13,「運動……いいけど、何をするの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_290
+291,19,13,「えっと、今は本を読みたいから、できれば遠慮したいかな……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_291
+292,19,13,「これから身体を動かそうと思うんだけど、一緒にどうかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_292
+293,19,13,「うん。それじゃ、張り切って……何しよっか？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_293
+294,19,13,「あ、用事があった？　それじゃあ、別の機会で誘うね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_294
+295,19,13,「えっと……もう少し考えてからで、いい？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_295
+296,19,13,「えっと、私もコイカツ部に入りたいんだけど……いいかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_296
+297,19,13,「ふふっ、いいよ。今日はどんな不思議の国へ行くの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_297
+298,19,13,「ごめんなさい、今は忙しくて……アリスにはなれそうにないの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_298
+299,19,13,「もう、また入ってきたの？　ほら、周りの目がないうちに……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_299
+300,19,13,「ダメだよ入ってきちゃ。私はともかく他の子が許さないのよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_300
+301,19,13,「やっぱり来ちゃったのね……覗いていいのは、私だけだよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_301
+302,19,13,「もう、男子禁制って言ってるのに。私以外の子の着替えは覗かないこと！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_302
+303,19,13,「……もう、知らない」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_303
+304,19,13,「……何？　私今、ちょっと機嫌が悪いの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_304
+305,19,13,「ごめんね、今忙しくて……終わってからゆっくりね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_305
+306,19,13,「この下着、普段付けているものだから……つまらなくない？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_306
+307,19,13,「あっ、他の子は見ちゃだめ！　その……私だけで我慢して？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_307
+308,19,13,「不思議……あなたに見られてると思うと、とてもドキドキするの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_308
+309,19,13,「どうかな……他の子たちと比べて、見劣りしない？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_309
+310,19,13,「ふふっ、待ってたよ。なんだか来てくれそうな気がしてたの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_310
+311,19,13,「ふふっ、私たち、まるでオシドリみたいね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_311
+312,19,13,「いらっしゃい。今日はどんな物語を紡ぎましょうか……なんてね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_312
+313,19,13,「ふふっ、大丈夫。あなたのアリスはここにいるわ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_313
+314,19,13,「もう、そこは不思議の国じゃないよ？　少女の夢を壊しちゃダメ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_314
+315,19,13,「今度のデートの為に、前に読んだ小説で復習してるの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_315
+316,19,13,「本を読んでいる時も、ずっとあなたの事が頭から離れないの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_316
+317,19,13,「今日の本だけど……周りには見せないようにしてね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_317
+318,19,13,「あっ、見に来てくれたの？　うん、あなたの応援に応えてみせるからね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_318
+319,19,13,「ふふっ、来てくれて嬉しい。コイカツ部も合同で活動してみる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_319
+320,19,13,「もしかしてコイカツ中？　私ならいつでも一緒にできるよ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_320
+321,19,13,「お昼になったね。うふふ、お腹の虫が鳴いてるよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_321
+322,19,13,「お疲れ様、放課後を楽しみにするのって久しぶりかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_322
+323,19,13,「あっ……あなたを想っていたら、本当に迎えに来てくれたのね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_323
+324,19,13,「私もお話の幅が広がったよね。今日はどんなお話？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_324
+325,19,13,「絵本になるけど、シンデレラかな。本を読むようになったきっかけかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_325
+326,19,13,「本とは違うけど、栞かな。初めて貰ったものをずっと使い続けてるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_326
+327,19,13,「そうね……あなたに教えてもらった事に関する本探し、かな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_327
+328,19,13,「うーん、自分でもどれだろうって思うかな。候補が多すぎるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_328
+329,19,13,「うん。おかげで視力はあんまり良くないんだよね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_329
+330,19,13,「流石に寝る前は我慢してるかな。見入っちゃうと眠れなくなるもの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_330
+331,19,13,「やっぱり、図書館司書かな。片手間で詩や小説を書いてみるのもいいかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_331
+332,19,13,「うーん、色々迷っているけど、何かしら本に関わる仕事に就きたいと思ってるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_332
+333,19,13,「えっと、違う話しをしてもいいかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_333
+334,19,13,「そうなの？　猫も授業を受けたかったのかもね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_334
+335,19,13,「そんな本があったのね。私も読んでみるね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_335
+336,19,13,「えっ！？　……やっぱり、あなたかな。本は作り直せるし」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_336
+337,19,13,「うーん、また意地悪な質問ね……即答はできないかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_337
+338,19,13,「私はいつまでも待つ方かな。その間に読書で暇つぶしもできるし」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_338
+339,19,13,「そうね……持ってきた本を読み終わるまでがタイムリミットかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_339
+340,19,13,「それは、そうね。恋人って、友達の次のステップだと私は思うから」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_340
+341,19,13,「えっと……どうしよう。LikeとLoveの区別の付け方に困っちゃうわ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_341
+342,19,13,「えっと、それは……不束者だけど、よろしくお願いします……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_342
+343,19,13,「えっ、それって……い、いくら何でも早すぎるよ。心の準備が……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_343
+344,19,13,「……ちょっと恥ずかしくなってきたから、その話は後にしましょ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_344
+345,19,13,「っ！？……うん、私もあなたが好き……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_345
+346,19,13,「……うん、私も時々、あなたの事を夢に見る事があるの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_346
+347,19,13,「えっと……割と重め、かな？　小説と違って結構生々しいんだよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_347
+348,19,13,「その……自分でも分からないよ。本でも個人差が激しいとしか……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_348
+349,19,13,「……うん。触られてると、母乳が出るところなんだなって意識するの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_349
+350,19,13,「それは……その……黙秘します……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_350
+351,19,13,「その……勉強のためにと思って……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_351
+352,19,13,「……描写がある本は持ってるけど、それ自体がメインの本はないかな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_352
+353,19,13,「もう……そ、そんなこと聞かれても……うぅ……か、感じる、これでいいでしょ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_353
+354,19,13,「その……刺激が強いのは事実だけど……その……い、言わせないで……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_354
+355,19,13,「も、もうこの話題はダメっ！不埒です、破廉恥ですっ！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_355
+356,19,13,「……そ、そんな事……うぅ。で、でも、あなたがしたいなら……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_356
+357,19,13,「官能小説の事？　……書く時は、あなたをモデルにしちゃうよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_357
+358,19,13,「実は友達にイメチェンを勧められて……あなたはどう思う？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_358
+359,19,13,「そうなんだ……それなら、今度のデートで試してみようかな……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_359
+360,19,13,「そうだよね。元々ファッションには疎いし、下手な事したら逆効果だよね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_360
+361,19,13,「最近明るくなったねって言われたんだけど、そう思う？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_364
+362,19,13,「うふふ、まるで魔法の解けないシンデレラになったみたい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_365
+363,19,13,「大和撫子……？　うん、そうありたいって思いが表れてるのかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_366
+364,19,13,「ねえ、少しだけ目を閉じてくれる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_367
+365,19,13,「うん……ちゅっ。たまには、私から求めてもいいよね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_368
+366,19,13,「昨日、夢の中にあなたが出てきたの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_369
+367,19,13,「それがね……恋愛小説のワンシーンを、二人で再現してた」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_370
+368,19,13,「あなたと出会ってから、世界がぐっと広がったなぁ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_371
+369,19,13,「うん。あなたのおかげで、本以外にも興味が持てるようになった」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_372
+370,19,13,「その……私の胸、どう？　あなたの好みに合ってる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_373
+371,19,13,「ふふっ……いつも私の胸ばかり見てたものね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_374
+372,19,13,「ありがとう。ふふっ、自分のバストに少し自信が持てたかも」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_375
+373,19,13,「本当？　小説でも大抵まな板とか弄られるから……嬉しい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_376
+374,19,13,「私の身長の事だけど、あなたはどう思う？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_377
+375,19,13,「昔は自分でうどの大木だと思ってたけど、やっと自信が持てそう」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_378
+376,19,13,「ふふっ、元々どんぐりの背比べって感じてたから……選んで貰えて嬉しい」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_379
+377,19,13,「もう、好きだからってすぐ頭をなでるんだから……でも、私も好き」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_380
+378,19,13,「前々から思ってたんだけど……私の体型、醜くない？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_381
+379,19,13,「うふふ、そう言って貰えて、いっぱい食べる私が好きになれたわ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_382
+380,19,13,「ありがとう。ちょっと似通ってても、元々特別なオンリーワンだものね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_383
+381,19,13,「妖精みたい……？　そんなこと言われたら、ますます懐いちゃうよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_384
+382,19,13,「どこか、物足りない？　もっと頑張って、あなたを虜にしてあげるから」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_385
+383,19,13,「……今のあなたと、そういう話はしたくないの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_386
+384,19,13,「うん。その言葉を待ってた。これで仲直りね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_387
+385,19,13,「ただ謝ってほしいわけじゃないの……わかってよ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_388
+386,19,13,「ふふっ、ご用件はなぁに？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_389
+387,19,13,「もう、視線が熱いよ。流石に少し照れちゃうから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_390
+388,19,13,「求めてくれるのは嬉しいけど……それに応えるのは、もうちょっと後でね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_391
+389,19,13,「そんなに見つめるくらいなら……触っても、いいよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_392
+390,19,13,「ねえ、お話するなら、私の目を見て？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_393
+391,19,13,「むう、まだ胸ばかり……こっちまで変な気持ちになっちゃうよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_394
+392,19,13,「……私の言いたい事、分かるよね？　それまではおあずけだから」,,com_ev_19_395
+393,19,13,「あっ……うふふ、自然と指も絡めちゃった」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_396
+394,19,13,「あっ、ちょっと恥ずかしくなってきた……そろそろ離そう？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_397
+395,19,13,「ダメ……手を握るだけで、こんなに恥ずかしくなっちゃうなんて……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_398
+396,19,13,「あんっ、ここで……？　少しだけなら……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_399
+397,19,13,「こ、この辺で止めて……これ以上は……恥ずかしくて死んじゃうからぁ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_400
+398,19,13,「も、もう、こーら……甘えん坊さんなんだから……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_401
+399,19,13,「んっ……あなたの手、大きいね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_402
+400,19,13,「ま、待って？　これ以上は恥ずかしいから……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_403
+401,19,13,「はぅ……心地いいのが、止まらないよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_404
+402,19,13,「んっ、キス……？　ち、違うの……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_405
+403,19,13,「ま、待って……そろそろ止めてくれる？　……その、周りの目もあるし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_406
+404,19,13,「はぅ……は、恥ずかしいから……やめて……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_407
+405,19,13,「お触りはダメ。その前に、やる事をキチンとやってからよ」,,com_ev_19_408
+406,19,13,「あなたと一緒にいると、どんどんあなたが恋しくなってきちゃうの……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_409
+407,19,13,「私、恥ずかしい事されてるのに……気になり始めてる……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_410
+408,19,13,「私、あなたともっとお話したい。もっと色々な経験をしたいな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_411
+409,19,13,「こうやって、静かな時を過ごすのもいいよね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_412
+410,19,13,「……私の言って欲しい事、ちゃんと考えてるのよね？」,,com_ev_19_413
+411,19,13,「……ごめんなさい、少し気分転換したいから……」,,com_ev_19_414
+412,19,13,「……まだ、ほとぼりは冷めないみたい。私は読書に戻るから」,,com_ev_19_415
+413,19,13,「不思議……名残惜しさというのは、どうしても減る事がないの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_416
+414,19,13,「ねえ、今度のエッチだけど……あの本みたいに、シてみない？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_417
+415,19,13,「ありがとう。また次も、楽しくお話しようね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_418
+416,19,13,「あっ、少し束縛しちゃったかな……？　うん、次も楽しみにしてるね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_419
+417,19,13,「さようなら、また次のお話も楽しみにしてるから」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_420
+418,19,13,「そう……あなたには、絶望したわ。さようなら」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_421
+419,19,13,「……ごめんなさい。これ以上の関係は、取り返しのつかない気がするの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_422
+420,19,13,「……うん。二人で、愛を育みましょう」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_423
+421,19,13,「ご、ごめんなさい。もう我慢できなくて……私を、犯して？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_424
+422,19,13,「うん……私のオマンコ、ぐちょぐちょにして……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_425
+423,19,13,「そんなぁ……欲しいの。あなたのオチンポ、欲しいよぉ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_426
+424,19,13,「……うん。見られると思うと、私の子宮もゾクゾクしてる……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_427
+425,19,13,「さ、流石に無茶だよ……するなら、二人きりになれる場所でしよ？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_428
+426,19,13,「……うん。誰かに見られそうだと思うと……あぁ、ドキドキが止まらない……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_429
+427,19,13,「き、気持ちは分かるけど、止めとこう？　私達だけの問題じゃないし……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_430
+428,19,13,「ええ、あなたとなら喜んで。今日はどこで食べるの？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_431
+429,19,13,「お昼、一緒に食べましょう？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_432
+430,19,13,「ありがとう。あなたといると、ただの食事も特別なものになるの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_433
+431,19,13,「そう……仕方ないね。その代わり、次は是非ともお願い、ね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_434
+432,19,13,「うん。部長の恋人として、恥ずかしくないようにしないとね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_435
+433,19,13,「いつもと変わらないかもだけど……私もコイカツ、一緒にしたいな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_436
+434,19,13,「ありがとう。たまには、こういう一時もいいなって思ってたの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_437
+435,19,13,「あっ……流石に、他の子に失礼だったよね。ここは一歩引くね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_438
+436,19,13,「うん、待ってたよ。それじゃ、行きましょうか」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_439
+437,19,13,「あなたがよければだけど……一緒に帰っても、いいかな？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_440
+438,19,13,「うん、二人で今日一日を振り返りましょうか」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_441
+439,19,13,「そ、そうなんだ……ま、また今度誘うから、ね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_442
+440,19,13,「うん、いいよ。ふふっ、楽しみだね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_443
+441,19,13,「ねえ、よかったら今度、逢引……デート、してくれる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_444
+442,19,13,「ありがとう。その日は楽しみに待っててね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_445
+443,19,13,「あっ……ご、ごめんね。私もちょっと浮かれてたのかな……？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_446
+444,19,13,「うん、いいよ。文系科目なら任せてね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_447
+445,19,13,「今、大丈夫？　実は数学の復習を手伝って欲しくて……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_448
+446,19,13,「良かった。理系は苦手だけど、あなたとなら克服できそう」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_449
+447,19,13,「あっ……ご、ごめんね。ちょっと頼り過ぎてたかもしれない……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_450
+448,19,13,「いいよ。ちょうどストレッチをしようと思ってたの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_451
+449,19,13,「お願いがあるんだけど……柔軟体操、手伝ってくれる？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_452
+450,19,13,「ありがとう。あっ、でも……エッチな触り方はほどほどにしてね？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_453
+451,19,13,「ダメ……？　その、私たちの営みの事も考えて、なんだけど……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_454
+452,19,13,「うん、今日はどこへ連れて行ってくれるのかな……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_455
+453,19,13,「……今は頭を冷やすのが先だと思うな」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_456
+454,19,13,「そうね」「勿論」「分かるわ」「私もそう思う」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_457
+455,19,13,「ええっと……」「うーん……」「そう？」「違うような……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_458
+456,19,13,「ええ」「成程ね」「まあ」「本当に？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_459
+457,19,13,「えっ！？」「まあっ！？」「ひゃっ！？」「あっ……！？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_460
+458,19,13,「まぁ♪」「ありがとう」「嬉しい……！」「まぁ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_461
+459,19,13,「むぅ……」「もうっ！」「……何？」「ダメっ！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_462
+460,19,13,「うぅ……」「そんな……」「ぐすん……」「ひどいよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_463
+461,19,13,「ふふっ」「うふふっ♪」「あははっ……！」「いいわねっ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_464
+462,19,13,「あぅぅ……！」「だ、ダメぇっ……！」「は、恥ずかしいよぉ……！」「み、見ちゃダメ、はぅぅ……！」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_465
+463,19,13,「そういえば……」「ねえ」「前に読んだ本だけど……」「実はね……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_466
+464,19,13,「怒ってるの……わかってよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_468
+465,19,13,「ねえ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_469
+466,19,13,「ふふっ、ちょっと呼んでみただけ。その、こういうのに憧れがあってね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_470
+467,19,13,「うん、いいよ」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_471_00
+468,19,13,「とひとつになりたい……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_471_01
+469,19,13,「その……私ね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_472_00
+470,19,13,「と、繋がりたいの。交わりたいの」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_472_01
+471,19,13,「きゃっ……！　は、恥ずかしいよ……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_473
+472,19,13,「ひゃっ……！　だ、ダメ、他の子もいるから出て行って……」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_474
+473,19,13,「もう……男の子は本当にエッチだね」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_475
+474,19,13,「ちょっと、他の子がいるんだから早く出て？」,sound/data/pcm/c19/adv/00.unity3d,com_ev_19_476
+475,19,13,「ねえ、よかったら、お話でもしない？」,sound/data/pcm/c19/adm/00.unity3d,map_yobikake_19_00
+476,19,13,「ねえ」,sound/data/pcm/c19/adm/00.unity3d,map_yobikake_19_00_00
+477,19,13,「よかったら、お話でもしない？」,sound/data/pcm/c19/adm/00.unity3d,map_yobikake_19_00_01
+478,19,13,「えっと……どうか、したの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_000
+479,19,13,「何か……用事、なのかな？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_001
+480,19,13,「読んだけど……歴史書と観光ガイドぐらい、かな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_002
+481,19,13,「実はまだ……また今度、ゆっくり探してみようと、思ってる所……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_003
+482,19,13,「えっと……持ってきてるよ、無いと落ち着かなくて……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_004
+483,19,13,「あ、うん……読んでるよ、一応抑えとこうと思って……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_005
+484,19,13,「で、出会い？　考えた、事もないよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_006
+485,19,13,「素敵な本とだったら、たくさん出会ってきたけど……異性の出会いは、よくわからない……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_007
+486,19,13,「な、無いわけじゃないけど……まだ、本の中でしか、知らないから」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_008
+487,19,13,「興味はあるけど、よく……わからないから」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_009
+488,19,13,「そんなに、しないかな……あんまり、身近じゃなかったし」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_010
+489,19,13,「うん……よく、読む方だと思うよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_011
+490,19,13,「えっと……それじゃまた……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_012
+491,19,13,「時間だから……私はこれで……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_013
+492,19,13,「そろそろ、いいかな？　時間になっちゃったから……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_014
+493,19,13,「へ？　あ……うん、いいよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_015
+494,19,13,「私、歩くの遅いと思うから……ごめんなさい」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_016
+495,19,13,「うん……たまには、動かないとだし……いいよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_017
+496,19,13,「その……読みたい本があるから、ごめんなさい」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_018
+497,19,13,「興味があったから……行ってみようかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_019
+498,19,13,「その……一人の方が集中できそうだから……ごめんなさい」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_020
+499,19,13,「うん、いいよ……どこに行くの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_021
+500,19,13,「今はお腹が空いてないから……いいかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_022
+501,19,13,「どこへ……連れて行ってくれるの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_023
+502,19,13,「ふふっ、まるでアリスになったみたい」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_024
+503,19,13,「どうかしたの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_025
+504,19,13,「私に用事があるの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_026
+505,19,13,「うーん、本を読んでることが多いから、あんまり島を見てないかも」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_027
+506,19,13,「気持ちのいい空気かな……すごく本が読みやすいよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_028
+507,19,13,「あんまり気にした事無いかな……集中してるからだと思うけど」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_029
+508,19,13,「ドライアイにならないように、目薬はいつも持ってるから大丈夫」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_030
+509,19,13,「今は電子書籍があるから大丈夫だけど、ひと昔前なら絶対住めなかったと思うな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_031
+510,19,13,「寂しいけど、やっぱり仕方がないことなんだろうね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_032
+511,19,13,「小説だから許されるって事もあるし……現実だったら恥ずかしいかも」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_033
+512,19,13,「甘すぎるのも、ドロドロの愛憎劇も遠慮しておきたいかな……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_034
+513,19,13,「うーん……もう、恋人って響きだけでドキドキするから、よくわからないかも」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_035
+514,19,13,「自分が好きな人なら、それが理想なんだと思うんだけど……違うかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_036
+515,19,13,「本の中にはいっぱいあるけど……現実にもあると思う」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_037
+516,19,13,「そういうの信じたいけど……見つけるのは難しいのかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_038
+517,19,13,「わぁ……仲睦まじいんだね……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_039
+518,19,13,「それじゃ、私はそろそろ行くね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_040
+519,19,13,「ごめんね、時間だから……また話そうね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_041
+520,19,13,「もうこんな時間だね。それじゃ、またお話してね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_042
+521,19,13,「えっと、ごめんなさい……あなたの事、嫌いじゃないけど……今は難しいかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_043
+522,19,13,「私……あなたの事、好きになっちゃった、みたい……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_044
+523,19,13,「そ、そうだよね……うん、わかってたって言うか……気にしないでね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_045
+524,19,13,「うん、いいよ。どこに行くの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_046
+525,19,13,「うーん……今はいいかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_047
+526,19,13,「えっと……どこか観光しに行かない？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_048
+527,19,13,「いいの？　良かった……それじゃ、どこに行こうかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_049
+528,19,13,「あ、忙しかった？　じゃあ、仕方がないね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_050
+529,19,13,「うん、大丈夫。どこで遊ぶの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_051
+530,19,13,「その、今は遠慮しておこうかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_052
+531,19,13,「あの、私とどこか遊びに行かない？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_053
+532,19,13,「ありがとう。それじゃさっそく行きましょう」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_054
+533,19,13,「わかった……それじゃ、また今度ね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_055
+534,19,13,「うん、いいよ。何を体験するの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_056
+535,19,13,「今はそういう気分じゃなくて……ごめんね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_057
+536,19,13,「体験とか興味ある？　一緒にどうかな？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_058
+537,19,13,「行ってくれるんだね。ありがとう」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_059
+538,19,13,「そう、無理なんだ……それじゃ、仕方がないよね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_060
+539,19,13,「お腹空かせてたし、いいよ。どこで食べるの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_061
+540,19,13,「そこまでお腹は空いてないから、遠慮しておこうかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_062
+541,19,13,「もし良かったら、ご飯を一緒に食べない？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_063
+542,19,13,「ありがとう。それじゃ、どこで食べようか」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_064
+543,19,13,「食べた後だった？　タイミングが悪かったんだね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_065
+544,19,13,「私、あなたとお話しするの、好きなの」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_066
+545,19,13,「あなたとのお話、素敵な本を読んでる時みたいにドキドキしちゃう……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_067
+546,19,13,「あなたと、恋人になれたこと、かな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_068
+547,19,13,「たくさんあるけど……一番はあなたと付き合えたことかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_069
+548,19,13,「うん、色々まとめてるよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_070
+549,19,13,「一応関連する書籍には目を通してるけど……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_071
+550,19,13,「うん、一応何か本に関係する仕事に就きたいと思ってるよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_072
+551,19,13,「やっぱり司書かな。図書館で本に囲まれて働くのが憧れ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_073
+552,19,13,「それは……多分、幻じゃないと思う」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_074
+553,19,13,「できれば、本に囲まれて生活したい……結婚、あんまり関係ないのかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_075
+554,19,13,「結婚か……確かに憧れるけど、まだ夢の中って感じかも」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_076
+555,19,13,「私、世界中の図書館をめぐってみたい。そこにしかないような本に触れたいの」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_077
+556,19,13,「好きな人と一緒に行けるなら、どこでも楽しめると思うかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_078
+557,19,13,「あなたと、なら……すごく興味あるかも」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_079
+558,19,13,「うん……好きな人と一緒に暮らせることって、すごく幸せだと思う」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_080
+559,19,13,「優しくて、私の事、よく理解してくれる所、かな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_081
+560,19,13,「次にお話できる時間も楽しみにしてるね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_082
+561,19,13,「時間……あっという間に過ぎちゃったね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_083
+562,19,13,「もちろん、あなたと一緒に行くよ」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_084
+563,19,13,「あのね、私と一緒に観光に行かない？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_085
+564,19,13,「そう言ってくれると信じてた。どこに行こうかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_086
+565,19,13,「そう、残念……また次に機会にするね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_087
+566,19,13,「うん、思いっきり遊ぼうね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_088
+567,19,13,「これから二人で遊びに行かない？　場所はどこでもいいんだけど……」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_089
+568,19,13,「ありがとう。あなたとなら、何をしても楽しいと思う」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_090
+569,19,13,「そっか……なら、仕方がないね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_091
+570,19,13,「もちろん付き合うよ。何の体験に行くの？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_092
+571,19,13,「体験を申し込もうと思うんだけど、一緒に行かない？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_093
+572,19,13,「ありがとう。ふふっ、それじゃあとことん付き合ってもらおうかな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_094
+573,19,13,「そう……それじゃあ、またの機会にするね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_095
+574,19,13,「ええ、喜んで。私も、あなたとご飯に行きたかったの」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_096
+575,19,13,「私と、何か食べに行かない？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_097
+576,19,13,「良かった。それじゃあ、どこに食べに行く？」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_098
+577,19,13,「お腹へってないんだね。また今度付き合ってくれたら嬉しいな」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_099
+578,19,13,「そうしようかな……うん、お邪魔するね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_100
+579,19,13,「な、なんか緊張しちゃって……ごめんね」,sound/data/pcm/c19/adv/00.unity3d,sun_com_19_101

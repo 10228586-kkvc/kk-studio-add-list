@@ -1,0 +1,374 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0,35,11,Toilet-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_008
+1,35,11,Shower-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007
+2,35,11,Dinner2 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_021
+3,35,11,Dinner2 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_021
+4,35,11,Dinner2 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_021
+5,35,11,Dinner2 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_021
+6,35,11,Dinner2 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_021
+7,35,11,Dinner3 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_021
+8,35,11,Dinner3 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_021
+9,35,11,Dinner3 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_021
+10,35,11,Dinner3 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_021
+11,35,11,Dinner3 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_021
+12,35,11,Masturbation-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+13,35,11,Masturbation-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+14,35,11,Masturbation2-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+15,35,11,Masturbation2-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+16,35,11,Masturbation3-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+17,35,11,Masturbation3-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+18,35,11,Sleep 0-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+19,35,11,Sleep1-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+20,35,11,Sleep1-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+21,35,11,Sleep2-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+22,35,11,Sleep2-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+23,35,11,Sleep3-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+24,35,11,Sleep3-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+25,35,11,Club_Cheer 0 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_00
+26,35,11,Club_Cheer 0 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_01
+27,35,11,Club_Cheer 0 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_02
+28,35,11,Club_Cheer 0 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_03
+29,35,11,Club_Cheer 0 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_00
+30,35,11,Club_Cheer 0 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_01
+31,35,11,Club_Cheer 0 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_02
+32,35,11,Club_Cheer 0 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_03
+33,35,11,Club_Cheer 1 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_00
+34,35,11,Club_Cheer1 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_00
+35,35,11,Club_Cheer1 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_01
+36,35,11,Club_Cheer1 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_02
+37,35,11,Club_Cheer1 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_03
+38,35,11,Club_Cheer1 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_00
+39,35,11,Club_Cheer1 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_01
+40,35,11,Club_Cheer1 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_02
+41,35,11,Club_Cheer1 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_03
+42,35,11,Club_Cheer2 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_cheer_00
+43,35,11,Club_Swim2-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+44,35,11,Club_Swim2-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+45,35,11,Club_Swim2-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+46,35,11,Club_Swim2 0-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+47,35,11,Club_Swim2 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+48,35,11,Club_Swim2 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+49,35,11,Club_Comic2-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+50,35,11,Club_Comic2-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+51,35,11,Club_Comic2-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+52,35,11,Club_Comic2 0-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+53,35,11,Club_Comic2 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+54,35,11,Club_Comic2 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+55,35,11,Club_Koikatu2-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+56,35,11,Reading3-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+57,35,11,Phone-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+58,35,11,Phone-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+59,35,11,Phone-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+60,35,11,Phone2-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+61,35,11,Phone2-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+62,35,11,Phone2-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+63,35,11,Phone3-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+64,35,11,Phone3-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+65,35,11,Phone3-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+66,35,11,Game-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_02
+67,35,11,Shooting 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_03
+68,35,11,Shooting 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_04
+69,35,11,Shooting 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_05
+70,35,11,Study 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+71,35,11,Drink 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_020
+72,35,11,Drink 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_022
+73,35,11,Drink 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_022
+74,35,11,Drink 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_022
+75,35,11,Drink 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_022
+76,35,11,Drink 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_022
+77,35,11,Drink3 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_020
+78,35,11,Drink3 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_022
+79,35,11,Drink3 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_022
+80,35,11,Drink3 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_022
+81,35,11,Drink3 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_022
+82,35,11,Drink3 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_022
+83,35,11,ChangeMind 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_025
+84,35,11,ChangeMind3 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_023
+85,35,11,ChangeMind3 1-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_024
+86,35,11,ChangeMind5 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_028
+87,35,11,Sport 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+88,35,11,Sport 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+89,35,11,Sport 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+90,35,11,Sport 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+91,35,11,Sport 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+92,35,11,Sport2 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+93,35,11,Sport2 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+94,35,11,Sport2 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+95,35,11,Sport2 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+96,35,11,Sport2 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+97,35,11,Sport3 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+98,35,11,Sport3 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+99,35,11,Sport3 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+100,35,11,Sport3 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+101,35,11,Sport3 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+102,35,11,Sport4-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+103,35,11,Sport4-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+104,35,11,Sport4-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+105,35,11,Sport4-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+106,35,11,Sport4-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+107,35,11,Sport4-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+108,35,11,Sport4-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+109,35,11,Sport4-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+110,35,11,Sport4-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+111,35,11,Sport4-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+112,35,11,Sport4-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+113,35,11,Sport4-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+114,35,11,Sport4-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+115,35,11,Sport4-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+116,35,11,Sport4-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+117,35,11,Sport4-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_014
+118,35,11,Sport4-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_014
+119,35,11,Sport4-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_014
+120,35,11,Sport4-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_014
+121,35,11,Sport4-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_014
+122,35,11,Sport6 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_028
+123,35,11,Houshi-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_029
+124,35,11,Houshi-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_00
+125,35,11,Houshi-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_01
+126,35,11,Houshi-3,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_02
+127,35,11,Houshi-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_03
+128,35,11,Houshi-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_04
+129,35,11,Houshi-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_031_05
+130,35,11,Music-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+131,35,11,Music-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+132,35,11,Music-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+133,35,11,Music-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_02
+134,35,11,Music2-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+135,35,11,Music2-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+136,35,11,Music2-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+137,35,11,Music2-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_02
+138,35,11,Music3-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+139,35,11,Music3-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+140,35,11,Music3-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+141,35,11,Music3-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_02
+142,35,11,Appearance 0-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+143,35,11,Appearance 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+144,35,11,Appearance 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+145,35,11,Appearance 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+146,35,11,Appearance2 0-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+147,35,11,Appearance2 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+148,35,11,Appearance2 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+149,35,11,Appearance2 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+150,35,11,Appearance3 0-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+151,35,11,Appearance3 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+152,35,11,Appearance3 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+153,35,11,Appearance3 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+154,35,11,Appearance5 0-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+155,35,11,Appearance5 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+156,35,11,Appearance5 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+157,35,11,Appearance5 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+158,35,11,Sleep4-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+159,35,11,Sleep4-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+160,35,11,Phone4-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007_00
+161,35,11,Phone4-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+162,35,11,Phone4-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+163,35,11,Lesbian-0,sound/data/pcm/c35/h/01.unity3d,h_ai_35_03_018
+164,35,11,Lesbian-1,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_122
+165,35,11,Lesbian-2,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_072
+166,35,11,Lesbian-3,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_046
+167,35,11,Lesbian_sub-0,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_004
+168,35,11,Lesbian_sub-1,sound/data/pcm/c35/h/01.unity3d,h_hh_35_02_007
+169,35,11,Lesbian_sub-2,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_003
+170,35,11,Lesbian_sub-3,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_007
+171,35,11,Lesbian2-0,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_079
+172,35,11,Lesbian2-1,sound/data/pcm/c35/h/01.unity3d,h_ai_35_01_078
+173,35,11,Lesbian2-2,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_083
+174,35,11,Lesbian2-3,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_084
+175,35,11,Lesbian2_sub-0,sound/data/pcm/c35/h/01.unity3d,h_hh_35_02_009
+176,35,11,Lesbian2_sub-1,sound/data/pcm/c35/h/01.unity3d,h_hh_35_02_011
+177,35,11,Lesbian2_sub-2,sound/data/pcm/c35/h/01.unity3d,h_hh_35_00_010
+178,35,11,Lesbian2_sub-3,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_009
+179,35,11,Lesbian3-0,sound/data/pcm/c35/h/01.unity3d,h_ai_35_03_018
+180,35,11,Lesbian3-1,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_122
+181,35,11,Lesbian3-2,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_072
+182,35,11,Lesbian3-3,sound/data/pcm/c35/h/01.unity3d,h_ai_35_02_046
+183,35,11,Lesbian3_sub-0,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_004
+184,35,11,Lesbian3_sub-1,sound/data/pcm/c35/h/01.unity3d,h_hh_35_02_007
+185,35,11,Lesbian3_sub-2,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_003
+186,35,11,Lesbian3_sub-3,sound/data/pcm/c35/h/01.unity3d,h_hh_35_03_007
+187,35,11,talk 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_001
+188,35,11,talk 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+189,35,11,talk 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+190,35,11,talk 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+191,35,11,talk 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+192,35,11,talk_uke 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+193,35,11,talk_uke 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+194,35,11,talk_uke 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+195,35,11,talk_uke 0-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+196,35,11,talk_uke 0-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+197,35,11,Masturbation4-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+198,35,11,Masturbation4-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+199,35,11,Dinner10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_021
+200,35,11,Dinner10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_021
+201,35,11,Dinner10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_021
+202,35,11,Dinner10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_021
+203,35,11,Dinner10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_021
+204,35,11,Dinner10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_021
+205,35,11,Dinner10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_021
+206,35,11,Dinner10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_021
+207,35,11,Dinner10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_021
+208,35,11,Dinner10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_021
+209,35,11,Dinner11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_021
+210,35,11,Dinner11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_021
+211,35,11,Dinner11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_021
+212,35,11,Dinner11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_021
+213,35,11,Dinner11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_021
+214,35,11,Dinner12-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+215,35,11,Dinner12-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+216,35,11,Talk10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_001
+217,35,11,Talk10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+218,35,11,Talk10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+219,35,11,Talk10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+220,35,11,Talk10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+221,35,11,Talk11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+222,35,11,Talk11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+223,35,11,Talk11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+224,35,11,Talk11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+225,35,11,Talk11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+226,35,11,Sport14 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_028
+227,35,11,Drink10 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_020
+228,35,11,Drink10 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_022
+229,35,11,Drink10 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_022
+230,35,11,Drink10 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_022
+231,35,11,Sleep10-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+232,35,11,Sleep10-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+233,35,11,Sleep11-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+234,35,11,Sleep11-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+235,35,11,Sleep12-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+236,35,11,Sleep12-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+237,35,11,Sleep13-0,sound/data/pcm/c35/adv/00.unity3d,com_ev_35_005
+238,35,11,Sleep13-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+239,35,11,Bathing-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_025
+240,35,11,Bathing1-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_025
+241,35,11,Bathing2-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007
+242,35,11,Bathing3-0,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_007
+243,35,11,Rest-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+244,35,11,Rest1-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_028
+245,35,11,Leisure1 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+246,35,11,Leisure1 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+247,35,11,Leisure3-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+248,35,11,Leisure4-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+249,35,11,Leisure5-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+250,35,11,Leisure6 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+251,35,11,Leisure6 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+252,35,11,Leisure6 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+253,35,11,Leisure8-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+254,35,11,Leisure9-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+255,35,11,Leisure10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_300_00
+256,35,11,Leisure10-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_300_01
+257,35,11,Leisure10-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_300_02
+258,35,11,Leisure10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_300_00
+259,35,11,Leisure10-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_300_01
+260,35,11,Leisure10-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_300_02
+261,35,11,Leisure11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_026
+262,35,11,Leisure12-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_026
+263,35,11,Leisure14-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_302_00
+264,35,11,Leisure14-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_302_01
+265,35,11,Leisure14-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_302_02
+266,35,11,Leisure15-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_302_00
+267,35,11,Leisure15-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_302_01
+268,35,11,Leisure15-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_302_02
+269,35,11,Leisure15 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_303_00
+270,35,11,Leisure15 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_303_01
+271,35,11,Leisure15 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_303_02
+272,35,11,Shopping-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+273,35,11,Shopping1-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_02
+274,35,11,Shopping2-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+275,35,11,Experience-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+276,35,11,Experience1 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+277,35,11,Experience3-1,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta1
+278,35,11,Experience3-2,sound/data/pcm/c35/adm/00.unity3d,adm_35_hanauta2
+279,35,11,Experience4-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+280,35,11,Experience5-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_00
+281,35,11,Experience6 1-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_02
+282,35,11,Tourism-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_301_00
+283,35,11,Tourism-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_301_01
+284,35,11,Tourism-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_301_02
+285,35,11,Tourism2-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_301_00
+286,35,11,Tourism2-1,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_301_01
+287,35,11,Tourism2-2,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_301_02
+288,35,11,Masturbation10-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+289,35,11,Masturbation10-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+290,35,11,Masturbation11-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+291,35,11,Masturbation11-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+292,35,11,Rest2-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+293,35,11,Rest3-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+294,35,11,Rest4-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+295,35,11,Talk10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+296,35,11,Talk10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+297,35,11,Talk10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+298,35,11,Talk10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+299,35,11,Talk10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_001
+300,35,11,Talk10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+301,35,11,Talk10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+302,35,11,Talk10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+303,35,11,Talk10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+304,35,11,Talk10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_001
+305,35,11,Talk10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+306,35,11,Talk10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+307,35,11,Talk10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+308,35,11,Talk10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+309,35,11,Talk10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_001
+310,35,11,Talk10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+311,35,11,Talk10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+312,35,11,Talk10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+313,35,11,Talk10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+314,35,11,Talk10-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_001
+315,35,11,Talk10-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_001
+316,35,11,Talk10-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_001
+317,35,11,Talk10-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_001
+318,35,11,Talk10-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_001
+319,35,11,Talk11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+320,35,11,Talk11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+321,35,11,Talk11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+322,35,11,Talk11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+323,35,11,Talk11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+324,35,11,Talk11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+325,35,11,Talk11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+326,35,11,Talk11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+327,35,11,Talk11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+328,35,11,Talk11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+329,35,11,Talk11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+330,35,11,Talk11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+331,35,11,Talk11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+332,35,11,Talk11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+333,35,11,Talk11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+334,35,11,Talk11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+335,35,11,Talk11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+336,35,11,Talk11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+337,35,11,Talk11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+338,35,11,Talk11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+339,35,11,Talk11-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_002
+340,35,11,Talk11-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_002
+341,35,11,Talk11-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_002
+342,35,11,Talk11-3,sound/data/pcm/c35/adm/00.unity3d,adm_03_35_002
+343,35,11,Talk11-4,sound/data/pcm/c35/adm/00.unity3d,adm_04_35_002
+344,35,11,Rest2-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+345,35,11,Rest2-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+346,35,11,Rest2-2,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_002
+347,35,11,Rest3-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+348,35,11,Rest3-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+349,35,11,Rest3-2,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_002
+350,35,11,Rest4-0,sound/data/pcm/c35/adm/00.unity3d,adm_35_tanon_01
+351,35,11,Rest4-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+352,35,11,Rest4-2,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_002
+353,35,11,Sleep11-0,sound/data/pcm/c35/adm/00.unity3d,com_ev_35_005
+354,35,11,Sleep11-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+355,35,11,Sleep11-2,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_002
+356,35,11,Sleep12-0,sound/data/pcm/c35/adm/00.unity3d,com_ev_35_005
+357,35,11,Sleep12-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+358,35,11,Sleep12-2,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_002
+359,35,11,Sleep13-0,sound/data/pcm/c35/adm/00.unity3d,com_ev_35_005
+360,35,11,Sleep13-1,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_001
+361,35,11,Sleep13-2,sound/data/pcm/c35/adm/00.unity3d,h_ko_35_00_002
+362,35,11,Drink11 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_022
+363,35,11,Drink11 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_022
+364,35,11,Drink11 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_022
+365,35,11,Drink12 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_020
+366,35,11,Drink12 0-0,sound/data/pcm/c35/adm/00.unity3d,adm_00_35_022
+367,35,11,Drink12 0-1,sound/data/pcm/c35/adm/00.unity3d,adm_01_35_022
+368,35,11,Drink12 0-2,sound/data/pcm/c35/adm/00.unity3d,adm_02_35_022
+369,35,11,Masturbation12-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+370,35,11,Masturbation12-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004
+371,35,11,Masturbation13-0,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_003
+372,35,11,Masturbation13-1,sound/data/pcm/c35/h/01.unity3d,h_on_35_02_004

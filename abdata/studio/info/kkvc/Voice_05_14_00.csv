@@ -1,0 +1,701 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0,05,14,"「うーん…………""かれら""に言われたから？」",sound/data/pcm/c05/adm/00.unity3d,adm_01_05_018
+1,05,14,"「えっと……""かれら""に会うための儀式だよ？」",sound/data/pcm/c05/adm/00.unity3d,adm_02_05_006
+2,05,14,「え？　……少しの間なら」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_000
+3,05,14,「今、メッセージを待ってるの。昨日は、わたしから送ったんだ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_001
+4,05,14,「宇宙にはわたしの仲間――“かれら”がいるの。だけど今日は電波が悪いからか、メッセージが中々届かなくて……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_002
+5,05,14,「……いいけど、なにか用？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_003
+6,05,14,「……“かれら”からのメッセージを待ってるの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_004
+7,05,14,「あっ。そろそろ、交信の準備しないと……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_005
+8,05,14,「うん。……ねぇ、どうしてわたしに話かけてくるの？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_006
+9,05,14,「そういうわけじゃない。純粋に、知りたかっただけなの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_007
+10,05,14,「ふーん、そうなの。もしかしたら……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_008
+11,05,14,「え？　あ……なんでもないの！　それじゃ、またね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_009
+12,05,14,「わたし、男の子と一緒に帰ったことなんて、ない」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_010
+13,05,14,「ううん、嫌じゃない。そうしろって、昨日言われたから……いいよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_011
+14,05,14,「うん、いいよ。だれかと一緒に勉強するなんて、いつ以来かな」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_012
+15,05,14,「『宇宙からのメッセージを受容しうる身体を得る方法』だよ？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_013
+16,05,14,「うん。運動だって、大事だもんね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_014
+17,05,14,「え？　関係ないよ？　でも……そういうアプローチもいいかも」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_015
+18,05,14,「うん。けど、どこへ行くの？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_016
+19,05,14,「分かった。でも、行くならこの方角からがいい、って言ってるよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_017
+20,05,14,「こ、これって告白……？　あ、あの……えっと……！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_018
+21,05,14,「そんなことない！　つ、付き合う！　いいんだよね？　……ありがとう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_019
+22,05,14,「えへへ……“かれら”にも報告しなくちゃね……わたしは幸せだよって」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_020
+23,05,14,「え、えっち……。それってあの、えっち？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_021
+24,05,14,「だめ……じゃない。えっち……してみたい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_022
+25,05,14,「あなたと……交信したい……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_023
+26,05,14,「いいよ。あの……どんなことするの？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_024
+27,05,14,「そうなんだ……じゃあ、“かれら”と交信しやすいスポット、一緒に探そう？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_025
+28,05,14,「コイカツ部……うん、いいよ。わたしも入る」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_026
+29,05,14,「これって、あなたと仲良くする部、ってことでいいの？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_027
+30,05,14,「そ、それじゃ、本に書いてたあれもできるかも……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_028
+31,05,14,「わたしが仲間のところへ帰るためにも、部活がんばるね♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_029
+32,05,14,「ねえ、別れよう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_030
+33,05,14,「はぁ……時間の無駄だった。あなたじゃなかったなんて」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_031
+34,05,14,「じゃあね。ああ、早く準備しなきゃ、置いて行かれちゃう！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_032
+35,05,14,「え、えっち……うん、いいよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_033
+36,05,14,「いいの。あなたとえっち、したかったから」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_034
+37,05,14,「[P]くん。あなたもわたしと一緒に救われましょう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_035
+38,05,14,「デート……うんっ！わたしも行きたいと思っていたの！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_036
+39,05,14,「うん♪　どこが一番パワーを得られるかなぁ。あなたのことも、救ってあげなきゃ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_037
+40,05,14,「[P]くん、おはよう♪　昨日は幸せだった……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_038
+41,05,14,「体にあなたの力が巡っているのが分かるの♪　あなたもわたしを感じるよね？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_039
+42,05,14,「シャワー、借りたよ♪　[P]くんも浴びる？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_040
+43,05,14,「そ、そんなに見られると、恥ずかしい……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_041
+44,05,14,「起きちゃった？　朝に出すものには、力があるみたいだから……いっぱい出してね？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_042
+45,05,14,『メッセージが来るかもしれないから、出かけてくるね』,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_043
+46,05,14,『できれば[P]くんも一緒に来て欲しかったけど、気持ちよさそうに寝てて……』,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_044
+47,05,14,『えっちも、疲れ過ぎないように、考えてする必要があるかも？』,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_045
+48,05,14,「おはよう。朝は電波が微弱……かれらとの繋がりが感じられない」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_046
+49,05,14,「おはよう。話があるなら後で聞くよ？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_047
+50,05,14,「おはよう♪　朝からあなたに会えるなんて、これも導きかな？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_048
+51,05,14,「おはよう♪　……えへへ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_049
+52,05,14,「[P]くんとこうして並んでると、出会うのは運命だったって思えるの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_050
+53,05,14,「はい、これ、あげる。授業で作ったんだけど、余ったの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_051
+54,05,14,「か“かれら”がね、あなたにあげろって言ったの……だから、食べて？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_052
+55,05,14,「ねぇ、これ……家庭科の授業で作ったの。食べて……くれる？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_053
+56,05,14,「あなたにあげる特別な理由はないけど……。後で感想、聞かせてね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_054
+57,05,14,「……やっぱり感想はいい！　おいしくないって言われたら、落ち込んじゃう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_055
+58,05,14,「[P]くん。はい！　これ、授業で作ったの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_056
+59,05,14,「わたしの愛情がたっぷりだから、よーく味わって食べてね♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_057
+60,05,14,「わたしに……プレゼント？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_058
+61,05,14,「プレゼントかぁ～。なんだろう、楽しみ♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_059
+62,05,14,「えへへ～♪　なにかな、なにかな～？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_060
+63,05,14,「わたしにこんないいものをくれるなんて、あなたって不思議な人……ありがとう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_061
+64,05,14,「ありがとう。わたしの欲しいものが分かるなんて。ま、まさか……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_062
+65,05,14,「ありがとう。わたしたちの周波数、ピッタリだね♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_063
+66,05,14,「これは……あんまり欲しくない」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_064
+67,05,14,「あなたなら、わたしの好みも分かると思うんだけど……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_065
+68,05,14,「これ、あんまり……わたしのメッセージ受信してくれてなかったの……？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_066
+69,05,14,「わっ、ありがとう。なにかくれるのって、あなたくらいだよ～」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_067
+70,05,14,「きゃっ！　びっくりしたぁ。そういうことしない方がいいよ？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_081
+71,05,14,「きゃっ……。はぁ、あなたか。怒る気も失せたから、早く出ていって」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_082
+72,05,14,「あっ……やっぱりいた。あなたの気配を微弱だけど感じたから。ねぇ……見るだけで、いいの？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_083
+73,05,14,「うん。ねえ、あのお店気になる。入っていい？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_084
+74,05,14,「けっこう楽しかった。こういうのも悪くないかも」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_085
+75,05,14,「痛かった……でも、がんばったよ。これで、少しはみんなのところに近づけたかな……？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_086
+76,05,14,「すごく気持ちよかった……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_087
+77,05,14,「これで宇宙のかれらにも近づけたよね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_088
+78,05,14,「えへへ、上手くできた。これならお迎えも、もうすぐ来てくれるよね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_089
+79,05,14,「すごく……良かった。でもかれらに近づくためには、まだまだ足りない。もっと……あなたの力が必要なの。だから、またえっちして欲しい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_090
+80,05,14,「えへへ、いっぱい宇宙が見られたよ……？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_091
+81,05,14,「幸せ。あなたも同じように感じてる？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_092
+82,05,14,「あなたも、わたしと一緒に救われて欲しいから……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_093
+83,05,14,「……これで終わり？　足りないよぉ……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_094
+84,05,14,「もっと、もっとしないといけないのに……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_095
+85,05,14,「もういいの？　あなたのエネルギーが欲しかったんだけど……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_096
+86,05,14,「こ、こんなところでエネルギーをくれるなんて、ビックリしたよ……うれしいけど、今度からは言ってね？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_097
+87,05,14,「……こ、ここはパワーが伝わりやすいのかな？　いつもより興奮しちゃった……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_098
+88,05,14,「え……いやだ。別れるのなんていやだよ！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_099
+89,05,14,「だって……まだ、しなきゃいけないこともいっぱいあるのに」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_100
+90,05,14,「[P]くんのことも助けたかった。……悲しいけど、ひとりで待つしかないの……？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_101
+91,05,14,「男の子とデートなんて初めて」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_102
+92,05,14,「……うん。他の人と違って、あなたが近くにいると、意識しちゃう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_103
+93,05,14,「初めてのことがいっぱいで、嬉しくって」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_104
+94,05,14,「もっと引っ付いていい？　そっちの方があなたを感じられる」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_105
+95,05,14,「今日はありがとう。この調子なら……じゃあ、またね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_106
+96,05,14,「今日の儀式、楽しみだね……えへへ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_107
+97,05,14,「そう……こうやって手を繋いで……空に掲げるの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_108
+98,05,14,「今日は、あなたと一緒にいられて嬉しかった」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_109
+99,05,14,「また……今度もデートしてくれると、嬉しい。あなたといると、より近づける気がするから。それじゃばいばい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_110
+100,05,14,「今日はありがとう。楽しかった。それじゃ、またね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_111
+101,05,14,「[P]くん♪　わたしね、デートがすごく楽しみだったんだ～。いっぱい楽しも？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_112
+102,05,14,「この空の向こうに、わたしたちの仲間がいるんだよね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_113
+103,05,14,「わたしね、あなたといると、いつもより強く言葉が聞こえる気がするの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_114
+104,05,14,「だから、こうやってふたりでデートするの大好き！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_115
+105,05,14,「この宇宙の本、買ってくれてありがとう……それでね、出来れば、その……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_116
+106,05,14,「いいの！？　うん、行く行く！　えへへ……あなたには言わなくてもわかるんだね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_117
+107,05,14,「……そう、なの？　そういう日もあるよね……それじゃ、ばいばい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_118
+108,05,14,「あ……もう、お別れ？　もっと一緒にいたい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_119
+109,05,14,「うん！　実は、そうしたほうがいいって、メッセージを受け取ってたんだ♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_120
+110,05,14,「……そっか、あなたには、あなたの役目があるもんね。……じゃあ、またね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_121
+111,05,14,「ここがあなたの部屋……地球での仮の住まい……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_122
+112,05,14,「ねぇ、早くこんなところ抜け出して、みんなのところへ行こうね♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_123
+113,05,14,「だから……そのためにも今日もえっち、しっかりしよう？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_124
+114,05,14,「いつ来てもここは、[P]くんのエネルギーがいっぱいで大好き」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_125
+115,05,14,「今日もふたりのために、気持ちいいエッチ、しようね♪」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_126
+116,05,14,「今まで、こうしてあなたと一緒に帰るなんて思ったことなかった」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_127
+117,05,14,「わたしは、体の中があったかい……これは、あなたのパワー？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_128
+118,05,14,「あなたと帰るのは嫌な感じがしないの、なんでだろう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_129
+119,05,14,「やっぱりあなたも……ううん、まだ分からないよね。でも、そうだとしたら……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_130
+120,05,14,「いいの。この星から出ていけば、関係のない人たちなんだから」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_131
+121,05,14,「だよね？　あっ、そうだ！　なんだったら、ここで……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_132
+122,05,14,「あっ、わたし呼ばれてる……それじゃ、ばいばい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_133
+123,05,14,「うん。分からないし、あまりやる気もなくって」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_134
+124,05,14,「……ありがとう。あなた、意外と勉強できるんだね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_135
+125,05,14,「あなたってけっこうかわいい鉛筆使ってるんだ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_136
+126,05,14,「向こうに持っていけるか分からないし、お気に入りはあまり作らないようにしてるの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_137
+127,05,14,「こうやって一緒に勉強してると、普通のカップルみたい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_138
+128,05,14,「この星でひとりだったから、こうしてあなたと過ごす時間が嬉しいの……えへへ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_139
+129,05,14,「ふぅ、疲れた……じゃあね、また誘ってくれてもいいよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_140
+130,05,14,「もうおしまい？　勉強でも、あなたと一緒だと楽しい♪　また、しよう？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_141
+131,05,14,「平気だよ。よっ、と……ほらね……ととっ、わっ！　……いてて」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_142
+132,05,14,「放っておいていいよ。どうせ、この体だって仮のものだし……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_143
+133,05,14,「このくらいなんともないのに……でも、ありがとう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_144
+134,05,14,「ただ、言うとおりにしてるだけだよ。あなたには、なにも聞こえない？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_145
+135,05,14,「もう一回やってみて？　あなたにも聞こえるといいのに……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_146
+136,05,14,「もうちょっとだけ。こう浮いて目を閉じると、宇宙にいるみたいに感じるの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_147
+137,05,14,「素敵なところだよ。そういう意味では、今、ここはふたりだけの宇宙だね、えへへ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_148
+138,05,14,「ちょっと疲れちゃった。ひとりでするより、いっぱい動いた気がするよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_149
+139,05,14,「疲れたぁ。あなたと一緒だと楽しくって、つい動きすぎちゃう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_150
+140,05,14,「そうだね……ぷっ、あはは！　あごにごはん粒ついてるよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_151
+141,05,14,「全然気づいてないんだから、思わず笑っちゃった」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_152
+142,05,14,「あんまりないよ、特に男の子となんかはね。あなたくらいじゃないかな」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_153
+143,05,14,「男の子って、そんなにいっぱい食べるんだ。よかったら、わたしの分も食べる？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_154
+144,05,14,「はい、あ～ん……どう？　おいしい？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_155
+145,05,14,「これは、早起きして作ったの。そう言ってくれて嬉しい……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_156
+146,05,14,「えへへ、あなたとこうしてると……この星にいても幸せになれそうって思っちゃう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_157
+147,05,14,「ふぅ、お腹いっぱい。また一緒に食べる？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_158
+148,05,14,「ごちそうさま、おいしかったね！　ねぇ、また一緒に食べよう？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_159
+149,05,14,「うーん……ねぇ、コイカツ部ってどういうことするの？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_160
+150,05,14,「きゃっ！　いてて……ちょっと、重い……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_161
+151,05,14,「ドキドキはしたよ。ビックリしてだけど……触ってみて？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_162
+152,05,14,「いいよ……ふーん、こういうのにみんな憧れるんだね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_163
+153,05,14,「んん～、むにゃむにゃ……みんなぁ……わたしも早くそこに、寂しい……」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_164
+154,05,14,「……あれ？　寝ちゃってた……ごめん」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_165
+155,05,14,「この前言われたんだけど……仲良くなるには、肌と肌の触れ合いが大事なんだって」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_166
+156,05,14,「わたし、もっと仲良くなりたいから、触るね？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_167
+157,05,14,「どう？　なにか感じる？　……わたしはなんだか、お腹のあたりがぴりぴりするの」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_168
+158,05,14,「ううん。あなたの部だから、わたしもがんばるの……うんしょ、うんしょ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_169
+159,05,14,「これで終わり？　おつかれさま。またね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_170
+160,05,14,「えへへ、あなたのためにももっと考えないと。それじゃ、またやろうね！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_171
+161,05,14,「どうしたの？　宇宙からの交信があった？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_172
+162,05,14,「愛称……この星でのコードネーム？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_173
+163,05,14,「それじゃあ、必要な事だね。なんて呼べばいい？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_174
+164,05,14,「？……わたしの認識と、なにか違う気がする」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_175
+165,05,14,「それは……わたしのネーム？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_177
+166,05,14,「……うん！　うれしい！」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_178
+167,05,14,「全然いいよ。かれらも愛称呼びを気に入ったみたいだし、また呼び合ってみようよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_179
+168,05,14,「昨日ね、かれらから『コードネームで呼び合ってみろ』ってメッセージが届いたの。だからあなたのコードネームを考えてみたんだ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_180
+169,05,14,「……何かリアクションしてほしい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_182
+170,05,14,「……？　もしかして、それがわたしのコードネーム？」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_183
+171,05,14,「すっごくいいよ！　嬉しいなぁ。もし宇宙に戻っても、この名前はずっと持っていくね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_184
+172,05,14,「たまにコードネームで呼びかけるから、忘れたりしないでね」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_185
+173,05,14,「？　普段から使ってたら意味ないよ」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_186
+174,05,14,「朝からコードネームで呼び合うのって、すごく特別な間柄みたい」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_188
+175,05,14,「えへへ、かれらに近づけたかも。ありがとう」,sound/data/pcm/c05/adv/00.unity3d,adv_ev_05_189
+176,05,14,「そうなの。公園の中だと、ここは最高の交信スポットなんだよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_000
+177,05,14,「邪魔するものがないから、電波がよく届くの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_001
+178,05,14,「夜に来て交信するのを日課にしようかどうか、迷うレベル」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_002
+179,05,14,「あ、そっか……気遣ってくれてありがとう」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_003
+180,05,14,「そうだっ。ひとりが危ないなら、あなたと一緒に毎晩来るとか？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_004
+181,05,14,「なんなら、今からふたりで“かれら”と交信したいくらい」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_005
+182,05,14,「ほら、こうやって手をつないで……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_006
+183,05,14,「あれはあなたが恥ずかしがるでしょ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_007
+184,05,14,「それに……あなたと手をつなぐ理由がほしかったから……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_008
+185,05,14,「うん。晴天はとても助かる。雨だったり、霧が出ていたりすると、“かれら”との交信に支障が出るから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_009
+186,05,14,「それに天気だと、動物が外を動き回っているから、いつもより話し相手が多くなるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_010
+187,05,14,「たまにね、“かれら”の声がわかる動物がいるんだよ。そういう動物は、わたしとも交信ができるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_011
+188,05,14,「なら、見てて。例えばね……あ……ほら、あの鳥……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_012
+189,05,14,「うん……うん……なるほど」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_013
+190,05,14,「あの鳥は親鳥らしいよ。今日は雨の心配もないから、ヒナのごはんを取りに出かけるんだって」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_014
+191,05,14,「“かれら”にそう聞いたみたいよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_015
+192,05,14,「どう？　これでわかったでしょっ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_016
+193,05,14,「…………あ、あれ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_017
+194,05,14,「ね、ねえ……あの……ちょっと……あっ……飛んでいっちゃった……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_018
+195,05,14,「あ、えっと……ち、違うっ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_019
+196,05,14,「あの鳥は仲間じゃなかっただけだもん……交信が失敗したわけじゃないもん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_020
+197,05,14,「うぅ……話せるのは本当なんだからっ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_021
+198,05,14,「むうぅ……も、もう一回やる！　そこのスズメさん……いやそっちのツバメさん……っ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_022
+199,05,14,「すっかり夕方だね……ちょっと交信に時間を使いすぎたかな……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_023
+200,05,14,「地球時間のことを指して言っているのなら……まだ大丈夫だよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_024
+201,05,14,「[P名]くんも、“かれら”の声がはっきり聞こえたらいいんだけどな……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_025
+202,05,14,「あ……[P名]くんの手、温かいね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_026
+203,05,14,「えへへ……そうだね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_027
+204,05,14,「すごい……すごいよ、[P名]くん。夜空に手が届きそう」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_028
+205,05,14,「そうだったんだ……ありがとう、こんな素敵な場所に連れてきてくれて」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_029
+206,05,14,「うん……それどころか、すぐに宇宙へ行けそうな気さえする」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_030
+207,05,14,「そんな。お礼を言わなきゃいけないのは、わたしのほうだよ。いつもありがとね、[P名]くん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_031
+208,05,14,「あのね。わたし……あなたが話しかけてくれるまで、ひとりで居ることが多かったの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_032
+209,05,14,「“かれら”とは話していたけれど、この星の人に友達はあんまりいなくって」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_033
+210,05,14,「本音を言うと……ちょっとだけ、寂しかった」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_034
+211,05,14,「けど、あなたが話しかけてくれて、わたしと同じなのかもって気づいてからは……世界が変わった気がするの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_035
+212,05,14,「今はあなたと一緒にいるのがとても楽しくって……毎日が、どんどん素敵になっていく」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_036
+213,05,14,「この場所にも……他でもないあなたと一緒に来ることができて、本当によかった……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_037
+214,05,14,「なにが？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_038
+215,05,14,「く、口説くって……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_039
+216,05,14,「そ、そうなの……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_040
+217,05,14,「嬉しい……でも、言い過ぎじゃない？　ちょっと恥ずかしいかも……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_041
+218,05,14,「んっ……んん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_042
+219,05,14,「あ……んぅ……わたしも好き……ん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_043
+220,05,14,「えへへ……わたしもだよ。[P名]くんへの好きの気持ちが、どんどん大きくなってきてる……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_044
+221,05,14,「え……そ、それって……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_045
+222,05,14,「シたいって……ここで……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_046
+223,05,14,「だ、だめ……ここだと、宇宙からの波動が乱れちゃう……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_047
+224,05,14,「うぅ……そ、それに……誰かに見られたら……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_048
+225,05,14,「……わかった。あそこなら、いいよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_049
+226,05,14,「……二人で、救われようね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_050
+227,05,14,「今日も宇宙が近いね……手が届きそうだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_051
+228,05,14,「早くみんなに会いたいな……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_052
+229,05,14,「そう？　えへへ……ちょっと照れちゃうな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_053
+230,05,14,「段々ね？　ここが、重要な場所になっていくのがわかるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_054
+231,05,14,「わたしと、あなたと、それに“かれら”にとっての……大切な場所に」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_055
+232,05,14,「エッチ……っ……もう……恥ずかしいの思い出しちゃった」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_056
+233,05,14,「……でも、あのときは、夜空がわたしたちだけの宇宙になったみたいで……とっても幸せだったな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_057
+234,05,14,「どうしたの、[P名]くん？　あ……もしかして……変な気分になってきちゃった？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_058
+235,05,14,「うん……それに顔を見なくたって、あなたの考えてることはわかるんだよ？　その……わたしとシたいんだな、って」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_059
+236,05,14,「実はわたしも……あなたと同じ気分になってきてる」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_060
+237,05,14,「ねえ、[P名]くん。場所……移動しよっか……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_061
+238,05,14,「うん……約束だよ？　絶対だからね？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_062
+239,05,14,「楽しみにしてるよ……ねえ、[P名]くん。最後に、ほっぺにキスしていい？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_063
+240,05,14,「“かれら”に……報告したいの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_064
+241,05,14,「前と変わらずに、[P名]くんもわたしと同じ仲間のままだよ？　って」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_065
+242,05,14,「うんっ。だから……ん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_066
+243,05,14,「はい、報告完了だよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_067
+244,05,14,「えへへ、そう言ってくれると嬉しいな。今度、またやってあげるね？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_068
+245,05,14,「……“かれら”はいつも、私を見守ってる……だから、ここだと、よく見えたかも……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_069
+246,05,14,「うん……きっと、銀河一素敵な２人だって、祝福してくれてる」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_070
+247,05,14,「たしかに……人がうじゃうじゃ……でも、全然気にならないよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_071
+248,05,14,「確かに、ひとりでだったら苦手だけど……でも、[P名]くんと一緒に来るのすっごく楽しみにしてたから♪」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_072
+249,05,14,「あなたと一緒ならどのアトラクションも楽しいと思うけれど……あえて言うなら、回転ブランコかな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_073
+250,05,14,「メリーゴーラウンドが空中に浮いたようなアトラクションのことだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_074
+251,05,14,「ほら……あそこにある」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_075
+252,05,14,「はー、楽しかった……！　子どもに戻ったみたいだったよ♪」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_076
+253,05,14,「うん。遊園地は好きだけど、気軽に一人で来れる所じゃないから、久しぶりで楽しかった」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_077
+254,05,14,「だから……今日は来ることができて……いや、あなたと一緒にこれてとてもよかった♪」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_078
+255,05,14,「そんなことはないよ。あれはただの遊び。“かれら”はもっとスマートだもん。“かれら”に失礼だよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_079
+256,05,14,「でもそれはそれとして、クレーンゲームは好き」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_080
+257,05,14,「……上手いとは言ってないからね？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_081
+258,05,14,「やった、また取れたよっ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_082
+259,05,14,「ふぅ……ひと段落」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_083
+260,05,14,「ううん、そんなことないよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_084
+261,05,14,「このゲームが得意なのは、わたしの潜在的な力をフルに活用しているからなの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_085
+262,05,14,「つまり理論上は、あなたにも力を注いでもらったほうが成果が出る」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_086
+263,05,14,「だ、だから……一緒にやろ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_087
+264,05,14,「ほら、取れたっ！　ね、言ったでしょ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_088
+265,05,14,「次はなにに乗ろう……って、あれっ？　もうこんな時間なんだ……えへへ、はしゃぎすぎちゃったね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_089
+266,05,14,「えっ……観覧車？　本当にっ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_090
+267,05,14,「わたしも、[P名]くんが嫌じゃなかったら絶対乗ろうと思ってたんだ……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_091
+268,05,14,「うんっ。いつもはね、“かれら”の元へ持っていけるかわからないから、あんまり物を欲しいと思わないけど……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_092
+269,05,14,「[P名]くんとの思い出が強く残るように、なにかお揃いのものがほしいな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_093
+270,05,14,「ねえねえ[P名]くん、下があんなに小さく見えるよっ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_094
+271,05,14,「いつだろう……とっても小さい頃だと思うんだけど、あんまり覚えてないよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_095
+272,05,14,「観覧車自体はとっても好きなんだけど、ひとりで乗りに行くには勇気が足りなくって……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_096
+273,05,14,「気づいたら……憧れを抱いて眺めるような、遠いアトラクションになってたの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_097
+274,05,14,「だから、今こうしてあなたと一緒に乗ることができて……わたしはすっごく嬉しいの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_098
+275,05,14,「まだ上がっていく……どこまで行くんだろう？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_099
+276,05,14,「宇宙まで、行けたらいいのにな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_100
+277,05,14,「そうだよね……でも、離れていく地上を見ていると、宇宙に向かっているような気分になってくる……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_101
+278,05,14,「なんだか……胸がいっぱい……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_102
+279,05,14,「やっと仲間の元へ帰ることができるんだなって……あなたと一緒に……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_103
+280,05,14,「そういう、帰還の疑似体験をしている気になるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_104
+281,05,14,「わたしたち、だけの……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_105
+282,05,14,「ねえ……あなたは、帰れると思う？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_106
+283,05,14,「うん。それも、わたしたちふたりで」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_107
+284,05,14,「……本当に、戻れるのかな？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_108
+285,05,14,「できること？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_109
+286,05,14,「あ……えへへ、そうだね。わたしも、もっとあなたと……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_110
+287,05,14,「んっ……んん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_111
+288,05,14,「んぅ……ありがと……[P名]くん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_112
+289,05,14,「仲間がいつ来てくれるのか……あなたと一緒にここを出られるのかどうか……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_113
+290,05,14,「でも、今は胸の奥が温かくて……安心してる」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_114
+291,05,14,「好きな観覧車の中で、好きな宇宙に一番近い高さで、好きな[P名]くんとキスができて……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_115
+292,05,14,「言い表すのが難しいけど……とっても、幸せだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_116
+293,05,14,「えへへ……いつか、本当に宇宙に行きながらキスをしようね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_117
+294,05,14,「わ……まだ上がっていく……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_118
+295,05,14,「うん……前に乗ったときよりも、もっと懐かしい気持ち」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_119
+296,05,14,「今は、世界の事象すべてが愛おしいくらいだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_120
+297,05,14,「そう……かもしれない」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_121
+298,05,14,「でもね？　感傷的になっている一番の理由は、もっと違うところにあるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_122
+299,05,14,「あなたと一緒に見ているからだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_123
+300,05,14,「あなたとここにいると、嬉しさとか、懐かしさとか、いろんな気持ちで胸がいっぱいになるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_124
+301,05,14,「[P名]くん、どうかした？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_125
+302,05,14,「どうしたの、[P名]くん？　顔……赤いよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_126
+303,05,14,「そう？　なら、そういうことにしておいてあげる」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_127
+304,05,14,「あなたが慌てるなんて、珍しいことも起きるんだね。ここが特別だからかな？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_128
+305,05,14,「あなたが言ってくれたように、わたしたちは地球を出るまでにもっと仲良くなっておかないといけないんだから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_129
+306,05,14,「不意打ちにも、慣れてもらわないとね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_130
+307,05,14,「ありがとう。じゃあ、善処のついでにお願いしたいんだけど……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_131
+308,05,14,「手……つないでいい？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_132
+309,05,14,「できれば、この観覧車が宇宙から地球に戻るまでの間……ずっと」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_133
+310,05,14,「えへへ……やった♪」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_134
+311,05,14,「もう、この遊園地ともお別れなんだね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_135
+312,05,14,「うん……でも、寂しいだけじゃないよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_136
+313,05,14,「次はどんなことができるかな、って楽しみにできるから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_137
+314,05,14,「あの水のコースターとかも、また乗ってみたいかな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_138
+315,05,14,「えへへ、また一緒に来れる日、ワクワクしながら待ってるね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_139
+316,05,14,「ねえ、[P名]くん……なにかかざしてない？　あなたから、とっても強力な波動を感じるんだけど……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_140
+317,05,14,「シたいって……あ、さっきから感じてる波動は、おちんちんの……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_141
+318,05,14,「えっと、いっぱい人がいるよ？　“かれら”の視線も……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_142
+319,05,14,「……わかった……こういうときのあなたの気力には負けるよ……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_143
+320,05,14,「あなたのここに、コスモパワーが集まってきてるね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_144
+321,05,14,「ねえ、[P名]くん……わたしにも、わけて？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_145
+322,05,14,「声は出しちゃダメ……宇宙の力が一緒に分散しちゃう。ほら、わたしに任せて……ね？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_146
+323,05,14,「誰にも気づかれなかった……奇跡だよ。“かれら”の加護があったからかな？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_147
+324,05,14,「もう、調子に乗らない！　これからは、あんまり電車とかでシちゃダメだからね……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_148
+325,05,14,「えへへ。あなたを通して……宇宙の力、しっかり受け取ったよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_149
+326,05,14,「大胆なのは宇宙のせいだけじゃないよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_150
+327,05,14,「あなたのせいでも……あるんだから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_151
+328,05,14,「ううん。来るのは久しぶり」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_152
+329,05,14,「正直、歌は苦手かも……。ちゃんと歌える自信がないよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_153
+330,05,14,「あ……そっか……そうだよねっ。ちょっと、頑張ってみようかな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_154
+331,05,14,「うーん……流行の曲とかはわからないし……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_155
+332,05,14,「このあたりのページも、知らない曲ばっかり……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_156
+333,05,14,「あ！　この曲なら知ってるかも」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_157
+334,05,14,「え、もうっ？　こ、心の準備が……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_158
+335,05,14,「う、うん……ありがとう。とっても心強いよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_159
+336,05,14,「うん……この交信方法はいつもと違って声を出すから、力を補充しないと」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_160
+337,05,14,「えっと、それじゃあ……このパスタと、ピザと……あとパフェを……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_161
+338,05,14,「いつもより体力を使うからかな？　メニューを見てたら、急にお腹がペコペコになってきちゃって」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_162
+339,05,14,「うん。わかってはいるけど……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_163
+340,05,14,「やった♪　これでいろいろ食べられるね。じゃあ早速、注文しよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_164
+341,05,14,「どうしようかな……脂っこいものとか、量が多いものは避けたいし……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_165
+342,05,14,「そうだよね……うーん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_166
+343,05,14,「本当にっ？　ありがとう、これで交信を続けられるよ。料理の待ち時間でもう一曲……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_167
+344,05,14,「あ～、たくさん歌ったね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_168
+345,05,14,「ほんとに？　実はわたしも、延長したいって思ってたの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_169
+346,05,14,「やった♪」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_170
+347,05,14,「そうだね……あ、見てっ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_171
+348,05,14,「空間に陽の気が満ちてる……やっぱりここはすごい所だよ……また一緒に来たい」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_172
+349,05,14,「わたしでいいの？　それじゃあ……これにする」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_173
+350,05,14,「ねえ、[P名]くん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_174
+351,05,14,「カラオケでの交信方法って、一緒に歌うことだけじゃないんだね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_175
+352,05,14,「うん……すごかった……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_176
+353,05,14,「ええっ？　本当にするの……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_177
+354,05,14,「声とか、聞こえちゃったりしないかな……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_178
+355,05,14,「確かに……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_179
+356,05,14,「は、初めてで、カラオケでシちゃう、なんて……見られたりしない……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_180
+357,05,14,「わかった……いいよ？　きっと、大いなる力がわたしたちを守ってくれるから……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_181
+358,05,14,「うん。あなたと一緒に歌うと、“かれら”とも調和できそうな気がする」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_182
+359,05,14,「もう少し時間があるし、わたしはもうちょっと歌おうかなって思うけど……どうかな？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_183
+360,05,14,「ほんと？　嬉しい……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_184
+361,05,14,「[P名]くんと一緒にカラオケを楽しめるのも嬉しいし、“かれら”と、そして[P名]くんとたくさんの時間を過ごせるのがもっと嬉しい」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_185
+362,05,14,「んっ……んぅっ……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_186
+363,05,14,「……わたしと交わりたい、っていうこと？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_187
+364,05,14,「えっと、その……[P名]くんに従うように、って……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_188
+365,05,14,「うー……わたしの思ってること、伝わってなかったの？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_189
+366,05,14,「あ……たしかに。ありがとう、気遣ってくれて」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_190
+367,05,14,「ちょっと、恥ずかしかった……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_191
+368,05,14,「“かれら”が、わたしの口を乗っ取ったの……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_192
+369,05,14,「うん。今日は“かれら”とも、[P名]くんとも、いっぱい交信できたと思う」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_193
+370,05,14,「え！　本当にっ！？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_194
+371,05,14,「読むっ。オカルトっていうジャンルでくくられるのはシャクだけど、昔からああいうのは大好き」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_195
+372,05,14,「そっか……[P名]くんも、やっと“かれら”のことがわかるようになったんだね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_196
+373,05,14,「……あんまり口に出しちゃいけないんだけど」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_197
+374,05,14,「実は……映っていたりもする」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_198
+375,05,14,「しっ……声が大きいよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_199
+376,05,14,「よく目撃されるのは海外で、ほとんどの写真は偽物だけど……たまに、“かれら”の影を捉えた写真があるの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_200
+377,05,14,「仲間はわたしだけじゃなくて、世界各地にいるだろうから……“かれら”は地球を観測して、救出作戦を練っているはず」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_201
+378,05,14,「大丈夫、あなたのことは“かれら”にも伝えてあるから。今度、“かれら”の影が映ってる写真を見せてあげるね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_202
+379,05,14,「よかった。[P名]くんも一緒に救われようね♪」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_203
+380,05,14,「うん。いろんなところで遊ぶのもいいけれど、あなたとゆったり喋るのも好き」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_204
+381,05,14,「ううん、あんまり来ないよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_205
+382,05,14,「本当はこういうオシャレな場所に、もっと来たいと思ってるんだけど……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_206
+383,05,14,「そうなの。来るとしても、基本的にはひとりきりだから、足も遠のいちゃって……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_207
+384,05,14,「もっとお金があったら、この星を離れる前に、あなたとカフェ巡りとかしたいなって思うんだけど……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_208
+385,05,14,「オシャレとかよくわからないから、こういう場所も気が引けちゃうの……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_209
+386,05,14,「今は大丈夫。わたしには大いなる存在がついてるから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_210
+387,05,14,「違う。[P名]くんのこと……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_211
+388,05,14,「あなたと一緒なら、どこに行っても怖くないの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_212
+389,05,14,「うん……そうだね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_213
+390,05,14,「はっ……こ、これは違うの。今ちょうど、“かれら”の声を聞いていて……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_214
+391,05,14,「うんっ。いただきます」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_215
+392,05,14,「ん～っ。　甘い……幸せ……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_216
+393,05,14,「女の子の体の大部分は甘いもので作られているの。それは、“かれら”の仲間であるわたしでも同じこと」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_217
+394,05,14,「ふはっ！　え？　あ、そうか！　うん、うん、なるほど……そうだよね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_218
+395,05,14,「[P名]くん。“かれら”から交信が……あなたとも、この幸せを共有したほうがいいって……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_219
+396,05,14,「うん。わたしも、その方がいいと思う……あーん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_220
+397,05,14,「えへへ……どういたしまして」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_221
+398,05,14,「この抹茶プリンは甘さ控えめなんだよ。最近は、上品な甘さのスイーツも多いから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_222
+399,05,14,「だから……甘いものが苦手なのと、スイーツが好きなのは矛盾しないのっ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_223
+400,05,14,「間違いなく合うよ。一口、食べる？　ほら、あーん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_224
+401,05,14,「本当？　やった……また、一緒に楽しめるものが増えたね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_225
+402,05,14,「すっごく美味しいよ。このオムライスの美味しさに関しては、“かれら”も羨むくらいなの」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_226
+403,05,14,「今は、そういうのはないよ？　けど、代わりにあなたの考えを教えてくれてる」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_227
+404,05,14,「ズバリ……わたしにオムライスを食べさせてほしいんでしょ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_228
+405,05,14,「もちろん。わたしたちの心は“かれら”を通してつながってるも同然なんだから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_229
+406,05,14,「うんうんっ、わかってるよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_230
+407,05,14,「あはは、ごめんね。言い当てられたときの[P名]くんが可愛くって」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_231
+408,05,14,「ちゃんと認めてくれたから、ご褒美あげるね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_232
+409,05,14,「はい……あーん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_233
+410,05,14,「そうでしょ？　えへへ……やっぱり同じだね、わたしたち」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_234
+411,05,14,「あなたの話が面白いから、時間を忘れてたよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_235
+412,05,14,「うんっ。今度は“かれら”の話、もっと色々教えてあげるね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_236
+413,05,14,「そうだよね。あなたといるとすっごく楽しくて、あっという間に一日が終わっていく……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_237
+414,05,14,「わたしもそう思ってるよ。どうにかして、宇宙の法則をゆがめられたらいいのに……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_238
+415,05,14,「いいの？　えへへ……わたしも、あなたの家に行きたかったんだ。運命が塗り替わったね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_239
+416,05,14,「ほしいって……キス、とか……？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_240
+417,05,14,「それって……そっか……シたいんだね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_241
+418,05,14,「ううん。わたしも[P名]くんと……交信したい」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_242
+419,05,14,「どうしたの、[P名]くん？　いきなり抱きしめられたら、その……ちょっと恥ずかしいよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_243
+420,05,14,「うん……わかるよ。あなたの思いが流れ込んでくるもの……さびしいんだよね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_244
+421,05,14,「でも、安心して。またすぐに会えるから……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_245
+422,05,14,「もちろん、あなたの背中を観測していたんだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_246
+423,05,14,「さ、行こ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_247
+424,05,14,「ううん、いいの。予定の場所で待っていたら、あなたを発見して……早く会いたいと思っただけ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_248
+425,05,14,「こっちのほうからあなたの力を感じ取ったの。それを頼りにして来たんだよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_249
+426,05,14,「本当に、ホテルに来ちゃった……すごいね、この迫ってくるような空間……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_250
+427,05,14,「そう言われても……むしろ、なんであなたはそんなにリラックスしてるの？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_251
+428,05,14,「わたしを思ってのこと、なんだね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_252
+429,05,14,「嬉しい……えっと、じゃあ……受信する準備はできてるから……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_253
+430,05,14,「入るときだけは……ちょっとね。でもこうやって部屋に入れば、もう平気だよ……こんな風に」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_254
+431,05,14,「んん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_255
+432,05,14,「……えへへ、びっくりした？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_256
+433,05,14,「あなたを通して、大きな存在を感じるの……もっと、していい？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_257
+434,05,14,「きょ、挙式のモデルっ？　もしかして……わたしたちに？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_258
+435,05,14,「お似合いで素敵……えへへ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_259
+436,05,14,「ねえ、[P名]くん。か……“かれら”は、引き受けたほうがいいって言ってるんだけど……どう思う？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_260
+437,05,14,「なんか、神秘的だね……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_261
+438,05,14,「……ん。でも……練習、しておかないと」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_262
+439,05,14,「うん、あるよ。けど、“かれら”は心が広いから……地球のウェディングドレスでも、温かくお祝いしてくれるよ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_263
+440,05,14,「それに……もしかしたら、地球にいるうちにするかもしれないでしょ？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_264
+441,05,14,「えっと……それじゃあ、また後でね？」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_265
+442,05,14,「えへへ……なにか、そうさせる波長でも出てるのかな？　わたしから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_266
+443,05,14,「……はい、誓います」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_267
+444,05,14,「ふふ……それなら、一緒だね。わたしも、イメージがぼんやりしていたの……今日、こうやってドレスを着るまでは」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_268
+445,05,14,「よかった……そう思ってくれたのなら、嬉しいな」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_269
+446,05,14,「急かすようなこと言っちゃったかな、って思ってたから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_270
+447,05,14,「うん……わたしも、不安だったのかもしれない」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_271
+448,05,14,「みんなの元へ帰ることができたとき、隣にあなたがいてくれるのかどうか……確信が持てなかった」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_272
+449,05,14,「疑っていたわけじゃないけれど、こればっかりは“かれら”も教えてくれないし……信じるしかなかったから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_273
+450,05,14,「ううん、いいの。無理に言わせるのは嫌だったし……それに、もう安心したから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_274
+451,05,14,「さっき、あなたは言ってくれたでしょ？　ずっと一緒にいたい、って」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_275
+452,05,14,「すっごく嬉しかった……不安も全部、どこかへ飛んでいっちゃったよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_276
+453,05,14,「あなたが彼氏でよかった……ありがとうね、[P名]くん」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_277
+454,05,14,「えへへ……地球でも、宇宙でも、ずっと一緒にいようね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_278
+455,05,14,「っ……ん……んん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_279
+456,05,14,「大好き、だよ……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_280
+457,05,14,「うん。まだ、幸せな余韻が続いてるよ……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_281
+458,05,14,「結婚式みんなのところに戻ってからしたい、って思ってたけど……ハネムーンで宇宙に行って、そのまま救われるのもいいよね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_282
+459,05,14,「でしょ？　そう思えるくらい、今日の模擬挙式は素敵だった……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_283
+460,05,14,「はいっ、誓います」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_284
+461,05,14,「……ようやく、このときが来たんだね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_285
+462,05,14,「ふふ。[P名]くん、予行演習のときほど緊張してないんだね」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_286
+463,05,14,「きょ、今日は、わたしのほうがドキドキしてるかも……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_287
+464,05,14,「[P名]くん……えへへ、ありがとう」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_288
+465,05,14,「[P名]くん……焦らなくても大丈夫だよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_289
+466,05,14,「あなたも、いつかきっと目覚める」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_290
+467,05,14,「だって……これからはずっと、傍にわたしがついているんだから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_291
+468,05,14,「うん。わたしも……あなたがいてくれるなら、不安や心配なんてなにもない」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_292
+469,05,14,「あなたと一緒にいることができて……あなたと結婚することができて……これからもあなたと生きていくことができて……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_293
+470,05,14,「わたしは、幸せです……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_294
+471,05,14,「ん……」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_295
+472,05,14,「わたしも……愛してるよ」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_296
+473,05,14,「えへへ……なんだか楽しみになってきた！　最終的には地球を出るけど、それまでにいろんな楽しいことをしておかないとね！」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_297
+474,05,14,「うん……そうだよね……わたしたちは宇宙の果てまで行っても……ずっと一緒に、幸せな人生を築いていくんだから」,sound/data/pcm/c05/adv/20.unity3d,adv_luv_05_298
+475,05,14,「これ……気持ちいい？」,sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_000
+476,05,14,"「うーん…………""かれら""に言われたから？」",sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_001
+477,05,14,「えへへ……宇宙を感じたくなったの」,sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_002
+478,05,14,「あなたも私と一緒に宇宙を感じようね……？」,sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_003
+479,05,14,"「えっと……""かれら""に会うための儀式だよ？」",sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_004
+480,05,14,「うん、任せて。あなたも一緒に連れて行ってあげるからね」,sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_005
+481,05,14,「おっぱいでおちんちん、気持ちいいでしょ？」,sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_006
+482,05,14,「えへへ……寝起きは宇宙を感じやすいんだよ？　だからね、いつもより気持ちよくなれるの」,sound/data/pcm/c05/adv/00.unity3d,adv_spev_05_007
+483,05,14,song_05_00,sound/data/bgm/bgm_29.unity3d,bgm_29
+484,05,14,「えへへ……宇宙を感じたくなったの」,sound/data/pcm/c05/adv/00.unity3d,com_ev_05_461_02
+485,05,14,「これ……気持ちいい？」,sound/data/pcm/c05/h/00_00.unity3d,h_hh_05_01_011
+486,05,14,「おっぱいでおちんちん、気持ちいいでしょ？」,sound/data/pcm/c05/h/00_00.unity3d,h_hh_05_02_004
+487,05,14,「うん、任せて。あなたも一緒に連れて行ってあげるからね」,sound/data/pcm/c05/h/00_00.unity3d,h_ka_05_02_011
+488,05,14,「あなたも私と一緒に宇宙を感じようね……？」,sound/data/pcm/c05/h/00_00.unity3d,h_ka_05_03_000
+489,05,14,「三人で……？　んー……いいよ……？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_nor_main_05_000
+490,05,14,「いいよ……三人のほうが、すぐ宇宙を見れそうだし……」,sound/data/pcm/c05/adv/20.unity3d,h_rn_nor_main_05_001
+491,05,14,「すごい……みんなのパワー、感じられた……♪」,sound/data/pcm/c05/adv/20.unity3d,h_rn_nor_main_05_002
+492,05,14,「気持ちいい事してるって聞いたから……私も連れてってほしいな」,sound/data/pcm/c05/adv/20.unity3d,h_rn_nor_sub_05_000
+493,05,14,「ありがとう。　少しでも近づけるよう、頑張るね？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_nor_sub_05_001
+494,05,14,「はぁ……みんなで宇宙、近づけたかな……」,sound/data/pcm/c05/adv/20.unity3d,h_rn_nor_sub_05_002
+495,05,14,「え……ずっと見てたの……？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_ona_05_000
+496,05,14,「……そう、私の恥ずかしいとこ見て興奮しちゃったんだね」,sound/data/pcm/c05/adv/20.unity3d,h_rn_ona_05_001
+497,05,14,「いいよ。今度は、私があなたの恥ずかしいとこを見る番だから……」,sound/data/pcm/c05/adv/20.unity3d,h_rn_ona_05_002
+498,05,14,「そうみたい。君のあそこ、すっごくシたがってる」,sound/data/pcm/c05/adv/20.unity3d,h_rn_ona_05_003
+499,05,14,「……私も、もっとシたい……ね、いっぱいシて……？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_ona_05_004
+500,05,14,「はふ……ねぇ、見てるだけ、なの……？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_ona_05_005
+501,05,14,「ひゃあっ！？　もしかして見られてた……？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_res_main_05_000
+502,05,14,「あぁ、気持ちよかった……これ、気に入っちゃったかも……」,sound/data/pcm/c05/adv/20.unity3d,h_rn_res_main_05_001
+503,05,14,「あ、やっぱり君だったんだ」,sound/data/pcm/c05/adv/20.unity3d,h_rn_res_sub_05_000
+504,05,14,「うん、こうなるって聞いてたから……いつでもいいよ？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_res_sub_05_001
+505,05,14,「すごかったね……あなたの性欲だと、二人じゃ足りないかな……？」,sound/data/pcm/c05/adv/20.unity3d,h_rn_res_sub_05_002
+506,05,14,「オイル塗り……ふーん、そんなことが出来るんだ」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_000
+507,05,14,「塗ったら、宇宙を感じられるかな？」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_001
+508,05,14,「じゃあ……お願いするね」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_002
+509,05,14,「うん、そっちの方が、より宇宙を感じられそうな気がする」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_003
+510,05,14,「当たり前だよ？　ほら、はやく塗ってほしいな」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_004
+511,05,14,「“かれら”との繋がりが、深まった気がするよっ」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_005
+512,05,14,「うん……宇宙の一端を感じられた気がする……」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_006
+513,05,14,「宇宙を感じることは出来なかったけど、気持ち良かったよ」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_007
+514,05,14,「なんで塗らなかったの？」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_008
+515,05,14,「ありがとう。やっぱり宇宙を感じる為には、あなたが不可欠だなぁ」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_009
+516,05,14,「ありがとう。あなたのおかげで、気持ち良くなれたよ」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_010
+517,05,14,「なんだか身体が軽くなった気がする……ありがとう」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_011
+518,05,14,「塗ってないのに、終わっちゃうの？」,sound/data/pcm/c05/adv/00.unity3d,sun_es_05_012
+519,05,14,「す、好きって……告白、だよね？　わたしに……？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_000
+520,05,14,「ううん！　わたしも、あなたのことが好きなの！」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_001
+521,05,14,「えへへ……なんだか夢みたい。すっごく幸せだなぁ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_002
+522,05,14,「これだけ静かなら耳を澄ませば聞こえるかも。“かれら”の声が……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_003
+523,05,14,「急に改まってどうしたの？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_004
+524,05,14,「えっ！？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_005
+525,05,14,「うん……ビックリしちゃった」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_006
+526,05,14,「ううん、そんなことしないよ。すごく嬉しい」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_007
+527,05,14,「えへへ♪　人に好きって言われると、こんなにビビッとくるんだね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_008
+528,05,14,「でも、どうしてわたしなの？　他にも可愛い子がたくさんいるのに」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_009
+529,05,14,「え？　そんなに？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_010
+530,05,14,「そうなんだ。えへへ、嬉しいなぁ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_011
+531,05,14,「わたしもあなたと同じだよ。一緒にいると毎日が楽しくて」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_012
+532,05,14,「気がついたら、あなたのことばかり考えるようになってた」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_013
+533,05,14,「わたし達、波長が合うんだろうね。だから通じ合えるというか」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_014
+534,05,14,「……いつもわたしのお話を聞いてくれてありがとう」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_015
+535,05,14,「あなただけだよ。わたしの話をきちんと最後まで聞いてくれたのは」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_016
+536,05,14,「これからもあなたのそばにいたい。わたしも[P名]くんが好き……大好きだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_017
+537,05,14,「恥ずかしくなっちゃうから、何度も口にしないで。気持ちは十分伝わってるよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_018
+538,05,14,「そんなのいらないよ。言葉にしなくても、[P名]くんからの“メッセージ”はわたしの心に届いてるもん」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_019
+539,05,14,「想いが強すぎて、受け止めきれないくらいだよ……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_020
+540,05,14,「うん。すごく強い念波を感じるよ。この調子で、“かれら”とも交信してみる？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_021
+541,05,14,「わたしが好きになった人だもん。“かれら”も[P名]くんを認めてくれるはずだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_022
+542,05,14,「心を研ぎ澄ませて、強く念じれば届くよ。水平線の遙か彼方……“向こう側”にだって声は届く」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_023
+543,05,14,「[P名]くんの『好き』が、わたしの心に響いたみたいに」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_024
+544,05,14,「えへへ。そうだね♪」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_025
+545,05,14,「うん、そうだよ。わたしは……あなたのことが好き。あなたの特別になりたいの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_026
+546,05,14,「本当？　えへへ、よかったぁ。これでわたしたちは結ばれたね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_027
+547,05,14,「わたしと……えっちしたいの？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_028
+548,05,14,「……だめじゃないよ。わたしも、“かれら”の為に、えっちしないといけないし……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_029
+549,05,14,「相手があなたなら大丈夫。わたしの初めて……もらって？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_030
+550,05,14,「うん……えっち、しよ？　わたしも、したいと思ってたの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_031
+551,05,14,「でも、初めてだから、優しくしてほしいな」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_032
+552,05,14,「あなたは優しいね。えへへ……二人で繋がろう？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_033
+553,05,14,「朝から元気をもらえたし、わたしは帰るね。また後で、いっぱい話そう？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_034
+554,05,14,「えへへ……ここには、あなたのエネルギーが満ちてるね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_035
+555,05,14,「うん？　そんな目をして、どうかしたの？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_036
+556,05,14,「あ……えっち、したいんだ。そっか……じゃあ、しよう？　二人で気持ち良くなろうね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_037
+557,05,14,「……わたしの勘違いじゃなかったら、えっち……したがってる？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_038
+558,05,14,「やっぱりそうなんだ。なんとなく、そんな気配を感じたから、そうかなって思ったの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_039
+559,05,14,「わたしは、いいよ？　遠慮しないで、二人で感じ合おう？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_040
+560,05,14,「普通の平地よりかはしやすいよ。でも、天気の方が重要かな」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_041
+561,05,14,「雲がない方が、障害物がない分届きやすいの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_042
+562,05,14,「うん。あなたも、“かれら”のことが分かってきたんだね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_043
+563,05,14,「……宇宙に関するグッズは売ってなさそうだなぁ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_044
+564,05,14,「星の砂も関係ないみたいだし……残念」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_045
+565,05,14,「うーん、“かれら”と関係がある場所かと思ってたけど……違うみたい」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_046
+566,05,14,「地球にあるパワースポットの内、３割は“かれら”の痕跡だって言われてるよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_047
+567,05,14,「ありがとう。お陰で、いい場所が見つかったよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_048
+568,05,14,「欲しいモノはなかったけど、楽しい時間だったよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_049
+569,05,14,「宇宙の力はないみたいだけど、素敵な場所だったね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_050
+570,05,14,「二人で息を合わせてカヤックを漕ぐんだね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_051
+571,05,14,「わかった。慣れてないから、迷惑かけるかもしれないけど……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_052
+572,05,14,「あのね、“かれら”にも見えるくらい大きな砂の城を作りたいの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_053
+573,05,14,「大きく出来たら、わたしが楽しんでるメッセージになると思うんだ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_054
+574,05,14,「目標は高く、だよ！」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_055
+575,05,14,「ダイビングか……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_056
+576,05,14,「うん、深海と宇宙はとても近しい存在だから」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_057
+577,05,14,「知ってるよ。でも、少しは力を感じることが出来るかなって思ってるの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_058
+578,05,14,「地球にも、素敵な場所はたくさんあるんだね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_059
+579,05,14,「一緒に作ってくれて、ありがとう。“かれら”に届いたらいいなぁ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_060
+580,05,14,「すごく幻想的だったね！　宇宙も、あんな感じなのかなぁ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_061
+581,05,14,「星や宇宙の柄がなかったから、この波と魚にしたよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_062
+582,05,14,「……私もそっちにしようかな。簡単そう」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_063
+583,05,14,「うん……でも、頑張って覚えないと」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_064
+584,05,14,「昔、宇宙に打ち上げられた探査機には、地球の音がたくさん入ったレコードが積まれてたの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_065
+585,05,14,「私もそれに倣って、“かれら”に同じ様なレコードを届けようと思ってるんだ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_066
+586,05,14,「見て！　もう少しでスペースシーサーが完成するの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_067
+587,05,14,「星の模様だよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_068
+588,05,14,「うん、綺麗に焼けるのが楽しみ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_069
+589,05,14,「あんなに難しいなんて……やっぱり柄を変えて正解だった。それじゃあ、またね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_070
+590,05,14,「なんとか弾ける様になったし、早く“かれら”にも聞かせてあげたいな」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_071
+591,05,14,「おかげで楽しい思い出ができたよ、ありがとう」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_072
+592,05,14,「この黒い天ぷら、なんだろ？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_073
+593,05,14,「酢の物やスープじゃなくて天ぷら……なんか珍しいね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_074
+594,05,14,「ふーん。あとで“かれら”に報告しないと」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_075
+595,05,14,「うん、通販で頼んだことがるよ」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_076
+596,05,14,「お湯をかけたら、だいたいは元の味そのままになるから美味しいかな。さすがに食感は違うんだけど」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_077
+597,05,14,「そんなことを気にするなんて、わたしと宇宙に行きたいの？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_078
+598,05,14,「変わった名前が多いから、いまだに料理名を覚えられないの……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_079
+599,05,14,「『クーブイリチー』ってどんな食べ物だっけ？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_080
+600,05,14,「おお、さすが。じゃあ、これはなに？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_081
+601,05,14,「ごちそうさま。それじゃあ、またね」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_082
+602,05,14,「話してたら、わたしも久々に宇宙食を食べたくなってきたかも……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_083
+603,05,14,「ごちそうさま。やっぱり、ご飯はあなたと食べた方が美味しいな」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_084
+604,05,14,「ねぇ……部屋にいる？」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_085
+605,05,14,「“かれら”が……ううん、わたしの意思で、あなたに会いに来たの」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_086
+606,05,14,「今夜はずっと……あなたの傍にいたい……」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_087
+607,05,14,「はぁ……もう寝たのかな」,sound/data/pcm/c05/adv/00.unity3d,sun_ev_05_088
+608,05,14,「うん、そうだね。でも……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_000
+609,05,14,「ちょっとだけ照れくさいなって思ったの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_001
+610,05,14,「今も“かれら”に見られてるかもしれないから……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_002
+611,05,14,「ううん、そんなことないよ。[P名]くんと一緒にいるの楽しいから」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_003
+612,05,14,「そうだね。[P名]くんの言う通りかも。今を楽しまないと、もったいないよね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_004
+613,05,14,「いつか、帰らないといけないんだから……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_005
+614,05,14,「えへへ。わたしもだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_006
+615,05,14,「その日が来るまで……ううん、その日が来た後も[P名]くんのそばにいたい……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_007
+616,05,14,「風が気持ちいいね……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_008
+617,05,14,「ねえ……[P名]くんは風が吹く理由を知ってる？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_009
+618,05,14,「そういうんじゃなくて、もっと“深い”お話だよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_010
+619,05,14,「風はね、星の呼吸……命の息吹なの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_011
+620,05,14,「そうだよ。風が種を運ぶことで、緑豊かな自然が大地に広がるの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_012
+621,05,14,「緑なくして生き物の繁栄はありえない。だから、星が風を吹かせて命を育んでいるの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_013
+622,05,14,「いま吹いてる風は……恋の種を運んでいるんだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_014
+623,05,14,「うん。風に誘われたから、わたしと[P名]くんはこうして一緒に座ってるの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_015
+624,05,14,「そうだね。でも、優しい風だと思う」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_016
+625,05,14,「ねえ……もう少しここにいない？　この場所、静かで落ち着くの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_017
+626,05,14,「[P名]くんとの二人だけの時間、もっと堪能したい……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_018
+627,05,14,「えへへ、負けないよぉ～」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_019
+628,05,14,「やったぁ。勝った～っ！」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_020
+629,05,14,「[P名]くんの目を見ていたらなんとなくね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_021
+630,05,14,「あとは“かれら”の助言かな？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_022
+631,05,14,「うん！　“かれら”の声に従ってラケットを振ったら、ぜんぶの球を打ち返せたんだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_023
+632,05,14,「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_024
+633,05,14,「ふふっ。お手柔らかにね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_025
+634,05,14,「ねぇねぇ。このＴシャツに書いてある『なんくるないさー』ってどういう意味？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_026
+635,05,14,「そうなんだ……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_027
+636,05,14,「もっと深い意味があるのかなと思って」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_028
+637,05,14,「『ナンクルナイサー』っていう言葉の響きから何かを感じない？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_029
+638,05,14,「むむっ！　ビビッときた！　いますべてが繋がったよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_030
+639,05,14,「『なんくるないさー』って『宇宙のパワーで何でも解決！』っていう意味なのかも」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_031
+640,05,14,「わたし、このＴシャツ気に入っちゃった♪　おそろいで買おっ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_032
+641,05,14,「海っていいよね。どこまでも果てしなく広がってて……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_033
+642,05,14,「うんうん！　そうなの。よくわかってるね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_034
+643,05,14,「ねえ、知ってる？　宇宙だけじゃなくて、深いところにも“かれら”は棲んでるんだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_035
+644,05,14,「そうだよ。海の底にある大きな神殿で深い眠りについてるの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_036
+645,05,14,「こうして波の音に耳を傾けると、深淵から聞こえてくるんだ。“かれら”の呼び声が」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_037
+646,05,14,「大丈夫。心を落ち着かせて、ありのままに受け入れれば平気だよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_038
+647,05,14,「怖いなら、わたしがついてるから。いつか一緒に挨拶しに行こうね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_039
+648,05,14,「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_040
+649,05,14,「えへへ。照れちゃうなぁ～」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_041
+650,05,14,「うん。わたしも、もうしばらく[P名]くんと地上にいたい」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_042
+651,05,14,「『ここ』でしかできないこと……たくさん経験したいな」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_043
+652,05,14,「ダンス……うん、いいよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_044
+653,05,14,「どうかな？　上手く踊れてる？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_045
+654,05,14,「よかった。ひとまずは安心」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_046
+655,05,14,「本当のことを言うとね。わたし、踊ってるわけじゃないんだ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_047
+656,05,14,「[P名]くんの動きに合わせたら、自然と体が動いただけなの。自動的にね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_048
+657,05,14,「わたし達、魂の波長が合うのかも」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_049
+658,05,14,「えへへ、なんだか調子出てきたよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_050
+659,05,14,「うん！　“かれら”を迎える儀式にも踊りは欠かせないからね。もっと練習しないと」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_051
+660,05,14,「じゃあじゃあ、今度は二人きりで踊りの練習しよっ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_052
+661,05,14,「それでいつか、素敵な儀式をしようね。えへへ♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_053
+662,05,14,「この鐘から不思議なパワーを感じる……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_054
+663,05,14,「へぇ～、ここがウムイの鐘だったんだ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_055
+664,05,14,「うん……断言するよ。この場所は“ホンモノ”」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_056
+665,05,14,「多くの想いが集う場所には、強いパワーが宿るから」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_057
+666,05,14,「ねえ……[P名]くんもわたしと契約してくれる……？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_058
+667,05,14,「うん。ずっとそばにいるって契約」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_059
+668,05,14,「わたし、“かれら”と契約してるの。だから遠く離れていても寂しくない」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_060
+669,05,14,「[P名]くんとも繋がっていたいの。だから……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_061
+670,05,14,「うん……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_062
+671,05,14,「ふふっ。これで契約完了だね。これからもずっと、わたしのそばにいてね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_063
+672,05,14,「うん！　えへへ。だ～い好きっ♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_064
+673,05,14,「あっ！　見て見て、大きなクラゲが泳いでる」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_065
+674,05,14,「ゆっくりと上下に揺れながら挨拶してる。わぁ、かわいい♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_066
+675,05,14,「クラゲって不思議だよね。泳ぐ姿を眺めてるだけで癒やされちゃう」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_067
+676,05,14,「うんうん。そうなんだよ～。さすがわかってるね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_068
+677,05,14,「いいなぁ。わたしもクラゲになりたい。それで宇宙を自由に泳ぎ回るの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_069
+678,05,14,「クラゲになれば、“かれら”とも交信しやすくなるからね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_070
+679,05,14,「ううん、違うよ。クラゲは電波で交信してるの。だから、人よりクラゲの方が“かれら”と繋がりやすくなるんだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_071
+680,05,14,「そうだ！　今からテレパシーの練習をしよっか。わたしが何を考えてるか当ててみて？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_072
+681,05,14,「ほら、いいから早く早く」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_073
+682,05,14,「わぁ、すごい！　大正解っ♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_074
+683,05,14,「やっぱり[P名]くんは、わたしが見込んだ通りの人だよ。いつか一緒にクラゲになろうね♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_075
+684,05,14,「素敵……きっとこの先、良いことばかり起こるよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_076
+685,05,14,「うん。夜空を流れる無数のほうき星。そのすべての軌跡に、ちゃんとした意味があるからね」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_077
+686,05,14,「いま流れた星は今年の運勢を暗示してて、南の方で輝いた星は金運上昇の御利益があるよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_078
+687,05,14,「安心して。悪い意味はひとつもないから。どの星からも良いエネルギーを感じる」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_079
+688,05,14,「きっとこの流れ星は、“かれら”からの贈り物なんだよ。わたし達の関係を祝福してくれてるのかも」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_080
+689,05,14,「えへへ。わたしもだよ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_081
+690,05,14,「これだけ星が綺麗に見えるなら、わたし達の声が宇宙に届くはずだよ。交信してみよっ」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_082
+691,05,14,「簡単だよ。気分を落ち着かせて、ありのままに宇宙を感じればいいの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_083
+692,05,14,「ほら……[P名]くんにも聞こえるでしょ？　“かれら”からのメッセージが」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_084
+693,05,14,「“チャンネル”がまだ開いてないのかな？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_085
+694,05,14,「わたしとは交信できてるから、上手くいくと思ったんだけど……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_086
+695,05,14,「そうだよ。[P名]くんがわたしを好きでいてくれるように、わたしも[P名]くんが好きなの」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_087
+696,05,14,「わたし達は同じ気持ちを共有している。それってつまり……」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_088
+697,05,14,「ホントに！？」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_089
+698,05,14,「うんうん！　そんな感じだよ。わかってくれたんだね。すごく嬉しい♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_090
+699,05,14,「そうだね。わたし達はいま幸せですって、“かれら”に伝えないと。えへへっ♪」,sound/data/pcm/c05/adv/00.unity3d,sun_lv_05_091

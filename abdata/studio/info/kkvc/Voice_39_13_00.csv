@@ -1,0 +1,316 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0,39,13,「はいたーい。えへへ、ちょっとお話に付き合ってほしいさー？」,sound/data/pcm/c39/adm/00.unity3d,map_yobikake_39_00
+1,39,13,「あいっ！　ここは女子用さー！」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_000
+2,39,13,「わぁっ、何考えてるねー！　早く出てってー、叩かれるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_001
+3,39,13,「ぁ、ごめんね？　今はちょっと、話してる時間ないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_002
+4,39,13,「ん～……すぅ……ふへへ……だからさ～……」,,sun_com_39_003
+5,39,13,「そ、そんな堂々と見るぅ？　ちょっと遠慮が無さすぎるさぁ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_004
+6,39,13,「……自分、ちょっと恥じかさーだから、水着あんまり見ないでよぉ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_005
+7,39,13,「んぅ？　もうついたのー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_006
+8,39,13,「だめー、そんなとこ入ったら怒られるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_007
+9,39,13,「なんか、ドキドキするさー……なんでかねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_008
+10,39,13,「その、島はあったかいから……ちょっと解放的な気分に、なったりしないねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_009
+11,39,13,「ひゃわっ！　うぅ、やられたさー。全然気づかなかったよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_010
+12,39,13,「お話、いっぱいしたいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_011
+13,39,13,「なんでも遠慮なく聞いてー、その方が嬉しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_013
+14,39,13,「うん、自分もこの島はお気に入りよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_014
+15,39,13,「えへ、なんかぼやーっとしてるねー。でも、言いたいことは分かるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_015
+16,39,13,「自分の出身地じゃないけど、大きな括りだと故郷だからね。居心地がいいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_016
+17,39,13,「あったかい所は好きさー。だから、この島も大好きよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_017
+18,39,13,「うーん、そういうのは長く住んでみないと分からないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_018
+19,39,13,「えへ、好きなだけ眺めるといいさー。急かす人なんていないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_019
+20,39,13,「えへ、気持ち分かるさー。自分もよくウズウズしてるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_020
+21,39,13,「そうでもないさー。痛くならなければ気にしないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_021
+22,39,13,「そりゃ、自分も女の子だからねー。まったく興味無いとは言えんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_022
+23,39,13,「なーにー、いきなりそんなこと聞いてー。なんだかナンパみたいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_023
+24,39,13,「その通りさー。おじーとおばーに、もっと周りを見ろってよく言われたよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_024
+25,39,13,「うん、そうだねー。きっと好きな人とかができたら大変さー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_025
+26,39,13,「あるよー。自分がこんな感じだから、気が長が人がいいねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_026
+27,39,13,「方言が気にならない人だねー。器の大きい人がいいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_027
+28,39,13,「うーん、そういうのはまだよく分からんさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_028
+29,39,13,「どっちも楽しいよー。でも男の子と二人きりだと、ちょっとドキドキするねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_029
+30,39,13,「パッとは出てこないねー。何か思いついたら、また今度聞かせて欲しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_030
+31,39,13,「あいっ！　いきなり何ねー？　もう、変な人だと思われるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_031
+32,39,13,「うん、ちょっと強引なくらいが男らしいさー。乱暴なのはダメだけどねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_032
+33,39,13,「うーん、自分がマイペースだから、あんまりグイグイ来られると困るさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_033
+34,39,13,「好きだよー。自分は大雑把だからねー、色々助かりそうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_034
+35,39,13,「きっと自分とは合わんねー。慎重すぎて、わじわじー……腹が立っちゃいそうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_035
+36,39,13,「真面目な人は嫌いじゃないよー。絶対根はいい人さー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_036
+37,39,13,「堅い考えを押し付けてくる人とは、あんまり一緒に居たくないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_037
+38,39,13,「全然大丈夫さー。まったりするのは自分も大好きよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_038
+39,39,13,「自分ルールが多そうで……ちょっと苦手かもしれんねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_039
+40,39,13,「えへ、もちろん。優しくされて嫌がる女子はいないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_040
+41,39,13,「適度ならいいけど、なよなよした人はお断りよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_041
+42,39,13,「タイプにもよるけどー、背中で語れるような漢気のある人なら好きさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_042
+43,39,13,「あんまり喋らない人はつまらないねー。自分だけ騒いで馬鹿らしくなりそうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_043
+44,39,13,「い、いきなり何を聞くねー。もう……特に変わった言い方なんてないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_044
+45,39,13,「えぇっ、恋人はウムヤーとか言ったりするけど……え、エッチは変わらんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_045
+46,39,13,「わ、分からんさー。人によりけりだと思うよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_046
+47,39,13,「友達だったらそういうことはしない方が普通さー。……普通、よねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_047
+48,39,13,「そ、そんなの教えんよー。そもそも、したくなる前提で話を進めないで欲しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_048
+49,39,13,「それは……一人で、したりとか……うぅ、言わせんでよぉ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_049
+50,39,13,「そういう話ばっかりしてると、女の子に気持ち悪がられるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_050
+51,39,13,「まぁ、ちょっとくらいはあるさー。全然見たことがない方がおかしいはずよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_051
+52,39,13,「なんか、生々しいさー。どこ見たらいいか分からなくなるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_052
+53,39,13,「比べようがないから分からんさー。でもまぁ、気持ちよくなる所は多いよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_053
+54,39,13,「んぅ？　何か言いたいことがあるのー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_054
+55,39,13,「もう、そんなに見つめられたら照れるさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_055
+56,39,13,「はいはい、にらめっこにはもう付き合わないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_056
+57,39,13,「うー、男子は胸ばっか見るねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_057
+58,39,13,「いい加減にしてー。そろそろ怒られるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_058
+59,39,13,「どれだけ見ても何も変わらんよー。わじわじしてきたさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_059
+60,39,13,「ぅえっ、なに？　今、手を握ろうとしたよねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_060
+61,39,13,「こらー、まだそんな仲じゃないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_061
+62,39,13,「もう、しつこいさー。次やったら嫌いになるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_062
+63,39,13,「ふぇっ！？　ど、どこ触ってるねー！？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_063
+64,39,13,「むー、油断も隙もないさー。もう絶対触らせんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_064
+65,39,13,「事故じゃすまんよー。本当にいやらしい手さー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_065
+66,39,13,「あ……自分、なんかいいことしたー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_066
+67,39,13,「んー、なんでよ。撫でられる意味が分からんさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_067
+68,39,13,「自分の顔、嬉しそうに見えるー？　そういうことよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_068
+69,39,13,「あいっ！　いきなり女の子のほっぺ触るとか、怒られるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_069
+70,39,13,「でーじ気持ち悪いさー。本気で言ってるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_070
+71,39,13,「嫌がってるの分からないねー？　キミのほっぺつねるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_071
+72,39,13,「えへ、キミと一緒にると楽しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_072
+73,39,13,「まだお話するー？　自分はどっちでもいいよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_073
+74,39,13,「ふわぁ、ちょっと眠くなってきたさぁ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_074
+75,39,13,「うーん、もう少しお話したかったけど、そろそろ時間がー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_075
+76,39,13,「次はお話だけじゃなくて、スキンシップもしてみたいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_076
+77,39,13,「それじゃ。またよろしく頼むさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_077
+78,39,13,「おっと、もうこんな時間。それじゃあ、もう行こうねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_078
+79,39,13,「さてー、こんな所かねー。楽しかったよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_079
+80,39,13,「ありゃ、退屈させちゃったー？　ごめんねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_080
+81,39,13,「んー？　なんか急な用事ー？　じゃーまたねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_081
+82,39,13,「うん、いいよー。いろんなとこブラブラしよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_082
+83,39,13,「ごめんねー。自分ちょっと、今は観光って気分じゃないばーよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_083
+84,39,13,「そういうお誘いは大歓迎さー。なにして遊ぶー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_084
+85,39,13,「うーん、残念だけど……遊んでばっかりもいられないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_085
+86,39,13,「それ、でーじ良いアイディアさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_086
+87,39,13,「今はちょっとー……一人で行ってきてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_087
+88,39,13,「いいねいいねー。丁度お腹が空いてたところよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_088
+89,39,13,「今は何か食べたい気分じゃないさー。また今度ねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_089
+90,39,13,「いいけど、変な所には行かないでよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_090
+91,39,13,「なんか怪しいさー。自分は行かんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_091
+92,39,13,「もう、なんでかねー。自分じゃなかったら、通報されてるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_092
+93,39,13,「むぅ、怒らないであげるから、早く出ていくさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_093
+94,39,13,「じ、自分を覗きにきたの？　複雑な気分さぁ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_094
+95,39,13,「あー、変態を発見したさー！　覚悟はできてるー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_095
+96,39,13,「あ、今はお話できないよー。またあとでねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_096
+97,39,13,「うぅ、ちょっと見過ぎよー。顔が熱くなるさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_097
+98,39,13,「こらー、変なとこ見ないー。大声だすよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_098
+99,39,13,「もう、目がでーじいやらしくなってるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_099
+100,39,13,「うぅ、水着の上からでも、男子の視線は見るとこ同じねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_100
+101,39,13,「動くか喋るか、どっちかにしないと舌噛むよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_101
+102,39,13,「こら待って。自分が止めなかったら、大変なことになってたよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_102
+103,39,13,「いっぱいお話したいねー。って、思ってるのは……自分だけかなー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_103
+104,39,13,「お話以外のことも大歓迎よー。例えばー触りっことかー、えへへ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_104
+105,39,13,「あいっ！？　まったく、キミは悪戯っ子で困るさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_105
+106,39,13,「ハイタイ！　今日もこの島はあったかくて、気分がいいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_106
+107,39,13,「キミは良く話しかけてくれるねー。なんか嬉しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_107
+108,39,13,「どしたのー？　自分に用事ー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_108
+109,39,13,「だからよー、直したいさーって、これも方言だねー。そうだねーって意味ー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_109
+110,39,13,「思わないねー。訛りも含めて自分さー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_110
+111,39,13,「うん、苦手ー。ちょっと動くのも嫌になるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_111
+112,39,13,「そうでもないよー。厚着すればいいしねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_112
+113,39,13,「えへ、ありがとー。でーじ嬉しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_113
+114,39,13,「そう？　ほんとはうるさいって思ってないー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_114
+115,39,13,「えへ、よく言われるねー。自分でもそうだと思ってるさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_115
+116,39,13,「うーん、実は誰にでもってわけじゃないよー。自分も人見知りするさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_116
+117,39,13,「んぅ？　よく聞こえなかったさー。他の話しよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_117
+118,39,13,「ゆっくり考えればいいよー。自分は待っててあげるからー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_118
+119,39,13,「あるよー。おじーとおばーには、毎日のように言われたさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_119
+120,39,13,「男の子にはまだ無いよー。なんでかねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_120
+121,39,13,「それはまぁ、ないことはないよー。これでも女の子だからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_121
+122,39,13,「うーん。まだ自分にはそういうの早い気がして、考えられないねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_122
+123,39,13,「もちろんさー。じゃないと文字通り、お話にならんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_123
+124,39,13,「付き合った人の言葉に合わせるさー。意外と尽くすタイプだからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_124
+125,39,13,「でーじ好き。かねー？　愛してるは……また違った言い方があるけどー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_125
+126,39,13,「い、言わんよー。変な勘違いされたら、困るからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_126
+127,39,13,「男子でコイバナ好きって珍しいねー。他の女の子となら話が合うかもしれんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_127
+128,39,13,「本当だはず。好きになったら仕方ないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_128
+129,39,13,「ま、まぁ……自分は何事も、ゆっくりするのが好きさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_129
+130,39,13,「そ、そんなのパっと済ませるさー。もう、何言わせるのー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_130
+131,39,13,「う、うん……その辺りは、男女関係なくあると思うさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_131
+132,39,13,「えぇっ、ないよー。そんなのいきなりなったら困るさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_132
+133,39,13,「よ、よく分からないけど……あんまり急かされるのは嫌かもしれないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_133
+134,39,13,「男の子はすぐしたいんだよね？　だったら、それに合わせるさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_134
+135,39,13,「うん、ちょっと憧れるねー。大好きな人とそんなにずっとしたら、絶対幸せさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_135
+136,39,13,「あいっ！　知らなかったよー。そんなにしてたら、溶けてしまいそうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_136
+137,39,13,「むー、欲求不満なら、一人で解消してきて欲しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_137
+138,39,13,「それは……脱いだりするものなんだし、寒いよりは温かい方がいいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_138
+139,39,13,「はいはい、好きなだけ見ればいいさー。減るもんでもないしねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_139
+140,39,13,「むー、自分の顔だけ見に来たのー？　ただ見られてるだけは飽きてきたよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_140
+141,39,13,「好きなだけ見てればいいーって言ったけど、流石に見過ぎで呆れるさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_141
+142,39,13,「ほんと、胸が好きだねー。男子って皆そうなのー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_142
+143,39,13,「怒られる前にやめるのが、お利口さんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_143
+144,39,13,「いい加減にしないとー、キミに胸を見られたーって、皆に言って回るよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_144
+145,39,13,「手を握るなんてダメだよー。ドキドキしてー、変な気分になるからー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_145
+146,39,13,「やめっ、手だって一応女の子の一部だからねー。勝手に触っちゃダメさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_146
+147,39,13,「もー、でーじ困った人さー。ほんとに怒られるからねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_147
+148,39,13,「ふゃっ、待って……今、胸触って……うぅ、いくらなんでも怒るよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_148
+149,39,13,「うっ、何度も触って……もう言い訳は聞かんからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_149
+150,39,13,「ひゃっ、女の子の胸はそんな簡単に触っていいものじゃないさー！　次は叩かれるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_150
+151,39,13,「えへ、くすぐったいさー。でも自分、何も褒められるようなことしてないよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_151
+152,39,13,「撫で過ぎは逆効果さー。こういうのは、たまにするからいいのよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_152
+153,39,13,「うー、そんなに撫でられても嬉しくないさー。しつこいと嫌われるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_153
+154,39,13,「えへ、自分のほっぺ柔らかいでしょー。ちょっとくらいなら触ってもいーよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_154
+155,39,13,「ちょっとって言ったのに……キミはしつこいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_155
+156,39,13,「どれだけほっぺが好きなのー？　キミは変な人だねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_156
+157,39,13,「お話、もっといっぱいしたいねー？　そう思ってるのは自分だけー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_157
+158,39,13,「なんか、キミと一緒にいると身体が火照ってくるさー。なんでだろねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_158
+159,39,13,「さーて、何しようかねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_159
+160,39,13,「どしたのー？　一人でなんか難しい顔してて、面白いさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_160
+161,39,13,「キミといると、なんか時間があっという間だねー。えへへ～」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_161
+162,39,13,「なんか今日、熱くない？　自分の気のせいかねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_162
+163,39,13,「それじゃ、また今度ねー。お話楽しかったさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_163
+164,39,13,「あいっ、でーじ時間経ってたねぇ……えへ、びっくりさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_164
+165,39,13,「あんまりキミを独り占めしちゃいけないし、このへんでお別れが丁度いいかねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_165
+166,39,13,「了解さー。ちょっぴり残念だけど、バイバイねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_166
+167,39,13,「え？　なんだったのー？　からかうのは良くないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_167
+168,39,13,「ごめんねぇ……今はあんまり、キミとそういう関係になるのは考えられないかも……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_168
+169,39,13,「自分ね……キミのことが好きになってしまったみたい。恋人に、なってくれない？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_169
+170,39,13,「そっかぁ……ちょっといきなり過ぎたよねー？　あは……今のは忘れてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_170
+171,39,13,「えぇ、いきなりすぎるさー。いくら自分でも、そんな簡単にいいとは言えんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_171
+172,39,13,「はいはい、やっぱりねー。なんだかいやらしい目になってると思ってたよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_172
+173,39,13,「無理無理、なんで自分がキミの欲求解消に付き合わなきゃいけないのー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_173
+174,39,13,「え、だって……人いるよー？　うぅ、なるべく早く終わらせてねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_174
+175,39,13,「ちょっと待ってー。人がいる前でなんて、できるわけないばーよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_175
+176,39,13,「もう、どーなっても知らんよー？　誰か来たらやめてねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_176
+177,39,13,「その場の欲求で動き過ぎよー。自分もそういう所あるけど、キミ程じゃないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_177
+178,39,13,「あのねぇ、自分……今でーじエッチしたくて……相手してくれるー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_178
+179,39,13,「えへ、たくさんしよねー？　自分、すぐにはきっと収まらないさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_179
+180,39,13,「残念……今、自分としたら、絶対気持ち良かったと思うよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_180
+181,39,13,「おっけー。折角だし、いろんな所に行ってみたいさー！」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_181
+182,39,13,「観光か～。今はそこまで行きたくないかね～」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_182
+183,39,13,「ねぇねぇ、一緒に観光行こうねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_183
+184,39,13,「えへ、ありがとー。どこも楽しそうで、目移りするさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_184
+185,39,13,「なんでよー。キミと一緒に観光するの、楽しみしてたのにぃ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_185
+186,39,13,「うん、遊びのお誘いならでーじ歓迎！　えへ、わくわくしてきたさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_186
+187,39,13,「遊ばー……ない。また今度誘ってー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_187
+188,39,13,「あのねー。自分と一緒に、遊んでくれないー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_188
+189,39,13,「いいの？　やった♪　でーじ嬉しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_189
+190,39,13,「まさかやー。キミに断られるとは思ってなかったよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_190
+191,39,13,「だからよー、それじゃあ何する？　自分は何でもいいからね」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_191
+192,39,13,「んー、今は遠慮しておくさー。また今度ね」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_192
+193,39,13,「なんか珍しいこと体験したいねー。一緒にしたら絶対楽しいよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_193
+194,39,13,「よかったー♪　断られたら悲しくなってたよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_194
+195,39,13,「自分と一緒は嫌？　ちょっと寂しいねぇ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_195
+196,39,13,「もちろんオッケーよー！　誰かと食べた方がご飯は美味しいからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_196
+197,39,13,「今はいいかなぁ。食べたいものが浮かばないやっさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_197
+198,39,13,「ご飯、食べたいねぇ……キミも、食べたいよねぇ？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_198
+199,39,13,「えへ、じゃあ決まり！　一緒に食べに行こー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_199
+200,39,13,「そっかー、お腹空いてたのは、自分だけみたいだねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_200
+201,39,13,「うん。どこ行くのー？　楽しいとこがいーねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_201
+202,39,13,「今はちょっとー。他の子じゃダメなのー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_202
+203,39,13,「はぁ、彼氏にそういう趣味があるなんて……どうしたもんかねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_203
+204,39,13,「こらぁっ！　自分まで変なのと付き合ってると思われるよー。まったくぅ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_204
+205,39,13,「あぎじゃびよー！　もう、見たいなら言ってー。驚かさんでよ～」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_205
+206,39,13,「もうっ、なんで彼女がいるのに覗きなんてするかねー。自分が恥ずかしいさぁ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_206
+207,39,13,「ん～、今はお話できないさー。ほんとにごめんねー、嫌いにならないでー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_207
+208,39,13,「どう？　彼女の身体なんだから、どこもじょーとーだよねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_208
+209,39,13,「うー、どれだけ見ても、皆がいる時はダメさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_209
+210,39,13,「えへ、自分の水着姿はどう？　惚れ直してくれたー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_210
+211,39,13,「周りの女の子と比べるのは禁止よー？　彼女が一番でしょー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_211
+212,39,13,「もうここでいいのー？　まだまだ自分は歩けるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_212
+213,39,13,「そこは入っちゃダーメ。ちゃんと注意してあげるのも、彼女の仕事だからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_213
+214,39,13,「えへ、キミと一緒にいるだけで……なんかもう、幸せでぽかぽかするよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_214
+215,39,13,「自分、今なら何でも許しちゃいそうかも……一緒にしたいこと、ない？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_215
+216,39,13,「はっさ、驚かさんでよ～。キミはヤナワラバーだね」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_216
+217,39,13,「はいたーい♪　えへ、もうこの挨拶にも慣れたー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_217
+218,39,13,「さーて、今日はなにしようかねー？　キミは何かあるー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_218
+219,39,13,「えへへ、キミを見てると勝手に頬が緩んできて、困るねぇ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_219
+220,39,13,「えへ、恋人同士は似るって言うからねー。二人でお揃い嬉しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_220
+221,39,13,「うーん、まだまだよー。でも、段々似てくるのって、なんかいい感じねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_221
+222,39,13,「それ分かるー、自分もそうよー。お互い無言になっても全然気まずくないよねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_222
+223,39,13,「自分はまだちょっと焦っちゃうねー。むしろ、ドキドキが強くなったかも……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_223
+224,39,13,「えっ、キミもー？　自分もよー。いっつもキミが隣にいる気がするさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_224
+225,39,13,「あぅ、いきなりそんなこと言われると照れるさー。自分は……たまに考えるくらいよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_225
+226,39,13,「もちろんさー。色々あるけど、景色が輝いて見えるってほんとだったんだねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_226
+227,39,13,「そこまで目立った変化はないかねぇ。一緒にいるだけで、もうでーじ幸せよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_227
+228,39,13,「つまらんこと聞かんでー。彼女の趣味をもうちょっと理解して欲しいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_228
+229,39,13,「あるよー。たまにじゃなくて、いつも思ってる……えへへ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_229
+230,39,13,「ありゃ、自信無くなっちゃったー？　えへ、もっと好き好き言わないとかねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_230
+231,39,13,「ふぁっ、いきなりなにー？　もう、顔が真っ赤になるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_231
+232,39,13,「えへ、もう自分はキミの彼女なんだから。お世辞なんて言わなくていいのにー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_232
+233,39,13,「できるに決まってるよー。キミはちょっと難しく考え過ぎさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_233
+234,39,13,「たぶん、恋から愛に変わるのかもねぇ……自分はそう思うよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_234
+235,39,13,「うん、自分もキミのことならなんでも知りたい。教えっこしようねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_235
+236,39,13,「もうほとんど知ってるはずよー？　キミには秘密にしてることないからー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_236
+237,39,13,「ゆっくり覚えてくれればいいさー。自分が全部教えてあげるからー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_237
+238,39,13,「そこまで気を使わなくていいさー。二人とも自然体が一番よー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_238
+239,39,13,「改めてそういう話をされると照れるねー。なんか違う話にしよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_239
+240,39,13,「えへへ、自分も好きよー。かなさんどー♪」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_240
+241,39,13,「もうでーじ好きよー。ちょっと言葉では表しきれんねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_241
+242,39,13,「あいっ！　子供！？　えっと……自分がママだから、たぶん訛るねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_242
+243,39,13,「こ、子供が欲しいのー？　キミに似るだろうから、きっと訛らんさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_243
+244,39,13,「それはまぁ……でも、キミになら何をされても、きっと気持ちよくなってしまうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_244
+245,39,13,「下手でも大丈夫よー。一番大事なのは気持ちさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_245
+246,39,13,「う、うん。だって、それが一番気持ちよくなれるからー……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_246
+247,39,13,「し、してないーって言ったら、キミはちょっと寂しくなっちゃったりするー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_247
+248,39,13,「確かに変ではないけどー。あんまりそればっかりもダメよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_248
+249,39,13,「普通かもしれんけど、特別なことよー。そこは間違わないでねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_249
+250,39,13,「はぁ、親しき仲にもって言うよー。ちょっとムードが無さすぎさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_250
+251,39,13,「キミとならねー。誰とでもってわけじゃないから、ちゃんと覚えておいてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_251
+252,39,13,「情熱的ってどんなよー。まぁ、キミに激しく求められたら、嬉しくなっちゃうかもねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_252
+253,39,13,「あんまりジっと見てるとー、キスされるよー？　えへへ♪」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_253
+254,39,13,「もう、キミはすぐしつこくするー。にらめっこの時間は終わりよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_254
+255,39,13,「顔を見るだけじゃ何も分からんよー。ちゃんと言葉で伝えてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_255
+256,39,13,「えへ、いーよ。少しくらいなら胸見てもー。自分はキミの彼女だからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_256
+257,39,13,「もうっ、恋人になったからって、やりたい放題していいわけじゃないよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_257
+258,39,13,「こらー、胸ばっかり見ないー。キミの視線は正直過ぎるさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_258
+259,39,13,「キミの手、あったかいねー。心までポカポカしてくるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_259
+260,39,13,「もうニギニギはお終い。手汗とかついちゃうよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_260
+261,39,13,「手はねー、たまに握るからいいさーね。しつこいと逆効果よー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_261
+262,39,13,「あ～、いけないんだ～。いくらキミの彼女だからって勝手に胸を触っちゃダメさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_262
+263,39,13,「あぅ、変な気分になってきてるから……ほんとに胸はもうダメー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_263
+264,39,13,「もう、人が見てたらどうするのー？　変態カップルだと思われちゃうよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_264
+265,39,13,「えへぇ～、キミにナデナデされると……なんかポワーっとするさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_265
+266,39,13,「撫で過ぎさー。ありがたみが消えてしまうよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_266
+267,39,13,「ナデナデばかりされると力抜けちゃうからー、その辺りにしといてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_267
+268,39,13,「ほっぺ柔らかいー？　えへへ、キミにデレデレになってるからねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_268
+269,39,13,「ちょっとが一番ドキドキするんだよー？　キミにはそれを分かって欲しいなー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_269
+270,39,13,「むー、そんなにムニムニされたら、自分のほっぺが伸びてしまうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_270
+271,39,13,「えへへ、惚れ直すってほんとにあるねー。今、そんな気分さー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_271
+272,39,13,「キミといると身体がポカポカしてきてー、もう熱いくらいよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_272
+273,39,13,「まだ時間あるー？　できれば、もうちょっとお話したいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_273
+274,39,13,「何か考え事ー？　じゃあ自分は、ゆっくり待ってるねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_274
+275,39,13,「ぁ……もう行っちゃうのー？　もっとキミと、一緒に居たかったなぁ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_275
+276,39,13,「あのね、この後ねぇ……やっぱり何でもない。気にしないでー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_276
+277,39,13,「じゃ、バイバイねー。またいつでも話しかけてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_277
+278,39,13,「うぅ、ちょっと寂しい……なんて、彼氏さんを困らせちゃだめよねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_278
+279,39,13,「さてさて、キミとお話できて楽しかったよー。それじゃ、気を付けてねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_279
+280,39,13,「実は忙しかったー？　ちょっとでもお話してくれて、ありがとー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_280
+281,39,13,「なんか慌ただしいねー。また今度、ゆっくりお話したいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_281
+282,39,13,「うん、いいよー。自分もね、またしたいと……思ってたんだー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_282
+283,39,13,「その……ごめんねぇ、心の準備をさせてほしいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_283
+284,39,13,「エッチ、したくないー？　自分は、したいんだけどなー」　,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_284
+285,39,13,「えへ、恋人同士だもんね～♪　愛し合うのは当然のことさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_285
+286,39,13,「彼女からのお誘い、断っちゃうのー？　まぁいいけどー。ほんとは、よくないけどぉ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_286
+287,39,13,「大胆なこと、キミとならできそうさー。えへ、でーじドキドキするねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_287
+288,39,13,「いくらキミとでも、いいよとは言えんねー。人に迷惑をかけちゃダメさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_288
+289,39,13,「いいよ、今は誰もいないしねー。えへ、ちょっと自分、興奮してきてるかもー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_289
+290,39,13,「中途半端になるのは嫌よー。するならもっとゆっくりできる所がいいさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_290
+291,39,13,「観光ね、いいよー。キミと一緒に回りたい所なら、いくらでもあるからー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_291
+292,39,13,「一緒に観光しないー？　二人で回ったら絶対楽しいよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_292
+293,39,13,「にふぇーでーびる……ありがとー♪　道案内は任せてー。色々調べてあるからー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_293
+294,39,13,「えぇ、なんでよー。他の子と行くのー？　嫉妬されるよー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_294
+295,39,13,「うんっ、あそぼあそぼ♪　キミとならどんな遊びも絶対楽しめるよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_295
+296,39,13,「あのねー、自分と遊んで欲しいなー。なんてー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_296
+297,39,13,「やった。キミなら絶対、一緒に遊んでくれると思ってたさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_297
+298,39,13,「そっかぁ、残念だけど諦めるさー。また……誘ってもいいよねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_298
+299,39,13,「体験て、キミが言うとちょっとエッチに聞こえるねぇ。でもいいよ、色々やってみよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_299
+300,39,13,「ねーえー、体験コーナーに行ってみないー？　新しい発見があるかもしれんよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_300
+301,39,13,「うんうん、そうと決まれば善は急げよー！　早く行こー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_301
+302,39,13,「興味なかったー？　自分と行くのが嫌なわけじゃないよねー？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_302
+303,39,13,「うんうん！　とっても美味しいもの、二人で食べようねー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_303
+304,39,13,「キミと一緒にご飯食べたいなー。ダメかね―？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_304
+305,39,13,「えへへ、嬉しいねー。お腹いっぱい食べ過ぎちゃいそうさー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_305
+306,39,13,「そっかぁ、無理して食べると美味しいものも不味くなるからねぇ……仕方ないねぇ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_306
+307,39,13,「う、うん……いいよー。キミの部屋で、ゆっくりしよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_307
+308,39,13,「うーん、今すぐはねぇ……また後でも大丈夫？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_308
+309,39,13,「また突然だねー。どこ行くかも言わないで付いてくの、自分くらいよー」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_309
+310,39,13,「ねーえ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_321
+311,39,13,「えへぇ、大好き♪　かなさんどー♪」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_322
+312,39,13,「そんなに自分とエッチがしたいんだー？　えへへ、仕方ないねぇ……」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_323
+313,39,13,「ねぇ」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_324_00
+314,39,13,「エッチ、しないー？　だめぇ？」,sound/data/pcm/c39/adv/00.unity3d,sun_com_39_324_01

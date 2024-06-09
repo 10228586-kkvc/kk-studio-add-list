@@ -1,0 +1,584 @@
+管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
+0,04,13,「ありがとう、とてもうれしいわ」,sound/data/pcm/c04/adv/00.unity3d,adv_ev_04_067
+1,04,13,「……間違えて入ったわけじゃないよね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_000
+2,04,13,「……あまりいい趣味とは言えないわね、今なら怒らないから、出なさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_001
+3,04,13,「ごめんなさい、私急いでるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_002
+4,04,13,「……どうしたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_003
+5,04,13,「……ごめんね、お話したいけど、今急いでるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_004
+6,04,13,「すー……すー……んっ……だめ……」,,com_ev_04_005
+7,04,13,「……えーと、見てしまったのは仕方ないけど……出来れば忘れて？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_006
+8,04,13,「どうかしら、自分なりには似合ってるとは思うんだけど……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_007
+9,04,13,「あら……あなたもここが好きなの？　いいわよね、空が近くて」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_008
+10,04,13,「あら？　あなたも本を借りに来たの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_009
+11,04,13,「……なんとなく、あなたが来る気がしたの、不思議ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_010
+12,04,13,「それで、どこへ行くのかな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_011
+13,04,13,「……そういう冗談はやめてちょうだい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_012
+14,04,13,「あっ……どうしたの？　私に何か用？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_013
+15,04,13,「ちょうど私もあなたを探してたの……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_014
+16,04,13,「今日も元気にいきましょうか」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_015
+17,04,13,「どうかしたの？　部活の見学？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_016
+18,04,13,「部活の調子はどう？　がんばってね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_017
+19,04,13,「ようやくお昼ね、もう少し遅かったらあなたの顔を食べてたわ、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_018
+20,04,13,「楽しい時間はあっという間ね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_019
+21,04,13,「きゃっ、って……あなたか、びっくりしちゃったわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_020
+22,04,13,「うん？　どうしたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_021
+23,04,13,「難しい話じゃないわよ、色んな人がいるんだなって思うだけ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_022
+24,04,13,「うーん……特に考えたことがないわね、ごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_023
+25,04,13,「知ってるわ、出来れば今度行きたいなーって思ってるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_024
+26,04,13,「知ってるけど、うーん……あまり気は進まないかな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_025
+27,04,13,「秘密は喋らないから秘密だし……ノーコメントで！　ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_026
+28,04,13,「うーん、誰にだって秘密はあると思うわ、大小あれど、ね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_027
+29,04,13,「ごめんなさい、今は違う話をしたいわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_028
+30,04,13,「ふふっ、見たみた、面白かったわよね～」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_029
+31,04,13,「それ私も知ってるわ、でも試したことはないし……やってみる？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_030
+32,04,13,「うーん、あまり人の噂は鵜呑みしちゃだめだと思うわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_031
+33,04,13,「今のところないわね……でも、憧れはあるわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_032
+34,04,13,「いつか私も、あんな風に……なんてね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_033
+35,04,13,「たくさん受けたわ。でも、効果的なアドバイスができたかは、別かな……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_034
+36,04,13,「そうね。あの子たち、今頃どうなってるのかな～」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_035
+37,04,13,「そうね……クールな人なんか……いいわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_036
+38,04,13,「あなたみたいな人って言ったらどうする？　ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_037
+39,04,13,「うーん、あんまり考えたことがないわ、ごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_038
+40,04,13,「当たり前よ。だって男の人がいないんだから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_039
+41,04,13,「あなたなら大丈夫よ、私も応援してるから、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_040
+42,04,13,「そういう恋の形もあるのね……私は美しいって思うわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_041
+43,04,13,「情熱的な人は好きよ、強く抱きしめてくれそうだから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_042
+44,04,13,「嫌いではないけれど……怖いとは思うわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_043
+45,04,13,「私も慎重な方だとは思うから、お話は合いそう、かな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_044
+46,04,13,「嫌いではないけれど、互いに隠し事が多くなりそうで……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_045
+47,04,13,「努力家っていいわよね、何事にも油断しないし、尊敬するわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_046
+48,04,13,「嫌いではないけれど、私の事を信じてくれなさそうで……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_047
+49,04,13,「私もマイペースな方だから、お互い楽しく付き合えそうね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_048
+50,04,13,「嫌いではないけれど、恋人にはなれないかな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_049
+51,04,13,「典型的だけど、私は好きよ……私をちゃんと、見てくれそうだから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_050
+52,04,13,「嫌いではないけれど、優しすぎて私が辛くなるかも」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_051
+53,04,13,「強い心の持ち主なんだろうなって、尊敬するわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_052
+54,04,13,「嫌いではないけれど……付き合うのは大変そうね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_053
+55,04,13,「けっこうするわよ？　ここは女の子だけだし、自然と言えば自然よね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_054
+56,04,13,「女子だってするわよ？　……でも、恥ずかしいから、今日の事は内緒ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_055
+57,04,13,「経験の話は置いといて、知識はあるわよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_056
+58,04,13,「えーと……黙秘権を行使します、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_057
+59,04,13,「子供の頃かな。……あの頃はプロレスごっこだと思っていたけど」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_058
+60,04,13,「見たことはないし、あったとしても言えませーん」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_059
+61,04,13,「……そういう質問は女の子にするものじゃないわよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_060
+62,04,13,「スケベな目をした男子発見～、逮捕しちゃうぞ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_061
+63,04,13,「エッチなこと？　ふふっ、図星でしょ～」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_062
+64,04,13,「その内容を堂々と女子に話せるのはすごいわね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_063
+65,04,13,「私って八方美人らしいんだけど、あなたはどう思う？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_064
+66,04,13,「そう……あまりそういう意識はしたことないんだけど……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_065
+67,04,13,「よかった……あなたにまでそう見られてたらどうしようかと……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_066
+68,04,13,「えっと……変なことを聞いてごめんなさいね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_067
+69,04,13,「ねえ、あなたって動物好き？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_068
+70,04,13,「いいわよね。私はフクロウなんかが好きよ。あのしぐさとかね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_069
+71,04,13,「そう。実は私も……動物は、何を考えてるかわからないから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_070
+72,04,13,「ねえ、あなたってたくさん食べる人？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_071
+73,04,13,「そうなんだ……私も良く食べるねって言われるの、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_072
+74,04,13,「私もなの、必要最低限というか、食べられればいいのよね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_073
+75,04,13,「突然だけど、あなたって料理作る？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_074
+76,04,13,「私も腕には自信があるの、よかったら弁当の交換なんてどう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_075
+77,04,13,「私も。だからあなたが作れたらーって思って……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_076
+78,04,13,「あなたって体は動かすほう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_077
+79,04,13,「気分が沈んでる時は走るのがいいわよね、スッキリするわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_078
+80,04,13,「ふふっ、私も。運動も嫌いじゃないけれど、静かな方が、ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_079
+81,04,13,「あなたは勉強って普段からする方？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_080
+82,04,13,「私も、勉強には自信があるの……今度、勉強会でもしない？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_081
+83,04,13,「私も勉強は苦手でね……苦手同士、テストがんばりましょうね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_082
+84,04,13,「あなたって、おしゃれには気を遣うほう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_083
+85,04,13,「私も。おしゃれにはうるさいわよー？　今度チェックさせてね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_084
+86,04,13,「よかったー、私もあんまり……学園のみんなには内緒にしてね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_085
+87,04,13,「まぁ、好みは人それぞれ、よね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_086
+88,04,13,「……それよりも、私に言うことがあると思うけど？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_087
+89,04,13,「うん、許してあげる……もう、あんまり怒らせないでね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_088
+90,04,13,「……ごめんなさい、まだあなたを許せそうないの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_089
+91,04,13,「うん？　そんなにじっと見て、どうしたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_090
+92,04,13,「ち、ちょっと見すぎじゃないかしら……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_091
+93,04,13,「なにか言いたい事があるなら、口で言って欲しいな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_092
+94,04,13,「男の子ってやっぱりここが好きなのね……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_093
+95,04,13,「さすがにそんな見られると……怖いわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_094
+96,04,13,「そこの変態さん、そろそろ怒るわよー？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_095
+97,04,13,「人に怒られているって、わかっていないのかしらね……・？」,,com_ev_04_096
+98,04,13,「うん？　急に手を握ってどうしたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_097
+99,04,13,「……そういうのは恋人が出来てから、その子にやりなさい、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_098
+100,04,13,「あっ、ワザとやってるわね？　悪い子なんだから……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_099
+101,04,13,「きゃっ！　……転んだの？　ケガはない？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_100
+102,04,13,「……さすがにちょっと軽蔑しちゃうな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_101
+103,04,13,「……今のはワザとよね？　私じゃなかったらビンタものよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_102
+104,04,13,「あら……私を撫でてくれるの？　ふふっ……うれしい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_103
+105,04,13,「あんまり子ども扱いされるのは……イヤよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_104
+106,04,13,「うーん……ちょっと撫ですぎかな……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_105
+107,04,13,「ひゃっ……ビックリした、急にどうしたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_106
+108,04,13,「ダメなものはダメだったら……本気で怒るわよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_107
+109,04,13,「そんな気やすく女の子の頬に触れちゃダメよ、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_108
+110,04,13,「……何をしてるの？」,,com_ev_04_109
+111,04,13,「ふふっ、少しずつあなたの事がわかってきた気がするわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_110
+112,04,13,「次はどんな話をしましょうか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_111
+113,04,13,「どうしたの？　何か考え事？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_112
+114,04,13,「……話が無ければ、私は行くけれど」,,com_ev_04_113
+115,04,13,「……ごめんなさい、ここまでにしましょうか」,,com_ev_04_114
+116,04,13,「……今は気分がすぐれないの、ごめんなさい」,,com_ev_04_115
+117,04,13,「あっ、もうこんな時間……名残惜しいけど、またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_116
+118,04,13,「もうこんな時間……残念ね、これからが楽しいのに。じゃあ、またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_117
+119,04,13,「ああ、そろそろ行かなきゃ……またね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_118
+120,04,13,「ん、わかったわ。それじゃあ、またね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_119
+121,04,13,「ええ。それじゃあ、またね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_120
+122,04,13,「ええ、いいわよ。スキップしながら帰りましょうか……ふふっ、もちろん冗談よ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_121
+123,04,13,「ごめんなさい、ちょっと今日は予定があるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_122
+124,04,13,「いいわよ。よろしくね、センセイ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_123
+125,04,13,「あっ……ごめんね、少し予定があるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_124
+126,04,13,「いいわよ。じゃあ着替えてくるから、少し待っていてね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_125
+127,04,13,「ごめんなさい、今はちょっとそういう気分じゃないのよね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_126
+128,04,13,「いいわよ。あなたと歩くのは退屈しないしね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_127
+129,04,13,「人と待ち合わせしてるの……ごめんね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_128
+130,04,13,「きゃっ……わ、私じゃなかったら大事件よ、もう……ほら出て……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_129
+131,04,13,「ち、ちょっと、どうしてここに居るの……早く出なさいったら」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_130
+132,04,13,「きゃっ！　……他の子に見つかる前に出なさい、いいわね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_131
+133,04,13,「言いたい事はたくさんあるけど……今は出ていくこと、いい？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_132
+134,04,13,「……今はごめんなさい、無理なの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_133
+135,04,13,「……どうしたの、何か用？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_134
+136,04,13,「……ご、ごめんなさい、今はちょっと時間がないの、またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_135
+137,04,13,「きゃあ！　み、見た？　も……もう、バカ……！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_136
+138,04,13,「わ、私はいいけど、他の子は見ちゃだめ……ああいや、やっぱり私もダメ！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_137
+139,04,13,「あ、あなただからよ？　こんな姿を見せるのは……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_138
+140,04,13,「そんなにじっと見つめられると、さすがに恥ずかしいわ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_139
+141,04,13,「あっ……あなたも、何か考えごと？　私も……ちょっと考えごと」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_140
+142,04,13,「あっ……き、奇遇ね。あっそうだ……何かオススメの本があったら、教えて？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_141
+143,04,13,「ここに来たのは……偶然、じゃないわよね？　どうしたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_142
+144,04,13,「えっと……どこへ行くのかしら？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_143
+145,04,13,「……自分が何をしようとしてるか、わかってるわよね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_144
+146,04,13,「今度のデート……楽しみにしてるからね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_145
+147,04,13,「あっ……どうしたの？　何かあった？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_146
+148,04,13,「私、あなたに興味があるわ……心にも、身体にも……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_147
+149,04,13,「ふふっ、体を動かすのは気持ちいいわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_148
+150,04,13,「ウチの部も落ち着いていていいわよ。兼任でもいいから、入部しない？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_149
+151,04,13,「部長って大変そうだけど、実際はどうなのかしら？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_150
+152,04,13,「お昼ね。背中とお腹がくっつく前に、ご飯を食べなきゃ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_151
+153,04,13,「今日もあっという間だったわね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_152
+154,04,13,「きゃっ……もう、ただでさえドキドキしてるのに、ダメよ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_153
+155,04,13,「うん？　お話、したいのね……ううん、もちろんいいわよ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_154
+156,04,13,「ええ、塾には通ってるわ。成果は……可もなく不可もなく、かな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_155
+157,04,13,「昔は塾に通っていたけれど……あんまり効果がなくて、やめちゃった」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_156
+158,04,13,「ええ、クラシックを少々……心がとても落ち着くの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_157
+159,04,13,「いえ、音楽は最近さっぱりで……期待に添えずごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_158
+160,04,13,「健康な体があってこそ豊かな人生が送れると思うし……大事にはしてる……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_159
+161,04,13,「そうね……今はあんまり興味ないけど……少しは気を遣わないとね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_160
+162,04,13,「ええ、友達とよく行くわ。普段騒げない分を発散する感じよ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_161
+163,04,13,「えっと、カラオケはあんまり……聞いてる分にはいいのだけれどね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_162
+164,04,13,「その……ごめんなさい、今その話はしたくないの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_163
+165,04,13,「あんまり噂話って好きじゃないのだけれど、それは素直にうれしいわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_164
+166,04,13,「き、嫌いだから避けてるわけじゃないの……それだけは信じて、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_165
+167,04,13,「そ、そんなことないわよ、私は……いつも通りだから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_166
+168,04,13,「私だって一人の女の子だもの。憧れはあるわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_167
+169,04,13,「うーん、好きな人と一緒なら、そこまでこだわりはないかな……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_168
+170,04,13,「そうね……誰もいない、ふたりだけの島とか……なんてね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_169
+171,04,13,「うーん、特にないかな。好きな人とだったら、どこへでも……なんてね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_170
+172,04,13,「理想……そうね、ありきたりだけど、お互い老いても仲のいい夫婦、かな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_171
+173,04,13,「うーん、特に考えたことはないかな。夫婦になってみないと、ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_172
+174,04,13,「す、少し答えにくいわ……悪いけど、別の話をしましょ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_173
+175,04,13,「そう……そうよね。ずっと続くわけじゃないものね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_174
+176,04,13,「す、する事はあるけど……中身は秘密よ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_175
+177,04,13,「ないわね……私以外に、こういうこと聞いちゃダメよ？,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_176
+178,04,13,「ええ……みんな結構切実みたい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_177
+179,04,13,「特にないわね……みんな言いにくいんじゃないかしら」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_178
+180,04,13,「私は中学生くらいからかしら……って、女の子にそういうことを聞かないの……！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_179
+181,04,13,「そ、そんなの言えないわ……もう、バカ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_180
+182,04,13,「出来るなら、情熱的で溶け合うような……って、何を言わせるのよ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_181
+183,04,13,「たとえあなたでも、そういう話には答えません！　……もう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_182
+184,04,13,「公の場でこういう話はどうかと思うわ……やめましょう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_183
+185,04,13,「そ、そんな恥ずかしい話、聞かせないでよ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_184
+186,04,13,「あなたは運命の人って、信じてる？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_185
+187,04,13,「そう……ロマンチストね。私と一緒……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_186
+188,04,13,「私もよ。あらかじめ決められているなんて、真っ平ごめんだわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_187
+189,04,13,「あなたってコーヒーはブラックで飲める？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_188
+190,04,13,「そうよね、ブラックしかありえないわよね。甘ったるいのなんて飲んでいられないわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_189
+191,04,13,「やっぱり、少しは甘いほうがおいしいわよね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_190
+192,04,13,「唐突だけど……あなた……辛いものって食べられる人？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_191
+193,04,13,「汗が出るくらい辛いのが理想よね……。話してたら……食べたくなってきたわ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_192
+194,04,13,「そうよね。あんなものを喜んで食べてる人の気がしれないわ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_193
+195,04,13,「甘い物は好きかしら？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_194
+196,04,13,「よかった……私も好きだから……苦手って言われたらどうしようと思った……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_195
+197,04,13,「実は私もなの……。あんまり甘ったるい物を食べると、舌がおかしくなるものね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_196
+198,04,13,「ねえ、聞きたいのだけど……理想的な胸の大きさってある？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_197
+199,04,13,「私は大きすぎてって思ってたけど……あなたがそう言うなら」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_198
+200,04,13,「そ、そうよね……やっぱり、何事もほどほどよね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_199
+201,04,13,「小さい方がいいのね……そう言ってくれたら、自信、持てるかな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_200
+202,04,13,「ねえ、あなたって身長が高い人が好き？　それとも、低い人が好き？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_201
+203,04,13,「そ、そう……身長の高い女って、どうかなって思ってたから……よかった」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_202
+204,04,13,「こんな中途半端な身長が良いなんて、物好きね……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_203
+205,04,13,「小さい方が頭を撫でやすいから？　……もう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_204
+206,04,13,「ええっと、とても聞きづらいのだけど……あなたはどんな体格の女性が好き？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_205
+207,04,13,「えっと、瘦せようと思っていたけれど……このままの方が、いいのね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_206
+208,04,13,「そう言ってくれるなら、このままでいるわね、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_207
+209,04,13,「自分では細すぎると思っているんだけど……そう言ってくれるなら」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_208
+210,04,13,「そう……そういう人が、いいのね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_209
+211,04,13,「あなたとは良い関係でありたいの。曖昧なまま別の話はしたくないわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_210
+212,04,13,「……ううん、私もらしくなく怒っちゃったわ。ごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_211
+213,04,13,「……ごめんなさい、少し時間をくれる？　考えたいの、あなたを許していいか」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_212
+214,04,13,「ど、どうしたの、そんなに見つめて……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_213
+215,04,13,「……ハッキリしない男の人は、好きじゃないわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_214
+216,04,13,「その……私何かしたかしら……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_215
+217,04,13,「あなたに見られるのは、恥ずかしいの……だから……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_216
+218,04,13,「……私は、見世物じゃないのよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_217
+219,04,13,「……だめだって、言ってるのに……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_218
+220,04,13,「……出来れば、あなたにこれ以上怒りたくないの」,,com_ev_04_219
+221,04,13,「きゃっ！　い、いきなりは、びっくりするわ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_220
+222,04,13,「私とあなたは恋人じゃないの、だから……ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_221
+223,04,13,「そ、そんなに握っても何もないわよ……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_222
+224,04,13,「きゃあっ！　も、もう……不可抗力でも、次は気を付けてね……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_223
+225,04,13,「……触りたい時に触れる女だ、なんて思われてるのね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_224
+226,04,13,「……私なら大丈夫だ、なんて思ってない……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_225
+227,04,13,「きゃっ……も、もう、子供じゃないのよ？　私……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_226
+228,04,13,「……やめてよ、私はあなたの子供じゃない……！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_227
+229,04,13,「や、やめてったら……私、あなたとそんなに変わらないのよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_228
+230,04,13,「ち、ちょっと……急に触らないで、心の準備が……！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_229
+231,04,13,「……はぁ、飽きないのね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_230
+232,04,13,「はぁ……ただ触りたいだけなのね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_231
+233,04,13,「やめて！　……ごめんなさい。でも今は……本当に無理なの」,,com_ev_04_232
+234,04,13,「あなたは本当に優しい人……だから……あなたになら……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_233
+235,04,13,「あなたになら、私の全部をさらけ出せるかも……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_234
+236,04,13,「出来るのならずっと、こんな他愛のない話を続けたいわね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_235
+237,04,13,「……どうしたの？　体調でも悪い……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_236
+238,04,13,「……ねえ、聞こえているなら……答えて？」,,com_ev_04_237
+239,04,13,「……少し距離を取りましょう……勝手な話だけど、私が無理なの」,,com_ev_04_238
+240,04,13,「……今はお互い、会わない時間が必要だと思うの」,,com_ev_04_239
+241,04,13,「本当はもっとあなたと……ううん、なんでもない。また、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_240
+242,04,13,「次はもっと、近くで話しましょうね……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_241
+243,04,13,「もうこんな時間……私、行くわね。じゃあ……また」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_242
+244,04,13,「あっ……そうよね、あなたにも予定はあるもの……またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_243
+245,04,13,「あ……うん、またね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_244
+246,04,13,「ごめんなさい……私、まだ怖いの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_245
+247,04,13,「……ようやく、決心がついたわ。私も……私もあなたのことが好きよ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_246
+248,04,13,「……ごめんなさい。あなたの好意は嬉しいの……だけど、決心がつかなくて……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_247
+249,04,13,「わ、私……あなたが好き、大好きなの……！　だから付き合って、欲しいの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_248
+250,04,13,「ほ、本当に？　……よかった……こんな私だけど、よろしくね。ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_249
+251,04,13,「そ、そうよね。あはは……うん、でもおかげでスッキリしたわ、ありがとう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_250
+252,04,13,「その、しつこい女だと思うかもしれないけど……私、やっぱりあなたが好きなの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_251
+253,04,13,「うれしい……ご、ごめんなさい、涙が勝手に……ううっ、よかったよぉ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_252
+254,04,13,「……うん、わかってた。私が勝手に期待してるだけだから、このことは忘れて？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_253
+255,04,13,「冷静になって。私たち……まだそういう関係じゃないと思うわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_254
+256,04,13,「……うん、まだちょっと怖いけど……いいわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_255
+257,04,13,「……ごめんなさい、やっぱり、まだそういう関係じゃないと思うの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_256
+258,04,13,「ひ、人がいるのに……ぅ、その、少しだけよ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_257
+259,04,13,「たとえあなたでも、それはダメよ……後が怖いもの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_258
+260,04,13,「わ、わかったわ……でも、人が来たら……わかってるわよね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_259
+261,04,13,「だ、ダメなものダメ……！　あなたの頼みでも、限度があるわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_260
+262,04,13,「その、お願いがあるの、私と……ここでエッチしてくれる？　我慢、できなくて……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_261
+263,04,13,「うれしい……ふふっ、それじゃ……しよっか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_262
+264,04,13,「あ……そうよね、急に変な事言ってごめんね……忘れて？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_263
+265,04,13,「え、ええ、私で良ければ……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_264
+266,04,13,「ごめんね、今日は他の子と食べる予定なの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_265
+267,04,13,「あの、良ければ一緒にお昼食べない？　ダメ、かな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_266
+268,04,13,「あ、ありがとう……ってお礼を言うのも変よね。ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_267
+269,04,13,「そ、そう……ううん、私の方こそ急にごめんね。じゃあ、また」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_268
+270,04,13,「ええ、いいけれど……今日は何をするの？　部長さん」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_269
+271,04,13,「あ……ちょっと外せない予定があるの、ごめんね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_270
+272,04,13,「えっと……部長さん、私とコイカツしてくれませんか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_271
+273,04,13,「いいの？　ふふっ、誘ってみてよかった。……それじゃ、いきましょうか」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_272
+274,04,13,「あ、他の子と行くのかしら？　……気が利かずごめんね。楽しんできて……ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_273
+275,04,13,「ええ、私もちょうど帰るところだし……一緒に帰りましょうか」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_274
+276,04,13,「私、まだもう少し残るのよ……待ってもらうのも悪いし……ごめんね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_275
+277,04,13,「えっと、もし予定がなかったら、一緒に帰らない？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_276
+278,04,13,「よかった……って、大げさよね。ふふっ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_277
+279,04,13,「そ、そう……ううん、気にしないで。じゃあ、またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_278
+280,04,13,「うーん、ごめんなさい、まだそういう関係ではないかな……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_279
+281,04,13,「ええ、よろこんで。じゃあ……エスコートはお願いね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_280
+282,04,13,「ごめんなさい、その日は予定があって……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_281
+283,04,13,「よければだけど……私とデートしてくれる？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_282
+284,04,13,「うれしい……ふふっ、今から楽しみ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_283
+285,04,13,「そ、そうよね、急だもの……ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_284
+286,04,13,「もちろん、いいわ。一緒に課題をやりましょう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_285
+287,04,13,「ごめんなさい、他の子と勉強する予定があるの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_286
+288,04,13,「もしよかったら、一緒に勉強してほしいんだけど……ダメかな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_287
+289,04,13,「あ、ありがとう……ふふっ、お話が楽しくて、勉強を忘れないようにしなきゃね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_288
+290,04,13,「そ、そう……ううん、急なお願いをしてごめんなさい。またの機会にお願いね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_289
+291,04,13,「いいわ、私も身体を動かしたかったの。何をしましょうか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_290
+292,04,13,「ちょっと、今運動する気分じゃなくて……ごめんね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_291
+293,04,13,「ねえ、少し運動しない？　気分もスッキリすると思うし……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_292
+294,04,13,「よかった。それじゃ、何して遊びましょうか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_293
+295,04,13,「そ、そういう気分じゃない時もあるわよね。察しが悪くて、ごめんね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_294
+296,04,13,「うーん……少し、考える時間を貰えるかしら……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_295
+297,04,13,「ねえ、私をコイカツ部に入れてくれる？　見てたら、私も入りたくなっちゃって……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_296
+298,04,13,「いいけれど……変なところには連れて行かないでね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_297
+299,04,13,「ごめんね、ちょっと今は外せなくて……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_298
+300,04,13,「きゃっ！　も、もう……入ってるのが私だから大丈夫、とかじゃないのよ……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_299
+301,04,13,「きゃあ！　あ、あなたでもここは入っちゃだめよ、ほら、出て……ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_300
+302,04,13,「きゃっ！　……私がいるのを狙ってるわね……悪い子はおしおきよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_301
+303,04,13,「きゃあっ！　も、もう……いくら何でも入っちゃダメよ、出てちょうだい、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_302
+304,04,13,「……もう、知らないわ……！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_303
+305,04,13,「……何でしょうか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_304
+306,04,13,「あっ、時間が……また後でね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_305
+307,04,13,「きゃあっ！　あ、あなたったら……そんなに見たいなら、後でいくらでも見せるのに……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_306
+308,04,13,「ち、ちょっと、目をつぶって！　もう……今度好きなだけ見せてあげるから、我慢して？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_307
+309,04,13,「どうかしら、この水着……あなたの為に選んだの。ほら、もっと近くで見て？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_308
+310,04,13,「他の子を見てもいいけど……今だけは私を見て欲しいな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_309
+311,04,13,「ねえ、今度夜に学園に来ない？　二人で夜空を見上げるの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_310
+312,04,13,「あなたも本を借りに来たの？　なら私のオススメがあるのだけど……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_311
+313,04,13,「いらっしゃい。なんとなく来ると思ったの……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_312
+314,04,13,「ふふっ、どこに連れていってくれるの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_313
+315,04,13,「えっと……ここは一緒には行けないから……ごめんね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_314
+316,04,13,「私ったら、子供みたいよね。今からデートが楽しみで仕方ないの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_315
+317,04,13,「どんどんあなたが好きになっていく……好きって気持ちに、上限はないのね……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_316
+318,04,13,「どんな話をする？　私の話？　それとも……私のエッチな話？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_317
+319,04,13,「私が精一杯にがんばるところ、見ていてね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_318
+320,04,13,「ふふっ、会いに来てくれたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_319
+321,04,13,「頑張ってるあなた……とても魅力的ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_320
+322,04,13,「お昼休みね。あなたは何をするの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_321
+323,04,13,「ふふっ、お昼に放課後……自由になれる時間が、待ち遠しいの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_322
+324,04,13,「きゃっ……どうしたの？　顔を見せに来てくれたの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_323
+325,04,13,「ふふっ、今日はどんな話をしましょうか？　私はなんでも大歓迎よ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_324
+326,04,13,「変わってるって言われることが多いけど、結構好きよ……あなたは、どう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_325
+327,04,13,「あまり好きではないかな……でも、あなたが好きでいてくれるから、今は少し前向きよ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_326
+328,04,13,「けっこうやるほうかもしれないわ……イメージと違う……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_327
+329,04,13,「あまりやらないわ……おすすめのものがあれば……教えてくれる……？,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_328
+330,04,13,「そうね……あまり動かないかな。でも、寝返りを打つ方が健康にはいいんだって」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_329
+331,04,13,寝相については……あまり言えないかな。直接見て、確かめて？,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_330
+332,04,13,「あるわよ。でも……中身は内緒、叶えることが出来たら教えるわね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_331
+333,04,13,「うーん、私はそういうのはあまり……だから、みんながちょっと羨ましいの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_332
+334,04,13,「ええっと……ごめんなさい、少し話題を変えてほしいわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_333
+335,04,13,「お魚くわえて走ってた？　……ふふっ、魚屋さんは大変ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_334
+336,04,13,「実はそのＵＦＯに乗ってた宇宙人、私なの……なんてね。ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_335
+337,04,13,「……私は許しちゃうかな……その時はきっと私にも原因はあるし、ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_336
+338,04,13,「……私はダメかな。あなたが他の誰かを好きだなんて、考えたくないもの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_337
+339,04,13,「そうね……でも、今ももう充分男らしいとは思ってるわよ……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_338
+340,04,13,「無理に男らしくしなくても……自分らしくいてくれれば……私はそれでいいわ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_339
+341,04,13,「自分で言うのはアレだけど……そうね。あなたのためなら、結構なんでもやるわよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_340
+342,04,13,「どうかしら……自覚はないんだけど。あなたは、そう思うの？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_341
+343,04,13,「……ええ、大好きよ、世界で一番。誰よりも好きな自信があるわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_342
+344,04,13,「いいえ？……ああっ、ごめんね！　今のは冗談だから、そんな悲しい顔しないで、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_343
+345,04,13,「えっと、少し恥ずかしいから……この話は終わり、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_344
+346,04,13,「も、もう……私も、大好きよ。ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_345
+347,04,13,「も、もうわかったから……恥ずかしいわ……！」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_346
+348,04,13,「……そ、そうね。あなたの愛を感じられるから、好きよ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_347
+349,04,13,「そ、そんなこと……どうどうと訊かないでちょうだい……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_348
+350,04,13,「……うん、感じやすい……かな？　だから、優しくお願いね……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_349
+351,04,13,「答えると今度するとき、攻められっぱなしになりそうだから……黙秘するわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_350
+352,04,13,「あ、あなたに触られれば、どこでも感じる……と思うわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_351
+353,04,13,「も、もう……エッチなビデオじゃないんだから……答えませーん」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_352
+354,04,13,「そ、れは……あなたを気持ちよくしたいから、勉強のために……ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_353
+355,04,13,「な、ないです……ないったら、ないの……もう……！,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_354
+356,04,13,「もう……そういうエッチな話ばっかりするの、少しやめましょう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_355
+357,04,13,「なっ……！？　そ、そういう話を学園でしないの……今更だけど」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_356
+358,04,13,「そ、それは……あなたが求めてくれるから……ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_357
+359,04,13,「あなたと付き合ってから、なんだか変わったって言われるのだけど……どう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_358
+360,04,13,「前より綺麗に見える……って外見の話じゃないわよ、もう……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_359
+361,04,13,「そうよね……私もそう思うわ、不思議よね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_360
+362,04,13,「あなたって、運命を信じる人？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_361
+363,04,13,「うん、私も……あなたとは、ずっと一緒の運命だといいわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_362
+364,04,13,「そう……でもそうね、私たちの出会いを『運命』でまとめるなんて、出来ないものね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_363
+365,04,13,「あなたって……子供は好き？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_364
+366,04,13,「うん、私も子供は好き……だから、その……ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_365
+367,04,13,「そっか……でも、その方が私もあなたを独り占めできるものね、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_366
+368,04,13,「ねえ、私のどんなところが好き？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_367
+369,04,13,「ふふっ、飽きられない女だって、いい方に受け止めておくわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_368
+370,04,13,「あなたの今の表情……かっこよかったわよ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_369
+371,04,13,「無意識にそんな顔ができるなんて……さすがね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_370
+372,04,13,「友達にね、なんだか綺麗になったって言われるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_371
+373,04,13,「も、もう……でも、恋する女は美しいって言うからね……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_372
+374,04,13,「実際に見てみて……私の胸、どうだった？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_373
+375,04,13,「あなたのおかげで、また少し大きくなったわ……でも、気に入ってるならいいわ……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_374
+376,04,13,「そのうち、あなたが好きなこのサイズより大きくなってしまうかも……そこだけは心配かな」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_375
+377,04,13,「少し複雑だけど……あなたが好んでくれているなら、この小さな胸も好きになれそうよ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_376
+378,04,13,「……今の私の身長、どうかしら？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_377
+379,04,13,「そ、そう……やっぱりあなたって、物好きな人ね……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_378
+380,04,13,「個人的には、もう少し欲しいんだけどね……あなたと並んで歩けるなら、このままでいいわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_379
+381,04,13,「……うん、あなたがそう言ってくれるから、小さい自分に自信が持てるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_380
+382,04,13,「見たり触ったりしたと思うけど……私の体型、どう思う？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_381
+383,04,13,「ありがとう……でも、健康のためにも、痩せる努力はしなきゃ、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_382
+384,04,13,「ふふっ、何の面白みもない身体だけど……これからもよろしくね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_383
+385,04,13,「触って楽しくない身体だと思っていたけれど……需要はあったみたいね、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_384
+386,04,13,「もっと、あなた好みの女になれるよう、がんばるわね……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_385
+387,04,13,「……こんなことをしてる場合じゃないと思うわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_386
+388,04,13,「ううん、私も子供みたいに騒いで……ごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_387
+389,04,13,「……イヤよ、私がどうして怒ってるのか、ちゃんと考えて……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_388
+390,04,13,「うん？　そんなに見つめて……何かあった？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_389
+391,04,13,「た、ただ見たいだけなのはわかったから……一言ちょうだい？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_390
+392,04,13,「えっと……何か言いたいことがあるなら、直接話して？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_391
+393,04,13,「も、もう……学園でそういう目をするのはだめよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_392
+394,04,13,「うう……わかりました、私の負けよ……もう好きにして」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_393
+395,04,13,「え、エッチしてるときなら好きなだけ見ていいから……今は我慢して、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_394
+396,04,13,「いくらあなたでも……ダメな時はダメなのよ……？」,,com_ev_04_395
+397,04,13,「うん？　寂しくなっちゃった？　……はい、どうぞ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_396
+398,04,13,「恋人だからって、ずっと手を繋いでたら疲れちゃうわよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_397
+399,04,13,「もう……甘えん坊さん、もう少し我慢しなさい、ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_398
+400,04,13,「きゃっ……甘えたいの？　……はい、よしよし」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_399
+401,04,13,「だーめ、もうおっぱいタイムは終了よ……ダメだったら」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_400
+402,04,13,「エッチな赤ん坊ねぇ……悪い気はしないけど、今は我慢して？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_401
+403,04,13,「んっ……あなたに撫でられるの、好きだわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_402
+404,04,13,「あなたねぇ……私の反応を楽しんでるでしょう？　その手には乗らないんだから……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_403
+405,04,13,「……好きだけど、あんまり撫でると、子ども扱いされてるみたいで、イヤよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_404
+406,04,13,「ひゃっ……どうしたの？　キス、したくなった？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_405
+407,04,13,「触れてくれるのは嬉しいわ……でも、人目を気にしないのも考えものよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_406
+408,04,13,「ダメよ、誰か見てるかもしれないんだから……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_407
+409,04,13,「私はあなたにとって、おさわりできればいいだけの存在なの？」,,com_ev_04_408
+410,04,13,「日が経つにつれてあなたが好きになるわ……ふふっ、あなたはどう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_409
+411,04,13,「あなたのためなら、私はどんな私にもなれる……期待していてね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_410
+412,04,13,「今日はどんなあなたが見れるのかしら。ふふっ、楽しみね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_411
+413,04,13,「考え事かしら？　私で良ければ、力になるけど……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_412
+414,04,13,「あなたの目にちゃんと私が見えてるなら……何か言って？　この沈黙は辛いわ」,,com_ev_04_413
+415,04,13,「……少しだけ、あなたと距離が取りたいの……ごめんなさい」,,com_ev_04_414
+416,04,13,「……ごめんね、まだ……ダメかな」,,com_ev_04_415
+417,04,13,「恋人になって少し経つけど……まだドキドキすることがあるの、不思議ね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_416
+418,04,13,「ねえ、気づいてる？　……あなたのために、少しずつ大胆になってるの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_417
+419,04,13,「今だけは、このチャイムが恨めしいわね……じゃあ、またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_418
+420,04,13,「あ……うん、寂しいけど、仕方ないわよね……後でね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_419
+421,04,13,「ええ、それじゃ……またね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_420
+422,04,13,「……怒ったのが原因なら、私にはもうどうすることもできないわ。さよなら……,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_421
+423,04,13,「私たち、一度友達に戻りましょう……その方が、お互いのためだから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_422
+424,04,13,「ふふっ、正直でよろしい。それじゃ……抱いて？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_423
+425,04,13,「いやらしい女って思わないでね……今、あなたのが欲しくて、身体が熱いの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_424
+426,04,13,「ありがとう、エッチな子でごめんね……でも、あなたも悪いのよ？　ふふっ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_425
+427,04,13,「そ、そう……そうよね、気が乗らない時もあるわよね……ごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_426
+428,04,13,「ここでしたいなんて、変態さん……でも、私も人のことは言えないかな……ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_427
+429,04,13,「こ、ここではだめよ……エッチをするなら、二人きりになれる場所でしましょ？　ね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_428
+430,04,13,「も、もう……人が来たらどうするの……ドキドキするじゃない。ふふっ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_429
+431,04,13,「だ、だめよ……こんな人が通るところで……もう、変態さんなんだから……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_430
+432,04,13,「ええ、よろこんで……好きな人と食べるご飯ほど、美味しいものはないわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_431
+433,04,13,「ねえ、一緒にお昼食べない？　あなたと食べるご飯は何倍もおいしいの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_432
+434,04,13,「ふふっ、ありがとう。今日はどこで食べる？　あなたの好きなところに行きましょう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_433
+435,04,13,「あっ……ううん、大丈夫よ。友達との時間も大事だものね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_434
+436,04,13,「部長命令じゃ、仕方ないわね。なんて……呼ばれるの期待してたわ、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_435
+437,04,13,「部長さん？　ご予定がなければ、私とコイカツ、しませんか？　ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_436
+438,04,13,「ふふっ、うれしい。それじゃ、さっそく始めましょうか？」　,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_437
+439,04,13,「あ、あはは……ちょっと舞い上がってたわ。邪魔してごめんね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_438
+440,04,13,「私もちょうど誘おうと思ってたところなの。ほら、手を繋いで？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_439
+441,04,13,「ねえ、一緒に帰りましょう？　少しでも長くあなたといたいの……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_440
+442,04,13,「ふふっ、そう言ってくれると思ったわ。じゃあ、手を繋ぎましょう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_441
+443,04,13,「そ、そう……ううん、いいのよ、他の子との時間も大事だしね……うん」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_442
+444,04,13,「うん、どこへ行きたい？　私は……あなたとなら、どこでも大丈夫よ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_443
+445,04,13,「ダーリン、私デートに行きたいな～……なんて、ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_444
+446,04,13,「本当？　ふふっ、ありがとう。楽しみにしてるわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_445
+447,04,13,「そう……でも、都合の悪い日もあるわよね……次はよろしくね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_446
+448,04,13,「うん、いいわ。一緒に勉強しましょう」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_447
+449,04,13,「もしよければだけど、一緒に勉強しない？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_448
+450,04,13,「ありがとう……ふふっ、あなたと一緒に勉強するの、すごく楽しいから」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_449
+451,04,13,「そ、そっか……ううん、いいのよ。あなたの都合もあるものね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_450
+452,04,13,「うん、いいわよ。よろしくね、コーチ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_451
+453,04,13,「ふふっ、コーチ、一緒に汗を流しませんか？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_452
+454,04,13,「ありがとう。それじゃあコーチ、さっそく運動しましょう？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_453
+455,04,13,「そう、残念……たまには普通の運動もしなきゃ、不健康よ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_454
+456,04,13,「はい、あなた……なんてね。ふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_455
+457,04,13,「今はそういう気分じゃないの、わかってちょうだい」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_456
+458,04,13,「そうね」「うんうん」「うん」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_457
+459,04,13,「そうかしら」「そうなの？」「うーん……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_458
+460,04,13,「そうなの」「なるほどね」「ふむふむ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_459
+461,04,13,「あら？」「きゃっ……？」「えっ……？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_460
+462,04,13,「ふふっ」「うれしいわ」「うふふっ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_461
+463,04,13,「……ねえ？」「……あのね？」「……怒るわよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_462
+464,04,13,「そう……」「……そっか」「……うーん」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_463
+465,04,13,「楽しいわ」「ふふっ」「いいわね」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_464
+466,04,13,「も、もう……」「は、恥ずかしいわ……」「うう……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_465
+467,04,13,「ところで……」「それでね」「そういえば」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_466
+468,04,13,「ごめんね、今はそういうのはムリなんだ……」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_468
+469,04,13,「ねえ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_469
+470,04,13,「んー、一瞬間があったわね。不意に呼ばれると、少し恥ずかしいのかな？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_470
+471,04,13,「ふふっ、いいわよ……。」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_471_00
+472,04,13,「とエッチ、私もしたかったの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_471_01
+473,04,13,「その……はしたない女だって思わないでね？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_472_00
+474,04,13,「とエッチしたいの」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_472_01
+475,04,13,「きゃっ……は、入っちゃダメよ。他の子が来て騒ぎになる前に出て行くのよ？」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_473
+476,04,13,「な、何で入って来てるの。ほら、早く出て行って」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_474
+477,04,13,「えっ？　こんなとこに入って来て……居たのが私だけでよかったわ」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_475
+478,04,13,「ちょっと、入ってきたらダメよ。変態さんはすぐに出て行って」,sound/data/pcm/c04/adv/00.unity3d,com_ev_04_476
+479,04,13,「私、お話したいな～、なんて」,sound/data/pcm/c04/adm/00.unity3d,map_yobikake_04_00
+480,04,13,「私に用事？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_000
+481,04,13,「もしかして、私とお話したいの？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_001
+482,04,13,「そうね……文化の勉強かしら」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_002
+483,04,13,「とりあえず、遊ぶことを優先したいわね。ふふっ、意外だった？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_003
+484,04,13,「へぇ、そんな風習があるのね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_004
+485,04,13,「う、うーん……私はちょっと信じられないわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_005
+486,04,13,「あまりしないわ。みんな相手がいないもの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_006
+487,04,13,「どういう人が理想か……みたいなことを話したりはするわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_007
+488,04,13,「読書はするけど、恋愛ものはあまり読まないわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_008
+489,04,13,「たまに読んだりするわ。まぁ、流石に憧れたりはしなけれど」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_009
+490,04,13,「そこまで過剰な演出だと、私は冷めちゃうわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_010
+491,04,13,「……そういうわがままを言う気持ち、ちょっと分かるわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_011
+492,04,13,「けっこうするわよ？　……もしかして幻滅しちゃった？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_012
+493,04,13,「もう時間だわ。それじゃあね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_013
+494,04,13,「私はこれで失礼するわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_014
+495,04,13,「いいわよ。どこを見にいきたいの？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_015
+496,04,13,「うーん……今はそういう気分じゃないの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_016
+497,04,13,「あら、ナンパ？　ふふ、冗談よ。何して遊ぼうかしら」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_017
+498,04,13,「ごめんなさい、ちょっと疲れてるの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_018
+499,04,13,「ええ、いいわよ。私も興味があったの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_019
+500,04,13,「友達とやってきたばかりなの。ごめんね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_020
+501,04,13,「ちょうどお腹も空いてたし、ご一緒するわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_021
+502,04,13,「ごめんね、今は空いてないの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_022
+503,04,13,「なぁに？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_023
+504,04,13,「あら？　お喋りの時間？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_024
+505,04,13,「ううん、自由気ままに遊んでいたわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_025
+506,04,13,「少しの間だけ、塾に通っていたわ。肌に合わなくて、すぐ辞めちゃったけどね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_026
+507,04,13,「そうね、せっかくの旅行を台無しにしない様に気を付けるわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_027
+508,04,13,「気遣ってくれてるの？　ありがとう、あなたも気を付けてね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_028
+509,04,13,「アプリゲームは遊んでるわ。暇つぶしに最適なの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_029
+510,04,13,「昔は遊んでたけど、最近はあまり触れてないわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_030
+511,04,13,「相手もいないのに、考えたりしないわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_031
+512,04,13,「考えたことないわ。そいうのは、パートナーと決めるものでしょう？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_032
+513,04,13,「いないわね。いくら顔が良くても、画面越しじゃ内面までは分からないでしょう？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_033
+514,04,13,「そこまでテレビを見ないから、芸能人はよく知らないの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_034
+515,04,13,「博識な人に渡すなら効果はあるかもしれないけど、普通は伝わりにくいと思うわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_035
+516,04,13,「相手との関係性によると思うわ。大して仲良くない人に渡されても重いだけよ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_036
+517,04,13,「それじゃあ、私はこれで」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_037
+518,04,13,「時間だわ。またね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_038
+519,04,13,「……ご、ごめんなさい……嫌いなわけじゃないんだけど、考える時間がほしいの……」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_039
+520,04,13,「私……あなたのことが好きなの……！」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_040
+521,04,13,「そ、そう……ううん、気にしないで。結果はなんとなく、分かっていたから……」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_041
+522,04,13,「ええ、大丈夫よ。ふふ、楽しみだわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_042
+523,04,13,「ごめんね、ちょっと歩き疲れてるから遠慮しておくわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_043
+524,04,13,「よかったら、二人でぶらぶら観光でもしない？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_044
+525,04,13,「いいのね？　ふふ、じゃあ行きましょう」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_045
+526,04,13,「そう……あ、気にしないで。また今度お願いね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_046
+527,04,13,「ええ、喜んで付き合うわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_047
+528,04,13,「今はそういう気分じゃなくて……ごめんなさい」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_048
+529,04,13,「えっと……ぱーっと遊びたい気分なんだけど、一緒にどう？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_049
+530,04,13,「あ……ありがとう。それじゃあ楽しく遊びましょう」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_050
+531,04,13,「残念だけど、仕方ないわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_051
+532,04,13,「ふふ、楽しそうね。もちろん付き合うわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_052
+533,04,13,「ごめんなさい……先約があるの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_053
+534,04,13,「その……よかったら、二人で体験コーナーに行ってみない？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_054
+535,04,13,「本当にいいのね？　ふふ、誘ってみて良かったわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_055
+536,04,13,「そう……わかったわ。また機会があったらよろしくね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_056
+537,04,13,「私でよければ、ぜひ。ふふ、楽しみね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_057
+538,04,13,「まだあんまり空いてなくて……ごめんね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_058
+539,04,13,「えっと……お腹は空いてない？　よかったら、一緒にご飯でもどうかな？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_059
+540,04,13,「あなたも空いてたのね？　タイミングがバッチリだったみたいで嬉しいわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_060
+541,04,13,「そう……空いてないなら仕方ないわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_061
+542,04,13,「付いていけばいいのね、わかったわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_062
+543,04,13,「ふふ、どんなお話をしてくれるの？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_063
+544,04,13,「ちょうど私も、あなたとお話したいと思ってたの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_064
+545,04,13,「結果が良い時は信じるけど、悪きときは信じないわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_065
+546,04,13,「占ってもらう機会なんて、おみくじくらいしかないから、なんとも言えないわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_066
+547,04,13,「具体的なことは、まだなにも。ぼんやりと、やりたいことはあるんだけどね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_067
+548,04,13,「色々あるけれど、一つに絞れてないわ。私、けっこう欲張りなの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_068
+549,04,13,「人間万事塞翁が馬……かな。意味というより、言葉の響きが好きなの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_069
+550,04,13,「笑う門には福来たる、ね。素敵な考えだと思うわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_070
+551,04,13,「それが本当の話なら、ちょっとビックリね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_071
+552,04,13,「例え話でも、そんなことは考えたくないわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_072
+553,04,13,「そんな未来なんて考えたくないけど……私はあなた一筋よ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_073
+554,04,13,「そうね。最低でも毎日一回は、好きって言い合いましょう？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_074
+555,04,13,「ふふ、そうね……永遠なんて軽々しくは言えないけど、本当にそのくらい気持ちを伝え合っていたいわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_075
+556,04,13,「うーん……『恋』は片思いで、『愛』は両想い……そんなイメージがあるわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_076
+557,04,13,「『愛情』は家族や友人にも向けるけど、『恋』は違うし……難しい質問ね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_077
+558,04,13,「そ、それは無理よ！　私には出来ないわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_078
+559,04,13,「……ないことは、ないけど……堂々と聞く事じゃないわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_079
+560,04,13,「も、もう……じっくり見るのは禁止よ？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_080
+561,04,13,「ずっと傍にいたいと思ってしまうくらいに、あなたのことが好きよ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_081
+562,04,13,「まだまだ話していたいけど……またね？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_082
+563,04,13,「……少しの間、さよならね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_083
+564,04,13,「それじゃ……ちょっと間、お別れね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_084
+565,04,13,「ええ、あなたと一緒なら、どこへ行っても楽しいと思うわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_085
+566,04,13,「ねえ、これから島を観光しない？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_086
+567,04,13,「ありがとう。どこへ行くか、二人で決めましょう」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_087
+568,04,13,「あっ……いいの、急に誘ったのは私の方だから……」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_088
+569,04,13,「もちろん、ＯＫに決まってるわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_089
+570,04,13,「あのね、二人で遊んで汗を流さない？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_090
+571,04,13,「いい返事をありがとう。一緒に気持ち良くなりましょう」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_091
+572,04,13,「そういう気分じゃなかったのね……」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_092
+573,04,13,「ええ、いいわ。楽しい思い出が出来そうね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_093
+574,04,13,「やってみたい体験があるんだけど、一緒にどう？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_094
+575,04,13,「ありがとう。それじゃ、さっそく申し込んでくるわね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_095
+576,04,13,「……タイミングが悪かったみたいね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_096
+577,04,13,「ふふ、私もあなたと一緒に食べたいって思ってたの」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_097
+578,04,13,「ねぇ、お腹が空いてたら、ご飯を食べに行かない？」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_098
+579,04,13,「ふふ、決まりね。何を頼むか悩んじゃうわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_099
+580,04,13,「もう食べた後だった？　それじゃあ、また今度一緒に食べましょう」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_100
+581,04,13,「えっと……うん、いいわ」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_101
+582,04,13,「え、えっと……今すぐはちょっと……ごめんね」,sound/data/pcm/c04/adv/00.unity3d,sun_com_04_102
