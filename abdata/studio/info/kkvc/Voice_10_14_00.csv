@@ -162,7 +162,7 @@
 160,10,14,「ほう……汝もついに人の名を捨てる時が来たか！　良いぞ！　新たなる名を我が与えてやろう！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_171
 161,10,14,「えっ！？　な、なんかちが……こほん、それは正統な名ではないぞ！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_172
 162,10,14,「くっ……よ、よかろう、だが代償として、我にも名を与えよ！　良いな！？」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_173
-163,10,14,「……う、うぅ……恥ずかしすぎるよぉ……」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_174
+163,10,14,「な、なんだ」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_174
 164,10,14,「まだ我に恥辱を与える気でいるのか！？」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_175
 165,10,14,「あ、ぅ……嬉しい、のか……なら、考えないことも、ない……」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_176
 166,10,14,「汝よ、喜ぶがいい！　汝に新しい名を与えてやる！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_177
@@ -173,306 +173,306 @@
 171,10,14,「へっ！？　それは少し恥ず……こほん、さ、先ほどの名は特別ゆえ、気軽に呼ぶものではないのだ！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_182
 172,10,14,「だが……汝がどうしてもというのであれば、稀に呼んでやらないこともない。……稀に、な。しかし代償はきちんと払ってもらうぞ？」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_183
 173,10,14,「い、今は呼ばなくていいからぁ……！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_184
-174,10,14,「こ、こら！　なんか言ってくれぇ……！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_186
-175,10,14,「んぅ……我の疼きを静めてくれたこと、感謝する」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_187
-176,10,14,「いや、我は通学する道行き以外はあまり行かぬのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_000
-177,10,14,「そもそも、我は漆黒満ちる魔界の者だ。魔界とは闇に溢れる静寂の世界」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_001
-178,10,14,「うむ。そして魔族とは、闇に産まれ闇に生きる。そして我こそは魔族の支配者なり」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_002
-179,10,14,「その我が天敵たる太陽の光に当たるなど……灼熱と聖なる気によって溶かされてもおかしくはない」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_003
-180,10,14,「ぐっ……！　むぅ～」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_004
-181,10,14,「ふ、ふんっ。だがまぁ、見聞を広げることは良いことだ。たまにはこうして、外を歩くのも悪くはないな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_005
-182,10,14,「そ、そんなことはないっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_006
-183,10,14,「……一人じゃ、汝と一緒じゃなかったら、こんなことはできなかった」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_007
-184,10,14,「へへ……わ、我は魔族であるのと同時に支配者だからな！　いずれこの世界も支配してやるつもりだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_008
-185,10,14,「う、うんっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_009
-186,10,14,「はぁ……はぁ……ふら、ふらぁ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_010
-187,10,14,「はぁ……はぁ……汝よ。わ、我はもう、駄目だ……今すぐ休まないと、し、死ぬ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_011
-188,10,14,「はぁ……う、うむ……はぁ……はぁ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_012
-189,10,14,「んっ……ごくっごくっごくっ……っぷはぁ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_013
-190,10,14,「うむ、助かった！　やはりコーヒーはブラックに限る。この悪魔的な苦みで、脳が冴えわたるのを感じるぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_014
-191,10,14,「ふぅ……だが、まだ体は疲れている。できればもう少し休みたいのだが」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_015
-192,10,14,「よ、良いのか！？　うむ、ありがたく頂こう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_016
-193,10,14,「ごく、ごく……んぐっ！？　けほっ、けほっ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_017
-194,10,14,「うぅぅ……私、ブラック飲めない……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_018
-195,10,14,「い、いや……ブラックは苦手だが、憧れていたのだ……この黒さと苦みが、闇っぽい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_019
-196,10,14,「こく……んへぇぇ……こく……うぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_020
-197,10,14,「うむうむ、汝と有意義な時を過ごせたぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_021
-198,10,14,「ん？　公園内はもうほとんど見たであろう？　他に見るものでもあるのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_022
-199,10,14,「お、おぉぉ！　なるほど、それは汝の言う通りだ。ここは試しに汝の戯言に付き合ってやろう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_023
-200,10,14,「うーん、座標と時間を固定して、我と汝の存在をそこへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_024
-201,10,14,「ふっ、今日が幸福過ぎた故……このまま汝と共にこの時を止めようと思ってな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_025
-202,10,14,「おぉ、なるほど！　確かにその通りだな。ふふ、では時間を止めるのはやめにするぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_026
-203,10,14,「ふわぁ～～～っ！　素敵！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_027
-204,10,14,「あ……ふふん、闇夜に浮かぶ光、その一つ一つがまるでゴミのようだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_028
-205,10,14,「……いや、綺麗だ。本当に」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_029
-206,10,14,「……なぁ、汝よ。ここから見える灯りの一つ一つに、誰かの生活があるのだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_030
-207,10,14,「当たり前だと思うか？　我はな、そんなことにも気づかずこれまで生きてきたのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_031
-208,10,14,「汝と一緒でなければ、こんな風に思うこともなかった……えへへ、ありがとう、我が同士よ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_032
-209,10,14,「あっ！？　ふぇっ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_033
-210,10,14,「んん……ちゅ、ちゅる……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_034
-211,10,14,「うぁ……あ、ううん、別に……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_035
-212,10,14,「わ、私もっ！　……えっと、我も、汝とのキス……嫌じゃ、なかった」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_036
-213,10,14,「汝に求められて……ドキドキ、してる……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_037
-214,10,14,「……汝？　目が血走ってるぞ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_038
-215,10,14,「その目は何でもないってことはないぞ。何かあったのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_039
-216,10,14,「ん……？　『興奮』って……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_040
-217,10,14,「っ！　もしかして……エッチ、したいのか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_041
-218,10,14,「汝よ！　せっかくいい雰囲気だったのに、何を考えているのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_042
-219,10,14,「そっ！　そういう想像とはなんだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_043
-220,10,14,「……い、嫌とは言っていない」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_044
-221,10,14,「こ、こんな場所で……汝はしたいのか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_045
-222,10,14,「で、でも……したいことに変わりはないのだろう……？　そういうの、私たちには、まだ早いような……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_046
-223,10,14,「それは……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_047
-224,10,14,「……我も……汝と同じ気持ちだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_048
-225,10,14,「汝と、愛し合いたい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_049
-226,10,14,「クックック、下等生物どもめ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_050
-227,10,14,「ふっ、我が世界征服を果たせば、ここから見える景色全てが我のものになる……そう思うと気が昂ぶってしまったのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_051
-228,10,14,「……この思い出の場も、我のものになるのだから……大切に愛でねばな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_052
-229,10,14,「む～、何を笑っているのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_053
-230,10,14,「ちょっ、突然何を言いだすのだっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_054
-231,10,14,「そうだがっ！　そんないやらしいことを言いたいのではない！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_055
-232,10,14,「ちーがーうー！　そうじゃなくて、我はもっと純粋な意味で言ったのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_056
-233,10,14,「ふぇっ！？　……あぅ、うぅぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_057
-234,10,14,「すっ！？　そ、そんな、はっきり言わないでよ～……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_058
-235,10,14,「うぅ～、しょうがない奴だ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_059
-236,10,14,「えへへ～……うんっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_060
-237,10,14,「ふふん、当然だ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_061
-238,10,14,「……その為には、汝も一緒でなければならないな……これからも、付き合ってくれるか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_062
-239,10,14,「う、うん！　……えへへ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_063
-240,10,14,「ふん……闇の住人である我だぞ？　この程度、何も問題な……っくしゅ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_064
-241,10,14,「汝は我を抱き足りぬというのか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_065
-242,10,14,「そ、そういうことか……だが、悪くない提案だな。魂の抱擁を交わそうぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_066
-243,10,14,「ふあぁ～……！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_067
-244,10,14,「あぁ、いや……単純に興奮しただけだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_068
-245,10,14,「むっ！　今、我のことを子どもっぽいと思ったな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_069
-246,10,14,「それは結局子ども扱いしているとのと変わりないではないか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_070
-247,10,14,「まあよい。汝よ、どの遊具から制覇していくつもりだ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_071
-248,10,14,「そうか……では、我はあれがいい！　あの揺れてるヤツ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_072
-249,10,14,「そうだ！　ほら、早くいくぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_073
-250,10,14,「むふぅ、我は満足だ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_074
-251,10,14,「アトラクションに乗っているとき、気になる建物を見つけたのだ。そっちに行きたい！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_075
-252,10,14,「おぉ～！　どのアトラクションも楽しそうだな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_076
-253,10,14,「ふむ、やはりまずは王道の空翔る鉄竜から……む、あれは――」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_077
-254,10,14,「……我はずっと思っていたのだが」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_078
-255,10,14,「何故、動物が二足歩行で立っていることについて、誰も疑問に思わぬのだ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_079
-256,10,14,「そういうことではないっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_080
-257,10,14,「四速歩行の動物がデフォルメされた結果二足歩行で立っていることについて何故誰も疑問を抱かぬかということだっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_081
-258,10,14,「はぁ、はぁ……何を熱くなっているのだ、我は……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_082
-259,10,14,「であるか……我は昔から不気味でしょうがなかったぞ。妙に迫力あるし……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_083
-260,10,14,「むぅ、我だけなのか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_084
-261,10,14,「はぁ～、思わず力を使いすぎてしまった……遊園地、恐るべし……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_085
-262,10,14,「なるほどな。では、フィナーレを飾りいくとしよう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_086
-263,10,14,「むぅ、我をここまで消耗させてなお、すべてを攻略できぬとはな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_087
-264,10,14,「うむ！　次はもっと巡ってみせる！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_088
-265,10,14,「ほほ～！　おぉ～！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_089
-266,10,14,「うんっ！　街が全部見下ろせる！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_090
-267,10,14,「っ！　こ、こほん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_091
-268,10,14,「我が支配する世界が一望できる。これほど心躍ることがあろうか。クックック……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_092
-269,10,14,「へ～、そうであったのか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_093
-270,10,14,「ふんっ、我はいずれ世界を征服する者だぞ？　むしろ高いところは……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_094
-271,10,14,「きゃっ！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_095
-272,10,14,「だ、大丈夫に決まっているだろっ！　我に恐怖心などあるわけ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_096
-273,10,14,「当然だ！　ただ、敵襲かと思って驚いてしまっただけで私は別に怖くなんて……ごにょごにょ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_097
-274,10,14,「本当か？　そ、そういうことなら手を握って汝の恐怖心を和らげてやる」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_098
-275,10,14,「ふぅ～、これでお互い安心だな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_099
-276,10,14,「ち、違う！？　それはつい言葉に出ちゃっただけで……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_100
-277,10,14,「あふぁ！？　また揺れた！！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_101
-278,10,14,「この密室で汝に近寄れというか！？　は、恥ずかしいではないかっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_102
-279,10,14,「……ぅあ、もう大胆すぎるぞぉ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_103
-280,10,14,「こ、コラ！　子供扱いして！　調子にのるな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_104
-281,10,14,「あぅ……近い近い、顔が近いぞ！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_105
-282,10,14,「んっ、んんちゅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_106
-283,10,14,「うぅ～、どうもこうもあるか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_107
-284,10,14,「わ、我の心の準備も無しに、汝は……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_108
-285,10,14,「ふぇっ！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_109
-286,10,14,「汝と言う奴は！？　はぁ～……もう一度してもいいが、次はその……優しくするんだぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_110
-287,10,14,「……あ、あと」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_111
-288,10,14,「た、たまにだったら……いきなりでも、いいよ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_112
-289,10,14,「……ふぅ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_113
-290,10,14,「ん、いや……眼下に広がる夜景を見てふとな、まるで、光の海を飛んでいるようだと思ったのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_114
-291,10,14,「す、すまぬ、わかりづらい表現ばかりしてしまって」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_115
-292,10,14,「ん？　どういうことだ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_116
-293,10,14,「……汝は、笑わないんだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_117
-294,10,14,「……たまにな、その……我の言うことをバカにする者がいるのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_118
-295,10,14,「しかも、その者たちは、我に聞こえるようで聞こえないぐらいの小声で話すから文句も言えない」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_119
-296,10,14,「別に我が何を好きだって……その者たちに迷惑かけてないし……私の自由にさせてくれって思うの」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_120
-297,10,14,「わ、我の考え方は……そんなにおかしいだろうか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_121
-298,10,14,「……本当か？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_122
-299,10,14,「っ！　……そうか。そうなんだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_123
-300,10,14,「うん！　ありがとう、心から礼を言う！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_124
-301,10,14,「へへ……うん。やはり、そうなんだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_125
-302,10,14,「我は、汝が好きだ。我の考え方を笑わず、まっすぐ受け止めてくれる汝が、好きだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_126
-303,10,14,「そうか……嬉しいな。へへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_127
-304,10,14,「んーっ！　遊園地、満喫したぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_128
-305,10,14,「うむ！　次に来るときが今から待ち遠しいぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_129
-306,10,14,「ふぅ、帰り道はまるで魔法が解けていくようだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_130
-307,10,14,「……いつか我も魔法を極めて、あの世界を再現してみせようぞ。クックック」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_131
-308,10,14,「うぅ……人がまるでゴミのようだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_132
-309,10,14,「な、汝よ、苦しい……もう少し離れられぬか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_133
-310,10,14,「うぐぅ……む？　なんだ？　な、何か硬い物が、我の体に当たっているが……こ、この位置はもしかして……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_134
-311,10,14,「い、今すぐなのかっ。ま、周りに人がいっぱいなのにぃ……うぅ、もう、しょうがないな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_135
-312,10,14,「む、むぅ？　この感触……まさか、興奮しておるのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_136
-313,10,14,「クックック……こんな状況でここを硬くするなど、汝は随分と倒錯した嗜好を持っているのだなぁ。んー？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_137
-314,10,14,「ふふ、こんな状態で電車から降りたら、恥ずかしいのはどっちだ？　案ずるな、すぐに済むであろう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_138
-315,10,14,「むぅ～……こんなところで始めるなんて……汝は猿か」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_139
-316,10,14,「……ふん、まぁよいわ……わ、我もイヤではなかったからな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_140
-317,10,14,「クックック、この程度の遊びで怖気づくなど情けないぞ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_141
-318,10,14,「フンフンフンフフーンフンフフーン♪」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_142
-319,10,14,「うむ！　歌うことは好きだ。なにせ、ほら、魔術には詠唱が欠かせぬからな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_143
-320,10,14,「だが、カラオケは中々来る機会がなくてな……あまり慣れてはいないのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_144
-321,10,14,「うむ！　楽しみである！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_145
-322,10,14,「……さっそくで悪いが、使い方を教えてくれないか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_146
-323,10,14,「おお！　汝、礼をいうぞ！　これで、操作は完璧に覚えた！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_147
-324,10,14,「あとは、我が歌うだけだな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_148
-325,10,14,「ドキドキ……ワクワク……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_149
-326,10,14,「いえーい！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_150
-327,10,14,「そ、そう？　えへへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_151
-328,10,14,「はっ！　ふ、ふふん、当然だ。我にとってはこの程度、遊びに過ぎぬ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_152
-329,10,14,「ん？　我が城の浴場にて身を清める際に、よく訓練しているな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_153
-330,10,14,「……こら、汝。我のことをバカにしておるのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_154
-331,10,14,「ま、まぁな。ふふん。魔術を扱うには、呪文の詠唱のためにある程度の音量も必要だからな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_155
-332,10,14,「魔術とはすなわち精霊との対話。彼らとの対話に用いる呪文の中には、一息で言わねば効果のないものもあって……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_156
-333,10,14,「こほん……ま、まぁ、興味なければ聞き流すが良い」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_157
-334,10,14,「おっ！　そ、そうか！　それほど聞きたいのなら仕方ない！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_158
-335,10,14,「うむ、いずれは汝も魔導を極めることになるだろう。クックック……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_159
-336,10,14,「ふふ～！　音を紡ぐのは愉快だっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_160
-337,10,14,「うん！　まだまだ歌いたい！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_161
-338,10,14,「うむ、残念だが仕方がないの……絶対に、また来ような！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_162
-339,10,14,「そ、そうだったのか？　既に一曲入れてしまったのだが……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_163
-340,10,14,「むぅ、先ほどから我ばかり歌っていないか？　汝も歌うが良い」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_164
-341,10,14,「そんなわけなかろう。こんなに楽しいのに歌わないなどおかしい」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_165
-342,10,14,「デュエット曲ならば、我の歌を聴けた上で、汝も楽しめるだろう？　待っていろ、二人とも歌えるものを探してやる」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_166
-343,10,14,「ふぅ……うぅん、んぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_167
-344,10,14,「はぅぅ、うぅん……迷ってしまうなぁ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_168
-345,10,14,「その声？　どの声？　いつもの声だと思うが……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_169
-346,10,14,「なっ！？　汝はエロイことばっかり考えて……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_170
-347,10,14,「俺の、マイク……？　可愛い、声……あっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_171
-348,10,14,「そ、そんなっ、お店の人が来たら、恥ずかしい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_172
-349,10,14,「……汝にそんなことを言われると、断れないではないか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_173
-350,10,14,「……うむっ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_174
-351,10,14,「せんきゅー！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_175
-352,10,14,「さ～て次は何を歌おうか！　何かリクエストはあるか？　それともデュエットにするか？　ん？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_176
-353,10,14,「あっ、この曲なら一緒に歌えるんじゃないか♪」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_177
-354,10,14,「あ、そ、その……楽しくて、はしゃいじゃって……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_178
-355,10,14,「やはり、思いっきり声を出して歌うのは、楽しいものだな……えへへ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_179
-356,10,14,「っ！　……もう、汝はしょうがないな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_180
-357,10,14,「そ、そうか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_181
-358,10,14,「綺麗……！　そ、そうか！　わ、我の声は、綺麗、か！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_182
-359,10,14,「うむ！　汝がそう言うならば聞き入れよう！　なに、汝が望めばいつでも我の美声を聞かせてやるからな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_183
-360,10,14,「ふぅ～……見つからなくてよかった……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_184
-361,10,14,「なっ！？　こ、こら！　恥ずかしいことを言うな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_185
-362,10,14,「そんなことを言われると、次するとき意識して変な声が出てしまうかもしれないだろう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_186
-363,10,14,「むっ、設定と言うな！　……ふん、まぁ細かいことはよいか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_187
-364,10,14,「我は全知全能である魔界の支配者である。すなわち、我の知識の源泉とは我の魂であり、つまりは混沌から湧き上がる……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_188
-365,10,14,「ん……いやまぁ、少なからず影響を受けた事柄もあるな。例えば、そう、伝説の魔導書の記述された古き神の逸話などが……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_189
-366,10,14,「あ、いやそうではなく……世界の裏側でのみ語り継がれる、選ばれし者のみが触れられる秘密があってだな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_190
-367,10,14,「だからそうじゃなくてっ！　……深淵なる知識とは賢者から語られるものであり、深き知を持つ者から我は学んでいて……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_191
-368,10,14,「うぅ～……こほんっ…………ま、マンガとかラノベを読んで、参考にしてるの」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_192
-369,10,14,「えっ、ホントっ！？　ど、どういうの？　なんてタイトルの本をよく読むの！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_193
-370,10,14,「うんっ、うんっ！　まかせて、オススメはいっぱいあるから！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_194
-371,10,14,「クックック……やはり我と汝は同じ魂を持って産まれた同士であったな……えへへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_195
-372,10,14,「うぅ……む、むぅ……う～ん……ふぅぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_196
-373,10,14,「う、うむ……店内が落ち着かなくて……少し、羞恥を感じているのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_197
-374,10,14,「周囲にいる他の者どもが、皆男女の二人組ばかりではないか。それに、その……こういう、いかにもカップルで来る場所、という雰囲気にも、違和感があるのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_198
-375,10,14,「いや、我が支配下に収めている店はこことは随分と雰囲気が違う」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_199
-376,10,14,「そこは、まるで深海のような穏やかな静寂に包まれ、月明り照らす夜のように闇と光が調和する、とてもよい雰囲気なのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_200
-377,10,14,「ふむ。平たく言えば、ここより照明が暗くて人も少ないのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_201
-378,10,14,「それにな……くふふ、マスターが眼帯をしているのがよいのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_202
-379,10,14,「マスターはかつて傭兵として生きていてな。戦いのさなか、戦地で出会った少女からもらった一粒のコーヒー豆から心を入れ替え……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_203
-380,10,14,「うむ、我はそうだと思っている。話したことはないが……だがコーヒーの味は絶品だ。他にもサンドイッチがこれまた美味くてな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_204
-381,10,14,「うむ、よかろう。我の聖域に踏み込むことを許してやる」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_205
-382,10,14,「わ～……すごい、このスイーツ、まるで宝石のようだな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_206
-383,10,14,「うむ、まさしく……ふふっ、食べるのがもったいないな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_207
-384,10,14,「ふふん、そんなわけがなかろう。我の眼前に現れたのが運の尽きよ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_208
-385,10,14,「もぐもぐ……ん～～っ！　……はむはむ……くぅ～～っ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_209
-386,10,14,「ふっ、この甘さは魔力だ。脳を満たすこの圧倒的な幸福感は、一度味わえば誰もが虜になるだろう……むふぅ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_210
-387,10,14,「汝も食えばわかる。ほら、我がじきじきに食わせてやろう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_211
-388,10,14,「クックック……今さら何を照れているのだ。我らはこの程度を恥に感じるような仲ではなかろう。ほら、あーん」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_212
-389,10,14,「ふふ、そうだろうそうだろう。これで汝も、我と共に虜となったな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_213
-390,10,14,「あむ……ふぅ、美味しい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_214
-391,10,14,「汝よ、スイーツが甘いものばかりだと思ったら大間違いだぞ。世界は広いのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_215
-392,10,14,「特にこのブラウニーは素晴らしい。この黒さ、この苦み、まさに闇属性と言えよう。スイーツにおける反逆者と呼ぶにふさわしい」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_216
-393,10,14,「うむ、なら我が一口わけてやろう。ほら、あーん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_217
-394,10,14,「遠慮するな！　汝も絶品スイーツを堪能するがいい、ほら」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_218
-395,10,14,「そうであろう、そうであろう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_219
-396,10,14,「あーむ……むふぅ～……あむあむ……ん～っ、何と美味な糧よ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_220
-397,10,14,「はっ……な、何のことだ？　我は簡単に笑顔など見せたりはせぬ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_221
-398,10,14,「んむんむ……ふへぇ～……おいしい～」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_222
-399,10,14,「むっ、汝よ。今我のことを馬鹿にしていたのではないか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_223
-400,10,14,「そ、そのニヤニヤした笑いをやめろー！　むぅ～」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_224
-401,10,14,「お、オムライスは美味しいから仕方ないのだ！　フワフワの卵、香ばしいケチャップライス、それらが渾然一体となってだな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_225
-402,10,14,「くぅっ、汝も食えばわかる！　そうだ、食えばよいのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_226a
-403,10,14,「ほら、あーんだ、あーん！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_226b
-404,10,14,「汝は……我と恋人らしいことをしたくばないのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_227
-405,10,14,「そ、そんな恥ずかしい台詞を言うな。馬鹿者……へへへ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_228
-406,10,14,「おぉ、そうか。ただ話をして共に食事をしていただけなのに、不思議なものだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_229
-407,10,14,「うむ、アインシュタインの相対性理論だな。我も、その……汝と過ごす時間はあっという間に過ぎたぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_230
-408,10,14,「ん～っ、今日は良き日であった。楽しかったぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_231
-409,10,14,「へ、へへへ……それなら、その、もっと違う一面も、見てみたくはない、か……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_232
-410,10,14,「それって、おうちに……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_233
-411,10,14,「こほん。良かろう！　汝の城とやらへ、連れて行くが良い！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_234
-412,10,14,「ホテルって……汝よ、何を考えとるのだ……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_235
-413,10,14,「もう、汝という奴は……で、でも汝がどうしてもというなら、我もやぶさかではないぞ……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_236
-414,10,14,「そ、そうか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_237
-415,10,14,「……うむ、確かに我が無限の魔力も尽きかけておる。次に汝とまみえるまで、力を蓄えねばな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_238
-416,10,14,「……うん、絶対だよ♪」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_239
-417,10,14,「むぅ……汝よ。この我を、魔界の支配者たる我を待たせるとは、いい度胸ではないか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_240
-418,10,14,「そ、それは……だって、今日、すごく楽しみだったから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_241
-419,10,14,「クックック……汝よ、よくぞ来た。逃げずに我の前へ現れたこと、褒めてやろう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_242
-420,10,14,「う、うむっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_243
-421,10,14,「お～……素晴らしい、実に素晴らしい雰囲気だ。第二の我が城にピッタリではないか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_244
-422,10,14,「あっ……え、えっと、そっか……そうだよね……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_245
-423,10,14,「こほんっ！　も、もちろん理解はできておるっ！　我の準備はいつでも万全だ、さぁ、来るがいいっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_246
-424,10,14,「あ、あのな、汝……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_247
-425,10,14,「実を言うとな……我も、その、汝と再びここに来ることを、望んでいたのだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_248
-426,10,14,「よいか！　我がこんな、こんな風に胸を焦がすのは、汝が相手だからなんだからなっ！　わかっておるな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_249
-427,10,14,「も、もしかして、そのモデルを私たちに……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_250
-428,10,14,「まぁ、汝が言うなら、付き合ってやっても構わん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_251
-429,10,14,「うん、素敵……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_252
-430,10,14,「な、なんだ？　何か言いたげだな。ふん、どうせ、我に花嫁衣装など似合わぬからな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_253
-431,10,14,「……ふぇっ！？　な、ななな何を言うのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_254
-432,10,14,「見れると、お、思って？　そそそそれって、つまり――」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_255
-433,10,14,「ま、待って……あうぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_256
-434,10,14,「う、うん……あ、ありがと……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_257
-435,10,14,「……はい、誓います」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_258
-436,10,14,「うぁ、当たり前だ……こ、こんなの、初めてで、心臓が口から、出そう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_259
-437,10,14,「ふぇぇぇ……あ、あの、あの……あり、がとう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_260
-438,10,14,「あっ……ふふっ。あぁ、そうだな。この程度の仕事、闇の住人として堂々とこなしてみせよう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_261
-439,10,14,「……なぁ。我は汝に本当に感謝しているのだ。我のようなヤツを相手にしてくれて、心の底から、礼を言う」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_262
-440,10,14,「汝は、我の言うことを馬鹿にしないで、いつだってそばにいてくれるのだ。我はそれを、本当に嬉しく思っているのだぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_263
-441,10,14,「わ、我は……まぁわかっているとは思うが、実に面倒くさい女だ。心の中を素直に見せるのが、苦手なのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_264
-442,10,14,「だから、我のこの想いが汝にちゃんと伝わっているかいつも不安だった。だが、今日この場所でなら素直に言えそうだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_265
-443,10,14,「……[P名]よ。これからも我のそばに居続けてほしい。我は、汝のことが大好きだから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_266
-444,10,14,「んんっ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_267
-445,10,14,「ふぁ……我らの誓いは、永遠だぞ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_268
-446,10,14,「……ほぅ、終わってしまった……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_269
-447,10,14,「はっ。あ、ああ……まあ、大した仕事ではなかったな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_270
-448,10,14,「うっ……だが、緊張するのは、仕方ないでことであろう？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_271
-449,10,14,「ウェディングドレスは……女の子の憧れ、だから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_272
-450,10,14,「……うんっ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_273
-451,10,14,「はい、誓います」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_274
-452,10,14,「我……私も、今日をずっと待ち望んでた」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_275
-453,10,14,「そ、それは……ずっと夢見てたから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_276
-454,10,14,「……ここで、モデルをした時のことを思い出すね」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_277
-455,10,14,「……我、じゃない私、えっと、その……うぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_278
-456,10,14,「……うむ。感謝する、我が同士よ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_279
-457,10,14,「我が結婚するなど、夢にも思っていなかった――汝と出会うまでは」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_280
-458,10,14,「自分の殻に閉じこもりがちだった我に、広い世界を教えてくれたこと、今日までともにいてくれたこと、感謝するぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_281
-459,10,14,「……わ、我は、汝に会う前の頃より、広い世界を知った。そしてそのすべてを、いずれは支配してみせる。だから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_282
-460,10,14,「これからは汝のすべてを我に預けよ。代わりに、我のすべてを汝に預けよう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_283
-461,10,14,「この誓いは、例え世界が終わりを迎えようとも破れない、永遠のものだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_284
-462,10,14,「ん、ん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_285
-463,10,14,「ありがとう……愛しておるぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_286
-464,10,14,「うむ。我も汝に、同じくらい幸せな世界を贈ろう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_287
-465,10,14,「こうやって起こされるのは、男の夢なのであろう？　汝は嬉しいか？」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_000
-466,10,14,「お礼を言われてしまうと、て、照れるぞ……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_001
-467,10,14,「魔力が、切れそうなのだ……汝の……魔力を早く我にぃ……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_002
-468,10,14,「我はもっともっと欲しいのだ……汝の魔力が……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_003
-469,10,14,「ん、具合はどうだ？　今、汝にかけられた呪いを……我が解いているところだ」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_004
-470,10,14,「ククッ、汝は気づかぬか？　睡魔に誘われていたのに、ここが大きくなっていたのだ。呪いに違いない！」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_005
-471,10,14,「汝のオチンポが熱く固くなってきておる……封印が解かれるのも、時間の問題だな……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_006
-472,10,14,「むふ……我の前で隙を見せた汝が悪いのだぞ♪」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_007
-473,10,14,song_10_00,sound/data/bgm/bgm_28.unity3d,bgm_28
+174,10,14,「良い朝だな」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_185
+175,10,14,「こ、こら！　なんか言ってくれぇ……！」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_186
+176,10,14,「んぅ……我の疼きを静めてくれたこと、感謝する」,sound/data/pcm/c10/adv/00.unity3d,adv_ev_10_187
+177,10,14,「いや、我は通学する道行き以外はあまり行かぬのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_000
+178,10,14,「そもそも、我は漆黒満ちる魔界の者だ。魔界とは闇に溢れる静寂の世界」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_001
+179,10,14,「うむ。そして魔族とは、闇に産まれ闇に生きる。そして我こそは魔族の支配者なり」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_002
+180,10,14,「その我が天敵たる太陽の光に当たるなど……灼熱と聖なる気によって溶かされてもおかしくはない」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_003
+181,10,14,「ぐっ……！　むぅ～」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_004
+182,10,14,「ふ、ふんっ。だがまぁ、見聞を広げることは良いことだ。たまにはこうして、外を歩くのも悪くはないな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_005
+183,10,14,「そ、そんなことはないっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_006
+184,10,14,「……一人じゃ、汝と一緒じゃなかったら、こんなことはできなかった」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_007
+185,10,14,「へへ……わ、我は魔族であるのと同時に支配者だからな！　いずれこの世界も支配してやるつもりだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_008
+186,10,14,「う、うんっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_009
+187,10,14,「はぁ……はぁ……ふら、ふらぁ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_010
+188,10,14,「はぁ……はぁ……汝よ。わ、我はもう、駄目だ……今すぐ休まないと、し、死ぬ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_011
+189,10,14,「はぁ……う、うむ……はぁ……はぁ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_012
+190,10,14,「んっ……ごくっごくっごくっ……っぷはぁ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_013
+191,10,14,「うむ、助かった！　やはりコーヒーはブラックに限る。この悪魔的な苦みで、脳が冴えわたるのを感じるぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_014
+192,10,14,「ふぅ……だが、まだ体は疲れている。できればもう少し休みたいのだが」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_015
+193,10,14,「よ、良いのか！？　うむ、ありがたく頂こう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_016
+194,10,14,「ごく、ごく……んぐっ！？　けほっ、けほっ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_017
+195,10,14,「うぅぅ……私、ブラック飲めない……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_018
+196,10,14,「い、いや……ブラックは苦手だが、憧れていたのだ……この黒さと苦みが、闇っぽい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_019
+197,10,14,「こく……んへぇぇ……こく……うぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_020
+198,10,14,「うむうむ、汝と有意義な時を過ごせたぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_021
+199,10,14,「ん？　公園内はもうほとんど見たであろう？　他に見るものでもあるのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_022
+200,10,14,「お、おぉぉ！　なるほど、それは汝の言う通りだ。ここは試しに汝の戯言に付き合ってやろう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_023
+201,10,14,「うーん、座標と時間を固定して、我と汝の存在をそこへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_024
+202,10,14,「ふっ、今日が幸福過ぎた故……このまま汝と共にこの時を止めようと思ってな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_025
+203,10,14,「おぉ、なるほど！　確かにその通りだな。ふふ、では時間を止めるのはやめにするぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_026
+204,10,14,「ふわぁ～～～っ！　素敵！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_027
+205,10,14,「あ……ふふん、闇夜に浮かぶ光、その一つ一つがまるでゴミのようだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_028
+206,10,14,「……いや、綺麗だ。本当に」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_029
+207,10,14,「……なぁ、汝よ。ここから見える灯りの一つ一つに、誰かの生活があるのだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_030
+208,10,14,「当たり前だと思うか？　我はな、そんなことにも気づかずこれまで生きてきたのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_031
+209,10,14,「汝と一緒でなければ、こんな風に思うこともなかった……えへへ、ありがとう、我が同士よ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_032
+210,10,14,「あっ！？　ふぇっ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_033
+211,10,14,「んん……ちゅ、ちゅる……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_034
+212,10,14,「うぁ……あ、ううん、別に……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_035
+213,10,14,「わ、私もっ！　……えっと、我も、汝とのキス……嫌じゃ、なかった」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_036
+214,10,14,「汝に求められて……ドキドキ、してる……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_037
+215,10,14,「……汝？　目が血走ってるぞ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_038
+216,10,14,「その目は何でもないってことはないぞ。何かあったのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_039
+217,10,14,「ん……？　『興奮』って……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_040
+218,10,14,「っ！　もしかして……エッチ、したいのか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_041
+219,10,14,「汝よ！　せっかくいい雰囲気だったのに、何を考えているのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_042
+220,10,14,「そっ！　そういう想像とはなんだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_043
+221,10,14,「……い、嫌とは言っていない」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_044
+222,10,14,「こ、こんな場所で……汝はしたいのか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_045
+223,10,14,「で、でも……したいことに変わりはないのだろう……？　そういうの、私たちには、まだ早いような……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_046
+224,10,14,「それは……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_047
+225,10,14,「……我も……汝と同じ気持ちだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_048
+226,10,14,「汝と、愛し合いたい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_049
+227,10,14,「クックック、下等生物どもめ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_050
+228,10,14,「ふっ、我が世界征服を果たせば、ここから見える景色全てが我のものになる……そう思うと気が昂ぶってしまったのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_051
+229,10,14,「……この思い出の場も、我のものになるのだから……大切に愛でねばな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_052
+230,10,14,「む～、何を笑っているのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_053
+231,10,14,「ちょっ、突然何を言いだすのだっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_054
+232,10,14,「そうだがっ！　そんないやらしいことを言いたいのではない！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_055
+233,10,14,「ちーがーうー！　そうじゃなくて、我はもっと純粋な意味で言ったのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_056
+234,10,14,「ふぇっ！？　……あぅ、うぅぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_057
+235,10,14,「すっ！？　そ、そんな、はっきり言わないでよ～……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_058
+236,10,14,「うぅ～、しょうがない奴だ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_059
+237,10,14,「えへへ～……うんっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_060
+238,10,14,「ふふん、当然だ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_061
+239,10,14,「……その為には、汝も一緒でなければならないな……これからも、付き合ってくれるか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_062
+240,10,14,「う、うん！　……えへへ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_063
+241,10,14,「ふん……闇の住人である我だぞ？　この程度、何も問題な……っくしゅ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_064
+242,10,14,「汝は我を抱き足りぬというのか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_065
+243,10,14,「そ、そういうことか……だが、悪くない提案だな。魂の抱擁を交わそうぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_066
+244,10,14,「ふあぁ～……！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_067
+245,10,14,「あぁ、いや……単純に興奮しただけだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_068
+246,10,14,「むっ！　今、我のことを子どもっぽいと思ったな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_069
+247,10,14,「それは結局子ども扱いしているとのと変わりないではないか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_070
+248,10,14,「まあよい。汝よ、どの遊具から制覇していくつもりだ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_071
+249,10,14,「そうか……では、我はあれがいい！　あの揺れてるヤツ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_072
+250,10,14,「そうだ！　ほら、早くいくぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_073
+251,10,14,「むふぅ、我は満足だ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_074
+252,10,14,「アトラクションに乗っているとき、気になる建物を見つけたのだ。そっちに行きたい！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_075
+253,10,14,「おぉ～！　どのアトラクションも楽しそうだな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_076
+254,10,14,「ふむ、やはりまずは王道の空翔る鉄竜から……む、あれは――」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_077
+255,10,14,「……我はずっと思っていたのだが」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_078
+256,10,14,「何故、動物が二足歩行で立っていることについて、誰も疑問に思わぬのだ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_079
+257,10,14,「そういうことではないっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_080
+258,10,14,「四速歩行の動物がデフォルメされた結果二足歩行で立っていることについて何故誰も疑問を抱かぬかということだっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_081
+259,10,14,「はぁ、はぁ……何を熱くなっているのだ、我は……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_082
+260,10,14,「であるか……我は昔から不気味でしょうがなかったぞ。妙に迫力あるし……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_083
+261,10,14,「むぅ、我だけなのか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_084
+262,10,14,「はぁ～、思わず力を使いすぎてしまった……遊園地、恐るべし……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_085
+263,10,14,「なるほどな。では、フィナーレを飾りいくとしよう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_086
+264,10,14,「むぅ、我をここまで消耗させてなお、すべてを攻略できぬとはな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_087
+265,10,14,「うむ！　次はもっと巡ってみせる！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_088
+266,10,14,「ほほ～！　おぉ～！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_089
+267,10,14,「うんっ！　街が全部見下ろせる！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_090
+268,10,14,「っ！　こ、こほん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_091
+269,10,14,「我が支配する世界が一望できる。これほど心躍ることがあろうか。クックック……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_092
+270,10,14,「へ～、そうであったのか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_093
+271,10,14,「ふんっ、我はいずれ世界を征服する者だぞ？　むしろ高いところは……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_094
+272,10,14,「きゃっ！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_095
+273,10,14,「だ、大丈夫に決まっているだろっ！　我に恐怖心などあるわけ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_096
+274,10,14,「当然だ！　ただ、敵襲かと思って驚いてしまっただけで私は別に怖くなんて……ごにょごにょ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_097
+275,10,14,「本当か？　そ、そういうことなら手を握って汝の恐怖心を和らげてやる」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_098
+276,10,14,「ふぅ～、これでお互い安心だな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_099
+277,10,14,「ち、違う！？　それはつい言葉に出ちゃっただけで……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_100
+278,10,14,「あふぁ！？　また揺れた！！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_101
+279,10,14,「この密室で汝に近寄れというか！？　は、恥ずかしいではないかっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_102
+280,10,14,「……ぅあ、もう大胆すぎるぞぉ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_103
+281,10,14,「こ、コラ！　子供扱いして！　調子にのるな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_104
+282,10,14,「あぅ……近い近い、顔が近いぞ！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_105
+283,10,14,「んっ、んんちゅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_106
+284,10,14,「うぅ～、どうもこうもあるか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_107
+285,10,14,「わ、我の心の準備も無しに、汝は……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_108
+286,10,14,「ふぇっ！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_109
+287,10,14,「汝と言う奴は！？　はぁ～……もう一度してもいいが、次はその……優しくするんだぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_110
+288,10,14,「……あ、あと」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_111
+289,10,14,「た、たまにだったら……いきなりでも、いいよ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_112
+290,10,14,「……ふぅ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_113
+291,10,14,「ん、いや……眼下に広がる夜景を見てふとな、まるで、光の海を飛んでいるようだと思ったのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_114
+292,10,14,「す、すまぬ、わかりづらい表現ばかりしてしまって」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_115
+293,10,14,「ん？　どういうことだ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_116
+294,10,14,「……汝は、笑わないんだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_117
+295,10,14,「……たまにな、その……我の言うことをバカにする者がいるのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_118
+296,10,14,「しかも、その者たちは、我に聞こえるようで聞こえないぐらいの小声で話すから文句も言えない」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_119
+297,10,14,「別に我が何を好きだって……その者たちに迷惑かけてないし……私の自由にさせてくれって思うの」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_120
+298,10,14,「わ、我の考え方は……そんなにおかしいだろうか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_121
+299,10,14,「……本当か？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_122
+300,10,14,「っ！　……そうか。そうなんだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_123
+301,10,14,「うん！　ありがとう、心から礼を言う！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_124
+302,10,14,「へへ……うん。やはり、そうなんだな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_125
+303,10,14,「我は、汝が好きだ。我の考え方を笑わず、まっすぐ受け止めてくれる汝が、好きだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_126
+304,10,14,「そうか……嬉しいな。へへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_127
+305,10,14,「んーっ！　遊園地、満喫したぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_128
+306,10,14,「うむ！　次に来るときが今から待ち遠しいぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_129
+307,10,14,「ふぅ、帰り道はまるで魔法が解けていくようだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_130
+308,10,14,「……いつか我も魔法を極めて、あの世界を再現してみせようぞ。クックック」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_131
+309,10,14,「うぅ……人がまるでゴミのようだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_132
+310,10,14,「な、汝よ、苦しい……もう少し離れられぬか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_133
+311,10,14,「うぐぅ……む？　なんだ？　な、何か硬い物が、我の体に当たっているが……こ、この位置はもしかして……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_134
+312,10,14,「い、今すぐなのかっ。ま、周りに人がいっぱいなのにぃ……うぅ、もう、しょうがないな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_135
+313,10,14,「む、むぅ？　この感触……まさか、興奮しておるのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_136
+314,10,14,「クックック……こんな状況でここを硬くするなど、汝は随分と倒錯した嗜好を持っているのだなぁ。んー？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_137
+315,10,14,「ふふ、こんな状態で電車から降りたら、恥ずかしいのはどっちだ？　案ずるな、すぐに済むであろう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_138
+316,10,14,「むぅ～……こんなところで始めるなんて……汝は猿か」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_139
+317,10,14,「……ふん、まぁよいわ……わ、我もイヤではなかったからな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_140
+318,10,14,「クックック、この程度の遊びで怖気づくなど情けないぞ？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_141
+319,10,14,「フンフンフンフフーンフンフフーン♪」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_142
+320,10,14,「うむ！　歌うことは好きだ。なにせ、ほら、魔術には詠唱が欠かせぬからな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_143
+321,10,14,「だが、カラオケは中々来る機会がなくてな……あまり慣れてはいないのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_144
+322,10,14,「うむ！　楽しみである！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_145
+323,10,14,「……さっそくで悪いが、使い方を教えてくれないか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_146
+324,10,14,「おお！　汝、礼をいうぞ！　これで、操作は完璧に覚えた！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_147
+325,10,14,「あとは、我が歌うだけだな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_148
+326,10,14,「ドキドキ……ワクワク……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_149
+327,10,14,「いえーい！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_150
+328,10,14,「そ、そう？　えへへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_151
+329,10,14,「はっ！　ふ、ふふん、当然だ。我にとってはこの程度、遊びに過ぎぬ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_152
+330,10,14,「ん？　我が城の浴場にて身を清める際に、よく訓練しているな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_153
+331,10,14,「……こら、汝。我のことをバカにしておるのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_154
+332,10,14,「ま、まぁな。ふふん。魔術を扱うには、呪文の詠唱のためにある程度の音量も必要だからな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_155
+333,10,14,「魔術とはすなわち精霊との対話。彼らとの対話に用いる呪文の中には、一息で言わねば効果のないものもあって……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_156
+334,10,14,「こほん……ま、まぁ、興味なければ聞き流すが良い」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_157
+335,10,14,「おっ！　そ、そうか！　それほど聞きたいのなら仕方ない！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_158
+336,10,14,「うむ、いずれは汝も魔導を極めることになるだろう。クックック……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_159
+337,10,14,「ふふ～！　音を紡ぐのは愉快だっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_160
+338,10,14,「うん！　まだまだ歌いたい！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_161
+339,10,14,「うむ、残念だが仕方がないの……絶対に、また来ような！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_162
+340,10,14,「そ、そうだったのか？　既に一曲入れてしまったのだが……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_163
+341,10,14,「むぅ、先ほどから我ばかり歌っていないか？　汝も歌うが良い」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_164
+342,10,14,「そんなわけなかろう。こんなに楽しいのに歌わないなどおかしい」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_165
+343,10,14,「デュエット曲ならば、我の歌を聴けた上で、汝も楽しめるだろう？　待っていろ、二人とも歌えるものを探してやる」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_166
+344,10,14,「ふぅ……うぅん、んぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_167
+345,10,14,「はぅぅ、うぅん……迷ってしまうなぁ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_168
+346,10,14,「その声？　どの声？　いつもの声だと思うが……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_169
+347,10,14,「なっ！？　汝はエロイことばっかり考えて……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_170
+348,10,14,「俺の、マイク……？　可愛い、声……あっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_171
+349,10,14,「そ、そんなっ、お店の人が来たら、恥ずかしい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_172
+350,10,14,「……汝にそんなことを言われると、断れないではないか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_173
+351,10,14,「……うむっ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_174
+352,10,14,「せんきゅー！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_175
+353,10,14,「さ～て次は何を歌おうか！　何かリクエストはあるか？　それともデュエットにするか？　ん？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_176
+354,10,14,「あっ、この曲なら一緒に歌えるんじゃないか♪」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_177
+355,10,14,「あ、そ、その……楽しくて、はしゃいじゃって……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_178
+356,10,14,「やはり、思いっきり声を出して歌うのは、楽しいものだな……えへへ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_179
+357,10,14,「っ！　……もう、汝はしょうがないな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_180
+358,10,14,「そ、そうか……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_181
+359,10,14,「綺麗……！　そ、そうか！　わ、我の声は、綺麗、か！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_182
+360,10,14,「うむ！　汝がそう言うならば聞き入れよう！　なに、汝が望めばいつでも我の美声を聞かせてやるからな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_183
+361,10,14,「ふぅ～……見つからなくてよかった……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_184
+362,10,14,「なっ！？　こ、こら！　恥ずかしいことを言うな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_185
+363,10,14,「そんなことを言われると、次するとき意識して変な声が出てしまうかもしれないだろう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_186
+364,10,14,「むっ、設定と言うな！　……ふん、まぁ細かいことはよいか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_187
+365,10,14,「我は全知全能である魔界の支配者である。すなわち、我の知識の源泉とは我の魂であり、つまりは混沌から湧き上がる……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_188
+366,10,14,「ん……いやまぁ、少なからず影響を受けた事柄もあるな。例えば、そう、伝説の魔導書の記述された古き神の逸話などが……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_189
+367,10,14,「あ、いやそうではなく……世界の裏側でのみ語り継がれる、選ばれし者のみが触れられる秘密があってだな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_190
+368,10,14,「だからそうじゃなくてっ！　……深淵なる知識とは賢者から語られるものであり、深き知を持つ者から我は学んでいて……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_191
+369,10,14,「うぅ～……こほんっ…………ま、マンガとかラノベを読んで、参考にしてるの」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_192
+370,10,14,「えっ、ホントっ！？　ど、どういうの？　なんてタイトルの本をよく読むの！？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_193
+371,10,14,「うんっ、うんっ！　まかせて、オススメはいっぱいあるから！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_194
+372,10,14,「クックック……やはり我と汝は同じ魂を持って産まれた同士であったな……えへへ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_195
+373,10,14,「うぅ……む、むぅ……う～ん……ふぅぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_196
+374,10,14,「う、うむ……店内が落ち着かなくて……少し、羞恥を感じているのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_197
+375,10,14,「周囲にいる他の者どもが、皆男女の二人組ばかりではないか。それに、その……こういう、いかにもカップルで来る場所、という雰囲気にも、違和感があるのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_198
+376,10,14,「いや、我が支配下に収めている店はこことは随分と雰囲気が違う」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_199
+377,10,14,「そこは、まるで深海のような穏やかな静寂に包まれ、月明り照らす夜のように闇と光が調和する、とてもよい雰囲気なのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_200
+378,10,14,「ふむ。平たく言えば、ここより照明が暗くて人も少ないのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_201
+379,10,14,「それにな……くふふ、マスターが眼帯をしているのがよいのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_202
+380,10,14,「マスターはかつて傭兵として生きていてな。戦いのさなか、戦地で出会った少女からもらった一粒のコーヒー豆から心を入れ替え……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_203
+381,10,14,「うむ、我はそうだと思っている。話したことはないが……だがコーヒーの味は絶品だ。他にもサンドイッチがこれまた美味くてな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_204
+382,10,14,「うむ、よかろう。我の聖域に踏み込むことを許してやる」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_205
+383,10,14,「わ～……すごい、このスイーツ、まるで宝石のようだな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_206
+384,10,14,「うむ、まさしく……ふふっ、食べるのがもったいないな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_207
+385,10,14,「ふふん、そんなわけがなかろう。我の眼前に現れたのが運の尽きよ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_208
+386,10,14,「もぐもぐ……ん～～っ！　……はむはむ……くぅ～～っ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_209
+387,10,14,「ふっ、この甘さは魔力だ。脳を満たすこの圧倒的な幸福感は、一度味わえば誰もが虜になるだろう……むふぅ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_210
+388,10,14,「汝も食えばわかる。ほら、我がじきじきに食わせてやろう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_211
+389,10,14,「クックック……今さら何を照れているのだ。我らはこの程度を恥に感じるような仲ではなかろう。ほら、あーん」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_212
+390,10,14,「ふふ、そうだろうそうだろう。これで汝も、我と共に虜となったな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_213
+391,10,14,「あむ……ふぅ、美味しい……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_214
+392,10,14,「汝よ、スイーツが甘いものばかりだと思ったら大間違いだぞ。世界は広いのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_215
+393,10,14,「特にこのブラウニーは素晴らしい。この黒さ、この苦み、まさに闇属性と言えよう。スイーツにおける反逆者と呼ぶにふさわしい」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_216
+394,10,14,「うむ、なら我が一口わけてやろう。ほら、あーん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_217
+395,10,14,「遠慮するな！　汝も絶品スイーツを堪能するがいい、ほら」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_218
+396,10,14,「そうであろう、そうであろう！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_219
+397,10,14,「あーむ……むふぅ～……あむあむ……ん～っ、何と美味な糧よ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_220
+398,10,14,「はっ……な、何のことだ？　我は簡単に笑顔など見せたりはせぬ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_221
+399,10,14,「んむんむ……ふへぇ～……おいしい～」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_222
+400,10,14,「むっ、汝よ。今我のことを馬鹿にしていたのではないか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_223
+401,10,14,「そ、そのニヤニヤした笑いをやめろー！　むぅ～」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_224
+402,10,14,「お、オムライスは美味しいから仕方ないのだ！　フワフワの卵、香ばしいケチャップライス、それらが渾然一体となってだな……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_225
+403,10,14,「くぅっ、汝も食えばわかる！　そうだ、食えばよいのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_226a
+404,10,14,「ほら、あーんだ、あーん！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_226b
+405,10,14,「汝は……我と恋人らしいことをしたくばないのか？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_227
+406,10,14,「そ、そんな恥ずかしい台詞を言うな。馬鹿者……へへへ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_228
+407,10,14,「おぉ、そうか。ただ話をして共に食事をしていただけなのに、不思議なものだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_229
+408,10,14,「うむ、アインシュタインの相対性理論だな。我も、その……汝と過ごす時間はあっという間に過ぎたぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_230
+409,10,14,「ん～っ、今日は良き日であった。楽しかったぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_231
+410,10,14,「へ、へへへ……それなら、その、もっと違う一面も、見てみたくはない、か……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_232
+411,10,14,「それって、おうちに……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_233
+412,10,14,「こほん。良かろう！　汝の城とやらへ、連れて行くが良い！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_234
+413,10,14,「ホテルって……汝よ、何を考えとるのだ……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_235
+414,10,14,「もう、汝という奴は……で、でも汝がどうしてもというなら、我もやぶさかではないぞ……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_236
+415,10,14,「そ、そうか……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_237
+416,10,14,「……うむ、確かに我が無限の魔力も尽きかけておる。次に汝とまみえるまで、力を蓄えねばな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_238
+417,10,14,「……うん、絶対だよ♪」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_239
+418,10,14,「むぅ……汝よ。この我を、魔界の支配者たる我を待たせるとは、いい度胸ではないか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_240
+419,10,14,「そ、それは……だって、今日、すごく楽しみだったから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_241
+420,10,14,「クックック……汝よ、よくぞ来た。逃げずに我の前へ現れたこと、褒めてやろう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_242
+421,10,14,「う、うむっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_243
+422,10,14,「お～……素晴らしい、実に素晴らしい雰囲気だ。第二の我が城にピッタリではないか」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_244
+423,10,14,「あっ……え、えっと、そっか……そうだよね……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_245
+424,10,14,「こほんっ！　も、もちろん理解はできておるっ！　我の準備はいつでも万全だ、さぁ、来るがいいっ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_246
+425,10,14,「あ、あのな、汝……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_247
+426,10,14,「実を言うとな……我も、その、汝と再びここに来ることを、望んでいたのだ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_248
+427,10,14,「よいか！　我がこんな、こんな風に胸を焦がすのは、汝が相手だからなんだからなっ！　わかっておるな！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_249
+428,10,14,「も、もしかして、そのモデルを私たちに……？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_250
+429,10,14,「まぁ、汝が言うなら、付き合ってやっても構わん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_251
+430,10,14,「うん、素敵……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_252
+431,10,14,「な、なんだ？　何か言いたげだな。ふん、どうせ、我に花嫁衣装など似合わぬからな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_253
+432,10,14,「……ふぇっ！？　な、ななな何を言うのだ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_254
+433,10,14,「見れると、お、思って？　そそそそれって、つまり――」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_255
+434,10,14,「ま、待って……あうぅぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_256
+435,10,14,「う、うん……あ、ありがと……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_257
+436,10,14,「……はい、誓います」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_258
+437,10,14,「うぁ、当たり前だ……こ、こんなの、初めてで、心臓が口から、出そう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_259
+438,10,14,「ふぇぇぇ……あ、あの、あの……あり、がとう……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_260
+439,10,14,「あっ……ふふっ。あぁ、そうだな。この程度の仕事、闇の住人として堂々とこなしてみせよう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_261
+440,10,14,「……なぁ。我は汝に本当に感謝しているのだ。我のようなヤツを相手にしてくれて、心の底から、礼を言う」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_262
+441,10,14,「汝は、我の言うことを馬鹿にしないで、いつだってそばにいてくれるのだ。我はそれを、本当に嬉しく思っているのだぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_263
+442,10,14,「わ、我は……まぁわかっているとは思うが、実に面倒くさい女だ。心の中を素直に見せるのが、苦手なのだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_264
+443,10,14,「だから、我のこの想いが汝にちゃんと伝わっているかいつも不安だった。だが、今日この場所でなら素直に言えそうだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_265
+444,10,14,「……[P名]よ。これからも我のそばに居続けてほしい。我は、汝のことが大好きだから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_266
+445,10,14,「んんっ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_267
+446,10,14,「ふぁ……我らの誓いは、永遠だぞ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_268
+447,10,14,「……ほぅ、終わってしまった……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_269
+448,10,14,「はっ。あ、ああ……まあ、大した仕事ではなかったな」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_270
+449,10,14,「うっ……だが、緊張するのは、仕方ないでことであろう？」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_271
+450,10,14,「ウェディングドレスは……女の子の憧れ、だから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_272
+451,10,14,「……うんっ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_273
+452,10,14,「はい、誓います」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_274
+453,10,14,「我……私も、今日をずっと待ち望んでた」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_275
+454,10,14,「そ、それは……ずっと夢見てたから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_276
+455,10,14,「……ここで、モデルをした時のことを思い出すね」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_277
+456,10,14,「……我、じゃない私、えっと、その……うぅ……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_278
+457,10,14,「……うむ。感謝する、我が同士よ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_279
+458,10,14,「我が結婚するなど、夢にも思っていなかった――汝と出会うまでは」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_280
+459,10,14,「自分の殻に閉じこもりがちだった我に、広い世界を教えてくれたこと、今日までともにいてくれたこと、感謝するぞ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_281
+460,10,14,「……わ、我は、汝に会う前の頃より、広い世界を知った。そしてそのすべてを、いずれは支配してみせる。だから……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_282
+461,10,14,「これからは汝のすべてを我に預けよ。代わりに、我のすべてを汝に預けよう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_283
+462,10,14,「この誓いは、例え世界が終わりを迎えようとも破れない、永遠のものだ」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_284
+463,10,14,「ん、ん……」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_285
+464,10,14,「ありがとう……愛しておるぞ！」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_286
+465,10,14,「うむ。我も汝に、同じくらい幸せな世界を贈ろう」,sound/data/pcm/c10/adv/20.unity3d,adv_luv_10_287
+466,10,14,「こうやって起こされるのは、男の夢なのであろう？　汝は嬉しいか？」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_000
+467,10,14,「お礼を言われてしまうと、て、照れるぞ……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_001
+468,10,14,「魔力が、切れそうなのだ……汝の……魔力を早く我にぃ……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_002
+469,10,14,「我はもっともっと欲しいのだ……汝の魔力が……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_003
+470,10,14,「ん、具合はどうだ？　今、汝にかけられた呪いを……我が解いているところだ」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_004
+471,10,14,「ククッ、汝は気づかぬか？　睡魔に誘われていたのに、ここが大きくなっていたのだ。呪いに違いない！」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_005
+472,10,14,「汝のオチンポが熱く固くなってきておる……封印が解かれるのも、時間の問題だな……」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_006
+473,10,14,「むふ……我の前で隙を見せた汝が悪いのだぞ♪」,sound/data/pcm/c10/adv/00.unity3d,adv_spev_10_007
 474,10,14,「お礼を言われてしまうと、て、照れるぞ……」,sound/data/pcm/c10/adv/00.unity3d,com_ev_10_465_01
 475,10,14,「魔力が、切れそうなのだ……汝の……魔力を早く我にぃ……」,sound/data/pcm/c10/h/00_00.unity3d,h_ai_10_03_002
 476,10,14,「ん、具合はどうだ？　今、汝にかけられた呪いを……我が解いているところだ」,sound/data/pcm/c10/h/00_00.unity3d,h_hh_10_02_004

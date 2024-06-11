@@ -1,704 +1,706 @@
 管理番号,大きい項目,中間項目,表示名,バンドルパス,ファイル名
-0,27,14,「っ！　じゃ、じゃぁ、これから私達はこ、恋人同士って事だから……その、末永く、よろしく……ね？」,sound/data/pcm/c27/adv/00.unity3d,Stand_Joy_00
-1,27,14,,Stand_Joy_00,[H名]
-2,27,14,「おはよっ。よく寝てたわね～、あんた」,sound/data/pcm/c27/adm/00.unity3d,adm_00_27_010
-3,27,14,「あっ、男子……！　えっと、誰か……ちょっと……誰かいないの」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_000
-4,27,14,「わ、私！？　ちょっと待って！　……すぅ～……はぁ～……よし」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_001
-5,27,14,「……な、何？　私に聞きたいことでもあるの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_002
-6,27,14,「私に！？　……別にいいけど……何の用？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_003
-7,27,14,「おしゃべりしたいってこと？　……わかったわ。で、何を話すの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_004
-8,27,14,「あんたとしゃべってると、なんだか時間が経つのが早く感じるわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_005
-9,27,14,「たっ、楽しい……！？　もしかしてだけど……あんたもそう感じてたりする……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_006
-10,27,14,「……！　あのさ……変なこと言ってるかもしれないけど……これって、友達になれたってことなのかな」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_007
-11,27,14,「あっ、う、うん！　そうよね……友達……ふふっ……友達かぁ……。時間取らせて悪かったわね。じゃっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_008
-12,27,14,「いいけど……一緒に帰るって、何をするの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_009
-13,27,14,「寄り道……！　ふぅん……一緒に帰ったりするのもなかなか悪くなさそうね。それじゃ、行くわよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_010
-14,27,14,「勉強ってひとりでするものでしょ。一緒になんてできるの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_011
-15,27,14,「それ、すごく楽しそ……じゃなくて、効率的かもね。いいわよ、早速始めましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_012
-16,27,14,「そういえば男子ってよく校庭でドッジボールしてたわよね。あんたもそういうの好きなんだ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_013
-17,27,14,「ふぅん……いいわ、付き合ってあげる。昔、男子たち見てて、気になってはいたのよね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_014
-18,27,14,「先生に呼び出しでもくらったの？　私が付いて行っても役に立たないと思うけど」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_015
-19,27,14,「ああ、そういうこと……。何かちょっと楽しそうだし……行ってみてもいいかも」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_016
-20,27,14,「ふぇっ！？　ここここの私に、好きとか……っ！　あんた、正気！？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_017
-21,27,14,「そんな真っ直ぐ見つめないで……あぅ……わかったからぁ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_018
-22,27,14,「うぅ……あい……こちらこそ……よろしくお願いします……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_019
-23,27,14,「ちょっ……あんた、いきなり何言い出してるの！？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_020
-24,27,14,「それって……私を、女として見てくれてるってことよね……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_021
-25,27,14,「……い、いいわ……そんな風に見られたの、初めてだし……ちょっと、嬉しいから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_022
-26,27,14,「デートって、あの、異性同士がふたりきりでどこかへ出かけたり、イチャイチャしたりするっていう……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_023
-27,27,14,「いっ、いいわよ、やりましょ！　イチャイチャも……あんたがしたいなら……すればいいんじゃない」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_024
-28,27,14,「それ……私が恋愛経験ないからって、同情心で誘ってくれたんじゃないわよね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_025
-29,27,14,「えっ……そ、そうなの？　それじゃ、あんた、私と恋愛……研究、したいって思ってるんだ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_026
-30,27,14,「入る！　全然入る！　そしたら、あんたともっと近づいて……ふふ、ふふふ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_027
-31,27,14,「それじゃ、早速活動方針から話し合いましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_028
-32,27,14,「率直に言うわ……私たち、別れましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_029
-33,27,14,「ううん……私があんたに理想を見すぎてたんだと思う。やっぱり漫画みたいに幸せにはいかないのね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_030
-34,27,14,「あんた、いい奴だから、すぐまた彼女ができるわよ。頑張ってね。それじゃ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_031
-35,27,14,「私もとうとう大人の女に……！　はぅ、ドキドキする……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_032
-36,27,14,「う、うん……。えっと、まずは艶めかしく服を脱いで、それから挑発するように淫乱なセリフを」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_033
-37,27,14,「あぅぅ……ごめん……あんたに任せてもいい？　初めてだから……優しくお願い……します」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_034
-38,27,14,「行きたい！　あのねあのね、私、あんたと行ってみたいところがいっぱいあるの！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_035
-39,27,14,「あっ……別に、絶対あんたとじゃなきゃダメってわけでもないんだけどねっ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_036
-40,27,14,「……うんっ！　それじゃあ、最初はここなんてどうかな……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_037
-41,27,14,「あ……おはよ。まだ寝てても良かったのに」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_038
-42,27,14,「もう、顔に落書きなんてしないわよ！　……寝顔、もっと見てたかっただけ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_039
-43,27,14,「勝手にシャワー使わせてもらったから。あ、牛乳ももらっていい？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_040
-44,27,14,「って、何ガン見してんのよ！　昨日あれだけ私の裸見たくせに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_041
-45,27,14,「げ、バレた……。あんたが寝てる間に、口でやる練習してただけよ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_042
-46,27,14,『おはよう。気持ちよさそうに寝てるから、起こさずに先行きます』,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_043
-47,27,14,『目覚ましを３つかけたのは私です。もし遅刻してきたら、４つに増やすからそのつもりで　[H]』,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_044
-48,27,14,『追伸　私がお泊りしたこと、学園では秘密にしてて。みんなが嫉妬しちゃうから……』,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_045
-49,27,14,「あ……お、おはよ……。あんた、いつもこの時間に来てるんだ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_046
-50,27,14,「おはよ。あんた、さっきすごく大きなあくびしてたでしょ。見てたわよ。ふふっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_047
-51,27,14,「あっ……おはよ。朝から嬉しそうな顔しちゃって……。わ、私は違うわよ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_048
-52,27,14,「おはよ。朝の小テストの勉強、してきた？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_049
-53,27,14,「やっぱり忘れてたか……。ほら、早く教室行くわよ。出題するところ、教えてあげる」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_050
-54,27,14,「いい匂いがするって？　家庭科の授業で作ったクッキーのことかな……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_051
-55,27,14,「……はい、食べていいわよ。そんな物欲しそうに見られたら、あげるしかないじゃない」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_052
-56,27,14,「ちょっといい？　授業でカップケーキ作ったんだけど……良かったら食べて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_053
-57,27,14,「あっ、勘違いしないでよね！　別に、あんたへあげようと思って作ったんじゃないんだから」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_054
-58,27,14,「でも……食べたら感想は聞かせて。今後の参考にしたいし……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_055
-59,27,14,「家庭科の授業でお弁当を作ったの。我ながら会心の出来だから、あんたも食べてみて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_056
-60,27,14,「先生がね、料理は好きな人のことを思って作ると美味しくなるって言ってたから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_057
-61,27,14,「ええっ、私に……？　そ、そう……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_058
-62,27,14,「私がもらっちゃっても……いいの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_059
-63,27,14,「えっ……うわぁ、何かな……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_060
-64,27,14,「あっ、コレ……！　……ありがと、大切にするわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_061
-65,27,14,「ホントにもらっても大丈夫なの？　……やった。ありがと！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_062
-66,27,14,「うぅ、嬉しい……っ、泣いてないわよ……でもそのくらい感激してるわ。ありがと！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_063
-67,27,14,「あー……うん、一応お礼を言っておくわ。ありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_064
-68,27,14,「へ、へぇ～、これを私に……えーと、まぁ、その、ありがとう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_065
-69,27,14,「えっ……。あんたが私のために選んでくれたんだよね……だったら、その、ありがとう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_066
-70,27,14,「あんたって優しいのね。ありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_067
-71,27,14,「きゃーっ、ノゾキよ！　って、あんた！？　最低っ！　謝っても許してやんないから！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_080
-72,27,14,「きゃああ、変態！　何ノゾいてんのよ、馬鹿ぁ！　先生に言いつけてやる！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_081
-73,27,14,「ひゃっ！　なによあんた……そ、そんなに私のことが気になるの……？　視線が熱すぎ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_082
-74,27,14,「あれ、何かな……ちょっと行ってみない？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_083
-75,27,14,「ふふっ、なかなか悪くなかったわね♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_084
-76,27,14,「初めての相手があんたで良かった……ふふっ、ホントよ？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_085
-77,27,14,「私、ここまで人に優しくされたことってなかったかも……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_086
-78,27,14,「私がこういうことにまだ慣れてないから、とびきり優しくしてくれたんだよね。……ありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_087
-79,27,14,「はぁ、気持ち良かった……また、やろうね……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_088
-80,27,14,「あんたのこと考えると、体が疼くようになっちゃったわ……どうしてくれるのよ、もう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_089
-81,27,14,「はぅ、激しかったぁ……何回もイかされちゃったし……すごく良かったわ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_090
-82,27,14,「私の心も体も、あんただけのものよ……いつだって好きにしてくれていいからね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_091
-83,27,14,「いつも私の方があんたのこと好き勝手振り回しちゃってるから……お返し」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_092
-84,27,14,「ウソ、もう……？　私、まだイッてないんだけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_093
-85,27,14,「えーっ、終わっちゃうの？　私もイキたい～」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_094
-86,27,14,「あんた、まだイケてなかったんでしょ？　私に気を使わなくてもいいのに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_095
-87,27,14,「もう……すっごく恥ずかしかったんだからね！　誰にも見られなくて良かったけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_096
-88,27,14,「はぁ、ドキドキしたぁ……別に、興奮なんてしてないし！　ホントだから！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_097
-89,27,14,「えぇっ、そんなぁ……。考え直してはくれないの……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_098
-90,27,14,「……っく……そう……それじゃ……仕方ないわね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_099
-91,27,14,「優しくしないで！　辛くなるからぁ……うぅっ……さよなら！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_100
-92,27,14,「あう……あう……えっと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_101
-93,27,14,「あんた……緊張しないの！？　これっ……初めてのデートなのに……！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_102
-94,27,14,「う……うんっ……頑張る……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_103
-95,27,14,「ホントだ、メルヘンチックなお店……入ってみたいかも……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_104
-96,27,14,「はぁ、楽しかった！　あんたが気を使ってくれたお陰ね。ありがと……。それじゃ、またね！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_105
-97,27,14,「うぅ、やっぱり緊張するぅ……でも、気張らずにやるわっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_106
-98,27,14,「この前入れなかったお店に行ってみたいわ。それから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_107
-99,27,14,「は～、美味しかった。……あっ、あそこのクレープ屋さんも気になる……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_108
-100,27,14,「なんか……食べ歩きみたいになっちゃってごめんね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_109
-101,27,14,「次こそは……って、次もあるのかな……。私は……あればいいなって思ってるけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_110
-102,27,14,「今日は付き合ってくれてありがとね。……楽しかった」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_111
-103,27,14,「今日のデート、私のためにここを選んでくれたんだ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_112
-104,27,14,「いいの？　……ありがと。ふふっ♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_113
-105,27,14,「じーっ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_114
-106,27,14,「いいのっ！？　じゃあお言葉に甘えて……はむっ！　……ん～～～美味し～♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_115
-107,27,14,「ハッ！　……ふ、普通に美味しかったわ……分けてくれてありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_116
-108,27,14,「そんなにじっと見つめられてると、恥ずかしいから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_117
-109,27,14,「今日……ずっとあんたと一緒にいられて、楽しかったわ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_118
-110,27,14,「……うん！　私もそう思ってたところなの」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_119
-111,27,14,「ありがとね……じゃ、また……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_120
-112,27,14,「……あ、もう分かれ道に来ちゃった……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_121
-113,27,14,「うん……そうしようかな。あっ、えっと、お茶が飲みたい気分だし！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_122
-114,27,14,「えっ……あ……もう行っちゃうんだ……。うん、ばいばい……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_123
-115,27,14,「ふわぁ……男の子の部屋ってこんな風なんだ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_124
-116,27,14,「あ、これが毎日あんたが寝てるベッドね。……くんくん……はぁ、いい匂いがする～♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_125
-117,27,14,「……ごめん、ひとりで盛り上がっちゃった。い、今から、するのよね……？　どうぞ……っ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_126
-118,27,14,「お邪魔します……。え、エッチするからって緊張なんてしてないわよ！？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_127
-119,27,14,「ここに来る前から心の準備はしてたから……始めましょ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_128
-120,27,14,「ねぇ……寄り道って、どういうところに行ったりするの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_129
-121,27,14,「それって、あんたの家ってこと……！？　と、とにかく、歩きながら頭を整理するわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_130
-122,27,14,「寄り道……付き合ってくれてありがと。……あのさ！　えっと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_131
-123,27,14,「それは、あるような……ないような……。こ、困るよね、こんなんじゃ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_132
-124,27,14,「ただ、あんたともっと話がしてみたいって思ってるだけなの……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_133
-125,27,14,「うん……そうだよね！　ありがと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_134
-126,27,14,「エヘヘ……寄り道でこんなところ来ちゃったね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_135
-127,27,14,「あっ！　あんたそれ、かかか間接キス……！　も～っ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_136
-128,27,14,「あっ、うん……あんたも気をつけて……またね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_137
-129,27,14,「ちらっ……ちらちらっ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_138
-130,27,14,「別に……いつ教え合ったりするのかなって思っただけ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_139
-131,27,14,「わからないところがあるの！？　いいわよ、どこでも私に聞いて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_140
-132,27,14,「ホントは生徒指導室が一番集中できるんだけど……空いてなかったらしょうがないわね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_141
-133,27,14,「この時間、ふたりきりになれる場所っていったらココしかなかったのよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_143
-134,27,14,「……ふわぁ……ベッドがあると眠くなってきちゃうわね……ちょっとだけ……すぅ～」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_144
-135,27,14,「沢山教え合いっこしちゃったわね……悪くなかったわ。ありがと！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_145
-136,27,14,「あんたといるとつい安心しちゃって……次こそは頑張って勉強するわ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_146
-137,27,14,「もう、もっと激しくボールぶつけてきてもいいのに」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_147
-138,27,14,「私は本気でいかせてもらうからね。そして……あんたに勝つ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_148
-139,27,14,「会話のキャッチボールはそうでもないんだけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_149
-140,27,14,「ううん、こっちの話！　ね、まだまだ続けましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_150
-141,27,14,「この勝負に勝てば……あんたを自由にできるッ……！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_151
-142,27,14,「あんたもストレス発散したいでしょ？　だから本気できて……！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_152
-143,27,14,「ん～っ、運動したあとの心地良い疲労感、たまんないわ。……相手してくれてありがとね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_153
-144,27,14,「くうっ……途中で逆転されちゃうなんて。負けは負け……その、あんたの好きに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_154
-145,27,14,「ううん……別にっ……食べてるところ人に見られるの、あんまり慣れてないだけ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_155
-146,27,14,「で、でも……我慢できないから、食べるっ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_156
-147,27,14,「あんたも同じ定食頼めば良かったのに。……でも、ひとくちぐらいならあげてもいいわよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_157
-148,27,14,「あんた、いいこと考えるじゃない！　じゃ、そのお肉もーらいっ♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_158
-149,27,14,「ふふっ……良かった♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_159
-150,27,14,「私……あんたがご飯食べてる時の顔、好きよ。すっごく幸せそうなんだもん」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_160
-151,27,14,「美味しかったわね。これで午後も頑張れそう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_161
-152,27,14,「あ、もう、口元にソース付いたまま……ふふっ、また一緒に食べようね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_162
-153,27,14,「まずは恋人同士がどういったことをするのか、知っておかないとダメだと思うの」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_163
-154,27,14,「いい、いまからしっかり知識を叩きこむのよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_164
-155,27,14,「ホントよね……この再会のシーンなんて、もう超感動よ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_165
-156,27,14,「えっ！？　これを私たちでやるの！？　こ、心の準備が……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_166
-157,27,14,「えっと……それじゃ、私に壁ドンしてみて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_167
-158,27,14,「ひゃ～っ！　近い近い近い！　ダメ！　離れて！　キスしちゃうぅっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_168
-159,27,14,「こ、これは難易度が高すぎるわ……違うのにしましょ！　うん、それがいいわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_169
-160,27,14,「今日は王様ゲームをやるわよ♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_170
-161,27,14,「えっ！？　そ、そうなんだ……せっかくクジまで作ってきたのに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_171
-162,27,14,「……うん！　それじゃ、クジを引いて……あ♪　私が王様だわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_172
-163,27,14,「それじゃ、王様じゃなかった人は、王様に……キスすること……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_173
-164,27,14,「はぅ……っん……ふふ……ゲーム、まだまだ続けるわよね？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_174
-165,27,14,「コイカツってなかなか恥ずかし……難しいわね。でも、私、もっと頑張るわ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_175
-166,27,14,「普段やらないことするのって、すごく楽しいわ……またやりましょ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_176
-167,27,14,「愛称？　それって、仲のいい友達同士とか、こ、恋人同士で呼び合うやつ……よね？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_177
-168,27,14,「はぁ！？　何それ、バッカじゃないの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_178
-169,27,14,「……！　な、何言ってんのよ、バカ！　あんぽんたん！　おたんこなす！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_179
-170,27,14,「マニアック星人！　おしりプリプリ左衛門！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_180
+0,27,14,「おはよっ。よく寝てたわね～、あんた」,sound/data/pcm/c27/adm/00.unity3d,adm_00_27_010
+1,27,14,「あっ、男子……！　えっと、誰か……ちょっと……誰かいないの」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_000
+2,27,14,「わ、私！？　ちょっと待って！　……すぅ～……はぁ～……よし」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_001
+3,27,14,「……な、何？　私に聞きたいことでもあるの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_002
+4,27,14,「私に！？　……別にいいけど……何の用？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_003
+5,27,14,「おしゃべりしたいってこと？　……わかったわ。で、何を話すの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_004
+6,27,14,「あんたとしゃべってると、なんだか時間が経つのが早く感じるわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_005
+7,27,14,「たっ、楽しい……！？　もしかしてだけど……あんたもそう感じてたりする……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_006
+8,27,14,「……！　あのさ……変なこと言ってるかもしれないけど……これって、友達になれたってことなのかな」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_007
+9,27,14,「あっ、う、うん！　そうよね……友達……ふふっ……友達かぁ……。時間取らせて悪かったわね。じゃっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_008
+10,27,14,「いいけど……一緒に帰るって、何をするの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_009
+11,27,14,「寄り道……！　ふぅん……一緒に帰ったりするのもなかなか悪くなさそうね。それじゃ、行くわよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_010
+12,27,14,「勉強ってひとりでするものでしょ。一緒になんてできるの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_011
+13,27,14,「それ、すごく楽しそ……じゃなくて、効率的かもね。いいわよ、早速始めましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_012
+14,27,14,「そういえば男子ってよく校庭でドッジボールしてたわよね。あんたもそういうの好きなんだ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_013
+15,27,14,「ふぅん……いいわ、付き合ってあげる。昔、男子たち見てて、気になってはいたのよね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_014
+16,27,14,「先生に呼び出しでもくらったの？　私が付いて行っても役に立たないと思うけど」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_015
+17,27,14,「ああ、そういうこと……。何かちょっと楽しそうだし……行ってみてもいいかも」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_016
+18,27,14,「ふぇっ！？　ここここの私に、好きとか……っ！　あんた、正気！？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_017
+19,27,14,「そんな真っ直ぐ見つめないで……あぅ……わかったからぁ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_018
+20,27,14,「うぅ……あい……こちらこそ……よろしくお願いします……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_019
+21,27,14,「ちょっ……あんた、いきなり何言い出してるの！？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_020
+22,27,14,「それって……私を、女として見てくれてるってことよね……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_021
+23,27,14,「……い、いいわ……そんな風に見られたの、初めてだし……ちょっと、嬉しいから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_022
+24,27,14,「デートって、あの、異性同士がふたりきりでどこかへ出かけたり、イチャイチャしたりするっていう……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_023
+25,27,14,「いっ、いいわよ、やりましょ！　イチャイチャも……あんたがしたいなら……すればいいんじゃない」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_024
+26,27,14,「それ……私が恋愛経験ないからって、同情心で誘ってくれたんじゃないわよね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_025
+27,27,14,「えっ……そ、そうなの？　それじゃ、あんた、私と恋愛……研究、したいって思ってるんだ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_026
+28,27,14,「入る！　全然入る！　そしたら、あんたともっと近づいて……ふふ、ふふふ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_027
+29,27,14,「それじゃ、早速活動方針から話し合いましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_028
+30,27,14,「率直に言うわ……私たち、別れましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_029
+31,27,14,「ううん……私があんたに理想を見すぎてたんだと思う。やっぱり漫画みたいに幸せにはいかないのね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_030
+32,27,14,「あんた、いい奴だから、すぐまた彼女ができるわよ。頑張ってね。それじゃ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_031
+33,27,14,「私もとうとう大人の女に……！　はぅ、ドキドキする……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_032
+34,27,14,「う、うん……。えっと、まずは艶めかしく服を脱いで、それから挑発するように淫乱なセリフを」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_033
+35,27,14,「あぅぅ……ごめん……あんたに任せてもいい？　初めてだから……優しくお願い……します」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_034
+36,27,14,「行きたい！　あのねあのね、私、あんたと行ってみたいところがいっぱいあるの！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_035
+37,27,14,「あっ……別に、絶対あんたとじゃなきゃダメってわけでもないんだけどねっ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_036
+38,27,14,「……うんっ！　それじゃあ、最初はここなんてどうかな……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_037
+39,27,14,「あ……おはよ。まだ寝てても良かったのに」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_038
+40,27,14,「もう、顔に落書きなんてしないわよ！　……寝顔、もっと見てたかっただけ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_039
+41,27,14,「勝手にシャワー使わせてもらったから。あ、牛乳ももらっていい？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_040
+42,27,14,「って、何ガン見してんのよ！　昨日あれだけ私の裸見たくせに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_041
+43,27,14,「げ、バレた……。あんたが寝てる間に、口でやる練習してただけよ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_042
+44,27,14,『おはよう。気持ちよさそうに寝てるから、起こさずに先行きます』,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_043
+45,27,14,『目覚ましを３つかけたのは私です。もし遅刻してきたら、４つに増やすからそのつもりで　[H]』,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_044
+46,27,14,『追伸　私がお泊りしたこと、学園では秘密にしてて。みんなが嫉妬しちゃうから……』,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_045
+47,27,14,「あ……お、おはよ……。あんた、いつもこの時間に来てるんだ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_046
+48,27,14,「おはよ。あんた、さっきすごく大きなあくびしてたでしょ。見てたわよ。ふふっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_047
+49,27,14,「あっ……おはよ。朝から嬉しそうな顔しちゃって……。わ、私は違うわよ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_048
+50,27,14,「おはよ。朝の小テストの勉強、してきた？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_049
+51,27,14,「やっぱり忘れてたか……。ほら、早く教室行くわよ。出題するところ、教えてあげる」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_050
+52,27,14,「いい匂いがするって？　家庭科の授業で作ったクッキーのことかな……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_051
+53,27,14,「……はい、食べていいわよ。そんな物欲しそうに見られたら、あげるしかないじゃない」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_052
+54,27,14,「ちょっといい？　授業でカップケーキ作ったんだけど……良かったら食べて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_053
+55,27,14,「あっ、勘違いしないでよね！　別に、あんたへあげようと思って作ったんじゃないんだから」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_054
+56,27,14,「でも……食べたら感想は聞かせて。今後の参考にしたいし……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_055
+57,27,14,「家庭科の授業でお弁当を作ったの。我ながら会心の出来だから、あんたも食べてみて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_056
+58,27,14,「先生がね、料理は好きな人のことを思って作ると美味しくなるって言ってたから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_057
+59,27,14,「ええっ、私に……？　そ、そう……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_058
+60,27,14,「私がもらっちゃっても……いいの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_059
+61,27,14,「えっ……うわぁ、何かな……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_060
+62,27,14,「あっ、コレ……！　……ありがと、大切にするわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_061
+63,27,14,「ホントにもらっても大丈夫なの？　……やった。ありがと！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_062
+64,27,14,「うぅ、嬉しい……っ、泣いてないわよ……でもそのくらい感激してるわ。ありがと！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_063
+65,27,14,「あー……うん、一応お礼を言っておくわ。ありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_064
+66,27,14,「へ、へぇ～、これを私に……えーと、まぁ、その、ありがとう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_065
+67,27,14,「えっ……。あんたが私のために選んでくれたんだよね……だったら、その、ありがとう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_066
+68,27,14,「あんたって優しいのね。ありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_067
+69,27,14,「きゃーっ、ノゾキよ！　って、あんた！？　最低っ！　謝っても許してやんないから！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_080
+70,27,14,「きゃああ、変態！　何ノゾいてんのよ、馬鹿ぁ！　先生に言いつけてやる！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_081
+71,27,14,「ひゃっ！　なによあんた……そ、そんなに私のことが気になるの……？　視線が熱すぎ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_082
+72,27,14,「あれ、何かな……ちょっと行ってみない？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_083
+73,27,14,「ふふっ、なかなか悪くなかったわね♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_084
+74,27,14,「初めての相手があんたで良かった……ふふっ、ホントよ？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_085
+75,27,14,「私、ここまで人に優しくされたことってなかったかも……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_086
+76,27,14,「私がこういうことにまだ慣れてないから、とびきり優しくしてくれたんだよね。……ありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_087
+77,27,14,「はぁ、気持ち良かった……また、やろうね……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_088
+78,27,14,「あんたのこと考えると、体が疼くようになっちゃったわ……どうしてくれるのよ、もう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_089
+79,27,14,「はぅ、激しかったぁ……何回もイかされちゃったし……すごく良かったわ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_090
+80,27,14,「私の心も体も、あんただけのものよ……いつだって好きにしてくれていいからね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_091
+81,27,14,「いつも私の方があんたのこと好き勝手振り回しちゃってるから……お返し」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_092
+82,27,14,「ウソ、もう……？　私、まだイッてないんだけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_093
+83,27,14,「えーっ、終わっちゃうの？　私もイキたい～」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_094
+84,27,14,「あんた、まだイケてなかったんでしょ？　私に気を使わなくてもいいのに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_095
+85,27,14,「もう……すっごく恥ずかしかったんだからね！　誰にも見られなくて良かったけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_096
+86,27,14,「はぁ、ドキドキしたぁ……別に、興奮なんてしてないし！　ホントだから！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_097
+87,27,14,「えぇっ、そんなぁ……。考え直してはくれないの……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_098
+88,27,14,「……っく……そう……それじゃ……仕方ないわね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_099
+89,27,14,「優しくしないで！　辛くなるからぁ……うぅっ……さよなら！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_100
+90,27,14,「あう……あう……えっと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_101
+91,27,14,「あんた……緊張しないの！？　これっ……初めてのデートなのに……！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_102
+92,27,14,「う……うんっ……頑張る……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_103
+93,27,14,「ホントだ、メルヘンチックなお店……入ってみたいかも……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_104
+94,27,14,「はぁ、楽しかった！　あんたが気を使ってくれたお陰ね。ありがと……。それじゃ、またね！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_105
+95,27,14,「うぅ、やっぱり緊張するぅ……でも、気張らずにやるわっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_106
+96,27,14,「この前入れなかったお店に行ってみたいわ。それから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_107
+97,27,14,「は～、美味しかった。……あっ、あそこのクレープ屋さんも気になる……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_108
+98,27,14,「なんか……食べ歩きみたいになっちゃってごめんね……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_109
+99,27,14,「次こそは……って、次もあるのかな……。私は……あればいいなって思ってるけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_110
+100,27,14,「今日は付き合ってくれてありがとね。……楽しかった」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_111
+101,27,14,「今日のデート、私のためにここを選んでくれたんだ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_112
+102,27,14,「いいの？　……ありがと。ふふっ♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_113
+103,27,14,「じーっ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_114
+104,27,14,「いいのっ！？　じゃあお言葉に甘えて……はむっ！　……ん～～～美味し～♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_115
+105,27,14,「ハッ！　……ふ、普通に美味しかったわ……分けてくれてありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_116
+106,27,14,「そんなにじっと見つめられてると、恥ずかしいから……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_117
+107,27,14,「今日……ずっとあんたと一緒にいられて、楽しかったわ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_118
+108,27,14,「……うん！　私もそう思ってたところなの」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_119
+109,27,14,「ありがとね……じゃ、また……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_120
+110,27,14,「……あ、もう分かれ道に来ちゃった……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_121
+111,27,14,「うん……そうしようかな。あっ、えっと、お茶が飲みたい気分だし！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_122
+112,27,14,「えっ……あ……もう行っちゃうんだ……。うん、ばいばい……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_123
+113,27,14,「ふわぁ……男の子の部屋ってこんな風なんだ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_124
+114,27,14,「あ、これが毎日あんたが寝てるベッドね。……くんくん……はぁ、いい匂いがする～♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_125
+115,27,14,「……ごめん、ひとりで盛り上がっちゃった。い、今から、するのよね……？　どうぞ……っ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_126
+116,27,14,「お邪魔します……。え、エッチするからって緊張なんてしてないわよ！？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_127
+117,27,14,「ここに来る前から心の準備はしてたから……始めましょ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_128
+118,27,14,「ねぇ……寄り道って、どういうところに行ったりするの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_129
+119,27,14,「それって、あんたの家ってこと……！？　と、とにかく、歩きながら頭を整理するわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_130
+120,27,14,「寄り道……付き合ってくれてありがと。……あのさ！　えっと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_131
+121,27,14,「それは、あるような……ないような……。こ、困るよね、こんなんじゃ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_132
+122,27,14,「ただ、あんたともっと話がしてみたいって思ってるだけなの……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_133
+123,27,14,「うん……そうだよね！　ありがと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_134
+124,27,14,「エヘヘ……寄り道でこんなところ来ちゃったね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_135
+125,27,14,「あっ！　あんたそれ、かかか間接キス……！　も～っ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_136
+126,27,14,「あっ、うん……あんたも気をつけて……またね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_137
+127,27,14,「ちらっ……ちらちらっ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_138
+128,27,14,「別に……いつ教え合ったりするのかなって思っただけ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_139
+129,27,14,「わからないところがあるの！？　いいわよ、どこでも私に聞いて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_140
+130,27,14,「ホントは生徒指導室が一番集中できるんだけど……空いてなかったらしょうがないわね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_141
+131,27,14,「そうね……それじゃ、まずは数学からやりましょ。ちょっと教えてほしいところがあるんだけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_142
+132,27,14,「この時間、ふたりきりになれる場所っていったらココしかなかったのよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_143
+133,27,14,「……ふわぁ……ベッドがあると眠くなってきちゃうわね……ちょっとだけ……すぅ～」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_144
+134,27,14,「沢山教え合いっこしちゃったわね……悪くなかったわ。ありがと！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_145
+135,27,14,「あんたといるとつい安心しちゃって……次こそは頑張って勉強するわ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_146
+136,27,14,「もう、もっと激しくボールぶつけてきてもいいのに」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_147
+137,27,14,「私は本気でいかせてもらうからね。そして……あんたに勝つ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_148
+138,27,14,「会話のキャッチボールはそうでもないんだけど……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_149
+139,27,14,「ううん、こっちの話！　ね、まだまだ続けましょ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_150
+140,27,14,「この勝負に勝てば……あんたを自由にできるッ……！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_151
+141,27,14,「あんたもストレス発散したいでしょ？　だから本気できて……！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_152
+142,27,14,「ん～っ、運動したあとの心地良い疲労感、たまんないわ。……相手してくれてありがとね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_153
+143,27,14,「くうっ……途中で逆転されちゃうなんて。負けは負け……その、あんたの好きに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_154
+144,27,14,「ううん……別にっ……食べてるところ人に見られるの、あんまり慣れてないだけ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_155
+145,27,14,「で、でも……我慢できないから、食べるっ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_156
+146,27,14,「あんたも同じ定食頼めば良かったのに。……でも、ひとくちぐらいならあげてもいいわよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_157
+147,27,14,「あんた、いいこと考えるじゃない！　じゃ、そのお肉もーらいっ♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_158
+148,27,14,「ふふっ……良かった♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_159
+149,27,14,「私……あんたがご飯食べてる時の顔、好きよ。すっごく幸せそうなんだもん」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_160
+150,27,14,「美味しかったわね。これで午後も頑張れそう」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_161
+151,27,14,「あ、もう、口元にソース付いたまま……ふふっ、また一緒に食べようね」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_162
+152,27,14,「まずは恋人同士がどういったことをするのか、知っておかないとダメだと思うの」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_163
+153,27,14,「いい、いまからしっかり知識を叩きこむのよ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_164
+154,27,14,「ホントよね……この再会のシーンなんて、もう超感動よ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_165
+155,27,14,「えっ！？　これを私たちでやるの！？　こ、心の準備が……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_166
+156,27,14,「えっと……それじゃ、私に壁ドンしてみて」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_167
+157,27,14,「ひゃ～っ！　近い近い近い！　ダメ！　離れて！　キスしちゃうぅっ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_168
+158,27,14,「こ、これは難易度が高すぎるわ……違うのにしましょ！　うん、それがいいわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_169
+159,27,14,「今日は王様ゲームをやるわよ♪」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_170
+160,27,14,「えっ！？　そ、そうなんだ……せっかくクジまで作ってきたのに……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_171
+161,27,14,「……うん！　それじゃ、クジを引いて……あ♪　私が王様だわ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_172
+162,27,14,「それじゃ、王様じゃなかった人は、王様に……キスすること……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_173
+163,27,14,「はぅ……っん……ふふ……ゲーム、まだまだ続けるわよね？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_174
+164,27,14,「コイカツってなかなか恥ずかし……難しいわね。でも、私、もっと頑張るわ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_175
+165,27,14,「普段やらないことするのって、すごく楽しいわ……またやりましょ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_176
+166,27,14,「愛称？　それって、仲のいい友達同士とか、こ、恋人同士で呼び合うやつ……よね？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_177
+167,27,14,「はぁ！？　何それ、バッカじゃないの？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_178
+168,27,14,「……！　な、何言ってんのよ、バカ！　あんぽんたん！　おたんこなす！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_179
+169,27,14,「マニアック星人！　おしりプリプリ左衛門！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_180
+170,27,14,「えっと、あと、あと……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_181
 171,27,14,「う……うるさいうるさ～いっ！　もう二度と呼ばないんだから、バカっ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_182
 172,27,14,「えっ……！　あ……いや、恥ずかしいけど、そこまで嫌ってわけじゃ、なくて……その……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_183
 173,27,14,「あうぅ…………気が向いたら……いい、けど」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_184
 174,27,14,「ね、ねぇ、アンタってさ……今まで人から、どんな風に呼ばれてた？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_185
 175,27,14,「そうじゃなくて……。その……家族とか、親しい友達とか……こ、恋人は……特別な呼び方、したりするでしょ……？」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_186
 176,27,14,「……どーしても、どーしてもってお願いするなら、一回くらい吝かではない、かも……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_187
-177,27,14,「ひゃうっ！　そ、それは不意打ちよ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_189
-178,27,14,「嫌じゃないけど……うぅ～、呼ぶのも呼ばれるのも、私だけ恥ずかしがってるなんて不公平よ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_190
-179,27,14,「……今度はいきなり呼んで、絶対恥ずかしがらせてやるんだから！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_191
-180,27,14,「はぅ！　あ……あ……授業、始まっちゃう……ええと、教室どっちだっけ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_193
-181,27,14,「……付き合ってくれてありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_194
-182,27,14,「あそこのお店じゃない？　ほら、『ホットドッグ』ってのぼりが出てるとこ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_000
-183,27,14,「うーん、お昼には早いと思うけど。もう少し後でも――」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_001
-184,27,14,「うくっ……お、お昼にしましょうか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_002
-185,27,14,「チーズにチリにたまご……どれも美味しそう」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_003
-186,27,14,「この３つまでは絞れたんだけど、そこから先が……。いっそ全部注文しちゃおうかな」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_004
-187,27,14,「あ、いや！　セットメニューじゃなくて単品の話よ？　勘違いしないで」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_005
-188,27,14,「あっ、うぅ……そ、そうよ！　悪い？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_006
-189,27,14,「……あんた、天才？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_007
-190,27,14,「そう、だけど…………さっきみたいに……デート中にお腹なったら……恥ずかしいじゃん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_008
-191,27,14,「は、恥ずかしいけど……背に腹はかえられないわ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_009
-192,27,14,「そうね……暑すぎてこのまま溶けちゃいそうよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_010
-193,27,14,「あっ、猫……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_011
-194,27,14,「何か食いついてくれそうなものは……あっ、猫じゃらし！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_012
-195,27,14,「おーい、おいでー、猫じゃらしよ～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_013
-196,27,14,「わぁ、こっち来た！　かわいい～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_014
-197,27,14,「えいえいっ……ふふっ、今度はこっちよ！　えいえい！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_015
-198,27,14,「上手に捕まえるわね～。それなら、次はこうよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_016
-199,27,14,「はぁ……体質なのか、昔から動物には好かれないのよね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_017
-200,27,14,「猫だけじゃなくて、犬やウサギ、果てはパンダまで……色んな動物から好かれないよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_018
-201,27,14,「な、なんであんたの方に擦り寄って……こ、こっち！　こっちにもおいで～！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_019
-202,27,14,「うぅ～、どうして私はダメなの～！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_020
-203,27,14,「んーっ、一日中遊んだわね。今日も、その……楽しかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_021
-204,27,14,「だ、大丈夫よ。今日は遅くなるかもって伝えてあるし……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_022
-205,27,14,「私と見たいもの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_023
-206,27,14,「ぷっ、何それ？　子どもの遠足じゃないんだから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_024
-207,27,14,「変に意識するからそうなるのよ。それより、別れるまでがデートなんでしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_025
-208,27,14,「……ちゃんと、エスコートしてよね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_026
-209,27,14,「わぁ、綺麗……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_027
-210,27,14,「へぇ、全然知らなかった。私よりあんたの方がこの街に詳しいんじゃない？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_028
-211,27,14,「ふぅん。コイカツ部がちゃんと役に立ってるって実感したの、初めてだわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_029
-212,27,14,「ふふっ、冗談よ冗談。……あんたがコイカツ部を始めなきゃ、私たちは出会ってないんだから。……私にとってはすごく大切な部活よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_030
-213,27,14,「あぅ……なんか、らしくないこと言っちゃった。今のは忘れて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_031
-214,27,14,「ま、待って！　……あんたの中の私って、そういうイメージなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_032
-215,27,14,「……クールビューティー……とまでは言わないけど、学園の中ではカッコいい方かな、と……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_033
-216,27,14,「そ、そこまで笑わなくてもいいでしょ！？　うぅ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_034
-217,27,14,「うぅ……こんなに自分と人とでイメージが違うなんて、思いもしなかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_035
-218,27,14,「ねえ、この際だからはっきりさせたいんだけど、あんたって、私のことどう思ってるの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_036
-219,27,14,「あぅ……そ、そうじゃなくて……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_037
-220,27,14,「ちょ、ちょっとストップ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_038
-221,27,14,「そ、その……答えが一気に返ってきたから、驚いて……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_039
-222,27,14,「っ、真正面からあんなこと言われて、照れないわけないじゃない……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_040
-223,27,14,「ど、どうしてあんたは平気でそういうこと言えるの？　恥ずかしく、ないの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_041
-224,27,14,「……でも、それがあんたの本心、なんでしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_042
-225,27,14,「私も……好きよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_043
-226,27,14,「んっ……んんっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_044
-227,27,14,「思ってても口にしないでよ……あんたの顔、まともに見れないじゃない……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_045
-228,27,14,「そう、だけど……んんっ、ん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_046
-229,27,14,「……っ、不意打ちは……卑怯よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_047
-230,27,14,「こ、ここでするつもり？　誰かが来ちゃうかも……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_048
-231,27,14,「そ、それってつまり……エッチ、したいってことよね……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_049
-232,27,14,「こんな、誰か来そうなところで……でも、あんたが望むなら……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_050
-233,27,14,「……ぅ、ダメじゃ……ないけど…………す、少し緊張してるから、その……優しく、してよね？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_051
-234,27,14,「……いつ来ても、ここは素敵ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_052
-235,27,14,「また、あんたはそういうこと言って……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_053
-236,27,14,「……別に、嫌とは言ってないわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_054
-237,27,14,「あんたが心からそう思ってるってことは、ちゃんと分かってるつもりよ。だって私は……あんたの、恋人だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_055
-238,27,14,「うぅ、あんたに当てられて、私まで恥ずかしいこと口にしちゃったじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_056
-239,27,14,「……デートスポットの魔力？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_057
-240,27,14,「魔力じゃなくて、あんたの性欲でしょう！？　ていうか、今思い出させないでよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_058
-241,27,14,「それは……そう、だけど……うぅ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_059
-242,27,14,「普通今の流れで誘う！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_060
-243,27,14,「あんた、本当に馬鹿じゃないの……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_061
-244,27,14,「……冗談じゃなくて、本気でシタいの？　我慢、できないわけ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_062
-245,27,14,「っ……あ～、もう……仕方ないわね。ちょっとの間、だけよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_063
-246,27,14,「……うん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_064
-247,27,14,「ちょ、ちょっと待って」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_065
-248,27,14,「手……ちゃんと繋いで」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_066
-249,27,14,「うんっ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_067
-250,27,14,「そ、そうね…………へっくしゅ……うぅ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_068
-251,27,14,「はぁ、そんなことしたら、歩きにくくてしょうがないでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_069
-252,27,14,「……人に見られたら恥ずかしいから、少しだけよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_070
-253,27,14,「定番中の定番よね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_071
-254,27,14,「別に気にしないわ。それより……はぐれないように、手……繋いで」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_072
-255,27,14,「そ、そこまで強く握らなくてもいいけど……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_073
-256,27,14,「大丈夫よ。ここのアトラクションなら乗れないものはないわ。……たぶん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_074
-257,27,14,「別に心配しなくても、無茶とか強がり言ったりしないわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_075
-258,27,14,「いいわよ。さっそく並びましょう」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_076
-259,27,14,「……た、高いわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_077
-260,27,14,「こ、コースターの振動のせいよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_078
-261,27,14,「へっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_079
-262,27,14,「ひゃぁぁぁぁぁぁぁぁ！！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_080
-263,27,14,「ほ、ほんのちょっと怖かったけど……でも、面白かったわ！　ねえ、次は何に乗る？　早く行きましょう！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_081
-264,27,14,「食後だし、ゆったり出来るものがいいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_082
-265,27,14,「……二人して吐く地獄絵図が見たいわけ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_083
-266,27,14,「いいアトラクションでもあった？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_084
-267,27,14,「なに？　って、なんだ。ゲームセンターじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_085
-268,27,14,「確かにどのゲームも年季が入ってるわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_086
-269,27,14,「いいけど、ちゃんと動くか心配だわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_087
-270,27,14,「それもそうね。じゃあ、クレーンゲームで勝負しましょ。先にあのぬいぐるみを取った方が勝ちよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_088
-271,27,14,「うぐっ……そうだけど」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_089
-272,27,14,「すごい！　本当に１回だけで取っちゃった！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_090
-273,27,14,「ありがとう。ふふっ、大切にするわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_091
-274,27,14,「ねぇ、次はあれ取ってよ！　あんたならまた１回だけで取れるでしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_092
-275,27,14,「色々見て回れたわね……って、もうこんな時間！？　経つのが早いわ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_093
-276,27,14,「うん、大丈夫よ。そういえば、まだ乗ってなかったわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_094
-277,27,14,「ん……楽しみだわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_095
-278,27,14,「……そうね。また、二人で来る機会はあるものね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_096
-279,27,14,「最後にお店に寄ってもいい？　家族にお土産を買っていきたいの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_097
-280,27,14,「……観覧車に乗るのって、随分久しぶりな気がするわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_098
-281,27,14,「小さい頃に１回か２回乗って、それっきりね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_099
-282,27,14,「あんまり覚えてないけど、当時の私にとっては他のアトラクションの方が魅力的だったのかも」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_100
-283,27,14,「そうかもね。じっとしてるの得意じゃなかったし」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_101
-284,27,14,「ううん、充分楽しいわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_102
-285,27,14,「綺麗……やっぱり高い所から見る景色っていいわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_103
-286,27,14,「なんで小さい頃は好きじゃなかったんだろ。本当に不思議だわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_104
-287,27,14,「うぐっ……その可能性は否定できないわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_105
-288,27,14,「でも、今の私は観覧車が好きだし、魅力……カップルに人気の理由も分かったつもりよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_106
-289,27,14,「へ？　い、言わなきゃダメなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_107
-290,27,14,「そ、そういうことなら……えっと……あんたと……恋人と二人きりになれるところ、とか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_108
-291,27,14,「……付き合い始めてから気づいたけど、外で完全に二人きりになれる所って案外少なくて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_109
-292,27,14,「そんな数少ない場所が、綺麗な夜景を見れて、ちょっと非日常的な気分を味わえるところだから……カップルに人気があるんだろうなって」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_110
-293,27,14,「うぅ、コイカツ部のためだから言ったけど、普通は口にするものじゃないでしょ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_111
-294,27,14,「……今は景色を見てたいの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_112
-295,27,14,「なに――んんっ、ん…………」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_113
-296,27,14,「っ……い、いきなりしないでよ……心の準備、出来てないんだから……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_114
-297,27,14,「なんで？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_115
-298,27,14,「……あんたって、意外とそういうの信じるタイプだったのね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_116
-299,27,14,「ダメではないけど……ムードがないじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_117
-300,27,14,「だから……もう一回、ちゃんとして」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_118
-301,27,14,「んんっ……っ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_119
-302,27,14,「……３０点。しっかりしなさいよ、コイカツ部の部長でしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_120
-303,27,14,「私だって、こういうシチュエーションには憧れてたもの。厳しくなるのは当然よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_121
-304,27,14,「だから……下に着く前に、ちゃんと１００点取ってよね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_122
-305,27,14,「ん……大丈夫、平気よ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_123
-306,27,14,「いらないわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_124
-307,27,14,「遊び疲れて寝るなんて、そんな子どもみたいなこと私はしないってば」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_125
-308,27,14,「うっ……ち、違うわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_126
-309,27,14,「…………変な理屈考えるのが上手いんだから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_127
-310,27,14,「それじゃあ……ちょっと肩、貸して」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_128
-311,27,14,「ん、ありがと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_129
-312,27,14,「うん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_130
-313,27,14,「待って、その鼻歌はなに？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_131
-314,27,14,「突っ込みどころが多すぎるでしょ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_132
-315,27,14,「よく分からないチョイスもそうだし、彼女に子守唄を歌うってどうなのよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_133
-316,27,14,「はぁ、それは余計なお世話。私は……あんたが肩を貸してくれただけで充分なの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_134
-317,27,14,「だから、しばらくこのままでいさせて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_135
-318,27,14,「……うん。そうね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_136
-319,27,14,「その感覚ちょっと分かるわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_137
-320,27,14,「もう、嫌な言い方しないでよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_138
-321,27,14,「周りの子ども以上に惜しがってるわね、あんた」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_139
-322,27,14,「それは胸を張って言うことじゃないわよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_140
-323,27,14,「ちょ、さすがに近づきすぎよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_141
-324,27,14,「あ、あんたの……どんどん大きくなってるんだけど」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_142
-325,27,14,「嘘でしょ……どんな方法でもいいから、小さくしてよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_143
-326,27,14,「へっ……ま、まさか、この状況でするつもりなの……！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_144
-327,27,14,「……あんた、なんでここを大きくしてるわけ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_145
-328,27,14,「我慢できなくなると、どうなるの？　こんな状況で、射精しちゃう？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_146
-329,27,14,「ふふっ……じゃあ、ちょっと見せてよ、射精するところ。どのみち小さくしなきゃイケないしね♪」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_147
-330,27,14,「うぅ、ケダモノ。誰にも気づかれないからよかったけど……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_148
-331,27,14,「当たり前のことを言わないでよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_149
-332,27,14,「確信をもって言うけど、私が触らなかったら、あんたは股間を押し付けておっぱじめてたわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_150
-333,27,14,「男子とカラオケなんて……初めてだわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_151
-334,27,14,「誘われたら付き合うけど、自分からはあんまり」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_152
-335,27,14,「……私、音痴だし」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_153
-336,27,14,「フリじゃないわよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_154
-337,27,14,「ん……歌うこと自体は好きだから、大丈夫」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_155
-338,27,14,「でも、流行りの歌とか、あんまりよく知らないわよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_156
-339,27,14,「私からなの！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_157
-340,27,14,「……じゃあ、覚悟を決めるわ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_158
-341,27,14,「ん～、やっぱり大きな声で歌うとスッキリするわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_159
-342,27,14,「あれ？　あんた、次の曲入れてないけど歌わないの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_160
-343,27,14,「うーん……このミニピザがいいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_161
-344,27,14,「こういうの頼んでると、自分が歌ってるときに限って、店員さんが運んで来ない？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_162
-345,27,14,「うっ、自分のことじゃないのに顔が赤くなってきた……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_163
-346,27,14,「ふふ、策士ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_164
-347,27,14,「……それなら、普通の言葉の代わりに歌で会話するのはどうかしら？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_165
-348,27,14,「話す側が今の気持ちを綴った歌を歌って、受け取った方はアンサーソングになる歌を歌って……それを繰り返していくの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_166
-349,27,14,「イメージに合う曲は中々ないかもしれないけど、面白うそうじゃない？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_167
-350,27,14,「今入れたら途中で店員さんが来ちゃうわよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_168
-351,27,14,「んーっ、歌った歌った～。……あっ、そろそろ時間ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_169
-352,27,14,「いいわよ。それじゃ、今日はとことん歌いましょうか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_170
-353,27,14,「うんっ。ふふっ、いいストレス解消になったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_171
-354,27,14,「私？　ん～……それじゃあ、あの曲を入れよっと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_172
-355,27,14,「ととと、隣の部屋で……っち……してた……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_173
-356,27,14,「あ、ああいうのって……普通の、ことなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_174
-357,27,14,「ラブっ……うぅ、何かすごく衝撃的だわ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_175
-358,27,14,「むりむり！　隣で……シテるのに……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_176
-359,27,14,「へっ……嘘でしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_177
-360,27,14,「うぅ～、何ですごく真剣な目をするのよ……冗談じゃないって、分かっちゃう……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_178
-361,27,14,「で、でも……人が来るかもしれないのに……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_179
-362,27,14,「……ついさっき、部屋を間違えたんだけど」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_180
-363,27,14,「うぅ……仕方……ないわね。少し……ほんの少しの間だけ、だからね？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_181
-364,27,14,「あと……優しくしてよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_182
-365,27,14,「……ふぅ、さすがに喉が疲れてきたわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_183
-366,27,14,「でも、まだ時間あるわよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_184
-367,27,14,「少し休んでから何曲か歌えば、いい時間になるとは思うけど……あんたに任せるわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_185
-368,27,14,「……歌は、充分歌ったわ。ただ、もう少し……あんたと、いたかったの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_186
-369,27,14,「あっ……んんっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_187
-370,27,14,「ずっと……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_188
-371,27,14,「……それは、あんたがしたいことでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_189
-372,27,14,「正直に言えばいいもんじゃないけど……今回だけ、特別よ……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_190
-373,27,14,「ちゃんとケアしなきゃダメよ？　はい、のど飴」,Stand_17_00,adv_luv_27_192
-374,27,14,「うぅ、けっこう大きな声、出しちゃってた気がする……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_193
-375,27,14,「うん……あっ、ちょっと待って！　部屋に消臭スプレーをかけておかないと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_194
-376,27,14,「……したことバレたら、もうここのカラオケこれない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_195
-377,27,14,「そうなの！？　どうどう、面白かった？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_196
-378,27,14,「うんうん！　わかるわ～。私もドキドキするイベントの連続で、ずっとときめいてたもん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_197
-379,27,14,「誰が結ばれるのか考えて、夜眠れないこともあったわね～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_198
-380,27,14,「ちなみに何巻まで読んだの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_199
-381,27,14,「次の話までモヤモヤするところね～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_200
-382,27,14,「ふふ、たっぷり味わいなさい。でも、ネタバレだけは注意するのよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_201
-383,27,14,「あんたも少女漫画の魅力に気づいたようね！　うーん、何がいいかしら……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_202
-384,27,14,「ドラマや映画化されたものは外した方がいい？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_203
-385,27,14,「うーん、そうなるとすぐには絞れないわね……今度、オススメ作品のリストをまとめておくわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_204
-386,27,14,「アイスティーを注文してたけど、あんたはコーヒーより紅茶派なの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_205
-387,27,14,「私も一緒。だから、どっちが好きかって話で盛り上がってると、疎外感があるのよね……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_206
-388,27,14,「どっちの派閥にも飲み込まれてそうな勢力ね、それ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_207
-389,27,14,「そもそも、厳密な違いってあるの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_208
-390,27,14,「そのままよ。私は大人だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_209
-391,27,14,「うぐっ……別にそんなことないわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_210
-392,27,14,「ちょ、何その信じてない目！　無理して飲んだことなんてないってば！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_211
-393,27,14,「砂糖とミルクを入れるわ。……子どもっぽいかもしれないけど、好きなんだもん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_212
-394,27,14,「っ……そ、そうよね。無理する方がカッコ悪いわよね！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_213
-395,27,14,「私は違うわよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_214
-396,27,14,「やっぱり料理は見た目も大切よね～。それじゃあ、いただきます」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_215
-397,27,14,「はむっ……ん～～っ！　幸せ～♪」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_216
-398,27,14,「そりゃすっごく美味しいもん。ん～、甘酸っぱいイチゴとソフトクリームの相性は最高ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_217
-399,27,14,「でも、ミルフィーユって食べにくいのよね。パフェと迷ったけど、やっぱり食べやすい方がいいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_218
-400,27,14,「……あんたも一口食べてみる？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_219
-401,27,14,「えっと……は、はい、あーん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_220
-402,27,14,「あぅ、どういたしまして……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_221
-403,27,14,「これはチョコモカブラウニーよ。コーヒーが入ってるから甘さ控えめで、ちょっと大人な味がするの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_222
-404,27,14,「私みたいに、あんまり甘いのが好きじゃない人も楽しめるビターなスイーツね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_223
-405,27,14,「いいわよ。ちょっとお皿を貸して」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_224
-406,27,14,「……し、しなきゃダメ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_225
-407,27,14,「うっ、食べさせるまで口を開けたままにするつもりね……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_226a
-408,27,14,「じゃあ、えっと……あーん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_226b
-409,27,14,「あーんなんて……すごくバカップルみたいじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_227
-410,27,14,「実際美味しいわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_228
-411,27,14,「そうね。評判もいいみたい」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_229
-412,27,14,「……私に食べさせて欲しいだけでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_230
-413,27,14,「ダメじゃないけど……こういうことしてるの、私たちしかいないじゃん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_231
-414,27,14,「うん……他のお客さんは普通にしてて、私たちだけ、その……ベタベタしてるというか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_232
-415,27,14,「ふ、普通じゃないわよ！　デートだから距離感が近いだけ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_233
-416,27,14,「……だから、ダメとは言ってないわよ。口、開けて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_234
-417,27,14,「ん、どうぞ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_235
-418,27,14,「……人前でするのは、やっぱり恥ずかしいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_236
-419,27,14,「そうね。今日は贅沢な時間の使い方をした気がするわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_237
-420,27,14,「ううん。長居しすぎたし、そろそろ出ましょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_238
-421,27,14,「あっ……えっと、ありがと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_239
-422,27,14,「ん……私の方こそ、ありがとう」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_240
-423,27,14,「……寂しくなるのは、当たり前よ。だって……それだけ、好きなんだから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_241
-424,27,14,「……大丈夫よ。時間も、他のことも……うん、大丈夫」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_242
-425,27,14,「……あんた、すごくエッチな顔してる」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_243
-426,27,14,「謝る必要はないわ……その、私も……同じ気分だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_244
-427,27,14,「どこ、行くの……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_245
-428,27,14,「……うん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_246
-429,27,14,「っ……なんで、ほっぺなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_247
-430,27,14,「うん……また、学園でね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_248
-431,27,14,「ごめんっ！　私、遅れちゃった！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_249
-432,27,14,「っ、エスパー！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_250
-433,27,14,「む……あんたの方が早く来てる。なんか悔しい」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_251
-434,27,14,「初めて来ただけど……案外、綺麗なのね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_252
-435,27,14,「受付のとき、随分手馴れた気がするけど……調べてたの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_253
-436,27,14,「……聞かなくても、返事は決まってるから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_254
-437,27,14,「んぁっ……んぅ、んん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_255
-438,27,14,「っ……い、いきなりは、ビックリするから……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_256
-439,27,14,「……そう、だけど。もっと優しく、感じさせて？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_257
-440,27,14,「……もしかして、そのモデルの役を私たちに？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_258
-441,27,14,「興味は、あるかも。滅多に体験できないことだと思うし……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_259
-442,27,14,「私、初めて来たわ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_260
-443,27,14,「まさか、こんな所でウェディングドレスを着る機会がくるなんて、思いもしなかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_261
-444,27,14,「……結婚前にウェディングドレスを着ると婚期が遅れるって話、本当だと思う？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_262
-445,27,14,「ふえっ……も、もしかして、私とけっこ――」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_263
-446,27,14,「う、うん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_264
-447,27,14,「あぅ……あ、ありがと……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_265
-448,27,14,「……はい、誓います」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_266
-449,27,14,「あ、あんたも……カッコイイわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_267
-450,27,14,「……普段から思ってても、あんまり口にするものじゃないでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_268
-451,27,14,「……ごめん。あんたを不安にさせてるなんて、思わなかった」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_269
-452,27,14,「えっと……じゃあ、その……上手くまとめられないかもしれないけど、ちゃんと私の気持ちを伝えるから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_270
-453,27,14,「……初めは緊張してて、無愛想気味だった私に優しく接してくれたこと、すごく嬉しかった」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_271
-454,27,14,「慣れない環境でへんてこな部活をまかされたのに、学園生活を一所懸命頑張っててすごいなって思った」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_272
-455,27,14,「一緒に過ごしていくうちに、ちょっとエッチで、いつも明るいあんたの事を知って――好きになった」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_273
-456,27,14,「恥ずかしくて中々言えないけど……いつもカッコイイ彼氏だって思ってるわ。だから、これからも私の彼氏でいてください」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_274
-457,27,14,「んんっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_275
-458,27,14,「っ……ん……大好きよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_276
-459,27,14,「……なんだか一気に夢から覚めた気分」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_277
-460,27,14,「ウェディングドレス１つで、こんなにも心が躍るなんて思わなかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_278
-461,27,14,「うん……幸せな気持ちで満たされて、本当に魔法にかけられたみたい」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_279
-462,27,14,「……そういえば、デート中だったわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_280
-463,27,14,「はい、誓います」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_281
-464,27,14,「……緊張してる？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_282
-465,27,14,「自然体で大丈夫よ。いつも通りのあんたが、一番素敵だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_283
-466,27,14,「あんたが隣にいるから、私は平気よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_284
-467,27,14,「キスの前に、ちょっとだけいい？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_285
-468,27,14,「……ありがとう。私を好きになってくれて、愛してくれて――結婚してくれて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_286
-469,27,14,「恥ずかしがったりして、なかなか素直になれずに面倒な思いをいっぱいさせちゃったと思う」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_287
-470,27,14,「それでも今日までずっと傍にいてくれたこと、本当に、本当に涙が出そうなくらい嬉しいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_288
-471,27,14,「あんたの隣はすごく心地いいから、つい甘えちゃうかもしれないけど……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_289
-472,27,14,「パートナーとして、ずっとあんたを――ううん、あなたのことを支えていきます。これからもよろしくお願いします」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_290
-473,27,14,「ん、ん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_291
-474,27,14,「ありがとう……大好きよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_292
-475,27,14,「ふふっ、こぼれそうじゃなくて、っ、こぼれてるわよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_293
-476,27,14,「ねぇ……これからも、ずっと……二人で幸せを築いていこうね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_294
-477,27,14,「おはよっ。よく寝てたわね～、あんた」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_000
-478,27,14,「んふふ、あんたはじっとしてればいいのよ……」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_001
-479,27,14,「あんたはそのまま、リラックスしていいわよ。私が勝手に動くから」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_002
-480,27,14,「ふふっ、私の腰使いで、あんたをヨガらせてあげる」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_003
-481,27,14,「ふふっ、私の前でだらしない姿を見せるなんて……いい度胸ね」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_004
-482,27,14,「抵抗してもムダムダ、あんたの弱いところはお見通しよ。すぐにイカせちゃうんだから♪」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_005
-483,27,14,「ふふっ……あんた寝言で、おっぱいがだーい好き、って言ってたわよ」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_006
-484,27,14,「そんなにおっぱいが好きなら……もっとぎゅーっとしてあげるわね」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_007
-485,27,14,song_27_00,sound/data/bgm/bgm_29.unity3d,bgm_29
-486,27,14,「んふふ、あんたはじっとしてればいいのよ……」,sound/data/pcm/c27/adv/00.unity3d,com_ev_27_461_02
-487,27,14,「ふふっ、私の前でだらしない姿を見せるなんて……いい度胸ね」,sound/data/pcm/c27/adv/00.unity3d,com_ev_27_464_00
-488,27,14,「抵抗してもムダムダ、あんたの弱いところはお見通しよ。すぐにイカせちゃうんだから♪」,sound/data/pcm/c27/h/00_00.unity3d,h_hh_27_02_022
-489,27,14,「そんなにおっぱいが好きなら……もっとぎゅーっとしてあげるわね」,sound/data/pcm/c27/h/00_00.unity3d,h_hh_27_02_047
-490,27,14,「あんたはそのまま、リラックスしていいわよ。私が勝手に動くから」,sound/data/pcm/c27/h/00_00.unity3d,h_ka_27_02_012
-491,27,14,「ふふっ、私の腰使いで、あんたをヨガらせてあげる」,sound/data/pcm/c27/h/00_00.unity3d,h_ka_27_03_023
-492,27,14,「……あんたがしたいなら、私はそれでいいわよ」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_main_27_000
-493,27,14,「えっと、３人でってことよね？　……普通じゃ味わえない刺激がありそうだし、私はいいわよ」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_main_27_001
-494,27,14,「悪くはなかったわ。うん、機会があれば、またしましょ」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_main_27_002
-495,27,14,「ふ、二人がしてるの見てたら、我慢できなくなって……その、私も入れてくれない？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_sub_27_000
-496,27,14,「よかった……任せて、混ざるからにはきっちりこなしてみせるから」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_sub_27_001
-497,27,14,「我まま聞いてくれて、ありがと。えっと……また、３人でできると嬉しい、かも」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_sub_27_002
-498,27,14,「ひゃっ……！？　えっ、えっ？　あ、なんで、あんた……ふぇっ……？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_000
-499,27,14,「い、いきなり出てきて、エッチしたい、なんて……」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_001
-500,27,14,「……ぅ、恥ずかしさより、興奮が勝っちゃってる……いい、わよ。エッチ、しましょう」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_002
-501,27,14,「何？　見てるだけじゃ我慢できなくなったわけ？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_003
-502,27,14,「……いい、わよ。一人でするの、少し寂しかったから……ちゃんと、感じさせてよね？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_004
-503,27,14,「んぅ……な、なに？　もっと近くで……私のオナニー、見たいの？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_005
-504,27,14,「ふぇっ！？　ど、どうしてあんたが……？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_main_27_000
-505,27,14,「ドキドキしたけど……うん、意外といいものね」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_main_27_001
-506,27,14,「も、もしかして……ずっと見てたわけ？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_sub_27_000
-507,27,14,「私も、いいわ。……ちゃんと、二人とも気持ちよくさせてよ？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_sub_27_001
-508,27,14,「二人を相手にして……すごい性欲よね」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_sub_27_002
-509,27,14,「へぇ、ここでエステ体験が出来るのね、オイルもあるわ」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_000
-510,27,14,「そうね……どうせタダなんだし、って、もしかしてあんたが塗る気……？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_001
-511,27,14,「そ、そうだけど……うぅ……へ、変なとこ触ったら承知しないんだからね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_002
-512,27,14,「そ、そうね…………ねぇ……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_003
-513,27,14,「オイル、いっぱいあるんだし……折角なら、ま、前も塗ってほしいかなー、なんて……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_004
-514,27,14,「あ、あんただからお願いしてるのよ……ほら、好きに塗りなさいよ……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_005
-515,27,14,「あ、ありがと……綺麗に、塗ってくれて……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_006
-516,27,14,「ま、まぁまぁだったわよ、うん……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_007
-517,27,14,「ふぅ……まぁ、次もお願いね？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_008
-518,27,14,「ちょっと、何しにここに来たのよ……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_009
-519,27,14,「はぁ……あんたに塗られるの、ほんと気持ちいいわぁ……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_010
-520,27,14,「よかったわよ……また、塗って頂戴ね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_011
-521,27,14,「また来ましょ？　もちろん、あんたが塗るのよ？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_012
-522,27,14,「あ……ま、まぁ、次来た時に塗ってくれればいいから……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_013
-523,27,14,「なっ！？　す、すす好きって、私を……？　」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_000
-524,27,14,「ふ、ふーん？　まぁ、あんたがどーーしてもって言うなら、考えてあげなくもないわよ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_001
-525,27,14,「――っ、し、仕方ないわね、そんなに私が好きなら、つ、付き合ってあげるわっ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_002
-526,27,14,「ちょっと……急に黙って、どうしちゃったの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_003
-527,27,14,「あんた、もしかして……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_004
-528,27,14,「私と一緒にいるのが……退屈なわけ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_005
-529,27,14,「でも……私が声をかけた時、なんかビクってしてたでしょ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_006
-530,27,14,「私と一緒にいたくないから……態度に出てたんじゃないの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_007
-531,27,14,「……言いにくいことなの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_008
-532,27,14,「私が何か悪いことしたわけ！？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_009
-533,27,14,「何よ、人のこと不安にさせておいて。全然おかしくなんてないわよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_010
-534,27,14,「……気負うって？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_011
-535,27,14,「……私とのこと、そんな風に思ってたの？　わ、私は、あんたとのこと、それなりに……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_012
-536,27,14,「そりゃあね、私は変に意地を張っちゃうようなところがあるし、伝わり辛かったかもしれないけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_013
-537,27,14,「っ……なによ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_014
-538,27,14,「…………あ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_015
-539,27,14,「そ、そう……なの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_016
-540,27,14,「本当っ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_017
-541,27,14,「あ、あれ？　うそっ、私に告白しようとしてたのに邪魔しちゃってたの！？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_018
-542,27,14,「だから、あんなにしょんぼりしてたのね。出鼻を挫かれたとか……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_019
-543,27,14,「うぅぅぅーーーー」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_020
-544,27,14,「ただの自己嫌悪よ！　ひとりで勝手に勘違いして傷ついて……バカみたいじゃない」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_021
-545,27,14,「な、何よ……好きって言うならフォローしてくれてもいいでしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_022
-546,27,14,「う、うん、いいわ。嬉し……じゃなくて、ううん、ないことはないわね……ああもう、頭こんがらがってきた！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_023
-547,27,14,「と、とにかく……私のこと、ちゃんと幸せにしてよね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_024
-548,27,14,「乙女的には同じようなものなの！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_025
-549,27,14,「…………うん」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_026
-550,27,14,「ま、まぁ、捉え方によっては、そういう事にも……ごにょごにょ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_027
-551,27,14,「っ！　じゃ、じゃぁ、これから私達は、こ、恋人同士って事だから……その、末永く、よろしく……ね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_028
-552,27,14,「なっ！？　急に何言い出すのよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_029
-553,27,14,「え、エッチって……その、せ、セックスの事、よね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_030
-554,27,14,「うぅ……し、仕方ないわね……あんたにだけ、特別……だからね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_031
-555,27,14,「あぁ……ついにこの時が来たのね……覚悟は、出来ているわ……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_032
-556,27,14,「大げさですって！？　好きな人と初めて身体を重ねるのよ！？　一大イベントなのよ！？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_033
-557,27,14,「あ……は、はい……優しく、お願いします……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_034
-558,27,14,「私は先に出てるからね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_035
-559,27,14,「……だって、い、一緒に部屋出るとこなんて見られたら、恥ずかしいじゃない……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_036
-560,27,14,「……で？　二人きりになったわけだけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_037
-561,27,14,「う……わ、わかってるわよ……私だって、期待してたんだから……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_038
-562,27,14,「ほ、ほら、わかってるんだから、あんたのしたいこと……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_039
-563,27,14,「早く来なさいよ、ほら……私は、いつでもいいから……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_040
-564,27,14,「んー……これなんてどうかしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_041
-565,27,14,「へ、変かしら……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_042
-566,27,14,「で、でしょ？　可愛いでしょう？　ふふっ、買っちゃおうかしら……♪」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_043
-567,27,14,「不思議よね、１つの滝に過ぎないのに、ずっと見ていたくなるわ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_044
-568,27,14,「……あんたと一緒に見ているからかしら」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_045
-569,27,14,「べ、別に……ほら、もう少し見ていくわよっ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_046
-570,27,14,「灯台、か……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_047
-571,27,14,「いえ……ぽつんと一人ぼっちで建っているのを見て、昔の私を思い出して、ね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_048
-572,27,14,「………………うん」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_049
-573,27,14,「次来たときはどんなモノが入荷してるのかしらね……楽しみだわ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_050
-574,27,14,「また来たいわね。……その時も、二人で……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_051
-575,27,14,「これからも、ああいう景色を二人で見ていきましょ……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_052
-576,27,14,「何しようかしらねぇ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_053
-577,27,14,「え、あ、あんたと一緒に？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_054
-578,27,14,「そ、そうよね……べ、別に気後れてるわけじゃないからね！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_055
-579,27,14,「そうね、二人で出来そうなものってあるかしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_056
-580,27,14,「……結構密着するのね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_057
-581,27,14,「べ、別に嫌って訳じゃないから……ほら、やってみましょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_058
-582,27,14,「っと……なかなか難しそうね、これ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_059
-583,27,14,「だ、ダメよ……私だって、あんたの役に立ちたいんだから……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_060
-584,27,14,「ふん……ま、まあ、また気が向いたら遊んであげてもいいわよ……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_061
-585,27,14,「次も遊びましょ。……ふ、二人で、ね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_062
-586,27,14,「私、上手に出来たかしら……？　また、遊んでくれる……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_063
-587,27,14,「そ、そうかしら？　まぁ、このくらいなら余裕で作れるわ！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_064
-588,27,14,「う、随分細かいけど……み、見てなさい……！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_065
-589,27,14,「三線の音色って、ほんと気持ちが落ち着くわね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_066
-590,27,14,「のんびりとした、こういった雰囲気にピッタリなのよね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_067
-591,27,14,「……よしっと……私の手にかかればこんなものね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_068
-592,27,14,「でしょ？　ま、私の可愛さには敵わないでしょうけどね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_069
-593,27,14,「っ、そ、そこはツッコむ所でしょ、もぉ……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_070
-594,27,14,「つ、次はもっと上手に染めてやるんだから……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_071
-595,27,14,「ほんと、あの音色は定期的に聞きたくなるわね……また来ましょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_072
-596,27,14,「ふふっ、また二人の思い出の品が増えちゃうわね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_073
-597,27,14,「甘いものの中でも、やっぱり砂糖を使ったものが多いみたいね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_074
-598,27,14,「ぐ……で、でも、私はこのくらいの甘さでも平気よ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_075
-599,27,14,「つ、ついでだし、頼んじゃっても…………お願い……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_076
-600,27,14,「こういう所で出る食事って、旅先ではちょっと安心するわよね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_077
-601,27,14,「そこから味がある程度想像つくから、というのもあるわね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_078
-602,27,14,「えぇ。っと、冷めないうちに頂きましょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_079
-603,27,14,「あ……そ、そうね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_080
-604,27,14,「な、何でもないわよ、ただ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_081
-605,27,14,「その、いつか私の手料理であんたに『美味しい』って言わせたいなって……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_082
-606,27,14,「ふぅ、ごちそうさま……また食べたくなったら来ましょ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_083
-607,27,14,「ごちそうさま。次来た時は何を食べようかしらね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_084
-608,27,14,「また食べに来ましょ？　もちろん、二人でに決まってるじゃない？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_085
-609,27,14,「ねぇ、いる……かしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_086
-610,27,14,「お、お邪魔するわね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_087
-611,27,14,「ほ、ほら、恋人が来てあげたのよ？　……する事くらい、わかるでしょ……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_088
-612,27,14,「……いない、か……どこ行ったのかしら……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_089
-613,27,14,「す、好きにしたらいいじゃない……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_000
-614,27,14,「……あんたって意外とそういうところがあるのね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_001
-615,27,14,「こ、こういうことよ！　浮ついてるっていうか……その……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_002
-616,27,14,「そ、そう！　だいたいそういう感じ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_003
-617,27,14,「……ちょっとは」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_004
-618,27,14,「悪いところよ！　人間の自分勝手さという本質が出ちゃってるわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_005
-619,27,14,「慎み深さは大切よ。私はそういうとこちゃんとしてるの」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_006
-620,27,14,「そ、それは……また別の話。残したりしたら、もったいないし……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_007
-621,27,14,「う、うん……サッとね？　サッとよ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_008
-622,27,14,「ほ、ほら、何してるの？　一緒に飲まないとダメでしょ？　あと、写真も撮るから……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_009
-623,27,14,「こういう所……あんまり馴染みがないかも」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_010
-624,27,14,「そうよね。そういう意味では、物語の中にでも入り込んだ気分かも」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_011
-625,27,14,「……猫？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_012
-626,27,14,「ふふっ、いいわね。登場するのは私と……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_013
-627,27,14,「あ、あんたが私の飼い主なんて……それはちょっと思い上がりすぎよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_014
-628,27,14,「い、今も隙を突いて……私のこと膝に乗せたり、頭を撫でたりしようと企んでるんでしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_015
-629,27,14,「……全然思ってないの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_016
-630,27,14,「ふ、ふーん、そう……あんたはそんな風に思ってるんだ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_017
-631,27,14,「あ、あんたになら、その……そういうことされても……いいけど？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_018
-632,27,14,「……周りに誰もいないなら……いい、わよ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_019
-633,27,14,「さあ、いつでもいいわよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_020
-634,27,14,「あんたが勝負しようって言ったんでしょ？　真剣勝負、受けて立つわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_021
-635,27,14,「いくわよ！　それじゃあ、古今東西……甘いものっ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_022
-636,27,14,「やった！　私の勝ちね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_023
-637,27,14,「ところで、勝ったら何かいいことあるの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_024
-638,27,14,「……言われてみればそうね。あーあ、決めておけばよかった」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_025
-639,27,14,「ほ、本当にいいのね？　そ、それじゃ……えぇと、どうしよう……？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_026
-640,27,14,「そんなこと、言えるわけないじゃない！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_027
-641,27,14,「あ、これ……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_028
-642,27,14,「有名でしょ？　どこへ行ってきたか一目でわかるから、これがいいかなって」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_029
-643,27,14,「なに？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_030
-644,27,14,「へぇ、知らなかったわ。そんなありがたいお菓子だったのね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_031
-645,27,14,「わぁ、お宝だぁ～……とか？　貴重だったなら、喜ぶんじゃない」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_032
-646,27,14,「どうして？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_033
-647,27,14,「それは偏見が過ぎるでしょ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_034
-648,27,14,「…………わあ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_035
-649,27,14,「海よ。見渡す限りひたすら海しかないけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_036
-650,27,14,「こういう風景って素敵だなぁ、って眺めてたの」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_037
-651,27,14,「……あんた、感受性が死んでるの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_038
-652,27,14,「恋人と二人で浜辺を散歩してるのよ？　もうちょっとムードを作る努力をしなさいよ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_039
-653,27,14,「こっちだって、その…………期待、してるんだから」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_040
-654,27,14,「な、なによ？　ふざけてるの？　私は……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_041
-655,27,14,「ぅ……や、やればできるじゃない」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_042
-656,27,14,「私だって、恥ずかしいわよ……だけど、それを楽しむのが、恋人でしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_043
-657,27,14,「……うん」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_044
-658,27,14,「あ、あんたがそう言うなら……しょうがないわね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_045
-659,27,14,「ちょっと……近すぎじゃない？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_046
-660,27,14,「そうね……確かに正論だわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_047
-661,27,14,「で、でも……顔をマジマジと見なくても……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_048
-662,27,14,「何も言ってない！　踊りに集中しなさいよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_049
-663,27,14,「ぁ……いや……悪いのは、私で……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_050
-664,27,14,「こうして、あんたと踊るのが恥ずかしくなっちゃって……ごめんなさい」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_051
-665,27,14,「そ、そんなことない！　私は照れて変なことを言っちゃうこともあるけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_052
-666,27,14,「あんたが傍にいてくれて……嫌なんてことは、絶対にないから……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_053
-667,27,14,「……だから、これからも……色んなことに誘ってほしいわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_054
-668,27,14,「う、うん……断る理由なんてないわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_055
-669,27,14,「私も鳴らす相手は……あんたとしか、考えられないし……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_056
-670,27,14,「や、やっぱり待って！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_057
-671,27,14,「心変わりは絶対しないから！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_058
-672,27,14,「そうじゃなくて……その……あんたは、本当に私が相手で……いいの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_059
-673,27,14,「……自分でも分かってるけど……私は面倒くさいでしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_060
-674,27,14,「そんな私と……鐘を鳴らして、あんたは後悔しない？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_061
-675,27,14,「そんなことって……私にとっては大事なことよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_062
-676,27,14,「本当に……？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_063
-677,27,14,「……うん。うんっ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_064
-678,27,14,「ねぇ、見て？　あっちの方に変なのがいたわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_065
-679,27,14,「他に説明のしようがないんだもの。魚の種類とかちっとも詳しくないし」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_066
-680,27,14,「あっ！　あそこにも変なの！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_067
-681,27,14,「土地柄かしら？　珍しい魚がたくさんいるわね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_068
-682,27,14,「と言っても、水族館とかに行き慣れてるわけじゃないんだけど」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_069
-683,27,14,「……あんたは落ち着いてるみたいだけど、こ、こういう所は行き慣れてたりするの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_070
-684,27,14,「たとえば、私以外の……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_071
-685,27,14,「や、やっぱりいいわ！　なんでもない。それより……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_072
-686,27,14,「そ、そう……じゃなくて、二人きりかはわからないでしょ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_073
-687,27,14,「先の話だけど……こういうところは家族で来るのも定番、って感じがするし……子供と一緒にとか」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_074
-688,27,14,「見て！　……って、とっくに見てるわよね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_075
-689,27,14,「こんな光景、見ないでいる方が無理だもん」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_076
-690,27,14,「うん……空が降ってくるみたい」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_077
-691,27,14,「夜なのに空が明るくて……こんなの見てたら、わからなくなっちゃいそう」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_078
-692,27,14,「私がちゃんと現実に立ってるのか、わからなくなっちゃう……ってこと」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_079
-693,27,14,「でも、キレイなだけじゃなくて、ちょっとだけ怖い感じもする……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_080
-694,27,14,「もしもの話だけど……今日、世界が終わるなら……空はきっとこんな色をしてるんじゃないかしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_081
-695,27,14,「ご、ごめん。水を差すようなこと言っちゃったわ！　センスないわね……私」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_082
-696,27,14,「……逆って？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_083
-697,27,14,「そう、ね……私も同じ気持ちよ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_084
-698,27,14,「隣にいるのがあんたで、目に映るのが……こんなに眩しい夜なら」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_085
-699,27,14,「怖いと思うけど……寂しくはないと思うわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_086
-700,27,14,「そういえば、せっかくの流れ星なのにお願いするのを忘れてたわね。何かある？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_087
-701,27,14,「そうね、私も……何も出てこない」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_088
-702,27,14,「こうしてるだけで充分よね？　……あんたと私、二人で」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_089
+177,27,14,「うぅ……えっと、それじゃあ……。ねぇ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_188
+178,27,14,「ひゃうっ！　そ、それは不意打ちよ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_189
+179,27,14,「嫌じゃないけど……うぅ～、呼ぶのも呼ばれるのも、私だけ恥ずかしがってるなんて不公平よ！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_190
+180,27,14,「……今度はいきなり呼んで、絶対恥ずかしがらせてやるんだから！」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_191
+181,27,14,「あっ……お、おはよ……」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_192
+182,27,14,「はぅ！　あ……あ……授業、始まっちゃう……ええと、教室どっちだっけ」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_193
+183,27,14,「……付き合ってくれてありがと」,sound/data/pcm/c27/adv/00.unity3d,adv_ev_27_194
+184,27,14,「あそこのお店じゃない？　ほら、『ホットドッグ』ってのぼりが出てるとこ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_000
+185,27,14,「うーん、お昼には早いと思うけど。もう少し後でも――」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_001
+186,27,14,「うくっ……お、お昼にしましょうか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_002
+187,27,14,「チーズにチリにたまご……どれも美味しそう」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_003
+188,27,14,「この３つまでは絞れたんだけど、そこから先が……。いっそ全部注文しちゃおうかな」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_004
+189,27,14,「あ、いや！　セットメニューじゃなくて単品の話よ？　勘違いしないで」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_005
+190,27,14,「あっ、うぅ……そ、そうよ！　悪い？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_006
+191,27,14,「……あんた、天才？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_007
+192,27,14,「そう、だけど…………さっきみたいに……デート中にお腹なったら……恥ずかしいじゃん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_008
+193,27,14,「は、恥ずかしいけど……背に腹はかえられないわ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_009
+194,27,14,「そうね……暑すぎてこのまま溶けちゃいそうよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_010
+195,27,14,「あっ、猫……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_011
+196,27,14,「何か食いついてくれそうなものは……あっ、猫じゃらし！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_012
+197,27,14,「おーい、おいでー、猫じゃらしよ～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_013
+198,27,14,「わぁ、こっち来た！　かわいい～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_014
+199,27,14,「えいえいっ……ふふっ、今度はこっちよ！　えいえい！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_015
+200,27,14,「上手に捕まえるわね～。それなら、次はこうよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_016
+201,27,14,「はぁ……体質なのか、昔から動物には好かれないのよね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_017
+202,27,14,「猫だけじゃなくて、犬やウサギ、果てはパンダまで……色んな動物から好かれないよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_018
+203,27,14,「な、なんであんたの方に擦り寄って……こ、こっち！　こっちにもおいで～！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_019
+204,27,14,「うぅ～、どうして私はダメなの～！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_020
+205,27,14,「んーっ、一日中遊んだわね。今日も、その……楽しかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_021
+206,27,14,「だ、大丈夫よ。今日は遅くなるかもって伝えてあるし……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_022
+207,27,14,「私と見たいもの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_023
+208,27,14,「ぷっ、何それ？　子どもの遠足じゃないんだから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_024
+209,27,14,「変に意識するからそうなるのよ。それより、別れるまでがデートなんでしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_025
+210,27,14,「……ちゃんと、エスコートしてよね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_026
+211,27,14,「わぁ、綺麗……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_027
+212,27,14,「へぇ、全然知らなかった。私よりあんたの方がこの街に詳しいんじゃない？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_028
+213,27,14,「ふぅん。コイカツ部がちゃんと役に立ってるって実感したの、初めてだわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_029
+214,27,14,「ふふっ、冗談よ冗談。……あんたがコイカツ部を始めなきゃ、私たちは出会ってないんだから。……私にとってはすごく大切な部活よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_030
+215,27,14,「あぅ……なんか、らしくないこと言っちゃった。今のは忘れて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_031
+216,27,14,「ま、待って！　……あんたの中の私って、そういうイメージなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_032
+217,27,14,「……クールビューティー……とまでは言わないけど、学園の中ではカッコいい方かな、と……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_033
+218,27,14,「そ、そこまで笑わなくてもいいでしょ！？　うぅ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_034
+219,27,14,「うぅ……こんなに自分と人とでイメージが違うなんて、思いもしなかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_035
+220,27,14,「ねえ、この際だからはっきりさせたいんだけど、あんたって、私のことどう思ってるの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_036
+221,27,14,「あぅ……そ、そうじゃなくて……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_037
+222,27,14,「ちょ、ちょっとストップ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_038
+223,27,14,「そ、その……答えが一気に返ってきたから、驚いて……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_039
+224,27,14,「っ、真正面からあんなこと言われて、照れないわけないじゃない……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_040
+225,27,14,「ど、どうしてあんたは平気でそういうこと言えるの？　恥ずかしく、ないの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_041
+226,27,14,「……でも、それがあんたの本心、なんでしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_042
+227,27,14,「私も……好きよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_043
+228,27,14,「んっ……んんっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_044
+229,27,14,「思ってても口にしないでよ……あんたの顔、まともに見れないじゃない……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_045
+230,27,14,「そう、だけど……んんっ、ん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_046
+231,27,14,「……っ、不意打ちは……卑怯よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_047
+232,27,14,「こ、ここでするつもり？　誰かが来ちゃうかも……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_048
+233,27,14,「そ、それってつまり……エッチ、したいってことよね……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_049
+234,27,14,「こんな、誰か来そうなところで……でも、あんたが望むなら……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_050
+235,27,14,「……ぅ、ダメじゃ……ないけど…………す、少し緊張してるから、その……優しく、してよね？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_051
+236,27,14,「……いつ来ても、ここは素敵ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_052
+237,27,14,「また、あんたはそういうこと言って……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_053
+238,27,14,「……別に、嫌とは言ってないわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_054
+239,27,14,「あんたが心からそう思ってるってことは、ちゃんと分かってるつもりよ。だって私は……あんたの、恋人だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_055
+240,27,14,「うぅ、あんたに当てられて、私まで恥ずかしいこと口にしちゃったじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_056
+241,27,14,「……デートスポットの魔力？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_057
+242,27,14,「魔力じゃなくて、あんたの性欲でしょう！？　ていうか、今思い出させないでよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_058
+243,27,14,「それは……そう、だけど……うぅ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_059
+244,27,14,「普通今の流れで誘う！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_060
+245,27,14,「あんた、本当に馬鹿じゃないの……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_061
+246,27,14,「……冗談じゃなくて、本気でシタいの？　我慢、できないわけ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_062
+247,27,14,「っ……あ～、もう……仕方ないわね。ちょっとの間、だけよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_063
+248,27,14,「……うん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_064
+249,27,14,「ちょ、ちょっと待って」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_065
+250,27,14,「手……ちゃんと繋いで」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_066
+251,27,14,「うんっ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_067
+252,27,14,「そ、そうね…………へっくしゅ……うぅ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_068
+253,27,14,「はぁ、そんなことしたら、歩きにくくてしょうがないでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_069
+254,27,14,「……人に見られたら恥ずかしいから、少しだけよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_070
+255,27,14,「定番中の定番よね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_071
+256,27,14,「別に気にしないわ。それより……はぐれないように、手……繋いで」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_072
+257,27,14,「そ、そこまで強く握らなくてもいいけど……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_073
+258,27,14,「大丈夫よ。ここのアトラクションなら乗れないものはないわ。……たぶん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_074
+259,27,14,「別に心配しなくても、無茶とか強がり言ったりしないわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_075
+260,27,14,「いいわよ。さっそく並びましょう」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_076
+261,27,14,「……た、高いわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_077
+262,27,14,「こ、コースターの振動のせいよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_078
+263,27,14,「へっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_079
+264,27,14,「ひゃぁぁぁぁぁぁぁぁ！！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_080
+265,27,14,「ほ、ほんのちょっと怖かったけど……でも、面白かったわ！　ねえ、次は何に乗る？　早く行きましょう！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_081
+266,27,14,「食後だし、ゆったり出来るものがいいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_082
+267,27,14,「……二人して吐く地獄絵図が見たいわけ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_083
+268,27,14,「いいアトラクションでもあった？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_084
+269,27,14,「なに？　って、なんだ。ゲームセンターじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_085
+270,27,14,「確かにどのゲームも年季が入ってるわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_086
+271,27,14,「いいけど、ちゃんと動くか心配だわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_087
+272,27,14,「それもそうね。じゃあ、クレーンゲームで勝負しましょ。先にあのぬいぐるみを取った方が勝ちよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_088
+273,27,14,「うぐっ……そうだけど」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_089
+274,27,14,「すごい！　本当に１回だけで取っちゃった！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_090
+275,27,14,「ありがとう。ふふっ、大切にするわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_091
+276,27,14,「ねぇ、次はあれ取ってよ！　あんたならまた１回だけで取れるでしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_092
+277,27,14,「色々見て回れたわね……って、もうこんな時間！？　経つのが早いわ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_093
+278,27,14,「うん、大丈夫よ。そういえば、まだ乗ってなかったわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_094
+279,27,14,「ん……楽しみだわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_095
+280,27,14,「……そうね。また、二人で来る機会はあるものね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_096
+281,27,14,「最後にお店に寄ってもいい？　家族にお土産を買っていきたいの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_097
+282,27,14,「……観覧車に乗るのって、随分久しぶりな気がするわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_098
+283,27,14,「小さい頃に１回か２回乗って、それっきりね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_099
+284,27,14,「あんまり覚えてないけど、当時の私にとっては他のアトラクションの方が魅力的だったのかも」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_100
+285,27,14,「そうかもね。じっとしてるの得意じゃなかったし」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_101
+286,27,14,「ううん、充分楽しいわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_102
+287,27,14,「綺麗……やっぱり高い所から見る景色っていいわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_103
+288,27,14,「なんで小さい頃は好きじゃなかったんだろ。本当に不思議だわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_104
+289,27,14,「うぐっ……その可能性は否定できないわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_105
+290,27,14,「でも、今の私は観覧車が好きだし、魅力……カップルに人気の理由も分かったつもりよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_106
+291,27,14,「へ？　い、言わなきゃダメなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_107
+292,27,14,「そ、そういうことなら……えっと……あんたと……恋人と二人きりになれるところ、とか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_108
+293,27,14,「……付き合い始めてから気づいたけど、外で完全に二人きりになれる所って案外少なくて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_109
+294,27,14,「そんな数少ない場所が、綺麗な夜景を見れて、ちょっと非日常的な気分を味わえるところだから……カップルに人気があるんだろうなって」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_110
+295,27,14,「うぅ、コイカツ部のためだから言ったけど、普通は口にするものじゃないでしょ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_111
+296,27,14,「……今は景色を見てたいの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_112
+297,27,14,「なに――んんっ、ん…………」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_113
+298,27,14,「っ……い、いきなりしないでよ……心の準備、出来てないんだから……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_114
+299,27,14,「なんで？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_115
+300,27,14,「……あんたって、意外とそういうの信じるタイプだったのね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_116
+301,27,14,「ダメではないけど……ムードがないじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_117
+302,27,14,「だから……もう一回、ちゃんとして」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_118
+303,27,14,「んんっ……っ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_119
+304,27,14,「……３０点。しっかりしなさいよ、コイカツ部の部長でしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_120
+305,27,14,「私だって、こういうシチュエーションには憧れてたもの。厳しくなるのは当然よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_121
+306,27,14,「だから……下に着く前に、ちゃんと１００点取ってよね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_122
+307,27,14,「ん……大丈夫、平気よ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_123
+308,27,14,「いらないわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_124
+309,27,14,「遊び疲れて寝るなんて、そんな子どもみたいなこと私はしないってば」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_125
+310,27,14,「うっ……ち、違うわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_126
+311,27,14,「…………変な理屈考えるのが上手いんだから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_127
+312,27,14,「それじゃあ……ちょっと肩、貸して」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_128
+313,27,14,「ん、ありがと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_129
+314,27,14,「うん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_130
+315,27,14,「待って、その鼻歌はなに？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_131
+316,27,14,「突っ込みどころが多すぎるでしょ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_132
+317,27,14,「よく分からないチョイスもそうだし、彼女に子守唄を歌うってどうなのよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_133
+318,27,14,「はぁ、それは余計なお世話。私は……あんたが肩を貸してくれただけで充分なの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_134
+319,27,14,「だから、しばらくこのままでいさせて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_135
+320,27,14,「……うん。そうね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_136
+321,27,14,「その感覚ちょっと分かるわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_137
+322,27,14,「もう、嫌な言い方しないでよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_138
+323,27,14,「周りの子ども以上に惜しがってるわね、あんた」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_139
+324,27,14,「それは胸を張って言うことじゃないわよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_140
+325,27,14,「ちょ、さすがに近づきすぎよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_141
+326,27,14,「あ、あんたの……どんどん大きくなってるんだけど」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_142
+327,27,14,「嘘でしょ……どんな方法でもいいから、小さくしてよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_143
+328,27,14,「へっ……ま、まさか、この状況でするつもりなの……！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_144
+329,27,14,「……あんた、なんでここを大きくしてるわけ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_145
+330,27,14,「我慢できなくなると、どうなるの？　こんな状況で、射精しちゃう？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_146
+331,27,14,「ふふっ……じゃあ、ちょっと見せてよ、射精するところ。どのみち小さくしなきゃイケないしね♪」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_147
+332,27,14,「うぅ、ケダモノ。誰にも気づかれないからよかったけど……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_148
+333,27,14,「当たり前のことを言わないでよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_149
+334,27,14,「確信をもって言うけど、私が触らなかったら、あんたは股間を押し付けておっぱじめてたわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_150
+335,27,14,「男子とカラオケなんて……初めてだわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_151
+336,27,14,「誘われたら付き合うけど、自分からはあんまり」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_152
+337,27,14,「……私、音痴だし」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_153
+338,27,14,「フリじゃないわよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_154
+339,27,14,「ん……歌うこと自体は好きだから、大丈夫」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_155
+340,27,14,「でも、流行りの歌とか、あんまりよく知らないわよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_156
+341,27,14,「私からなの！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_157
+342,27,14,「……じゃあ、覚悟を決めるわ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_158
+343,27,14,「ん～、やっぱり大きな声で歌うとスッキリするわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_159
+344,27,14,「あれ？　あんた、次の曲入れてないけど歌わないの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_160
+345,27,14,「うーん……このミニピザがいいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_161
+346,27,14,「こういうの頼んでると、自分が歌ってるときに限って、店員さんが運んで来ない？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_162
+347,27,14,「うっ、自分のことじゃないのに顔が赤くなってきた……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_163
+348,27,14,「ふふ、策士ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_164
+349,27,14,「……それなら、普通の言葉の代わりに歌で会話するのはどうかしら？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_165
+350,27,14,「話す側が今の気持ちを綴った歌を歌って、受け取った方はアンサーソングになる歌を歌って……それを繰り返していくの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_166
+351,27,14,「イメージに合う曲は中々ないかもしれないけど、面白うそうじゃない？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_167
+352,27,14,「今入れたら途中で店員さんが来ちゃうわよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_168
+353,27,14,「んーっ、歌った歌った～。……あっ、そろそろ時間ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_169
+354,27,14,「いいわよ。それじゃ、今日はとことん歌いましょうか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_170
+355,27,14,「うんっ。ふふっ、いいストレス解消になったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_171
+356,27,14,「私？　ん～……それじゃあ、あの曲を入れよっと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_172
+357,27,14,「ととと、隣の部屋で……っち……してた……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_173
+358,27,14,「あ、ああいうのって……普通の、ことなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_174
+359,27,14,「ラブっ……うぅ、何かすごく衝撃的だわ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_175
+360,27,14,「むりむり！　隣で……シテるのに……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_176
+361,27,14,「へっ……嘘でしょ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_177
+362,27,14,「うぅ～、何ですごく真剣な目をするのよ……冗談じゃないって、分かっちゃう……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_178
+363,27,14,「で、でも……人が来るかもしれないのに……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_179
+364,27,14,「……ついさっき、部屋を間違えたんだけど」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_180
+365,27,14,「うぅ……仕方……ないわね。少し……ほんの少しの間だけ、だからね？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_181
+366,27,14,「あと……優しくしてよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_182
+367,27,14,「……ふぅ、さすがに喉が疲れてきたわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_183
+368,27,14,「でも、まだ時間あるわよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_184
+369,27,14,「少し休んでから何曲か歌えば、いい時間になるとは思うけど……あんたに任せるわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_185
+370,27,14,「……歌は、充分歌ったわ。ただ、もう少し……あんたと、いたかったの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_186
+371,27,14,「あっ……んんっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_187
+372,27,14,「ずっと……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_188
+373,27,14,「……それは、あんたがしたいことでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_189
+374,27,14,「正直に言えばいいもんじゃないけど……今回だけ、特別よ……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_190
+375,27,14,「ん……そうね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_191
+376,27,14,「ちゃんとケアしなきゃダメよ？　はい、のど飴」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_192
+377,27,14,「うぅ、けっこう大きな声、出しちゃってた気がする……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_193
+378,27,14,「うん……あっ、ちょっと待って！　部屋に消臭スプレーをかけておかないと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_194
+379,27,14,「……したことバレたら、もうここのカラオケこれない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_195
+380,27,14,「そうなの！？　どうどう、面白かった？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_196
+381,27,14,「うんうん！　わかるわ～。私もドキドキするイベントの連続で、ずっとときめいてたもん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_197
+382,27,14,「誰が結ばれるのか考えて、夜眠れないこともあったわね～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_198
+383,27,14,「ちなみに何巻まで読んだの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_199
+384,27,14,「次の話までモヤモヤするところね～」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_200
+385,27,14,「ふふ、たっぷり味わいなさい。でも、ネタバレだけは注意するのよ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_201
+386,27,14,「あんたも少女漫画の魅力に気づいたようね！　うーん、何がいいかしら……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_202
+387,27,14,「ドラマや映画化されたものは外した方がいい？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_203
+388,27,14,「うーん、そうなるとすぐには絞れないわね……今度、オススメ作品のリストをまとめておくわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_204
+389,27,14,「アイスティーを注文してたけど、あんたはコーヒーより紅茶派なの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_205
+390,27,14,「私も一緒。だから、どっちが好きかって話で盛り上がってると、疎外感があるのよね……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_206
+391,27,14,「どっちの派閥にも飲み込まれてそうな勢力ね、それ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_207
+392,27,14,「そもそも、厳密な違いってあるの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_208
+393,27,14,「そのままよ。私は大人だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_209
+394,27,14,「うぐっ……別にそんなことないわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_210
+395,27,14,「ちょ、何その信じてない目！　無理して飲んだことなんてないってば！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_211
+396,27,14,「砂糖とミルクを入れるわ。……子どもっぽいかもしれないけど、好きなんだもん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_212
+397,27,14,「っ……そ、そうよね。無理する方がカッコ悪いわよね！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_213
+398,27,14,「私は違うわよ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_214
+399,27,14,「やっぱり料理は見た目も大切よね～。それじゃあ、いただきます」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_215
+400,27,14,「はむっ……ん～～っ！　幸せ～♪」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_216
+401,27,14,「そりゃすっごく美味しいもん。ん～、甘酸っぱいイチゴとソフトクリームの相性は最高ね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_217
+402,27,14,「でも、ミルフィーユって食べにくいのよね。パフェと迷ったけど、やっぱり食べやすい方がいいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_218
+403,27,14,「……あんたも一口食べてみる？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_219
+404,27,14,「えっと……は、はい、あーん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_220
+405,27,14,「あぅ、どういたしまして……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_221
+406,27,14,「これはチョコモカブラウニーよ。コーヒーが入ってるから甘さ控えめで、ちょっと大人な味がするの」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_222
+407,27,14,「私みたいに、あんまり甘いのが好きじゃない人も楽しめるビターなスイーツね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_223
+408,27,14,「いいわよ。ちょっとお皿を貸して」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_224
+409,27,14,「……し、しなきゃダメ？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_225
+410,27,14,「うっ、食べさせるまで口を開けたままにするつもりね……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_226a
+411,27,14,「じゃあ、えっと……あーん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_226b
+412,27,14,「あーんなんて……すごくバカップルみたいじゃない」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_227
+413,27,14,「実際美味しいわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_228
+414,27,14,「そうね。評判もいいみたい」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_229
+415,27,14,「……私に食べさせて欲しいだけでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_230
+416,27,14,「ダメじゃないけど……こういうことしてるの、私たちしかいないじゃん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_231
+417,27,14,「うん……他のお客さんは普通にしてて、私たちだけ、その……ベタベタしてるというか」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_232
+418,27,14,「ふ、普通じゃないわよ！　デートだから距離感が近いだけ！」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_233
+419,27,14,「……だから、ダメとは言ってないわよ。口、開けて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_234
+420,27,14,「ん、どうぞ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_235
+421,27,14,「……人前でするのは、やっぱり恥ずかしいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_236
+422,27,14,「そうね。今日は贅沢な時間の使い方をした気がするわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_237
+423,27,14,「ううん。長居しすぎたし、そろそろ出ましょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_238
+424,27,14,「あっ……えっと、ありがと」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_239
+425,27,14,「ん……私の方こそ、ありがとう」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_240
+426,27,14,「……寂しくなるのは、当たり前よ。だって……それだけ、好きなんだから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_241
+427,27,14,「……大丈夫よ。時間も、他のことも……うん、大丈夫」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_242
+428,27,14,「……あんた、すごくエッチな顔してる」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_243
+429,27,14,「謝る必要はないわ……その、私も……同じ気分だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_244
+430,27,14,「どこ、行くの……？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_245
+431,27,14,「……うん」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_246
+432,27,14,「っ……なんで、ほっぺなの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_247
+433,27,14,「うん……また、学園でね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_248
+434,27,14,「ごめんっ！　私、遅れちゃった！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_249
+435,27,14,「っ、エスパー！？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_250
+436,27,14,「む……あんたの方が早く来てる。なんか悔しい」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_251
+437,27,14,「初めて来ただけど……案外、綺麗なのね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_252
+438,27,14,「受付のとき、随分手馴れた気がするけど……調べてたの？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_253
+439,27,14,「……聞かなくても、返事は決まってるから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_254
+440,27,14,「んぁっ……んぅ、んん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_255
+441,27,14,「っ……い、いきなりは、ビックリするから……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_256
+442,27,14,「……そう、だけど。もっと優しく、感じさせて？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_257
+443,27,14,「……もしかして、そのモデルの役を私たちに？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_258
+444,27,14,「興味は、あるかも。滅多に体験できないことだと思うし……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_259
+445,27,14,「私、初めて来たわ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_260
+446,27,14,「まさか、こんな所でウェディングドレスを着る機会がくるなんて、思いもしなかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_261
+447,27,14,「……結婚前にウェディングドレスを着ると婚期が遅れるって話、本当だと思う？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_262
+448,27,14,「ふえっ……も、もしかして、私とけっこ――」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_263
+449,27,14,「う、うん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_264
+450,27,14,「あぅ……あ、ありがと……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_265
+451,27,14,「……はい、誓います」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_266
+452,27,14,「あ、あんたも……カッコイイわよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_267
+453,27,14,「……普段から思ってても、あんまり口にするものじゃないでしょ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_268
+454,27,14,「……ごめん。あんたを不安にさせてるなんて、思わなかった」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_269
+455,27,14,「えっと……じゃあ、その……上手くまとめられないかもしれないけど、ちゃんと私の気持ちを伝えるから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_270
+456,27,14,「……初めは緊張してて、無愛想気味だった私に優しく接してくれたこと、すごく嬉しかった」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_271
+457,27,14,「慣れない環境でへんてこな部活をまかされたのに、学園生活を一所懸命頑張っててすごいなって思った」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_272
+458,27,14,「一緒に過ごしていくうちに、ちょっとエッチで、いつも明るいあんたの事を知って――好きになった」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_273
+459,27,14,「恥ずかしくて中々言えないけど……いつもカッコイイ彼氏だって思ってるわ。だから、これからも私の彼氏でいてください」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_274
+460,27,14,「んんっ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_275
+461,27,14,「っ……ん……大好きよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_276
+462,27,14,「……なんだか一気に夢から覚めた気分」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_277
+463,27,14,「ウェディングドレス１つで、こんなにも心が躍るなんて思わなかったわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_278
+464,27,14,「うん……幸せな気持ちで満たされて、本当に魔法にかけられたみたい」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_279
+465,27,14,「……そういえば、デート中だったわね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_280
+466,27,14,「はい、誓います」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_281
+467,27,14,「……緊張してる？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_282
+468,27,14,「自然体で大丈夫よ。いつも通りのあんたが、一番素敵だから」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_283
+469,27,14,「あんたが隣にいるから、私は平気よ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_284
+470,27,14,「キスの前に、ちょっとだけいい？」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_285
+471,27,14,「……ありがとう。私を好きになってくれて、愛してくれて――結婚してくれて」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_286
+472,27,14,「恥ずかしがったりして、なかなか素直になれずに面倒な思いをいっぱいさせちゃったと思う」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_287
+473,27,14,「それでも今日までずっと傍にいてくれたこと、本当に、本当に涙が出そうなくらい嬉しいわ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_288
+474,27,14,「あんたの隣はすごく心地いいから、つい甘えちゃうかもしれないけど……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_289
+475,27,14,「パートナーとして、ずっとあんたを――ううん、あなたのことを支えていきます。これからもよろしくお願いします」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_290
+476,27,14,「ん、ん……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_291
+477,27,14,「ありがとう……大好きよ」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_292
+478,27,14,「ふふっ、こぼれそうじゃなくて、っ、こぼれてるわよ……」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_293
+479,27,14,「ねぇ……これからも、ずっと……二人で幸せを築いていこうね」,sound/data/pcm/c27/adv/20.unity3d,adv_luv_27_294
+480,27,14,「おはよっ。よく寝てたわね～、あんた」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_000
+481,27,14,「んふふ、あんたはじっとしてればいいのよ……」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_001
+482,27,14,「あんたはそのまま、リラックスしていいわよ。私が勝手に動くから」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_002
+483,27,14,「ふふっ、私の腰使いで、あんたをヨガらせてあげる」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_003
+484,27,14,「ふふっ、私の前でだらしない姿を見せるなんて……いい度胸ね」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_004
+485,27,14,「抵抗してもムダムダ、あんたの弱いところはお見通しよ。すぐにイカせちゃうんだから♪」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_005
+486,27,14,「ふふっ……あんた寝言で、おっぱいがだーい好き、って言ってたわよ」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_006
+487,27,14,「そんなにおっぱいが好きなら……もっとぎゅーっとしてあげるわね」,sound/data/pcm/c27/adv/00.unity3d,adv_spev_27_007
+488,27,14,「んふふ、あんたはじっとしてればいいのよ……」,sound/data/pcm/c27/adv/00.unity3d,com_ev_27_461_02
+489,27,14,「ふふっ、私の前でだらしない姿を見せるなんて……いい度胸ね」,sound/data/pcm/c27/adv/00.unity3d,com_ev_27_464_00
+490,27,14,「抵抗してもムダムダ、あんたの弱いところはお見通しよ。すぐにイカせちゃうんだから♪」,sound/data/pcm/c27/h/00_00.unity3d,h_hh_27_02_022
+491,27,14,「そんなにおっぱいが好きなら……もっとぎゅーっとしてあげるわね」,sound/data/pcm/c27/h/00_00.unity3d,h_hh_27_02_047
+492,27,14,「あんたはそのまま、リラックスしていいわよ。私が勝手に動くから」,sound/data/pcm/c27/h/00_00.unity3d,h_ka_27_02_012
+493,27,14,「ふふっ、私の腰使いで、あんたをヨガらせてあげる」,sound/data/pcm/c27/h/00_00.unity3d,h_ka_27_03_023
+494,27,14,「……あんたがしたいなら、私はそれでいいわよ」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_main_27_000
+495,27,14,「えっと、３人でってことよね？　……普通じゃ味わえない刺激がありそうだし、私はいいわよ」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_main_27_001
+496,27,14,「悪くはなかったわ。うん、機会があれば、またしましょ」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_main_27_002
+497,27,14,「ふ、二人がしてるの見てたら、我慢できなくなって……その、私も入れてくれない？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_sub_27_000
+498,27,14,「よかった……任せて、混ざるからにはきっちりこなしてみせるから」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_sub_27_001
+499,27,14,「我まま聞いてくれて、ありがと。えっと……また、３人でできると嬉しい、かも」,sound/data/pcm/c27/adv/20.unity3d,h_rn_nor_sub_27_002
+500,27,14,「ひゃっ……！？　えっ、えっ？　あ、なんで、あんた……ふぇっ……？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_000
+501,27,14,「い、いきなり出てきて、エッチしたい、なんて……」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_001
+502,27,14,「……ぅ、恥ずかしさより、興奮が勝っちゃってる……いい、わよ。エッチ、しましょう」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_002
+503,27,14,「何？　見てるだけじゃ我慢できなくなったわけ？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_003
+504,27,14,「……いい、わよ。一人でするの、少し寂しかったから……ちゃんと、感じさせてよね？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_004
+505,27,14,「んぅ……な、なに？　もっと近くで……私のオナニー、見たいの？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_ona_27_005
+506,27,14,「ふぇっ！？　ど、どうしてあんたが……？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_main_27_000
+507,27,14,「ドキドキしたけど……うん、意外といいものね」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_main_27_001
+508,27,14,「も、もしかして……ずっと見てたわけ？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_sub_27_000
+509,27,14,「私も、いいわ。……ちゃんと、二人とも気持ちよくさせてよ？」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_sub_27_001
+510,27,14,「二人を相手にして……すごい性欲よね」,sound/data/pcm/c27/adv/20.unity3d,h_rn_res_sub_27_002
+511,27,14,「へぇ、ここでエステ体験が出来るのね、オイルもあるわ」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_000
+512,27,14,「そうね……どうせタダなんだし、って、もしかしてあんたが塗る気……？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_001
+513,27,14,「そ、そうだけど……うぅ……へ、変なとこ触ったら承知しないんだからね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_002
+514,27,14,「そ、そうね…………ねぇ……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_003
+515,27,14,「オイル、いっぱいあるんだし……折角なら、ま、前も塗ってほしいかなー、なんて……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_004
+516,27,14,「あ、あんただからお願いしてるのよ……ほら、好きに塗りなさいよ……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_005
+517,27,14,「あ、ありがと……綺麗に、塗ってくれて……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_006
+518,27,14,「ま、まぁまぁだったわよ、うん……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_007
+519,27,14,「ふぅ……まぁ、次もお願いね？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_008
+520,27,14,「ちょっと、何しにここに来たのよ……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_009
+521,27,14,「はぁ……あんたに塗られるの、ほんと気持ちいいわぁ……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_010
+522,27,14,「よかったわよ……また、塗って頂戴ね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_011
+523,27,14,「また来ましょ？　もちろん、あんたが塗るのよ？」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_012
+524,27,14,「あ……ま、まぁ、次来た時に塗ってくれればいいから……」,sound/data/pcm/c27/adv/00.unity3d,sun_es_27_013
+525,27,14,「なっ！？　す、すす好きって、私を……？　」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_000
+526,27,14,「ふ、ふーん？　まぁ、あんたがどーーしてもって言うなら、考えてあげなくもないわよ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_001
+527,27,14,「――っ、し、仕方ないわね、そんなに私が好きなら、つ、付き合ってあげるわっ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_002
+528,27,14,「ちょっと……急に黙って、どうしちゃったの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_003
+529,27,14,「あんた、もしかして……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_004
+530,27,14,「私と一緒にいるのが……退屈なわけ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_005
+531,27,14,「でも……私が声をかけた時、なんかビクってしてたでしょ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_006
+532,27,14,「私と一緒にいたくないから……態度に出てたんじゃないの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_007
+533,27,14,「……言いにくいことなの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_008
+534,27,14,「私が何か悪いことしたわけ！？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_009
+535,27,14,「何よ、人のこと不安にさせておいて。全然おかしくなんてないわよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_010
+536,27,14,「……気負うって？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_011
+537,27,14,「……私とのこと、そんな風に思ってたの？　わ、私は、あんたとのこと、それなりに……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_012
+538,27,14,「そりゃあね、私は変に意地を張っちゃうようなところがあるし、伝わり辛かったかもしれないけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_013
+539,27,14,「っ……なによ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_014
+540,27,14,「…………あ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_015
+541,27,14,「そ、そう……なの？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_016
+542,27,14,「本当っ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_017
+543,27,14,「あ、あれ？　うそっ、私に告白しようとしてたのに邪魔しちゃってたの！？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_018
+544,27,14,「だから、あんなにしょんぼりしてたのね。出鼻を挫かれたとか……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_019
+545,27,14,「うぅぅぅーーーー」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_020
+546,27,14,「ただの自己嫌悪よ！　ひとりで勝手に勘違いして傷ついて……バカみたいじゃない」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_021
+547,27,14,「な、何よ……好きって言うならフォローしてくれてもいいでしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_022
+548,27,14,「う、うん、いいわ。嬉し……じゃなくて、ううん、ないことはないわね……ああもう、頭こんがらがってきた！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_023
+549,27,14,「と、とにかく……私のこと、ちゃんと幸せにしてよね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_024
+550,27,14,「乙女的には同じようなものなの！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_025
+551,27,14,「…………うん」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_026
+552,27,14,「ま、まぁ、捉え方によっては、そういう事にも……ごにょごにょ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_027
+553,27,14,「っ！　じゃ、じゃぁ、これから私達はこ、恋人同士って事だから……その、末永く、よろしく……ね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_028
+554,27,14,「なっ！？　急に何言い出すのよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_029
+555,27,14,「え、エッチって……その、せ、セックスの事、よね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_030
+556,27,14,「うぅ……し、仕方ないわね……あんたにだけ、特別……だからね……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_031
+557,27,14,「あぁ……ついにこの時が来たのね……覚悟は、出来ているわ……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_032
+558,27,14,「大げさですって！？　好きな人と初めて身体を重ねるのよ！？　一大イベントなのよ！？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_033
+559,27,14,「あ……は、はい……優しく、お願いします……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_034
+560,27,14,「私は先に出てるからね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_035
+561,27,14,「……だって、い、一緒に部屋出るとこなんて見られたら、恥ずかしいじゃない……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_036
+562,27,14,「……で？　二人きりになったわけだけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_037
+563,27,14,「う……わ、わかってるわよ……私だって、期待してたんだから……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_038
+564,27,14,「ほ、ほら、わかってるんだから、あんたのしたいこと……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_039
+565,27,14,「早く来なさいよ、ほら……私は、いつでもいいから……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_040
+566,27,14,「んー……これなんてどうかしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_041
+567,27,14,「へ、変かしら……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_042
+568,27,14,「で、でしょ？　可愛いでしょう？　ふふっ、買っちゃおうかしら……♪」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_043
+569,27,14,「不思議よね、１つの滝に過ぎないのに、ずっと見ていたくなるわ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_044
+570,27,14,「……あんたと一緒に見ているからかしら」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_045
+571,27,14,「べ、別に……ほら、もう少し見ていくわよっ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_046
+572,27,14,「灯台、か……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_047
+573,27,14,「いえ……ぽつんと一人ぼっちで建っているのを見て、昔の私を思い出して、ね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_048
+574,27,14,「………………うん」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_049
+575,27,14,「次来たときはどんなモノが入荷してるのかしらね……楽しみだわ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_050
+576,27,14,「また来たいわね。……その時も、二人で……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_051
+577,27,14,「これからも、ああいう景色を二人で見ていきましょ……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_052
+578,27,14,「何しようかしらねぇ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_053
+579,27,14,「え、あ、あんたと一緒に？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_054
+580,27,14,「そ、そうよね……べ、別に気後れてるわけじゃないからね！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_055
+581,27,14,「そうね、二人で出来そうなものってあるかしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_056
+582,27,14,「……結構密着するのね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_057
+583,27,14,「べ、別に嫌って訳じゃないから……ほら、やってみましょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_058
+584,27,14,「っと……なかなか難しそうね、これ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_059
+585,27,14,「だ、ダメよ……私だって、あんたの役に立ちたいんだから……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_060
+586,27,14,「ふん……ま、まあ、また気が向いたら遊んであげてもいいわよ……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_061
+587,27,14,「次も遊びましょ。……ふ、二人で、ね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_062
+588,27,14,「私、上手に出来たかしら……？　また、遊んでくれる……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_063
+589,27,14,「そ、そうかしら？　まぁ、このくらいなら余裕で作れるわ！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_064
+590,27,14,「う、随分細かいけど……み、見てなさい……！」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_065
+591,27,14,「三線の音色って、ほんと気持ちが落ち着くわね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_066
+592,27,14,「のんびりとした、こういった雰囲気にピッタリなのよね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_067
+593,27,14,「……よしっと……私の手にかかればこんなものね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_068
+594,27,14,「でしょ？　ま、私の可愛さには敵わないでしょうけどね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_069
+595,27,14,「っ、そ、そこはツッコむ所でしょ、もぉ……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_070
+596,27,14,「つ、次はもっと上手に染めてやるんだから……っ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_071
+597,27,14,「ほんと、あの音色は定期的に聞きたくなるわね……また来ましょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_072
+598,27,14,「ふふっ、また二人の思い出の品が増えちゃうわね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_073
+599,27,14,「甘いものの中でも、やっぱり砂糖を使ったものが多いみたいね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_074
+600,27,14,「ぐ……で、でも、私はこのくらいの甘さでも平気よ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_075
+601,27,14,「つ、ついでだし、頼んじゃっても…………お願い……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_076
+602,27,14,「こういう所で出る食事って、旅先ではちょっと安心するわよね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_077
+603,27,14,「そこから味がある程度想像つくから、というのもあるわね」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_078
+604,27,14,「えぇ。っと、冷めないうちに頂きましょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_079
+605,27,14,「あ……そ、そうね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_080
+606,27,14,「な、何でもないわよ、ただ……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_081
+607,27,14,「その、いつか私の手料理であんたに『美味しい』って言わせたいなって……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_082
+608,27,14,「ふぅ、ごちそうさま……また食べたくなったら来ましょ」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_083
+609,27,14,「ごちそうさま。次来た時は何を食べようかしらね？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_084
+610,27,14,「また食べに来ましょ？　もちろん、二人でに決まってるじゃない？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_085
+611,27,14,「ねぇ、いる……かしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_086
+612,27,14,「お、お邪魔するわね……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_087
+613,27,14,「ほ、ほら、恋人が来てあげたのよ？　……する事くらい、わかるでしょ……？」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_088
+614,27,14,「……いない、か……どこ行ったのかしら……」,sound/data/pcm/c27/adv/00.unity3d,sun_ev_27_089
+615,27,14,「す、好きにしたらいいじゃない……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_000
+616,27,14,「……あんたって意外とそういうところがあるのね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_001
+617,27,14,「こ、こういうことよ！　浮ついてるっていうか……その……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_002
+618,27,14,「そ、そう！　だいたいそういう感じ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_003
+619,27,14,「……ちょっとは」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_004
+620,27,14,「悪いところよ！　人間の自分勝手さという本質が出ちゃってるわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_005
+621,27,14,「慎み深さは大切よ。私はそういうとこちゃんとしてるの」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_006
+622,27,14,「そ、それは……また別の話。残したりしたら、もったいないし……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_007
+623,27,14,「う、うん……サッとね？　サッとよ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_008
+624,27,14,「ほ、ほら、何してるの？　一緒に飲まないとダメでしょ？　あと、写真も撮るから……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_009
+625,27,14,「こういう所……あんまり馴染みがないかも」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_010
+626,27,14,「そうよね。そういう意味では、物語の中にでも入り込んだ気分かも」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_011
+627,27,14,「……猫？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_012
+628,27,14,「ふふっ、いいわね。登場するのは私と……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_013
+629,27,14,「あ、あんたが私の飼い主なんて……それはちょっと思い上がりすぎよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_014
+630,27,14,「い、今も隙を突いて……私のこと膝に乗せたり、頭を撫でたりしようと企んでるんでしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_015
+631,27,14,「……全然思ってないの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_016
+632,27,14,「ふ、ふーん、そう……あんたはそんな風に思ってるんだ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_017
+633,27,14,「あ、あんたになら、その……そういうことされても……いいけど？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_018
+634,27,14,「……周りに誰もいないなら……いい、わよ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_019
+635,27,14,「さあ、いつでもいいわよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_020
+636,27,14,「あんたが勝負しようって言ったんでしょ？　真剣勝負、受けて立つわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_021
+637,27,14,「いくわよ！　それじゃあ、古今東西……甘いものっ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_022
+638,27,14,「やった！　私の勝ちね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_023
+639,27,14,「ところで、勝ったら何かいいことあるの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_024
+640,27,14,「……言われてみればそうね。あーあ、決めておけばよかった」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_025
+641,27,14,「ほ、本当にいいのね？　そ、それじゃ……えぇと、どうしよう……？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_026
+642,27,14,「そんなこと、言えるわけないじゃない！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_027
+643,27,14,「あ、これ……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_028
+644,27,14,「有名でしょ？　どこへ行ってきたか一目でわかるから、これがいいかなって」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_029
+645,27,14,「なに？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_030
+646,27,14,「へぇ、知らなかったわ。そんなありがたいお菓子だったのね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_031
+647,27,14,「わぁ、お宝だぁ～……とか？　貴重だったなら、喜ぶんじゃない」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_032
+648,27,14,「どうして？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_033
+649,27,14,「それは偏見が過ぎるでしょ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_034
+650,27,14,「…………わあ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_035
+651,27,14,「海よ。見渡す限りひたすら海しかないけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_036
+652,27,14,「こういう風景って素敵だなぁ、って眺めてたの」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_037
+653,27,14,「……あんた、感受性が死んでるの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_038
+654,27,14,「恋人と二人で浜辺を散歩してるのよ？　もうちょっとムードを作る努力をしなさいよ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_039
+655,27,14,「こっちだって、その…………期待、してるんだから」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_040
+656,27,14,「な、なによ？　ふざけてるの？　私は……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_041
+657,27,14,「ぅ……や、やればできるじゃない」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_042
+658,27,14,「私だって、恥ずかしいわよ……だけど、それを楽しむのが、恋人でしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_043
+659,27,14,「……うん」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_044
+660,27,14,「あ、あんたがそう言うなら……しょうがないわね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_045
+661,27,14,「ちょっと……近すぎじゃない？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_046
+662,27,14,「そうね……確かに正論だわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_047
+663,27,14,「で、でも……顔をマジマジと見なくても……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_048
+664,27,14,「何も言ってない！　踊りに集中しなさいよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_049
+665,27,14,「ぁ……いや……悪いのは、私で……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_050
+666,27,14,「こうして、あんたと踊るのが恥ずかしくなっちゃって……ごめんなさい」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_051
+667,27,14,「そ、そんなことない！　私は照れて変なことを言っちゃうこともあるけど……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_052
+668,27,14,「あんたが傍にいてくれて……嫌なんてことは、絶対にないから……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_053
+669,27,14,「……だから、これからも……色んなことに誘ってほしいわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_054
+670,27,14,「う、うん……断る理由なんてないわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_055
+671,27,14,「私も鳴らす相手は……あんたとしか、考えられないし……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_056
+672,27,14,「や、やっぱり待って！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_057
+673,27,14,「心変わりは絶対しないから！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_058
+674,27,14,「そうじゃなくて……その……あんたは、本当に私が相手で……いいの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_059
+675,27,14,「……自分でも分かってるけど……私は面倒くさいでしょ？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_060
+676,27,14,「そんな私と……鐘を鳴らして、あんたは後悔しない？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_061
+677,27,14,「そんなことって……私にとっては大事なことよ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_062
+678,27,14,「本当に……？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_063
+679,27,14,「……うん。うんっ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_064
+680,27,14,「ねぇ、見て？　あっちの方に変なのがいたわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_065
+681,27,14,「他に説明のしようがないんだもの。魚の種類とかちっとも詳しくないし」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_066
+682,27,14,「あっ！　あそこにも変なの！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_067
+683,27,14,「土地柄かしら？　珍しい魚がたくさんいるわね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_068
+684,27,14,「と言っても、水族館とかに行き慣れてるわけじゃないんだけど」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_069
+685,27,14,「……あんたは落ち着いてるみたいだけど、こ、こういう所は行き慣れてたりするの？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_070
+686,27,14,「たとえば、私以外の……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_071
+687,27,14,「や、やっぱりいいわ！　なんでもない。それより……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_072
+688,27,14,「そ、そう……じゃなくて、二人きりかはわからないでしょ！」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_073
+689,27,14,「先の話だけど……こういうところは家族で来るのも定番、って感じがするし……子供と一緒にとか」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_074
+690,27,14,「見て！　……って、とっくに見てるわよね」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_075
+691,27,14,「こんな光景、見ないでいる方が無理だもん」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_076
+692,27,14,「うん……空が降ってくるみたい」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_077
+693,27,14,「夜なのに空が明るくて……こんなの見てたら、わからなくなっちゃいそう」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_078
+694,27,14,「私がちゃんと現実に立ってるのか、わからなくなっちゃう……ってこと」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_079
+695,27,14,「でも、キレイなだけじゃなくて、ちょっとだけ怖い感じもする……」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_080
+696,27,14,「もしもの話だけど……今日、世界が終わるなら……空はきっとこんな色をしてるんじゃないかしら？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_081
+697,27,14,「ご、ごめん。水を差すようなこと言っちゃったわ！　センスないわね……私」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_082
+698,27,14,「……逆って？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_083
+699,27,14,「そう、ね……私も同じ気持ちよ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_084
+700,27,14,「隣にいるのがあんたで、目に映るのが……こんなに眩しい夜なら」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_085
+701,27,14,「怖いと思うけど……寂しくはないと思うわ」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_086
+702,27,14,「そういえば、せっかくの流れ星なのにお願いするのを忘れてたわね。何かある？」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_087
+703,27,14,「そうね、私も……何も出てこない」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_088
+704,27,14,「こうしてるだけで充分よね？　……あんたと私、二人で」,sound/data/pcm/c27/adv/00.unity3d,sun_lv_27_089
