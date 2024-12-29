@@ -1,0 +1,8 @@
+<manifest schema-ver="1">
+	<guid>kk-kks-studio-voice-add.Mod</guid>
+	<name>KK_KKS_Studio-Voice-Add</name>
+	<version>1.0.0</version>
+	<author>kkvc</author>
+	<description>[KK_KKS] スタジオボイスに本編の音声データを追加する。</description>
+	<website></website>
+</manifest>
