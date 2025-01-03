@@ -2,10 +2,13 @@
 
 - **コイカツ！音声MODについて** [コイカツ！MODスレ避難所（音声MOD等）](http://jbbs.shitaraba.net/game/61301/)
 
-**概要**
+** 概要 **
 - コイカツ！音声MODを導入するとスタジオのボイスに使用できる音声データが追加されます。追加した音声リストと同じものがここにあります。
 
-**リスト**
+** キャラスタジオ音声MODチュートリアル **
+[![【コイカツのキャラスタジオ】でキャラが喋る！Timeline＋音声MODの神機能！AIで声優ボイスを再現！ボイス付きのシーンが作れる！【チュートリアル】]](https://www.youtube.com/watch?v=Aw6TAnGvwCw)
+
+** リスト **
 
 c00(セクシー)
 - [カテゴリー](/abdata/studio/info/studio-voice-add1.0.0/VoiceCategory_00_00.csv)
