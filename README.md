@@ -9,6 +9,7 @@
 [![【コイカツのキャラスタジオ】でキャラが喋る！Timeline＋音声MODの神機能！AIで声優ボイスを再現！ボイス付きのシーンが作れる！【チュートリアル】](https://github.com/user-attachments/assets/9f6396b1-35fa-4822-90d7-27bb9bb046ba)](https://www.youtube.com/watch?v=Aw6TAnGvwCw)
 
 ** 対応音声 **
+
 ||販売状況|販売終了|販売終了|販売終了|販売終了|販売終了|販売中|||
 |ID|性格|コイカツ！|"コイカツ！ダークネス|
 |（エモーションクリエイターズ予約特典）|
