@@ -7,6 +7,7 @@
 
 ** キャラスタジオ音声MODチュートリアル **
 [![【コイカツのキャラスタジオ】でキャラが喋る！Timeline＋音声MODの神機能！AIで声優ボイスを再現！ボイス付きのシーンが作れる！【チュートリアル】](https://github.com/user-attachments/assets/9f6396b1-35fa-4822-90d7-27bb9bb046ba)](https://www.youtube.com/watch?v=Aw6TAnGvwCw)
+[![続コイカツのキャラスタジオでキャラが【好きなセリフを自由に喋る！】外部音声読込＋声優ボイスをAIで音声合成！KK_ExternalVoiceEditor-SBV2！【チュートリアル】](https://github.com/user-attachments/assets/f3fc991b-cb15-4457-a0d6-3efbbfa5528f)](https://www.youtube.com/watch?v=ALe0UQZ2Yis)
 
 ** 音声対応表 **
 - コイカツ！とコイカツ！サンシャインは別ゲームです。（同じ性格が存在するだけです。）
