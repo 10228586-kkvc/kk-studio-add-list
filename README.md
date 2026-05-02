@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # kk-studio-add-list
 
 - **コイカツ！音声MODについて** [コイカツ！MODスレ避難所（音声MOD等）](http://jbbs.shitaraba.net/game/61301/)
@@ -3337,6 +3336,3 @@ c43(ノリノリ)
 - [H３Ｐ奉仕淫乱](/abdata/studio/info/studio-voice-add1.0.0/Voice_43_57_00.csv)
 - [H３Ｐ挿入淫乱](/abdata/studio/info/studio-voice-add1.0.0/Voice_43_58_00.csv)
 
-
-
->>>>>>> 6c7790f9d18b8b6430a21657ca164d2b7a6541a8
